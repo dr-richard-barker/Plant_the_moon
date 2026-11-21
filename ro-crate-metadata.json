@@ -70,6 +70,9 @@
           "@id": "manuscript/ptm_manuscript.typ"
         },
         {
+          "@id": "manuscript/references.bib"
+        },
+        {
           "@id": "book/_static/manuscript/Plant_the_Moon_Meta_Analysis.pdf"
         },
         {
@@ -216,16 +219,24 @@
       "@type": "TextFile",
       "name": "ptm_manuscript.typ",
       "description": "Typst source for CoSE synthesis manuscript",
-      "contentSize": 9840,
-      "sha256": "03df872f2ea27887fbfa29d7bb01ae86827379f275e6c27b9dc7dd1ef3078c77"
+      "contentSize": 44332,
+      "sha256": "d657a054b1f837e0ef702e20cc3df03152092b00dfcf2e0757fea748811ab771"
+    },
+    {
+      "@id": "manuscript/references.bib",
+      "@type": "TextFile",
+      "name": "references.bib",
+      "description": "Verified BibTeX bibliography for CoSE synthesis manuscript",
+      "contentSize": 4007,
+      "sha256": "b9f322efa500494fb297db7eb546225095d76b1d55f477779f69deb484c6caa4"
     },
     {
       "@id": "book/_static/manuscript/Plant_the_Moon_Meta_Analysis.pdf",
       "@type": "File",
       "name": "Plant_the_Moon_Meta_Analysis.pdf",
       "description": "Compiled CoSE synthesis manuscript PDF",
-      "contentSize": 1124617,
-      "sha256": "b46876390db7f2744e21a437cef10c28331d7ebe0ae6f2a59e095ac5752abbe4"
+      "contentSize": 1381141,
+      "sha256": "92b2ceae943ed6b25b0c7664007bc3d548dc9054d36ab8287114715fb32ff488"
     },
     {
       "@id": "book/notebooks/01_corpus_eda.ipynb",

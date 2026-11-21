@@ -3,10 +3,15 @@
   "total_pdf_reports": 187,
   "total_pages": 2710,
   "total_tables": 1206,
+  "total_chars": 3425506,
+  "digital_text_pdfs": 185,
+  "scanned_pdfs": 2,
   "total_arms": 581,
   "total_treatment_arms": 376,
+  "scored_treatment_arms": 128,
   "n_states": 13,
   "ncbitaxon_mapped": 173,
+  "ncbitaxon_pct": 92.5,
   "earth_ctrl_pct": 71.7,
   "reg_ctrl_pct": 38.0,
   "stat_test_pct": 15.0,
@@ -16,38 +21,261 @@
     "both": 6,
     "unspecified": 2
   },
+  "season_breakdown": [
+    {
+      "order": 1,
+      "season": "Spring 2021",
+      "total_awards": 16,
+      "pdf_reports": 16,
+      "main_pdfs": 11,
+      "junior_pdfs": 5,
+      "meta_only": 0
+    },
+    {
+      "order": 2,
+      "season": "Summer 2021",
+      "total_awards": 9,
+      "pdf_reports": 9,
+      "main_pdfs": 5,
+      "junior_pdfs": 4,
+      "meta_only": 0
+    },
+    {
+      "order": 3,
+      "season": "Fall 2021",
+      "total_awards": 15,
+      "pdf_reports": 15,
+      "main_pdfs": 7,
+      "junior_pdfs": 8,
+      "meta_only": 0
+    },
+    {
+      "order": 4,
+      "season": "Spring 2022",
+      "total_awards": 16,
+      "pdf_reports": 16,
+      "main_pdfs": 8,
+      "junior_pdfs": 8,
+      "meta_only": 0
+    },
+    {
+      "order": 5,
+      "season": "Fall 2022",
+      "total_awards": 15,
+      "pdf_reports": 15,
+      "main_pdfs": 7,
+      "junior_pdfs": 8,
+      "meta_only": 0
+    },
+    {
+      "order": 6,
+      "season": "Spring 2023",
+      "total_awards": 57,
+      "pdf_reports": 16,
+      "main_pdfs": 8,
+      "junior_pdfs": 8,
+      "meta_only": 41
+    },
+    {
+      "order": 7,
+      "season": "Fall 2023",
+      "total_awards": 16,
+      "pdf_reports": 16,
+      "main_pdfs": 8,
+      "junior_pdfs": 8,
+      "meta_only": 0
+    },
+    {
+      "order": 8,
+      "season": "Spring 2024",
+      "total_awards": 57,
+      "pdf_reports": 16,
+      "main_pdfs": 8,
+      "junior_pdfs": 8,
+      "meta_only": 41
+    },
+    {
+      "order": 9,
+      "season": "Fall 2024",
+      "total_awards": 18,
+      "pdf_reports": 18,
+      "main_pdfs": 10,
+      "junior_pdfs": 8,
+      "meta_only": 0
+    },
+    {
+      "order": 10,
+      "season": "Spring 2025",
+      "total_awards": 59,
+      "pdf_reports": 18,
+      "main_pdfs": 10,
+      "junior_pdfs": 8,
+      "meta_only": 41
+    },
+    {
+      "order": 11,
+      "season": "Fall 2025",
+      "total_awards": 23,
+      "pdf_reports": 16,
+      "main_pdfs": 8,
+      "junior_pdfs": 8,
+      "meta_only": 7
+    },
+    {
+      "order": 12,
+      "season": "Spring 2026",
+      "total_awards": 23,
+      "pdf_reports": 16,
+      "main_pdfs": 8,
+      "junior_pdfs": 8,
+      "meta_only": 7
+    }
+  ],
+  "division_rigor": [
+    {
+      "division": "High School",
+      "n_pdfs": 52,
+      "mean_pages": 14.1,
+      "mean_tables": 7.3,
+      "earth_ctrl_pct": 73.1,
+      "reg_ctrl_pct": 42.3,
+      "stat_test_pct": 15.4
+    },
+    {
+      "division": "Middle School",
+      "n_pdfs": 48,
+      "mean_pages": 11.8,
+      "mean_tables": 5.4,
+      "earth_ctrl_pct": 66.7,
+      "reg_ctrl_pct": 25.0,
+      "stat_test_pct": 0.0
+    },
+    {
+      "division": "Professional / University",
+      "n_pdfs": 46,
+      "mean_pages": 23.3,
+      "mean_tables": 8.8,
+      "earth_ctrl_pct": 73.9,
+      "reg_ctrl_pct": 45.7,
+      "stat_test_pct": 41.3
+    },
+    {
+      "division": "Elementary School",
+      "n_pdfs": 41,
+      "mean_pages": 8.4,
+      "mean_tables": 3.9,
+      "earth_ctrl_pct": 73.2,
+      "reg_ctrl_pct": 39.0,
+      "stat_test_pct": 2.4
+    }
+  ],
   "top_crops": [
     {
       "crop": "radish",
-      "count": 34
+      "scientific": "Raphanus sativus",
+      "ncbitaxon": "NCBITaxon:3726",
+      "guild": "root",
+      "count": 34,
+      "pct": 18.2
     },
     {
       "crop": "green bean",
-      "count": 19
+      "scientific": "Phaseolus vulgaris",
+      "ncbitaxon": "NCBITaxon:3885",
+      "guild": "legume",
+      "count": 19,
+      "pct": 10.2
     },
     {
       "crop": "spinach",
-      "count": 16
+      "scientific": "Spinacia oleracea",
+      "ncbitaxon": "NCBITaxon:3562",
+      "guild": "leafy green",
+      "count": 16,
+      "pct": 8.6
     },
     {
       "crop": "lettuce",
-      "count": 14
+      "scientific": "Lactuca sativa",
+      "ncbitaxon": "NCBITaxon:4236",
+      "guild": "leafy green",
+      "count": 14,
+      "pct": 7.5
     },
     {
       "crop": "pea",
-      "count": 12
+      "scientific": "Pisum sativum",
+      "ncbitaxon": "NCBITaxon:3888",
+      "guild": "mixed",
+      "count": 12,
+      "pct": 6.4
     },
     {
       "crop": "sunflower",
-      "count": 9
-    },
-    {
-      "crop": "tomato",
-      "count": 8
+      "scientific": "Helianthus annuus",
+      "ncbitaxon": "NCBITaxon:4232",
+      "guild": "mixed",
+      "count": 9,
+      "pct": 4.8
     },
     {
       "crop": "microgreens",
-      "count": 8
+      "scientific": "\u2014",
+      "ncbitaxon": "\u2014",
+      "guild": "microgreen",
+      "count": 8,
+      "pct": 4.3
+    },
+    {
+      "crop": "tomato",
+      "scientific": "Solanum lycopersicum",
+      "ncbitaxon": "NCBITaxon:4081",
+      "guild": "mixed",
+      "count": 8,
+      "pct": 4.3
+    },
+    {
+      "crop": "arugula",
+      "scientific": "Eruca vesicaria",
+      "ncbitaxon": "NCBITaxon:3721",
+      "guild": "leafy green",
+      "count": 7,
+      "pct": 3.7
+    },
+    {
+      "crop": "collard greens",
+      "scientific": "Brassica oleracea",
+      "ncbitaxon": "NCBITaxon:3712",
+      "guild": "leafy green",
+      "count": 7,
+      "pct": 3.7
+    }
+  ],
+  "simulant_breakdown": [
+    {
+      "simulant": "unspecified",
+      "count": 145,
+      "pct": 77.5
+    },
+    {
+      "simulant": "LHS-1",
+      "count": 19,
+      "pct": 10.2
+    },
+    {
+      "simulant": "MGS-1",
+      "count": 14,
+      "pct": 7.5
+    },
+    {
+      "simulant": "exolith unspecified",
+      "count": 8,
+      "pct": 4.3
+    },
+    {
+      "simulant": "MMS-1",
+      "count": 1,
+      "pct": 0.5
     }
   ],
   "amendment_outcomes": [
@@ -55,6 +283,7 @@
       "category": "microbial mycorrhizal",
       "n_arms": 25,
       "n_improved": 23,
+      "n_reduced": 2,
       "improved_pct": 92.0,
       "ci_low": 75.0,
       "ci_high": 97.8
@@ -63,6 +292,7 @@
       "category": "organic compost manure",
       "n_arms": 25,
       "n_improved": 20,
+      "n_reduced": 5,
       "improved_pct": 80.0,
       "ci_low": 60.9,
       "ci_high": 91.1
@@ -71,6 +301,7 @@
       "category": "coir peat perlite substrate",
       "n_arms": 22,
       "n_improved": 17,
+      "n_reduced": 4,
       "improved_pct": 77.3,
       "ci_low": 56.6,
       "ci_high": 89.9
@@ -79,6 +310,7 @@
       "category": "vermicompost aquaculture",
       "n_arms": 10,
       "n_improved": 10,
+      "n_reduced": 0,
       "improved_pct": 100.0,
       "ci_low": 72.2,
       "ci_high": 100.0
@@ -87,6 +319,7 @@
       "category": "other",
       "n_arms": 10,
       "n_improved": 8,
+      "n_reduced": 2,
       "improved_pct": 80.0,
       "ci_low": 49.0,
       "ci_high": 94.3
@@ -95,6 +328,7 @@
       "category": "synthetic fertilizer hydroponic",
       "n_arms": 10,
       "n_improved": 8,
+      "n_reduced": 2,
       "improved_pct": 80.0,
       "ci_low": 49.0,
       "ci_high": 94.3
@@ -103,6 +337,7 @@
       "category": "nano fertilizer mineral",
       "n_arms": 10,
       "n_improved": 6,
+      "n_reduced": 4,
       "improved_pct": 60.0,
       "ci_low": 31.3,
       "ci_high": 83.2
@@ -111,6 +346,7 @@
       "category": "plant extract waste",
       "n_arms": 5,
       "n_improved": 5,
+      "n_reduced": 0,
       "improved_pct": 100.0,
       "ci_low": 56.6,
       "ci_high": 100.0
@@ -119,6 +355,7 @@
       "category": "biochar carbon",
       "n_arms": 4,
       "n_improved": 3,
+      "n_reduced": 1,
       "improved_pct": 75.0,
       "ci_low": 30.1,
       "ci_high": 95.4
@@ -127,9 +364,19 @@
       "category": "light spectrum env",
       "n_arms": 4,
       "n_improved": 3,
+      "n_reduced": 1,
       "improved_pct": 75.0,
       "ci_low": 30.1,
       "ci_high": 95.4
+    },
+    {
+      "category": "hydrogel alginate polymer",
+      "n_arms": 3,
+      "n_improved": 3,
+      "n_reduced": 0,
+      "improved_pct": 100.0,
+      "ci_low": 43.8,
+      "ci_high": 100.0
     }
   ],
   "top_bottlenecks": [
@@ -172,6 +419,85 @@
       "bottleneck": "root restriction",
       "count": 37,
       "pct": 19.8
+    },
+    {
+      "bottleneck": "germination failure",
+      "count": 15,
+      "pct": 8.0
+    }
+  ],
+  "exemplar_studies": [
+    {
+      "team": "EPCC Team Artemis",
+      "division": "Professional / University",
+      "category": "Innovation",
+      "target": "lunar",
+      "crop": "tomato",
+      "title": "Evaluation of Banana Peel Nano-Fertilizer for Food Crops in Lunar Regolith Simulant during Post-germination Growth ",
+      "sha256_prefix": "8c5934acd3"
+    },
+    {
+      "team": "MCST Biotech 1",
+      "division": "High School",
+      "category": "Innovation",
+      "target": "lunar",
+      "crop": "lettuce",
+      "title": "Sphere Encapsulated Lunar Soil Seed Germination: A Comparative Study of Sodium Alginate Spherification Techniques a",
+      "sha256_prefix": "aa0f1dde4e"
+    },
+    {
+      "team": "Smells fishy1!",
+      "division": "High School",
+      "category": "Plant Growth",
+      "target": "lunar",
+      "crop": "spinach",
+      "title": "Growing Baby Spinach (Spinacia oleracea) Using Simulated Lunar Regolith, Aquaculture Waste Products, and Hydrogel",
+      "sha256_prefix": "94a6862f50"
+    },
+    {
+      "team": "Team Planteers",
+      "division": "Professional / University",
+      "category": "Plant Growth",
+      "target": "martian",
+      "crop": "lettuce",
+      "title": "The Effects of the Wavelength of Light on the Growth of Lettuce (Lactuca sativa) Cultivated in Martian Regolith",
+      "sha256_prefix": "0ae787c4ac"
+    },
+    {
+      "team": "Team Shonik",
+      "division": "High School",
+      "category": "Experimental Design",
+      "target": "lunar",
+      "crop": "radish",
+      "title": "Effect of Microbial Necromass Deactivation Method on Radish Growth in Lunar Regolith Simulant",
+      "sha256_prefix": "4cace74ec9"
+    },
+    {
+      "team": "Team Voyager",
+      "division": "Professional / University",
+      "category": "Evaluation of Results",
+      "target": "lunar",
+      "crop": "lettuce",
+      "title": "Effects of Chihuahuan Desert soil microbial communities on early lettuce establishment in lunar regolith simulant.",
+      "sha256_prefix": "638aac4922"
+    },
+    {
+      "team": "Team W.A.W.A.",
+      "division": "High School",
+      "category": "Evaluation of Results",
+      "target": "martian",
+      "crop": "green bean",
+      "title": "The Observation and Effects of Varied Amounts of Synthetic and Organic Fertilizers on Green Bean Growth",
+      "sha256_prefix": "dfd60b0f6c"
+    },
+    {
+      "team": "The Marshroomers",
+      "division": "Professional / University",
+      "category": "Experimental Design",
+      "target": "martian",
+      "crop": "oyster mushroom",
+      "title": "Cultivation of Pleurotus ostreatus in Martian Regolith Simulant (MGS-1) for Dual-Purpose Food and Construction Appl",
+      "sha256_prefix": "af39e32e56"
     }
   ],
   "ml": {

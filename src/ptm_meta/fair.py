@@ -37,6 +37,7 @@ def build_ro_crate(repo_root: Path) -> Path:
         ("data/processed/cose_ptm_explorer.json", "Dataset", "Interactive CoSE GitPage explorer JSON bundle"),
         ("data/processed/ontology_mappings.json", "Dataset", "FAIR ontology crosswalks (NCBITaxon, ENVO, AGRO, Exolith)"),
         ("manuscript/ptm_manuscript.typ", "TextFile", "Typst source for CoSE synthesis manuscript"),
+        ("manuscript/references.bib", "TextFile", "Verified BibTeX bibliography for CoSE synthesis manuscript"),
         ("book/_static/manuscript/Plant_the_Moon_Meta_Analysis.pdf", "File", "Compiled CoSE synthesis manuscript PDF"),
         ("book/notebooks/01_corpus_eda.ipynb", "File", "Corpus provenance & scientometric EDA notebook"),
         ("book/notebooks/02_unsupervised_clustering.ipynb", "File", "Unsupervised NLP & experimental archetype clustering notebook"),
