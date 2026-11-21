@@ -1,0 +1,297 @@
+{
+  "report_id": "fall22-junior-team-tigernauts-ef9788",
+  "sha256": "37770bafff7eca65eab222d7df09eb612dadd562c916c7c53694ecb26753a498",
+  "page_count": 29,
+  "total_chars": 7088,
+  "avg_chars_per_page": 244.4,
+  "total_images": 107,
+  "table_count": 3,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Tigernauts \n Team# 10729 \n Elementary Division Category \n EXPERIMENTAL PARAMETERS \n We chose to study two parameters for our experiment. \n 1. Our first parameter is whether or not the amount of Earth soil mixed with Regolith will \n affect the growth of our crops. \n 2. The second parameter is to determine if planting two species of plants, where one \n species benefits and the other is unaffected,will have an effect on our crop growth. \n INDEPENDENT VARIABLES \n DEPENDENT VARIABLES \n CONTROLS \n 1. Soil Composition \n 2. Species Composition \n 1. Plant Growth \n 2. Plant Growth \n 1. 100% Earth \n 2. 0 Beans \n PROJECT HYPOTHESIS \n 1. We believe that the more Earth soil mixed with regolith will produce more plant growth \n because soil has been proven to effectively produce crops on Earth. \n 2. We believe that the number of bean seeds added with radish seeds will affect the growth \n of the radishes because beans release nitrogen in their waste and radishes need \n nitrogen to grow. \n EXPERIMENTAL DESIGN AND PROCEDURES \n 1. We chose to experiment with the percentage of soil mixed with regolith because \n we believe that the chances of us having any growth in 100% regolith are slim; \n which would make the cost of sending soil to the moon worth it for NASA. We \n want to see what the minimum amount of soil added to the regolith would be to \n support plant growth. \n a. First, we got (5) 6 inch plastic pots. \n b. Then we used a kitchen scale to measure out 200 grams of Earth soil and \n then decreased the amount of Miracle Gro Potting Mix Earth soil by \u00bc for \n each additional pot, adding regolith for the remaining 4 pots until we \n wound up with a pot of 100% or 200 grams of regolith. \n c. We then planted 5 kidney beans in each pot and set them on a North \n facing window in our STEAM room. \n d. We then watered each pot using 50 ml of water \n 2. For our second parameter we chose to look at whether or not planting two \n species of plants (commensalism), that don\u2019t rely on the same nutrients from the \n soil, will increase the plant growth in a given soil/regolith mix. \n a. First we got (5) 6 inch plastic pots.",
+      "char_count": 2124,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "INDEPENDENT VARIABLES",
+            "DEPENDENT VARIABLES",
+            "CONTROLS"
+          ],
+          [
+            "1. Soil Composition 2. Species Composition",
+            "1. Plant Growth 2. Plant Growth",
+            "1. 100% Earth 2. 0 Beans"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "Tigernauts \n Team# 10729 \n Elementary Division Category \n b. Then we used a kitchen scale to measure out 100 grams of \n Miracle Gro Potting Mix Earth soil and 100 grams of regolith in \n each of the 5 pots. \n c. We then added 5 cherry belle radish seeds into the first pot and \n removed a radish seed and added a kidney bean seed in each of \n the remaining 4 pots and set them on a North facing window in our \n STEAM room. \n d. We then watered each pot using 50 ml of water. \n EXPERIMENTAL CONTINGENCY PLAN \n Our watering schedule will be affected by days off. If that happens we will split the amount of \n water we use in half and use 25 ml of water the day we leave and 25 ml the day after. \n If our seeds fail to germinate after a week we will replant them. \n When we are off from school for a week in November our teachers will come in and water the \n plants. \n GROW POT SETUP \n POT \n 1 A (control) \n 2 A \n 3 A \n 4 A \n 5 A \n SOIL \n 100% \n 75% \n 50% \n 25% \n 0% \n AMENDMENTS \n \u2014 \n 25% REGOLITH \n 50% REGOLITH 75% REGOLITH \n 100% REGOLITH \n CROP \n 5 KIDNEY \n BEANS \n 5 KIDNEY \n BEANS \n 5 KIDNEY \n BEANS \n 5 KIDNEY \n BEANS \n 5 KIDNEY BEANS \n POT \n 1 B (control) \n 2 B \n 3 B \n 4 B \n 5 B \n SOIL \n 50% SOIL \n 50% REGOLITH \n 50% SOIL \n 50% REGOLITH \n 50% SOIL \n 50% REGOLITH \n 50% SOIL \n 50% REGOLITH \n 50% SOIL \n 50% REGOLITH \n AMENDMENTS \n 0 KIDNEY \n BEANS \n 1 KIDNEY BEAN \n 2 KIDNEY \n BEANS \n 3 KIDNEY \n BEANS \n 4 KIDNEY BEANS \n CROP \n 5 CHERRY \n BELLE \n RADISHES \n 4 CHERRY \n BELLE \n RADISHES \n 3 CHERRY \n BELLE \n RADISHES \n 2 CHERRY \n BELLE \n RADISHES \n 1 CHERRY \n BELLE \n RADISHES",
+      "char_count": 1581,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "POT",
+            "1 A (control)",
+            "2 A",
+            "3 A",
+            "4 A",
+            "5 A"
+          ],
+          [
+            "SOIL",
+            "100%",
+            "75%",
+            "50%",
+            "25%",
+            "0%"
+          ],
+          [
+            "AMENDMENTS",
+            "\u2014",
+            "25% REGOLITH",
+            "50% REGOLITH",
+            "75% REGOLITH",
+            "100% REGOLITH"
+          ],
+          [
+            "CROP",
+            "5 KIDNEY BEANS",
+            "5 KIDNEY BEANS",
+            "5 KIDNEY BEANS",
+            "5 KIDNEY BEANS",
+            "5 KIDNEY BEANS"
+          ]
+        ],
+        [
+          [
+            "POT",
+            "1 B (control)",
+            "2 B",
+            "3 B",
+            "4 B",
+            "5 B"
+          ],
+          [
+            "SOIL",
+            "50% SOIL 50% REGOLITH",
+            "50% SOIL 50% REGOLITH",
+            "50% SOIL 50% REGOLITH",
+            "50% SOIL 50% REGOLITH",
+            "50% SOIL 50% REGOLITH"
+          ],
+          [
+            "AMENDMENTS",
+            "0 KIDNEY BEANS",
+            "1 KIDNEY BEAN",
+            "2 KIDNEY BEANS",
+            "3 KIDNEY BEANS",
+            "4 KIDNEY BEANS"
+          ],
+          [
+            "CROP",
+            "5 CHERRY BELLE RADISHES",
+            "4 CHERRY BELLE RADISHES",
+            "3 CHERRY BELLE RADISHES",
+            "2 CHERRY BELLE RADISHES",
+            "1 CHERRY BELLE RADISHES"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "Tigernauts \n Team# 10729 \n Elementary Division Category \n MEASUREMENTS \n We measured: \n \u25cf PH of each pot weekly. \n \u25cf Height of plant and change in growth weekly \n RESULTS \n 1. Our hypothesis was partially correct because our control pot with 100% Earth soil grew \n the most bean crops and reached a height of 47.24cm, however if NASA were to \n replicate this experiment we would suggest using 75%regolith and 25% Earth soil \n because they produced the same number of bean crops and grew to 46.09cm \n comparable results using less Earth soil but required an extra week to catch up to the \n pot with a higher percentage of Earth soil. \n 2. Our hypothesis was incorrect because the number of bean seeds added to the pots with \n cherry belle radishes did not affect the growth of the radishes. We did not have much \n luck growing cherry belle radishes beyond the stage of a sprout. The pot that had 4 \n radish seeds and 1 bean seed sprouted the fastest and grew the tallest radish sprouts at \n 9cm before the radishes withered and died. \n CONCLUSION \n In conclusion we set out to determine whether or not we could grow crops in lunar regolith. \n We looked at two things: whether or not adding Earth soil to lunar regolith would affect growth \n and whether or not commensalism would work when growing crops in lunar regolith. We were \n successful with growing crops in most of our pots. We had the most success growing kidney \n beans. We were not successful growing radishes. We believe many factors may have interfered \n with our experiment. We focused too much on using the same amount of water in every pot that \n we overwatered some pots and underwatered others. We also believe that when the heat kicked \n on in our building we should have adjusted our water amounts instead of constantly watering \n each plant 20 oz each time. We would also choose to put our pots on a North facing window \n that does not have built in blinds and have a window with no slats. If we were to do this \n experiment again we would focus on determining if the amount of water affects the growth of our \n crops or if we could grow crops in 100% lunar regolith and add plant food or nutrients rather \n than Earth soil. Our experiment applies to real life because our resources are depleting on Earth \n and human space travel to the Moon and Mars are fast approaching, if we want to be able to \n sustain life on the Moon and Mars we need to be prepared to grow and harvest our own food \n supply.",
+      "char_count": 2470,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "text": "Tigernauts \n Team# 10729 \n Elementary Division Category",
+      "char_count": 55,
+      "image_count": 3,
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "text": "Frank R. Conwell PS#3\nJersey City, New Jersey\nTeam # 10729\nExperiment 1: How does the percentage of lunar regolith and gardening soil affect \nthe growth of kidney beans?\nExperiment 2: How does the number of bean seeds added with cherry belle radish \nseeds affect the growth of the cherry belle radishes?",
+      "char_count": 303,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "text": "Experiment 1 \nDate 9/30/22",
+      "char_count": 26,
+      "image_count": 5,
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "text": "Experiment 1 \nDate 10/7/22",
+      "char_count": 26,
+      "image_count": 5,
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "text": "Experiment 1 \nDate 10/14/22",
+      "char_count": 27,
+      "image_count": 5,
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "text": "Experiment 1 \nDate 10/21/22",
+      "char_count": 27,
+      "image_count": 5,
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "text": "Experiment 1 \nDate 10/28/22",
+      "char_count": 27,
+      "image_count": 5,
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "text": "Experiment 1 \nDate 11/3/22",
+      "char_count": 26,
+      "image_count": 5,
+      "tables": []
+    },
+    {
+      "page_number": 12,
+      "text": "Experiment 1 \nDate 11/14/22",
+      "char_count": 27,
+      "image_count": 5,
+      "tables": []
+    },
+    {
+      "page_number": 13,
+      "text": "Experiment 1 \nDate 11/18/22",
+      "char_count": 27,
+      "image_count": 5,
+      "tables": []
+    },
+    {
+      "page_number": 14,
+      "text": "Experiment 2 \nDate 9/30/22",
+      "char_count": 26,
+      "image_count": 5,
+      "tables": []
+    },
+    {
+      "page_number": 15,
+      "text": "Experiment 2 \nDate 10/7/22",
+      "char_count": 26,
+      "image_count": 5,
+      "tables": []
+    },
+    {
+      "page_number": 16,
+      "text": "Experiment 2 \nDate 10/14/22",
+      "char_count": 27,
+      "image_count": 5,
+      "tables": []
+    },
+    {
+      "page_number": 17,
+      "text": "Experiment 2 \nDate 10/21/22",
+      "char_count": 27,
+      "image_count": 5,
+      "tables": []
+    },
+    {
+      "page_number": 18,
+      "text": "Experiment 2 \nDate 10/28/22",
+      "char_count": 27,
+      "image_count": 5,
+      "tables": []
+    },
+    {
+      "page_number": 19,
+      "text": "Experiment 2 \nDate 10/28/22",
+      "char_count": 27,
+      "image_count": 5,
+      "tables": []
+    },
+    {
+      "page_number": 20,
+      "text": "Experiment 2 \nDate 11/3/22",
+      "char_count": 26,
+      "image_count": 5,
+      "tables": []
+    },
+    {
+      "page_number": 21,
+      "text": "Experiment 2 \nDate 11/3/22",
+      "char_count": 26,
+      "image_count": 5,
+      "tables": []
+    },
+    {
+      "page_number": 22,
+      "text": "Experiment 2 \nDate 11/14/22",
+      "char_count": 27,
+      "image_count": 5,
+      "tables": []
+    },
+    {
+      "page_number": 23,
+      "text": "Experiment 2 \nDate 11/18/22",
+      "char_count": 27,
+      "image_count": 5,
+      "tables": []
+    },
+    {
+      "page_number": 24,
+      "text": "Date 10/21/22",
+      "char_count": 13,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 25,
+      "text": "Date 10/28/22",
+      "char_count": 13,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 26,
+      "text": "Date 11/3/22",
+      "char_count": 12,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 27,
+      "text": "Date 11/9/22",
+      "char_count": 12,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 28,
+      "text": "Date 11/14/22",
+      "char_count": 13,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 29,
+      "text": "Date 11/18/22",
+      "char_count": 13,
+      "image_count": 2,
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,1231 @@
+{
+  "report_id": "spring25-main-academic-magnet-hs-c75249",
+  "sha256": "49fcb6ce08cbe51996407a048e67b82d713761e330dedbf3bd689df76279e612",
+  "page_count": 45,
+  "total_chars": 64521,
+  "avg_chars_per_page": 1433.8,
+  "total_images": 39,
+  "table_count": 11,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Enhancing Early Plant Growth in Regolith: Evaluation of Germination Methods, Growth \nMedia, Pre-Planting Treatments, and Alternative Watering Techniques \nTeam Name: Academic Magnet \nTeam ID: 20638 \nNeva Aygar, Leah Bagg, Alexandra Eastman, Caitlin Farr, Chloe Hwang, Helina Lloyd, Hannah \nMcLaughlin, Zavier Nutting, Yamil Perez, Yidong Ye, Yiqing Ye, Luke Zheltov \nChallenge Category: High School",
+      "char_count": 397,
+      "image_count": 3,
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "text": "2 \n \n \nTable of Contents \n \nAbstract...................................................................................................................................... 3 \n1. Introduction ............................................................................................................................ 1 \n2. Materials/Methods .................................................................................................................. 4 \n2.1 Materials ........................................................................................................................... 4 \n2.2 Greenhouse design .......................................................................................................... 5 \n2.3 Microbit sensors ............................................................................................................... 5 \n2.4 The Water and Paper Towel Germination Method ............................................................ 7 \n2.5 Gelatin Preparation ........................................................................................................... 8 \n2.6 Growth Medium Preparation ............................................................................................. 8 \n2.7 Planting Procedure ........................................................................................................... 8 \n2.8 Self-watering system ........................................................................................................ 9 \n2.9 Variables, Growth Monitoring, and Data Collection ........................................................... 9 \n3. Results ................................................................................................................................... 9 \n3.1 Comparison of Germination Methods: Paper Towel vs. Water Soaking ............................ 9 \n3.2 Variable Measurements ...................................................................................................12 \n3.3 Comparative Growth Performance Across Growth Media and Germination Stages .........13 \n3.3.1 Comparative Growth Performance Across Growth Media .............................................14 \n3.3.2 Comparative Growth Performance Across Germination Stages ....................................20 \n3.4 Seedling Growth in 100R with Self-Watering System and Pre-Germination .....................24 \n3.5 Confirming 20G as a Viable Growth Medium for Space Agriculture .................................27 \n4. Discussion ............................................................................................................................31 \n4.1 The Impact of Germination Method ..................................................................................32 \n4.2 Developmental Stage at Transplanting Influences Growth ...............................................32 \n4.3 Effects of Media Composition on Plant Development ......................................................33 \n4.4 Benefits of a Self-Watering System .................................................................................33 \n4.5 Limitations of the Current Study .......................................................................................34 \n4.6 Conclusion and Future Directions ....................................................................................34 \n5. Appendices ...........................................................................................................................36 \n6. References ...........................................................................................................................41",
+      "char_count": 3648,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "text": "3 \n \n \nAbstract \nAs long-duration lunar missions and extraterrestrial habitation become increasingly \nfeasible, developing sustainable agricultural systems in resource-limited environments is critical. \nOur research, conducted as part of NASA\u2019s Plant the Moon Challenge, evaluated how different \ngermination stages, planting methods, and soil amendments influence early plant growth in \nsimulated regolith\u2014a substrate characterized by low nutrient content, poor water retention, and \nlimited permeability. We hypothesized that incorporating nutrient-rich Miracle-Gro Garden Soil \nand moisture-retentive gelatin into regolith-based mixtures and transplanting seeds after radicle \nor root hair emergence would enhance early plant growth in regolith-dominant substrates. Six \nbean varieties were tested across six medium types, ranging from 100% regolith to formulated \nblends containing Miracle-Gro and gelatin. Control variables\u2014including light, soil moisture, and \ntemperature\u2014were monitored using a BBC micro:bit consistent conditions without manual data \ncollection. As expected, direct planting into high-regolith media led to poor germination and limited \ngrowth. However, transplanting seeds after paper towel pre-germination consistently improved \nsurvival and early development across all media. The 20G composite mix (50% regolith, 30% \ngarden soil, 20% gelatin) yielded the most consistent success, balancing nutrient enrichment and \nwater retention. In addition, Broad Windsor Fava beans exhibited strong adaptability, even in pure \nregolith. To further promote growth, a passive self-watering system was implemented to provide \nsteady subsurface moisture and improve root development. Our findings highlight a multi-faceted \napproach\u2014targeting pre-plant stage, media optimization, and water delivery\u2014to support early \nplant development in regolith simulants. These insights not only inform space agriculture design \nbut also present potential applications for sustainable farming in arid, nutrient-poor terrestrial \nenvironments. Future research should focus on optimizing gelatin concentrations, assessing plant \nresponses under lunar gravity, and evaluating long-term growth outcomes to strengthen \nextraterrestrial agricultural viability.",
+      "char_count": 2252,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "text": "1. Introduction \nAs humanity prepares for extended space missions and potential lunar habitation, the \ndevelopment of sustainable food production methods in extraterrestrial environments has become \na research priority. NASA\u2019s Artemis Project, which lays the groundwork for future Mars missions, \nhighlights the urgent need for creating closed-loop life support systems (Scheinkman et al., 2024). \nPlants play a pivotal role in these systems\u2014not only as a food source but also by recycling carbon \ndioxide into oxygen, thereby contributing to atmospheric regulation (Shymanovich & Kiss, 2022). \nThe Plant the Moon Challenge supports this initiative by involving students and emerging \nresearchers in experimental research focused on plant cultivation under simulated lunar \nconditions. The regolith simulants used in the challenge are designed to replicate the physical \nand chemical characteristics of lunar soil, which is inherently nutrient-deficient and exhibits poor \nwater retention and aeration. The objective of the challenge is to develop resource-efficient \nstrategies that optimize plant growth in these restrictive conditions\u2014an essential consideration \nfor achieving long-term sustainability in off-Earth environments. \nTo address this, our study explores resource-efficient approaches for promoting early \nseedling development using readily available or replicable materials. We investigated how \nvariations in seed developmental stages and growth media composition affect plant establishment \nin regolith simulants. By focusing on reducing terrestrial soil usage, our media primarily relied on \nregolith simulant supplemented with nutrient-rich additives such as Miracle-Gro Garden Mix and \ngelatin. These amendments were selected to counteract the simulant\u2019s deficiencies in essential \nnutrients\u2014particularly nitrogen\u2014and improve its poor water retention and permeability. \nRegolith poses several barriers to plant cultivation. It is predominantly composed of silicon \ndioxide (SiO\u2082), aluminum oxide (Al\u2082O\u2083), calcium oxide (CaO), and iron oxide (FeO), with SiO\u2082 \nalone comprising approximately 50% of its makeup. According to research by Van Nhan Le, \nelevated SiO\u2082 concentrations significantly inhibit plant growth, resulting in reductions in both \nbiomass and plant height. Furthermore, regolith lacks essential macronutrients such as nitrogen",
+      "char_count": 2361,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "text": "2 \n \n \n(N), phosphorus (P), and potassium (K), and its poor water retention and low permeability \nseverely limit root development (Ming & Henninger, 1994). This led us to conclude that there is a \nnecessity for incorporating nutrient-dense and moisture-retentive amendments to support plant \nviability. \nTo overcome the inherent limitations of nutrient-deficient regolith simulant, we \nincorporated Miracle-Gro Garden Soil, a nutrient-rich substrate formulated to promote healthy \nplant development. This garden soil comprises sphagnum peat moss, perlite, compost, yucca, \nprocessed forest products, coir, and a slow-release fertilizer blend containing polymer-coated \nammonium nitrate, ammonium phosphate, potassium sulfate, and calcium phosphate (marsh, \n2025). Together, these components were able to enhance nutrient availability, improve water \nretention, and support root structure, addressing two of the most significant challenges posed by \nregolith: poor fertility and limited water-holding capacity. \nSpecifically, each component plays a distinct role. Sphagnum peat moss plays a vital role \nin both moisture and nutrient retention (Bengtsson et al., 2020). It sequesters carbon dioxide and \nnutrients, reducing leaching while maintaining soil fertility. Its fibrous structure allows it to absorb \nlarge quantities of water while preserving soil aeration, helping to keep the root zone both moist \nand oxygenated. Perlite further enhances soil aeration and improves nutrient uptake (Ebadollahi \net al., 2019). Its porous nature allows for better oxygen flow around plant roots and supports \nnitrogen absorption and overall root function, indirectly boosting plant growth. Compost, made of \norganic matter, enriches the soil by adding nutrients and improving microbial activity. It enhances \noverall soil structure and fertility, creating a healthier environment for plant development. Yucca, \na drought-tolerant starchy root plant, contributes resilience to the soil mix (Benito et al., 2023). Its \nnatural stress resistance is beneficial in dry or extreme conditions, making it an important \ncomponent when simulating the harsh, arid environment of regolith. Coir, derived from coconut \nfiber, supports water retention, drainage, and air porosity. Its use has been shown to increase the \navailability of secondary nutrients such as calcium, magnesium, sulfur, chlorine, and zinc, as",
+      "char_count": 2393,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "text": "3 \n \n \nreviewed by Vatansever et al. (Vatansever et al., 2017), contributing to healthier, more balanced \nplant development. Finally, the fertilizer blend delivers essential macronutrients. Ammonium \nnitrate and ammonium phosphate supply nitrogen (N), which is critical for chlorophyll production \nand protein synthesis (Song et al., 2025). Ammonium phosphate and calcium phosphate provide \nphosphorus (P), vital for ATP production, DNA synthesis, and root development (Yin et al., 2019). \nPotassium sulfate delivers potassium (K), which enhances photosynthetic activity, enzymatic \nprocesses, and stomatal regulation (Yin et al., 2019). Studies, including those by Preeti Rani and \nothers, indicate that potassium and calcium phosphate treatments can significantly improve \nbiomass and enzymatic regulation under drought stress. \nIn addition to Miracle-Gro Garden Soil, gelatin was used for its potential benefits in water \nmanagement and nitrogen fixation. Wilson et al. (Wilson et al., 2018) found a positive correlation \nbetween gelatin capsule content and plant growth, likely due to gelatin's amino acid profile \nenhancing nitrogen availability. Ming and Henninger (Ming & Henninger, 1994) also emphasized \nthe need to improve \u201cair and fluid movement parameters\u201d in regolith-based systems. In our study, \ngelatin was first dissolved in water and allowed to solidify, then incorporated into the media at \nspecified volume ratios\u2014particularly in regolith-rich mixtures\u2014to mitigate compaction and \nenhance fluid dynamics. \nWe hypothesized that transplanting seeds at a more advanced developmental stage\u2014\nspecifically at radicle emergence or root hair formation\u2014using the paper towel germination \nmethod would significantly improve seedling establishment and early growth, particularly in media \nwith high regolith content. Incorporating Miracle-Gro Garden Soil and gelatin into regolith-based \nmedia, while maintaining a majority regolith composition to reflect realistic lunar resource \nconstraints, would enhance plant growth. Specifically, we anticipated that Miracle-Gro would \nimprove nutrient availability and soil structure, while gelatin, due to its water-retentive and amino \nacid-rich properties, would further increase moisture retention and support faster seedling \ndevelopment under simulated lunar conditions.",
+      "char_count": 2326,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "text": "4 \n \n \nBeans were chosen for this study because of their exceptionally high nutrient content, \nincluding essential minerals such as iron and zinc, protein, and various phytochemical compounds \n(Mullins & Arjmandi, 2021). While beans are not the only plant-based protein source, they are \nunique in providing the essential amino acid lysine, which is often deficient in plant-based diets \nthat do not include beans. In addition to their protein content, beans are also rich in dietary fiber \nand have a lower score on the glycemic index (Messina, 2014). Furthermore, beans have a \nrelatively short life cycle, with harvest maturity reached within 65 days (Clavijo Michelangeli et al., \n2013), making them an ideal candidate for space agriculture experiments where time and \nresource efficiency are critical. \n2. Materials/Methods \n2.1 Materials \nThis study utilized various materials, including growth media such as Lunar Highlands \nSimulant Engineering Grade (LHS-1E), all-purpose garden soil (Miracle-Gro, Home Depot), and \noriginal unflavored gelatin (Knox, Harris Teeter). The seeds used in the experiment included \nBroad Windsor Fava Beans (Isla\u2019s Garden Seed Company, Amazon), Tendergreen Improved \norganic Beans (Ferry-Morse, Home Depot), Kentucky Wonder organic Beans (Ferry-Morse, \nHome Depot), Green Mung Beans (Asian Taste, H & L Asian Market), Burpee\u2019s Stringless Green \nPod Beans (Burpee, Home Depot), and Great Northern Beans (Harris Teeter). Measurement tools \nincluded Microbit sensors; a 4-in-1 soil moisture meter (Yamron, Amazon) for assessing plant \ntemperature, soil moisture, pH, and light intensity; a Compass Series Portable Balance (1200 g \u00d7 \n0.1 g, CX1201, Ohaus); a 100 mL graduated cylinder; and a ruler. \nGrowth Medium",
+      "char_count": 1746,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "text": "5 \n \n \nSeeds \n \n2.2 Greenhouse design \nThe growth setup consisted of a large cardboard box (18 x 18 x 24 inches) lined with \naluminum foil to optimize light reflection and equipped with a T9 9-Inch Circline Fluorescent Lamp \n(3000K warm white) (Lights of America FCL30EX-L 27K, Amazon). The lamp was programmed \nto operate on a 16-hour light and 8-hour dark cycle using a 24-hour indoor plug-in basic \nmechanical timer (Home Depot), mimicking greenhouse conditions. \n \n2.3 Microbit sensors \nTo collect environmental data, we employed the BBC micro:bit, a compact microcontroller \nwith an array of integrated sensors, including a light sensor and temperature sensor. We also \nutilized a kit that came with additional sensors, including a dirt moisture sensor and humidity \nsensor. The micro:bit was programmed using the Microsoft MakeCode editor, which allowed for \nthe development of custom scripts to automate data logging at defined intervals.",
+      "char_count": 945,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "text": "6 \n \n \nThe device was configured to record light levels, temperature, and soil moisture at 60 \nsecond intervals over the course of the experimental period. Data was stored locally on the \nmicro:bit and later extracted via USB connection for further analysis. All sensor data were \ntimestamped to ensure accurate temporal alignment during analysis. \n \nThe micro:bit was selected due to its ease of use, portability, and suitability for real-time \ndata acquisition. Calibration of the onboard sensors was conducted prior to deployment to ensure \naccuracy. The device was secured in a stable position throughout the data collection process to \nminimize extraneous variables. \ndef on_button_pressed_a(): \n Show_Data() \ninput.on_button_pressed(Button.A, on_button_pressed_a) \n \ndef Show_Data(): \n global soil_moisture, air_humidity, air_temp \n datalogger.log(datalogger.create_cv(\"date\", timeanddate.date_time()), \n datalogger.create_cv(\"air temp\", air_temp), \n datalogger.create_cv(\"humidity\", air_humidity), \n datalogger.create_cv(\"soil moisture\", soil_moisture), \n datalogger.create_cv(\"light level\", input.light_level())) \n OLED.clear() \n soil_moisture = Environment.read_soil_humidity(AnalogPin.P1) \n air_humidity = Environment.dht11value(Environment.DHT11Type.DHT11_HUMIDITY, DigitalPin.P2) \n air_temp = Environment.dht11value(Environment.DHT11Type.DHT11_TEMPERATURE_F, DigitalPin.P2) \n OLED.write_string_new_line(\"Air Humidity: \" + str(air_humidity)) \n OLED.write_string_new_line(\"Air Temp: \" + str(air_temp) + \" F\") \n OLED.write_string_new_line(\"Soil Moisture: \" + str(soil_moisture)) \n OLED.write_string_new_line(\"Light Level: \" + str(input.light_level())) \ndef Reset_Table(): \n OLED.clear() \n OLED.write_string_new_line(\"Table Reset: All logs cleared\") \n datalogger.delete_log()",
+      "char_count": 1783,
+      "image_count": 1,
+      "tables": [
+        [
+          [
+            "def on_button_pressed_a():"
+          ],
+          [
+            "Show_Data()"
+          ],
+          [
+            "input.on_button_pressed(Button.A, on_button_pressed_a)"
+          ],
+          [
+            "def Show_Data():"
+          ],
+          [
+            "global soil_moisture, air_humidity, air_temp"
+          ],
+          [
+            "datalogger.log(datalogger.create_cv(\"date\", timeanddate.date_time()),"
+          ],
+          [
+            "datalogger.create_cv(\"air temp\", air_temp),"
+          ],
+          [
+            "datalogger.create_cv(\"humidity\", air_humidity),"
+          ],
+          [
+            "datalogger.create_cv(\"soil moisture\", soil_moisture),"
+          ],
+          [
+            "datalogger.create_cv(\"light level\", input.light_level()))"
+          ],
+          [
+            "OLED.clear()"
+          ],
+          [
+            "soil_moisture = Environment.read_soil_humidity(AnalogPin.P1)"
+          ],
+          [
+            "air_humidity = Environment.dht11value(Environment.DHT11Type.DHT11_HUMIDITY, DigitalPin.P2)"
+          ],
+          [
+            "air_temp = Environment.dht11value(Environment.DHT11Type.DHT11_TEMPERATURE_F, DigitalPin.P2)"
+          ],
+          [
+            "OLED.write_string_new_line(\"Air Humidity: \" + str(air_humidity))"
+          ],
+          [
+            "OLED.write_string_new_line(\"Air Temp: \" + str(air_temp) + \" F\")"
+          ],
+          [
+            "OLED.write_string_new_line(\"Soil Moisture: \" + str(soil_moisture))"
+          ],
+          [
+            "OLED.write_string_new_line(\"Light Level: \" + str(input.light_level()))"
+          ],
+          [
+            "def Reset_Table():"
+          ],
+          [
+            "OLED.clear()"
+          ],
+          [
+            "OLED.write_string_new_line(\"Table Reset: All logs cleared\")"
+          ],
+          [
+            "datalogger.delete_log()"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 10,
+      "text": "7 \n \n \n datalogger.set_column_titles(\"date\", \n \"air temp\", \n \"humidity\", \n \"soil moisture\", \n \"light level\") \nsoil_moisture = 0 \nair_humidity = 0 \nair_temp = 0 \nOLED.init(128, 64) \nOLED.write_string_new_line(\"A to start collecting\") \nOLED.write_string_new_line(\"B to stop collecting\") \nOLED.write_string_new_line(\"A+B to clear data log\") \nReset_Table() \nShow_Data() \n \ndef on_every_interval(): \n global soil_moisture, air_humidity, air_temp \n if True: \n datalogger.log(datalogger.create_cv(\"date\", timeanddate.date_time()), \n datalogger.create_cv(\"air temp\", air_temp), \n datalogger.create_cv(\"humidity\", air_humidity), \n datalogger.create_cv(\"soil moisture\", soil_moisture), \n datalogger.create_cv(\"light level\", input.light_level())) \n soil_moisture = Environment.read_soil_humidity(AnalogPin.P1) \n air_humidity = Environment.dht11value(Environment.DHT11Type.DHT11_HUMIDITY, DigitalPin.P2) \n air_temp = Environment.dht11value(Environment.DHT11Type.DHT11_TEMPERATURE_F, DigitalPin.P2) \nloops.every_interval(60000, on_every_interval) \n \n2.4 The Water and Paper Towel Germination Method \nThe water germination method involves submerging seeds in water to soften the seed \ncoat and accelerate germination, particularly for seeds with hard shells or those requiring rapid \nhydration. In this experiment, seeds were fully submerged in room-temperature water within 10 \ncm Petri dishes and kept in a warm, dark environment. Germination progress was observed every \n24 hours. \nThe paper towel method provides optimal moisture and air circulation while preventing \nwaterlogging. Seeds were wrapped in a damp\u2014but not overly wet\u2014paper towel and placed in 10 \ncm Petri dishes. The dishes were positioned vertically inside a container with a small amount of \nwater, allowing the paper towel to absorb moisture without submerging the seeds. The setup was \nthen kept in a warm, dark environment to promote germination. Seeds were monitored daily.",
+      "char_count": 1933,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "datalogger.set_column_titles(\"date\","
+          ],
+          [
+            "\"air temp\","
+          ],
+          [
+            "\"humidity\","
+          ],
+          [
+            "\"soil moisture\","
+          ],
+          [
+            "\"light level\")"
+          ],
+          [
+            "soil_moisture = 0"
+          ],
+          [
+            "air_humidity = 0"
+          ],
+          [
+            "air_temp = 0"
+          ],
+          [
+            "OLED.init(128, 64)"
+          ],
+          [
+            "OLED.write_string_new_line(\"A to start collecting\")"
+          ],
+          [
+            "OLED.write_string_new_line(\"B to stop collecting\")"
+          ],
+          [
+            "OLED.write_string_new_line(\"A+B to clear data log\")"
+          ],
+          [
+            "Reset_Table()"
+          ],
+          [
+            "Show_Data()"
+          ],
+          [
+            "def on_every_interval():"
+          ],
+          [
+            "global soil_moisture, air_humidity, air_temp"
+          ],
+          [
+            "if True:"
+          ],
+          [
+            "datalogger.log(datalogger.create_cv(\"date\", timeanddate.date_time()),"
+          ],
+          [
+            "datalogger.create_cv(\"air temp\", air_temp),"
+          ],
+          [
+            "datalogger.create_cv(\"humidity\", air_humidity),"
+          ],
+          [
+            "datalogger.create_cv(\"soil moisture\", soil_moisture),"
+          ],
+          [
+            "datalogger.create_cv(\"light level\", input.light_level()))"
+          ],
+          [
+            "soil_moisture = Environment.read_soil_humidity(AnalogPin.P1)"
+          ],
+          [
+            "air_humidity = Environment.dht11value(Environment.DHT11Type.DHT11_HUMIDITY, DigitalPin.P2)"
+          ],
+          [
+            "air_temp = Environment.dht11value(Environment.DHT11Type.DHT11_TEMPERATURE_F, DigitalPin.P2)"
+          ],
+          [
+            "loops.every_interval(60000, on_every_interval)"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 11,
+      "text": "8 \n \n \n \n2.5 Gelatin Preparation \nGelatin was prepared by bringing three cups of water to a boil, sprinkling one ounce of \ngelatin over one cup of water, and allowing it to stand for one minute. The hot water was then \nadded while stirring continuously for five minutes. The mixture was subsequently refrigerated until \nfirm. \n2.6 Growth Medium Preparation \nSix distinct growth media compositions were prepared for this study: 100% garden soil \n(control, 100S); 100% regolith (100R); a 50:50 (v/v) mixture of regolith and garden soil (50SR); a \n50:50 (v/v) mixture of garden soil and gelatin (50SG); a 50:50 (v/v) mixture of regolith and gelatin \n(50G); and a composition consisting of 50% regolith, 30% garden soil, and 20% gelatin (20G). \n2.7 Planting Procedure \nAppropriately sized garden pots with drainage holes were selected, cleaned, and dried. A \nsheet of tissue paper was placed at the bottom of each pot to prevent leakage of the growth \nmedium. Each pot was then filled with its respective growth medium, pressed lightly to \napproximately 60% capacity. Using chopsticks, evenly spaced holes, approximately half an inch \ndeep, were created in each pot. Seeds were planted according to species, with one to four seeds \nper hole. The holes were then covered with the respective growth medium, and the surface was \nleveled. The pots were watered slowly using the graduated cylinder to ensure the seeds were \nfully covered while avoiding over-saturation. They were then transferred to a greenhouse, where \na timer-controlled lighting system maintained a photoperiod of 16 hours of light and 8 hours of \ndarkness.",
+      "char_count": 1618,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 12,
+      "text": "9 \n \n \n2.8 Self-watering system \n \nThe self-watering system was constructed by drilling holes into the lids of Tupperware \ncontainers and threading half-inch-wide cloth strips through both these openings and the drainage \nholes of standard garden pots, effectively linking the pots to the water reservoirs below. The soil \nmedia was added to the pots with the cloth strips positioned to remain exposed at the soil surface, \nensuring upward capillary movement of water. Water was then added to the Tupperware \ncontainers to complete the self-watering system. Throughout the experiment, water levels were \nregularly monitored to maintain consistent contact between the cloth strips and the water, \nensuring uninterrupted moisture delivery. \n \n2.9 Variables, Growth Monitoring, and Data Collection \nPlant growth monitoring took place over a designated period, during which various \nvariables were recorded. These included emergence, plant height, leaf development, leaf size, \nnumber of leaves, and overall plant health. Additionally, soil properties such as pH level, moisture \nretention, temperature, and light intensity were measured for each growth medium. Watering was \ncarefully regulated to maintain consistent soil moisture at approximately 60% across all test \ngroups. \n3. Results \n3.1 Comparison of Germination Methods: Paper Towel vs. Water Soaking \nThe paper towel method demonstrated consistently high germination success across all \ntested bean varieties (Figure 1A). Within 48 hours, germination was observed in Green Mung \nBeans (7/8, 88%), Kentucky Wonder Beans (5/6, 83%), Great Northern Beans (3/6, 50%), and",
+      "char_count": 1624,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 13,
+      "text": "10 \n \n \nTendergreen Improved Beans (3/6, 50%). By 72 hours, complete germination (100%) was \nachieved in Green Mung Beans (8/8), Kentucky Wonder Beans (6/6), Tendergreen Improved \nBeans (6/6), and Broad Windsor Fava Beans (2/2). Additional germination was recorded in \nBurpee\u2019s Stringless Green Pod Beans (5/6, 83%) and Great Northern Beans (4/6, 67%). At this \nstage, radicle emergence was visibly noted in all germinated seeds. \n \nFigure 1. Germination rates and early seedling development of bean seeds using two germination \nmethods. (A) Paper towel method: Germination progression of Green Mung Beans (n = 8), \nKentucky Wonder Beans (n = 6), Tendergreen Improved (n = 6), Great Northern Beans (n = 6), \nBurpee\u2019s Stringless Green Pod Beans (n = 6), and Broad Windsor Fava Beans (n = 2). (B) Water \ngermination method: Germination progression of the same bean varieties and sample sizes. \nGermination was assessed at 48, 72, and 96 hours. (C) and (D) Seedling growth observed on \nDay 7 following 108 hours of germination using the paper towel method (C) and water soaking \nmethod (D).",
+      "char_count": 1087,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 14,
+      "text": "11 \n \n \nBy 96 hours, full germination (100%) was attained in Green Mung Beans, Kentucky \nWonder Beans, Tendergreen Improved Beans, and Broad Windsor Fava Beans. Great Northern \nBeans also reached full germination (6/6) while Burpee\u2019s Stringless Green Pod Bean remained \nat 83% (5/6) (Figure 1B). By 108 hours, root hairs were visible in all successfully germinated \nseeds except Broad Windsor Fava Bean, which exhibited radicle emergence without further root \nhair development. \nIn contrast, the water soaking method yielded significantly lower and more variable \ngermination rates (Figure 1B). At 48 hours, only Green Mung Beans showed appreciable \ngermination (3/8, 38%). By 72 hours, germination was observed in Broad Windsor Fava Beans \n(2/2, 100%) and Green Mung Beans (4/8, 50%), while the other varieties remained mostly \nungerminated. At 96 hours, limited progress was observed in the remaining varieties: Green Mung \nBeans (6/8, 75%), Burpee\u2019s Stringless Green Pod Beans (4/6, 67%), Tendergreen Improved (1/6, \n17%), Kentucky Wonder (1/6, 17%), and Great Northern Beans (1/6, 17%). By 108 hours, only \nradicle emergence was observed and seedling development remained less advanced than that \nseen with the paper towel method, with no visible formation of root hairs. The reduced \neffectiveness of the water soaking method is likely due to hypoxic conditions caused by full \nsubmersion. Oxygen deprivation can inhibit aerobic metabolism, delay enzymatic activation, and \ndisrupt key biochemical processes required for successful germination. \nAfter 108 hours, seeds from both methods were planted into plastic containers with 36 \negg-shaped holes, each with drilled holes at the bottom, filled with garden soil. Significant growth \ndifferences were observable after 7 days (Figure 1C-D). Overall, the paper towel method proved \nsignificantly more effective than the water-based germination approach. All tested seeds \ngerminated within 72 hours using the paper towel technique, while the water method resulted in \ndelayed, inconsistent, and incomplete germination.",
+      "char_count": 2072,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 15,
+      "text": "12 \n \n \n3.2 Variable Measurements \n \nUsing the BBC micro:bit and 4-in-1 Soil Moisture Meter, we measured variables such as \nlight, soil moisture, temperature and pH values. The BBC micro:bit recorded results comparable \nto the 4-in1 Soil Moisture Meter with temperatures ranging from 21\u00b0C to 24\u00b0C degrees celsius, \nwhich is within the optimal range of 20\u00b0C to 25\u00b0C according to De Ron et al. Soil moisture was \nkept consistently between 60% and 80%, light level was consistently around 200 with the values \nfor the light sensor ranging from 0 (dark) to 255 (very bright) using the micro:bit, and pH values \nwere taken using the 4-in-1 Soil Moisture Meter (Figure 2). The micro:bit was the preferred \nmeasurement device due to its passive data collection without the need for manual \nmeasurements. \n \nFigure 2. Daily pH measurements of six growth media over an 8-day period. Media included 100% \nsoil (100S), 100% regolith (100R), 50% soil\u201350% regolith (50SR), 50% regolith\u201330% soil\u201320% \ngelatin (20G), 50% soil\u201350% gelatin (50SG), and 50% regolith\u201350% gelatin (50G). Values are \npresented as mean \u00b1 standard deviation (SD).",
+      "char_count": 1123,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 16,
+      "text": "13 \n \n \n3.3 Comparative Growth Performance Across Growth Media and Germination Stages \nSix distinct growth media were formulated to evaluate their effects on seed germination \nand early seedling development: 100% soil (100S) as a control, 100% regolith (100R), 50% soil\u2013\n50% regolith (50SR), 50% soil\u201350% gelatin (50SG), 50% regolith\u201330% soil\u201320% gelatin (20G), \nand 50% regolith\u201350% gelatin (50G).Five seed varieties\u2014Kentucky Wonder, Green Mung, \nTendergreen Improved, Burpee\u2019s Stringless Green Pod, and Broad Windsor Fava\u2014were planted \non Day 1, following a 24-hour germination period using the water soaking method. Paper towel \ngermination treatments began on Day 3, with Burpee\u2019s Stringless Green Pod Beans planted on \nDay 5 after radicle emergence, and Great Northern Beans planted on Day 8 following root hair \nappearance. To conserve regolith-based material, seeds at different developmental stages were \nplanted into shared containers containing a single growth medium (Figure 3). \n \nFigure 3. Experimental setup in each pot with distinct growth media. \n \nSeedling emergence and early growth varied significantly across plant species, media \ntypes, and developmental stages at the time of planting. Both soil media composition and seed \nphysiological readiness were critical determinants of germination success and early development. \nFor instance, no seedlings developed in either 50G or 50SG, regardless of the germination stage. \nThis failure was likely due to a combination of unfavorable physical and chemical conditions. The \nhigh gelatin content in both media caused excessive water retention and poor aeration, likely \ncreating hypoxic conditions that inhibited root penetration and expansion. Additionally, the slightly",
+      "char_count": 1737,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 17,
+      "text": "14 \n \n \nacidic pH levels\u20145.61\u202f\u00b1\u202f0.46 in 50SG and 5.95\u202f\u00b1\u202f1.20 in 50G (Figure 2)\u2014may have limited \nseedling viability by falling below the optimal pH range of pH 6-7 for most bean species (Marissa \nSchuh, 2024). Due to these limitations, only the results from the four remaining media types are \npresented in the following discussion. \n3.3.1 Comparative Growth Performance Across Growth Media \nGermination and sprouting of Green Mung Bean seeds, following a 24-hour water soak, \nwas observed exclusively in the 100S medium, with emergence occurring on Day 6 (Table 1). \n(Table 1). No sprouting occurred in any regolith-containing media, suggesting that Green Mung \nBean may be more sensitive to non-soil conditions during early development. Kentucky Wonder \nBeans failed to germinate in all tested media. Notably, this variety demonstrated the highest water \nabsorption ratios among all tested seeds (Figure 4), which may have resulted in overhydration \nand subsequent seed rot prior to radicle emergence. \n \nFigure 4. Water Absorption Ratio (WAR) of beans after 48 hours of water soaking, calculated as: \n(Soaked Weight\u2212Dry Weight)/Dry Weight\u00d7100%. Data are presented as mean \u00b1 SD.",
+      "char_count": 1180,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 18,
+      "text": "15 \n \n \nTable 1 Bean height and primary leaf size at Day 18 across four growth media: 100% soil (100S), \n50% soil\u2013regolith (50SR), 50% regolith\u201330% soil\u201320% gelatin (20G), and 100% regolith (100R). \nThe time of primary leaf emergence is defined as the first true leaves extending beyond the \ncotyledons, and the time of secondary leaf emergence is defined as the opening of the first visible \nsecondary leaf. \nSeed Variety \nGrowth \nMedium \nSeedling \nHeight \n(inches) \nPrimary \nLeaf \nArea \n(in\u00b2) \nDays to \nEmergence \nPrimary Leaf \nEmergence \n(Days) \nSecondary \nLeaf \nEmergence \n(Days) \n24 Hour-Soaked Beans \nGreen Mung \nBean \n100S \n8.5 \n0.1 \n6 \n8 \n18 \nTendergreen \nImproved \nGarden Bean \n100S \n13.0 \n7.4 \n6 \n9 \n13 \n20G \n8.0 \n3.9 \n8 \n11 \n17 \nBurpee\u2019s \nStringless \nGreen Pod \nBean \n100S \n12.0 \n5.9 \n12 \n13 \n17 \n20G \n6.5 \n3.9 \n11 \n12 \n16 \nBroad Windsor \nFava Bean \n100S \n7.5 \n0.9 \n8 \n12 \n15 \n50SR \n11.5 \n1.2 \n8 \n12 \n16 \n20G \n9.0 \n1.7 \n12 \n13 \n16 \n100R \n1.0 \n0.3 \n18 \n19 \n22 \nPaper Towel Pre-Germination to Radicle Development Stage \nBurpee\u2019s \nStringless \nGreen Pod \nBean \n100S \n12.5 \n10.2 \n4 \n5 \n10 \n50SR \n13.5 \n6.5 \n4 \n6 \n11 \n20G \n11.0 \n8.2 \n3 \n5 \n11 \n100R \n7.5 \n5.9 \n4 \n6 \n12 \nPaper Towel Pre-Germination to Root Hair Development Stage \nGreat Northern \nBean \n100S \n19.0 \n11.5 \n1 \n2 \n6 \n50SR \n7.0 \n3.1 \n1 \n2 \n6 \n20G \n12.5 \n4.9 \n1 \n3 \n8 \n100R \n15.5 \n10.2 \n1 \n2 \n7 \n \nTendergreen Improved and Burpee\u2019s Stringless Green Pod Beans grew exclusively \nin 100S and 20G. For Tendergreen, emergence occurred on Day 6 in 100S and Day 8 in 20G, \nwhile Burpee\u2019s emerged on Day 12 in 100S and Day 11 in 20G (Table 1). Both varieties exhibited",
+      "char_count": 1625,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Seed Variety",
+            "Growth Medium",
+            "Seedling Height (inches)",
+            "Primary Leaf Area (in\u00b2)",
+            "Days to Emergence",
+            "Primary Leaf Emergence (Days)",
+            "",
+            "",
+            "Secondary Leaf Emergence (Days)",
+            "",
+            ""
+          ],
+          [
+            "24 Hour-Soaked Beans",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Green Mung Bean",
+            "100S",
+            "8.5",
+            "0.1",
+            "6",
+            "8",
+            "",
+            "",
+            "18",
+            "",
+            ""
+          ],
+          [
+            "Tendergreen Improved Garden Bean",
+            "100S",
+            "13.0",
+            "7.4",
+            "6",
+            "9",
+            "",
+            "",
+            "13",
+            "",
+            ""
+          ],
+          [
+            "",
+            "20G",
+            "8.0",
+            "3.9",
+            "8",
+            "11",
+            "",
+            "",
+            "17",
+            "",
+            ""
+          ],
+          [
+            "Burpee\u2019s Stringless Green Pod Bean",
+            "100S",
+            "12.0",
+            "5.9",
+            "12",
+            "13",
+            "",
+            "",
+            "17",
+            "",
+            ""
+          ],
+          [
+            "",
+            "20G",
+            "6.5",
+            "3.9",
+            "11",
+            "12",
+            "",
+            "",
+            "16",
+            "",
+            ""
+          ],
+          [
+            "Broad Windsor Fava Bean",
+            "100S",
+            "7.5",
+            "0.9",
+            "8",
+            "",
+            "12",
+            "",
+            "",
+            "15",
+            ""
+          ],
+          [
+            "",
+            "50SR",
+            "11.5",
+            "1.2",
+            "8",
+            "12",
+            "",
+            "",
+            "16",
+            "",
+            ""
+          ],
+          [
+            "",
+            "20G",
+            "9.0",
+            "1.7",
+            "12",
+            "13",
+            "",
+            "",
+            "16",
+            "",
+            ""
+          ],
+          [
+            "",
+            "100R",
+            "1.0",
+            "0.3",
+            "18",
+            "19",
+            "",
+            "",
+            "22",
+            "",
+            ""
+          ],
+          [
+            "Paper Towel Pre-Germination to Radicle Development Stage",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Burpee\u2019s Stringless Green Pod Bean",
+            "100S",
+            "12.5",
+            "10.2",
+            "4",
+            "5",
+            "",
+            "",
+            "10",
+            "",
+            ""
+          ],
+          [
+            "",
+            "50SR",
+            "13.5",
+            "6.5",
+            "4",
+            "6",
+            "",
+            "",
+            "11",
+            "",
+            ""
+          ],
+          [
+            "",
+            "20G",
+            "11.0",
+            "8.2",
+            "3",
+            "5",
+            "",
+            "",
+            "11",
+            "",
+            ""
+          ],
+          [
+            "",
+            "100R",
+            "7.5",
+            "5.9",
+            "4",
+            "6",
+            "",
+            "",
+            "12",
+            "",
+            ""
+          ],
+          [
+            "Paper Towel Pre-Germination to Root Hair Development Stage",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Great Northern Bean",
+            "100S",
+            "19.0",
+            "11.5",
+            "1",
+            "2",
+            "",
+            "",
+            "6",
+            "",
+            ""
+          ],
+          [
+            "",
+            "50SR",
+            "7.0",
+            "3.1",
+            "1",
+            "2",
+            "",
+            "",
+            "6",
+            "",
+            ""
+          ],
+          [
+            "",
+            "20G",
+            "12.5",
+            "4.9",
+            "1",
+            "3",
+            "",
+            "",
+            "8",
+            "",
+            ""
+          ],
+          [
+            "",
+            "100R",
+            "15.5",
+            "10.2",
+            "1",
+            "2",
+            "",
+            "",
+            "7",
+            "",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 19,
+      "text": "16 \n \n \nbetter growth in 100S than in 20G. Growth rates, defined by the slope of seedling height increase \nfrom emergence to Day 27, were comparable between 100S and 20G for Tendergreen. However, \nseedlings in 20G had reduced height and primary leaf area (Figure 5). In Burpee\u2019s, both growth \nrate and leaf area were significantly lower in 20G than in 100S (Figure 6). By Day 18, Tendergreen \nreached a height of 13 inches with a primary leaf area of 7.4 in\u00b2 in 100S, while Burpee\u2019s reached \n12 inches with a primary leaf area of 5.9 in\u00b2. In contrast, seedlings in 20G showed reduced growth. \nTendergreen reached 8 inches and Burpee\u2019s 6.5 inches, with smaller primary leaf areas of 3.9 in\u00b2 \nin both. Developmental progression was also impacted as Tendergreen exhibited delayed leaf \nemergence in 20G, while Burpee\u2019s displayed a slight acceleration, with primary and secondary \nleaves emerging on Days 12 and 16, respectively, compared to Days 13 and 17 in 100S (Table \n1). \n \nFigure 5. (A) Seedling height and (B) primary leaf area of Tendergreen Improved Garden Beans \ngrown in 100S and 20G over time following a 24-hour water soaking treatment.",
+      "char_count": 1146,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 20,
+      "text": "17 \n \n \n \nFigure 6. (A) Seedling height and (B) primary leaf area of Burpee\u2019s Stringless Green Pod Beans \ngrown in 100S and 20G over time following a 24-hour water soaking treatment. \n \nBroad Windsor Fava Beans emerged successfully in all media types. Emergence \noccurred by Day 8 in 100S and 50SR, Day 12 in 20G, and Day 18 in 100R. By Day 18, seedling \nheights and primary leaf areas varied markedly: In 50SR, plants reached 11.5 inches in height \nwith a primary leaf area of 1.2 in\u00b2; in 20G, they reached 9 inches with a primary leaf area of 1.7 \nin\u00b2; in 100S, they reached 7.5 inches with a primary leaf area of 0.9 in\u00b2; and in 100R, they reached \nonly 1 inch. Nevertheless, secondary leaf emergence in 100R occurred by Day 22\u2014only three \ndays after primary leaf formation\u2014demonstrating developmental timing comparable to that in \nother media and underscoring the species\u2019 adaptability under regolith stress (Table 1). \nGrowth rates through Day 27 followed the order: 100R > 50SR > 20G > 100S. Despite \ndelayed emergence, seedlings in 100R experienced a marked growth acceleration between Days \n18 and 27, ultimately exceeding the growth rates of seedlings that had emerged earlier (Figure \n7A). This suggests that an initial acclimation phase was necessary in regolith-based media before \nthe initiation of compensatory growth. In contrast, while 100S supported early emergence, \nsubsequent growth proceeded more gradually. \nPrimary leaf area exhibited a distinct trend: 20G > 50SR > 100S > 100R (Figure 7B), which \nwas mirrored by the number of leaves observed (Figure 7C). The limited leaf expansion and",
+      "char_count": 1610,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 21,
+      "text": "18 \n \n \ndevelopment in 100R align with the known limitations of pure regolith, including poor water \nretention and low nutrient availability. Although 100S was expected to support the greatest leaf \ndevelopment due to its high nutrient content and consistent moisture retention, primary leaf areas \nin this medium were smaller than those observed in both 20G and 50SR. This counterintuitive \nresult suggests that the moderate incorporation of regolith may have improved certain soil \nproperties, such as altered pH (Figure 2) or modified microbial interactions, that supported \nbroader leaf expansion in Broad Windsor Fava Bean, despite the overall lower nutrient availability \nin regolith-containing media. \n \n \nFigure 7. (A) Seedling height, (B) primary leaf area, and (C) number of leaves of Broad Windsor \nFava Beans grown in four media\u2014100S, 50SR, 20G, and 100R. Height and leaf area were \ntracked over time (A, B), while the number of leaves was compared on Day 27 (C) following a 24-\nhour water soaking treatment prior to planting. \n \nCollectively, these results underscore substantial variation in germination success and \nearly seedling development among bean varieties following a 24-hour water soak. As anticipated, \n100S supported the most vigorous growth, validating its role as a reliable terrestrial control. In \ncontrast, regolith-containing media\u2014particularly 100R\u2014delayed both emergence and \ndevelopment due to limited nutrient availability and poor physical structure. Broad Windsor Fava",
+      "char_count": 1506,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 22,
+      "text": "19 \n \n \nBean demonstrated robust performance across all media, including 100R, indicating high \nresilience and potential suitability for extraterrestrial cultivation. Green Mung Bean was highly \nsensitive to regolith-based conditions, while Kentucky Wonder failed to germinate, likely due to \nexcessive water uptake and seed rot, exacerbated by the low-aeration environment. Tendergreen \nImproved and Burpee\u2019s Stringless Green Pod Bean exhibited intermediate adaptability, with \nsuccessful but reduced development in 20G. These findings highlight the critical influence of \nphysical media properties on early plant establishment in lunar analog environments. Although \nslower to promote growth, 20G consistently supported successful development in multiple species \n(Tables 1-2 and Figures 5-8), suggesting its potential as a balanced medium that moderates the \ntrade-off between nutrient content and soil structure. In a parallel experiment, we investigated \nwhether pre-germinating seeds to defined developmental stages could enhance establishment \nand early growth in regolith-based media. \n \nTable 2 Germination of bean varieties after 24-hour water soaking across different growth media: \n100S, 20G, 50SR, and 100R. \nSeed Variety \n100S \n20G \n50SR \n100R \nGreen Mung \nBean \nx \n \n \n \nTendergreen \nImproved \nGarden Bean \nx \nx \n \n \nBurpee\u2019s \nStringless \nGarden Bean \nx \nx \n \n \nBroad Windsor \nFava Bean \nx \nx \nx \nx",
+      "char_count": 1413,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Seed Variety",
+            "100S",
+            "20G",
+            "50SR",
+            "100R"
+          ],
+          [
+            "Green Mung Bean",
+            "x",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Tendergreen Improved Garden Bean",
+            "x",
+            "x",
+            "",
+            ""
+          ],
+          [
+            "Burpee\u2019s Stringless Garden Bean",
+            "x",
+            "x",
+            "",
+            ""
+          ],
+          [
+            "Broad Windsor Fava Bean",
+            "x",
+            "x",
+            "x",
+            "x"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 23,
+      "text": "20 \n \n \n \nFigure 8 Germination and early seedling development of six bean varieties across different \ngrowth media and developmental stages. Seeds were either planted directly following a 24-hour \nwater soak or pre-germinated using the paper towel method. Bean varieties included: (1) Broad \nWindsor Fava Bean, (2) Tendergreen Improved Organic Bean, (3) Kentucky Wonder Organic \nBean, (4) Green Mung Bean, and (5) Burpee\u2019s Stringless Green Pod Bean after 24-hour soaking; \n(5a) and (5b) Burpee\u2019s seeds with radicle emergence via the paper towel method; and (6) Great \nNorthern Bean with root hair development via the same method. Representative photographs \nwere taken on Day 14 (A, B) and Day 20 (C, D). Seedlings are labeled according to the numbering \nabove in B and D. \n \n3.3.2 Comparative Growth Performance Across Germination Stages \nAs mentioned earlier, on Day 5, Burpee\u2019s Stringless Garden Pod Bean seeds that had \nreached the radicle emergence stage via the paper towel germination method were transplanted \ninto all six media types\u2014100S, 100R, 50SR, 20G, 50SG, and 50G\u2014adjacent to seeds from the \ninitial 24-hour water soaking group in order to conserve regolith resources. Emergence from",
+      "char_count": 1199,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 24,
+      "text": "21 \n \n \nseeds at the radicle emergence stage occurred rapidly within 3\u20134 days across four media, 100S, \n100R, 50SR, and 20G, in contrast to the 24 hour water soaking method, which resulted in \nemergence only in 100S and 20G. By Day 14 (equivalent to Day 18 from the original planting \ntimeline), seedlings in 50SR reached the greatest height (13.5 inches) with a primary leaf area of \n6.5 in\u00b2, followed by 100S (12.5 inches, 10.2 in\u00b2), 20G (11 inches, 8.2 in\u00b2), and 100R (7.5 inches, \n5.9 in\u00b2). Compared to the 24 hour soaking group, development was markedly accelerated. \nSecondary leaves emerged as early as Day 10 in 100S, Day 11 in both 50SR and 20G, and Day \n12 in 100R (Table 1). Daily measurements of seedling height and leaf area (Figures 9 vs. 6), \nalong with the number of leaves by Day 27 (Figure 10), confirmed enhanced growth and \naccelerated development. Specifically, seedlings in 20G and 50SR exhibited growth comparable \nto those in 100S. These findings suggest that pre-germination to the radicle stage significantly \nimproves early seedling establishment, even under suboptimal conditions such as pure regolith. \n \n \nFigure 9. (A) Seedling height and (B) primary leaf area of Burpee\u2019s Stringless Green Pod Beans \nplanted after radicle emergence using the paper towel method across four media: 100S, 50SR, \n20G, and 100R.",
+      "char_count": 1339,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 25,
+      "text": "22 \n \n \n \nFigure 10. Number of leaves observed in Burpee\u2019s Stringless Green Pod Bean seedlings on Day \n27. Seeds were initially planted using either the 24-hour water soaking method or the paper towel \npre-germination method to the radicle emergence stage. \n \nOn Day 8, Great Northern Bean seeds pre-germinated to the root hair development stage \nusing the paper towel method were planted into the central areas of pots previously used for the \ninitial planting to maximize use of limited regolith material. Emergence occurred within 24 hours \nacross all conditions. Daily measurements revealed the highest seedling growth in 100S, followed \nby 100R, 20G, and 50SR (Figure 11). By Day 11 (corresponding to Day 18 for the original group), \nplants in 100S reached 19 inches in height with a primary leaf area of 11.5 in\u00b2. Both primary and \nsecondary leaves emerged early\u2014on Days 2 and 6, respectively. Comparable early development \nwas observed in 100R (15.5 inches, 10.2 in\u00b2; Days 2 and 6) and 20G (12.5 inches, 4.9 in\u00b2; Days \n3 and 8). Growth was slowest in 50SR (7 inches, 3.1 in\u00b2), with leaves appearing on Days 2 and 6 \n(Table 1). Interestingly, seedlings in 100R exhibited atypical root behavior, with roots surfacing \nabove the medium\u2014potentially as an adaptive response to surface-level moisture or aeration \nconstraints. This may explain the unexpectedly tall stem growth observed in 100R despite its \notherwise nutrient-poor composition. Overall, Great Northern Beans pre-germinated to the root",
+      "char_count": 1502,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 26,
+      "text": "23 \n \n \nhair stage demonstrated robust and adaptable growth across all media types, including pure \nregolith. These findings further reinforce that advanced pre-germination substantially enhances \nearly plant establishment and seedling performance under challenging growth conditions. \n \n \nFigure 11. (A) Seedling height and (B) primary leaf area of Great Northern Bean planted after \nroot hair development using the paper towel method across four media: 100S, 50SR, 20G, and \n100R. \n \nFor Burpee\u2019s Stringless Green Pod Beans, the combination of paper towel pre-\ngermination to the radicle stage with either 20G or 50SR media supported seedling development \ncomparable to that observed in 100S. In Great Northern Beans, 20G combined with paper towel \npre-germination produced better results than 50SR, while seedlings transplanted into 100R after \nroot hair development displayed unexpectedly strong stem growth. This may reflect adaptive root \nbehavior in response to surface moisture or aeration gradients within the regolith. These \nobservations informed the implementation of a self-watering system to support seedling growth \nin 100R following transplanting at the root hair stage. By maintaining consistent moisture levels \nand eliminating the need for manual watering, this approach offers a practical solution for \npromoting seedling establishment in pure regolith\u2014a medium that otherwise challenges plant \ngrowth due to its low water retention and poor structural properties. In addition, to further evaluate",
+      "char_count": 1517,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 27,
+      "text": "24 \n \n \nthe potential of 20G as a practical medium for space agriculture, follow-up trials were conducted \nusing larger sample sizes and the paper towel pre-germination method across multiple bean \nspecies. Collectively, these results underscore the importance of integrating optimized pre-\ngermination protocols with adaptive moisture management strategies to improve plant \nestablishment in extreme or resource-limited environments. \n3.4 Seedling Growth in 100R with Self-Watering System and Pre-Germination \nA self-watering system was implemented (Figure 12A) to maintain consistent hydration, \nand preliminary viability tests were conducted to assess its effectiveness. In the initial experiment, \nvarious soil mixtures\u2014comprising regolith, garden soil, fertilizer, root growth enhancer, coconut \noil, water-mixed gelatin, and gelatin powder\u2014were tested for plant growth (Table 3). Prior to \nplanting, seeds were pre-germinated using the paper towel method, with four seeds placed per \nPetri dish to maximize sprouting success for each variety. During planting, two seeds of the same \ntype were placed into three different pots, each containing one of the three prepared soil mixtures. \nThe self-watering system was intended to provide continuous moisture without manual \nintervention. However, due to insufficient oversight over a weekend, mold developed in the \nmixtures, killing all plants except one in the 100% regolith condition\u2014which had been placed in a \nseparate grow box unaffected by the mold outbreak. Despite this setback, the 100R pot in the \nself-watering setup successfully supported the growth of a single Great Northern Bean. The \nsystem maintained adequate moisture without the need for manual watering. Qualitative \nobservations also revealed that the growth medium in the self-watering setup was looser and less \ncompacted than that in the manually watered 100R pot, suggesting enhanced aeration and root \ndevelopment potential.",
+      "char_count": 1953,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 28,
+      "text": "25 \n \n \n \nFigure 12. (A) Self-watering system used in the experiment. (B) Layout indicating seed placement \npositions. (C) Seedling development from Day 1 to Day 3, and (D) from Day 4 to Day 12 in 100R, \nfollowing paper towel pre-germination to the root hair stage. \n \nTable 3. Growth media composition for the initial self-watering system. \nCup # \nRegolith \n(g) \nSoil (g) \nFertilizer \n(g) \nRoot \nGrow (g) \nCoconut \nOil (mL) \nGelatin w/ \nH2O (mL) \nGelatin \nPowder \n(g) \n1 \n102 \n24.6 \n5 \n2.5 \n7.5 \n5 \n0.3 \n2 \n102 \n24.6 \n5 \n2.5 \n7.5 \n5 \n0.3 \n3 \n102 \n24.6 \n5 \n2.5 \n7.5 \n5 \n0.3 \n4 \n102 \n24.6 \n5 \n2.5 \n7.5 \n5 \n0.15 \n5 \n102 \n24.6 \n5 \n2.5 \n7.5 \n5 \n0.15 \n6 \n102 \n24.6 \n5 \n2.5 \n7.5 \n5 \n0.15 \n7 \n102 \n30 \n5 \n2.5 \n7.5 \n0 \n0 \n8 \n102 \n30 \n5 \n2.5 \n7.5 \n0 \n0 \n9 \n102 \n30 \n5 \n2.5 \n7.5 \n0 \n0 \n10 \n200 \n0 \n0 \n0 \n0 \n0 \n0",
+      "char_count": 801,
+      "image_count": 1,
+      "tables": [
+        [
+          [
+            "Cup #",
+            "",
+            "",
+            "Regolith (g)",
+            "",
+            "",
+            "Soil (g)",
+            "",
+            "",
+            "Fertilizer (g)",
+            "",
+            "",
+            "Root Grow (g)",
+            "",
+            "",
+            "Coconut Oil (mL)",
+            "",
+            "",
+            "Gelatin w/ H2O (mL)",
+            "",
+            "",
+            "",
+            "Gelatin",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Powder",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "(g)",
+            ""
+          ],
+          [
+            "",
+            "1",
+            "",
+            "",
+            "102",
+            "",
+            "",
+            "24.6",
+            "",
+            "",
+            "5",
+            "",
+            "",
+            "2.5",
+            "",
+            "",
+            "7.5",
+            "",
+            "",
+            "5",
+            "",
+            "",
+            "0.3",
+            ""
+          ],
+          [
+            "",
+            "2",
+            "",
+            "",
+            "102",
+            "",
+            "",
+            "24.6",
+            "",
+            "",
+            "5",
+            "",
+            "",
+            "2.5",
+            "",
+            "",
+            "7.5",
+            "",
+            "",
+            "5",
+            "",
+            "",
+            "0.3",
+            ""
+          ],
+          [
+            "",
+            "3",
+            "",
+            "",
+            "102",
+            "",
+            "",
+            "24.6",
+            "",
+            "",
+            "5",
+            "",
+            "",
+            "2.5",
+            "",
+            "",
+            "7.5",
+            "",
+            "",
+            "5",
+            "",
+            "",
+            "0.3",
+            ""
+          ],
+          [
+            "",
+            "4",
+            "",
+            "",
+            "102",
+            "",
+            "",
+            "24.6",
+            "",
+            "",
+            "5",
+            "",
+            "",
+            "2.5",
+            "",
+            "",
+            "7.5",
+            "",
+            "",
+            "5",
+            "",
+            "",
+            "0.15",
+            ""
+          ],
+          [
+            "",
+            "5",
+            "",
+            "",
+            "102",
+            "",
+            "",
+            "24.6",
+            "",
+            "",
+            "5",
+            "",
+            "",
+            "2.5",
+            "",
+            "",
+            "7.5",
+            "",
+            "",
+            "5",
+            "",
+            "",
+            "0.15",
+            ""
+          ],
+          [
+            "",
+            "6",
+            "",
+            "",
+            "102",
+            "",
+            "",
+            "24.6",
+            "",
+            "",
+            "5",
+            "",
+            "",
+            "2.5",
+            "",
+            "",
+            "7.5",
+            "",
+            "",
+            "5",
+            "",
+            "",
+            "0.15",
+            ""
+          ],
+          [
+            "",
+            "7",
+            "",
+            "",
+            "102",
+            "",
+            "",
+            "30",
+            "",
+            "",
+            "5",
+            "",
+            "",
+            "2.5",
+            "",
+            "",
+            "7.5",
+            "",
+            "",
+            "0",
+            "",
+            "",
+            "0",
+            ""
+          ],
+          [
+            "",
+            "8",
+            "",
+            "",
+            "102",
+            "",
+            "",
+            "30",
+            "",
+            "",
+            "5",
+            "",
+            "",
+            "2.5",
+            "",
+            "",
+            "7.5",
+            "",
+            "",
+            "0",
+            "",
+            "",
+            "0",
+            ""
+          ],
+          [
+            "",
+            "9",
+            "",
+            "",
+            "102",
+            "",
+            "",
+            "30",
+            "",
+            "",
+            "5",
+            "",
+            "",
+            "2.5",
+            "",
+            "",
+            "7.5",
+            "",
+            "",
+            "0",
+            "",
+            "",
+            "0",
+            ""
+          ],
+          [
+            "",
+            "10",
+            "",
+            "",
+            "200",
+            "",
+            "",
+            "0",
+            "",
+            "",
+            "0",
+            "",
+            "",
+            "0",
+            "",
+            "",
+            "0",
+            "",
+            "",
+            "0",
+            "",
+            "",
+            "0",
+            ""
+          ]
+        ],
+        [
+          [
+            "Regolith"
+          ],
+          [
+            "(g)"
+          ]
+        ],
+        [
+          [
+            "Fertilizer"
+          ],
+          [
+            "(g)"
+          ]
+        ],
+        [
+          [
+            "Root"
+          ],
+          [
+            "Grow (g)"
+          ]
+        ],
+        [
+          [
+            "Coconut"
+          ],
+          [
+            "Oil (mL)"
+          ]
+        ],
+        [
+          [
+            "Gelatin w/"
+          ],
+          [
+            "H2O (mL)"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 29,
+      "text": "26 \n \n \nThe effectiveness of the self-watering system was then evaluated using all six different \nbean varieties. Each pre-germinated to the root hair development stage using the paper towel \nmethod except for Broad Windsor Fava Bean, which was transplanted at the radicle stage due to \ntime constraints of the growth period, as it required more time to reach root hair development. \nThe planting positions are illustrated in Figure 12B. By Day 2, three species\u2014Tendergreen \nImproved Bean, Kentucky Wonder Bean, and Great Northern Bean\u2014had emerged successfully \n(Figures 12C and 13A; Table 4). By Day 3, all species except Broad Windsor Fava Bean had \ngerminated, with the latter emerging by Day 6 (Figures 12C, 12D, and 13A; Table 4). All seedlings \nexhibited continuous increases height (Figure 13A) and leaf development (Figure 13B and Table \n4) over the observation period, which concluded on Day 12 due to project timeline limitations. \n \n \nFigure 13. (A) Daily seedling height measurements in 100R with a self-watering system for \nindividual seeds following paper towel pre-germination to the root hair stage. (B) Number of leaves \nper seedling on Day 12.",
+      "char_count": 1161,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 30,
+      "text": "27 \n \n \nTable 4. Seedling height, primary leaf area on Day 12, and leaf development in beans grown in \n100R using a self-watering system following paper towel pre-germination to the root hair stage. \nSeed Variety \nSeedling \nHeight \n(inches) \nPrimary \nLeaf \nArea (in\u00b2) \nDays to \nEmergence \nPrimary \nLeaf \nEmergence \n(Days) \nSecondary Leaf \nEmergence \n(Days) \nGreen Mung \n3.0 \n0.4 \n3 \n4 \nN/A \nTendergreen \nImproved \n9.5 \n5.9 \n2 \n4 \n12 \nBroad Windsor Fava 4 \n0.3 \n6 \n7 \n9 \nKentucky Wonder \n12.5 \n2.7 \n2 \n3 \n8 \nGreat Northern \n10 \n7.0 \n2 \n3 \n12 \nBurpee\u2019s Stringless \nGreen Pod \n11 \n8.2 \n3 \n4 \n8 \n \n3.5 Confirming 20G as a Viable Growth Medium for Space Agriculture \nTo confirm the potential of 20G as a practical medium for agriculture in space, a follow-up \ntrial was conducted using a larger sample size and the paper towel pre-germination method \nacross multiple bean species. As shown in Figure 14, larger garden pots were used and separated \ninto 4 distinct sections containing the following seed distributions: Great Northern Beans (n = 4), \nBurpee\u2019s Stringless Green Beans (n = 4), Tendergreen Improved Beans (n = 4), and Broad \nWindsor Fava Beans (n = 2). Each bean was pre-germinated using the paper towel method for \n24 hours before planting. Due to the larger size of the Broad Windsor Fava Beans after pre-\ngermination, only two beans were planted in its designated region compared to the four beans in \nother regions.",
+      "char_count": 1426,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Seed Variety",
+            "Seedling Height (inches)",
+            "Primary Leaf Area (in\u00b2)",
+            "Days to Emergence",
+            "Primary Leaf Emergence (Days)",
+            "Secondary Leaf Emergence (Days)"
+          ],
+          [
+            "Green Mung",
+            "3.0",
+            "0.4",
+            "3",
+            "4",
+            "N/A"
+          ],
+          [
+            "Tendergreen Improved",
+            "9.5",
+            "5.9",
+            "2",
+            "4",
+            "12"
+          ],
+          [
+            "Broad Windsor Fava",
+            "4",
+            "0.3",
+            "6",
+            "7",
+            "9"
+          ],
+          [
+            "Kentucky Wonder",
+            "12.5",
+            "2.7",
+            "2",
+            "3",
+            "8"
+          ],
+          [
+            "Great Northern",
+            "10",
+            "7.0",
+            "2",
+            "3",
+            "12"
+          ],
+          [
+            "Burpee\u2019s Stringless Green Pod",
+            "11",
+            "8.2",
+            "3",
+            "4",
+            "8"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 31,
+      "text": "28 \n \n \nFigure 14 (A) Experimental setup assessing the viability of 20G as a growth medium in \ncombination with paper towel pre-germination for space agriculture applications. 100S was used \nas the terrestrial control. The number of seeds of each bean variety per container is indicated. (B) \nPhotographs of plant growth taken on Day 14. \n \nUnder the 20G medium and 24-hour pre-germination conditions, all four bean species \nachieved successful emergence by Day 6. Germination rates were as follows: Tendergreen \nImproved (3/4, 75%), Great Northern (3/4, 75%), Broad Windsor Fava (2/2, 100%), and Burpee\u2019s \nStringless (4/4, 100%). These results were comparable to those observed in the 100% soil (100S) \ncontrol group, which yielded germination rates of 75%, 100%, 100%, and 100%, respectively \n(Figure 15). The 24-hour paper towel method was selected to enable a direct comparison with \nthe 24-hour water soaking approach (Tables 1-2, Figures 5-7), despite the expectation that \nextending pre-germination to the radicle or root hair stage would likely result in further \nimprovements in both germination efficiency and early seedling growth.",
+      "char_count": 1142,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 32,
+      "text": "29 \n \n \n \nFigure 15. Germination rates of bean seeds after 24-hour paper towel treatment in 100S (A) and \n20G (B) conditions. \n \nGrowth comparisons between 100S and 20G media revealed species-specific differences. \nTendergreen Improved Beans exhibited similar seedling height across both media, but plants \ngrown in 20G exhibited significantly smaller primary leaf areas (Figure 16). Burpee\u2019s Stringless \nBeans also showed reduced growth in 20G, with both height and leaf size lower than in 100S \n(Figure 17). In contrast, Great Northern Beans demonstrated a higher growth rate in 20G, with \nprimary leaf area comparable to those in 100S (Figure 18). Broad Windsor Fava Beans displayed \nsimilar growth rates across both media, and all seedlings developed 10 leaves by Day 14 (Figure \n19). Leaf area was not recorded for the Broad Windsor Fava beans, as leaves remained \ncomparatively small at this early developmental stage. While extended observation would be \nneeded to assess longer-term growth dynamics, the growth period limited data collection to 14 \ndays due to project timeline limitations.",
+      "char_count": 1098,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 33,
+      "text": "30 \n \n \nThese findings reinforce the potential of 20G as a feasible alternative to soil for early \nseedling establishment in multiple legume species and support further investigation into its use in \ncontrolled environments and extraterrestrial agriculture systems. \n \n \nFigure 16. (A) Seedling height and (B) primary leaf area of Tendergreen Improved Garden Beans \ngrown in two media\u2014100S and 20G\u2014over time following a 24-hour paper towel pre-germination \ntreatment. Data are presented as mean \u00b1 SD. \n \n \nFigure 17. (A) Seedling height and (B) primary leaf area of Burpee\u2019s Stringless Garden Beans \ngrown in two media\u2014100S and 20G\u2014over time following a 24-hour paper towel pre-germination \ntreatment. Data are presented as mean \u00b1 SD.",
+      "char_count": 734,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 34,
+      "text": "31 \n \n \n \nFigure 18. (A) Seedling height and (B) primary leaf area of Great Northern Beans grown in two \nmedia\u2014100S and 20G\u2014over time following a 24-hour paper towel pre-germination treatment. \nData are presented as mean \u00b1 SD. \n \n \nFigure 19. Seedling height of Broad Windsor Fava Beans grown in two media\u2014100S and 20G\u2014\nover time following a 24-hour paper towel pre-germination treatment. Data are presented as mean \n\u00b1 SD. \n \n4. Discussion \nThis study explored the varied combinations of germination method, growth media \ncomposition, and seed developmental stage at time of planting which revealed critical factors that \ninfluence plant development in simulated lunar environments. The findings strongly support the",
+      "char_count": 716,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 35,
+      "text": "32 \n \n \nhypothesis that both the composition of the growth medium and the physiological readiness of \nthe seeds play decisive roles in successful early plant development. \n4.1 The Impact of Germination Method \nSeeds germinated through the paper towel method consistently outperformed those \ngerminated through the water soaking method (Figure 1). The success of the paper towel method \nis likely attributable to its ability to maintain optimal moisture conditions while preventing \noversaturation. This controlled environment supports aerobic respiration and encourages uniform \nroot development, both of which are critical for successful early seedling establishment. In \ncontrast, seeds soaked in water often experienced delayed or failed germination, likely due to low \noxygen diffusion and excessive water retention. While water soaking may serve as a useful pre-\ntreatment for some bean species with moderately firm seed coats\u2014such as Broad Windsor Fava \nBeans, which germinated across all tested growth media following water soaking (Tables 1-2; \nFigures 1 and 7)\u2014it is not effective as a standalone germination method for promoting optimal \nand consistent seedling development. \n4.2 Developmental Stage at Transplanting Influences Growth \nThe results from this study demonstrate that advancing seeds to later developmental \nstages, such as radicle emergence or root hair development, significantly enhances seedling \ngrowth, particularly under challenging conditions like regolith simulants. Pre-germinating seeds \nallowed for faster emergence, earlier leaf development, and improved overall seedling growth \ncompared to the 24-hour soaking method (Table 1; Figures 6, 9, and 17; Figure 11). For both \nBurpee\u2019s Stringless Green Pod Beans and Great Northern Beans, pre-germination resulted in \nfaster growth and more robust plants across various media. Specifically, seedlings from the \nradicle emergence stage showed improved growth rate, height, leaf area, and leaf emergence, \nwith development accelerated compared to the soaking group. The root behavior observed in \n100R suggests adaptive growth responses to limited aeration and moisture, further highlighting",
+      "char_count": 2171,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 36,
+      "text": "33 \n \n \nthe importance of seed developmental stage in optimizing growth under resource-constrained \nconditions. \n4.3 Effects of Media Composition on Plant Development \nThe media tested in this study revealed distinct differences in their ability to support early \nseedling development, highlighting the critical roles of nutrient availability, aeration, and structural \nproperties. While the organic-rich 100S medium consistently supported optimal growth, regolith-\ndominant substrates limited performance due to their inherent physical and chemical constraints. \nAmong the mixed compositions, the 20G blend, incorporating both soil and gelatin, demonstrated \nstrong potential by sustaining growth across multiple species under suboptimal conditions \n(Figures 15\u201319). Species-specific responses further underscored varying degrees of tolerance to \nregolith-based media. In particular, Broad Windsor Fava Bean exhibited notable resilience and \nconsistent development even in pure regolith, reinforcing its potential for space-based cultivation.. \nThese outcomes suggest that hybrid media like 20G may offer a viable solution for balancing \nbiological needs with resource limitations in extraterrestrial agriculture. \n4.4 Benefits of a Self-Watering System \nThe integration of a self-watering system ensured consistent hydration and demonstrated \nthe efficacy of the self-watering system in sustaining early seedling establishment in pure regolith \nfollowing root hair-stage pre-germination. The rapid emergence and steady growth observed in \nall of the six bean varieties (Figure 12 and Figure 13; Table 4) underscore the advantages of \ncombining physiological readiness with consistent moisture availability. Overall, this approach \neffectively addressed the low water retention, supporting early growth without manual watering. \nAdditionally, the looser soil observed through the self-watering method addressed the structural \nlimitations of regolith by improving aeration, alleviating the potential hypoxic conditions of the \nmanually watered regolith. These findings underscore the value of integrating pre-germination \nprotocols with passive watering systems to enhance plant establishment in resource-limited or \nextraterrestrial agricultural environments. Additionally, this approach offers a scalable solution for",
+      "char_count": 2320,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 37,
+      "text": "34 \n \n \nreducing water usage while addressing regolith's low porosity and poor water retention, two \nsignificant challenges in extraterrestrial agriculture. \n4.5 Limitations of the Current Study \nSome limitations of this study include the limited time frame for our main experiment due \nto the need to replant after most of our plants died in the initial/preliminary experiment. The mold \ngrowth that killed every plant except for the 100R plant in the separate grow box likely formed due \nto insufficient care over the weekend and excessive soil moisture. The limited time frame of the \ngrowth period restricted the maximum observation period to 27 days. If we had more time for \nobservation and data collection, more significant differences, such as additional leaves and \nflowering, could have been observed\u2014especially for the Broad Windsor Fava Beans, which \nexhibited significant growth after the growth period. Furthermore, due to the limited regolith after \nour initial/preliminary experiment, this study planted many bean species in one pot, which may \nhave limited growth due to cramped growing space and competition between beans. Another \nlimitation was the necessity of 50% regolith in the soil mixture. If there was more flexibility in the \namount of regolith in the mixture, the experiment could have yielded a wider range of success \nfrom different ratios of gelatin, soil, and regolith. \n4.6 Conclusion and Future Directions \nOverall, our results demonstrate that early plant growth in regolith-based media can be \nimproved through a combination of pre-germination techniques, ideal media composition, and \nwatering methods. While pure regolith remains a challenging medium, the Broad Windsor Fava \nBean demonstrated notable adaptability. The 20G mixture performed slightly better than 50SR in \npromoting germination and growth, suggesting that moderate gelatin supplementation can \nimprove water retention without significantly compromising aeration. Since the differences \nbetween growth in the 50SR and 20G mixtures were not exceptionally large, it can be concluded \nthat a more effective use of gelatin could be an additional treatment rather than a 20% inclusion, \nso that it could be used as a supplement for the plants rather than a replacement of soil. In contrast,",
+      "char_count": 2289,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 38,
+      "text": "35 \n \n \nhigh-gelatin content mixtures (50G and 50SG) inhibited growth, likely due to excess moisture and \nlimited gas exchange. These results highlight the importance of optimizing additive concentrations \nand media structure to balance hydration with oxygen availability. Furthermore, despite the similar \ngrowth in plant height, there was still a noticeable difference in leaf size compared to the 100S \ncontrol which compromises the plant\u2019s ability to photosynthesize. This indicates that further \nresearch is needed to explore nutrient additives to address the deficiencies in our current media \ncompositions. \nFuture research should explore a broader range of gelatin concentrations across diverse \nregolith-soil mixtures to determine the optimal balance between water retention, aeration, and \nmicrobial stability.In addition, studies should assess the influence of extraterrestrial environmental \nconditions\u2014particularly reduced lunar gravity\u2014on plant morphology, physiology, and growth \nrates. Long-term cultivation trials will also be essential to evaluate sustained growth, yield, and \noverall plant resilience, thereby advancing the viability of regenerative agricultural systems for \nfuture lunar and off-Earth missions.",
+      "char_count": 1232,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 39,
+      "text": "36 \n \n \n5. Appendices \n1. Seed preparation using water soaking vs. the paper towel method. \n \n2. Seed preparation after 72 hours using water soaking vs. the paper towel method.",
+      "char_count": 176,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 40,
+      "text": "37 \n \n \n3. Plant growth in four media: 100% garden soil, 100% regolith, a 50:50 (v/v) mix of regolith and \ngarden soil, and a blend of 50% regolith, 30% garden soil, and 20% gelatin.",
+      "char_count": 182,
+      "image_count": 3,
+      "tables": []
+    },
+    {
+      "page_number": 41,
+      "text": "38 \n \n \n \n \n4. Final plant outcomes in the four media described above.",
+      "char_count": 70,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 42,
+      "text": "39 \n \n \n5. Plant growth in optimized media (100% garden soil and the 50% regolith, 30% garden soil, 20% \ngelatin mix) after paper towel pre-germination. \n \n6. Final plant outcomes in optimized media after paper towel pre-germination.",
+      "char_count": 233,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 43,
+      "text": "40 \n \n \n7. Plant growth in 100% regolith with self-watering system and paper towel pre-germination. \n \n8. Final plant outcomes in 100% regolith using a self-watering system and paper towel pre-\ngermination.",
+      "char_count": 206,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 44,
+      "text": "41 \n \n \n6. References \nBengtsson, F., Granath, G., Cronberg, N., & Rydin, H. (2020). Mechanisms behind species-\nspecific water economy responses to water level drawdown in peat mosses. Ann Bot, \n126(2), 219-230. https://doi.org/10.1093/aob/mcaa033 \n \n \nBenito, P., Ligorio, D., Bellon, J., Yenush, L., & Mulet, J. M. (2023). Use of Yucca (Yucca \nschidigera) Extracts as Biostimulants to Promote Germination and Early Vigor and as \nNatural Fungicides. Plants (Basel), 12(2). https://doi.org/10.3390/plants12020274 \n \n \nClavijo Michelangeli, J. A., Bhakta, M., Gezan, S. A., Boote, K. J., & Vallejos, C. E. (2013). From \nflower to seed: identifying phenological markers and reliable growth functions to model \nreproductive development in the common bean (Phaseolus vulgaris L.). Plant Cell \nEnviron, 36(11), 2046-2058. https://doi.org/10.1111/pce.12114 \n \n \nEbadollahi, R., Jafarirad, S., Kosari-Nasab, M., & Mahjouri, S. (2019). Effect of explant source, \nperlite nanoparticles and TiO(2)/perlite nanocomposites on phytochemical composition \nof metabolites in callus cultures of Hypericum perforatum. Sci Rep, 9(1), 12998. \nhttps://doi.org/10.1038/s41598-019-49504-3 \n \n \nMarissa Schuh, E. e., and Jill MacKenzie. (2024). Growing beans in home gardens. \nhttps://extension.umn.edu/vegetables/growing-beans \n \n \nmarsh, t. (2025). What is in Miracle Gro Potting Mix. https://homemicrogreens.com/what-is-in-\nmiracle-gro-potting-mix/ \n \n \nMessina, V. (2014). Nutritional and health benefits of dried beans. Am J Clin Nutr, 100 Suppl 1, \n437S-442S. https://doi.org/10.3945/ajcn.113.071472 \n \n \nMing, D. W., & Henninger, D. L. (1994). Use of lunar regolith as a substrate for plant growth. \nAdv Space Res, 14(11), 435-443. https://doi.org/10.1016/0273-1177(94)90333-6 \n \n \nMullins, A. P., & Arjmandi, B. H. (2021). Health Benefits of Plant-Based Nutrition: Focus on \nBeans in Cardiometabolic Diseases. Nutrients, 13(2). \nhttps://doi.org/10.3390/nu13020519 \n \n \nScheinkman, R., Janmohamed, S. R., Ginsburg, S., Houk, G., & Gwillim, E. (2024). Lunar dust \ndermatologic considerations for NASA's artemis program and the gateway space station: \na narrative review. Arch Dermatol Res, 317(1), 77. https://doi.org/10.1007/s00403-024-\n03639-0 \n \n \nShymanovich, T., & Kiss, J. Z. (2022). Conducting Plant Experiments in Space and on the \nMoon. Methods Mol Biol, 2368, 165-198. https://doi.org/10.1007/978-1-0716-1677-2_12 \n \n \nSong, J., Yang, H., Yu, X., Chen, Y., Yang, C., He, Y., & Wang, H. (2025). Effects of combined \napplication of nitrogen, phosphorus, and potassium fertilizers on seed yield, seed quality \nand economic returns of Elymus nutans in alpine region. BMC Plant Biol, 25(1), 130. \nhttps://doi.org/10.1186/s12870-025-06126-4",
+      "char_count": 2726,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 45,
+      "text": "42 \n \n \nVatansever, R., Ozyigit, II, & Filiz, E. (2017). Essential and Beneficial Trace Elements in Plants, \nand Their Transport in Roots: a Review. Appl Biochem Biotechnol, 181(1), 464-482. \nhttps://doi.org/10.1007/s12010-016-2224-3 \n \n \nWilson, H. T., Amirkhani, M., & Taylor, A. G. (2018). Evaluation of Gelatin as a Biostimulant \nSeed Treatment to Improve Plant Performance. Front Plant Sci, 9, 1006. \nhttps://doi.org/10.3389/fpls.2018.01006 \n \n \nYin, Z. C., Guo, W. Y., Liang, J., Xiao, H. Y., Hao, X. Y., Hou, A. F., Zong, X. X., Leng, T. R., \nWang, Y. J., Wang, Q. Y., & Yin, F. X. (2019). Effects of multiple N, P, and K fertilizer \ncombinations on adzuki bean (Vigna angularis) yield in a semi-arid region of \nnortheastern China. Sci Rep, 9(1), 19408. https://doi.org/10.1038/s41598-019-55997-9",
+      "char_count": 803,
+      "image_count": 0,
+      "tables": []
+    }
+  ]
+}

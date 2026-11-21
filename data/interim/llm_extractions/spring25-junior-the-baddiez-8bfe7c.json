@@ -1,0 +1,75 @@
+{
+  "extraction": {
+    "report_id": "spring25-junior-the-baddiez-8bfe7c",
+    "extraction_method": "heuristic",
+    "model_name": "table-aware-lexicon-v2",
+    "celestial_body": "lunar",
+    "regolith_simulant": "unspecified",
+    "regolith_simulant_raw": null,
+    "crop_common_name": "lettuce",
+    "crop_scientific_name": "Lactuca sativa",
+    "crop_guild": "leafy_green",
+    "experimental_duration_days": null,
+    "total_plants_or_pots": null,
+    "replicates_per_treatment": null,
+    "has_earth_soil_control": true,
+    "has_unamended_regolith_control": false,
+    "statistical_tests_reported": [],
+    "data_availability": "summary_means",
+    "primary_bottlenecks": [],
+    "innovation_tags": [
+      "other"
+    ],
+    "key_hypothesis": null,
+    "summary_findings": "So, our overall question was:\u202c\u202dWill the\u202c",
+    "arms": [
+      {
+        "arm_id": "arm_ctrl_earth",
+        "arm_label": "Earth Soil Control",
+        "is_control": true,
+        "control_type": "earth_soil",
+        "regolith_pct": 0.0,
+        "amendment_category": "earth_soil_control",
+        "amendment_detail": null,
+        "amendment_dose": null,
+        "germination_rate_pct": null,
+        "survival_rate_pct": null,
+        "mean_shoot_height_cm": null,
+        "mean_root_length_cm": null,
+        "mean_fresh_biomass_g": null,
+        "mean_dry_biomass_g": null,
+        "substrate_ph": null,
+        "outcome_vs_regolith_control": "not_reported",
+        "reported_effect_pct": null,
+        "evidence_quote": "\u202dare making the assumption that a 50/50 mix of moon and earth soil will be\u202c",
+        "page_number": 3
+      },
+      {
+        "arm_id": "arm_trt_1",
+        "arm_label": "Treatment (soil)",
+        "is_control": false,
+        "control_type": "none",
+        "regolith_pct": null,
+        "amendment_category": "other",
+        "amendment_detail": "soil",
+        "amendment_dose": null,
+        "germination_rate_pct": null,
+        "survival_rate_pct": null,
+        "mean_shoot_height_cm": null,
+        "mean_root_length_cm": null,
+        "mean_fresh_biomass_g": null,
+        "mean_dry_biomass_g": null,
+        "substrate_ph": null,
+        "outcome_vs_regolith_control": "not_reported",
+        "reported_effect_pct": null,
+        "evidence_quote": "\u202dWe wanted to determine if plants will grow better with soil that has been\u202c",
+        "page_number": 3
+      }
+    ]
+  },
+  "provenance_audit": {
+    "quotes_checked": 2,
+    "quotes_matched": 2,
+    "quote_match_rate": 1.0
+  }
+}

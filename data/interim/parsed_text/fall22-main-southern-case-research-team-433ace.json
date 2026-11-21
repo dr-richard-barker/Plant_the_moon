@@ -1,0 +1,287 @@
+{
+  "report_id": "fall22-main-southern-case-research-team-433ace",
+  "sha256": "e2eed676a67ac73f1b858fc801354a6165c400796257441062640fa7f6252ae4",
+  "page_count": 15,
+  "total_chars": 14535,
+  "avg_chars_per_page": 969.0,
+  "total_images": 5,
+  "table_count": 4,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Southern High\nPlant the Moon Challenge\nNovember 28, 2022\nMegan Arnold, Julie Anne Lynskey,\nEthan Scofield, Clark Sutton,",
+      "char_count": 120,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "text": "Design Overview\nThis experiment works in conjunction with Exolith, and the Plant the Moon Challenge to\nfind a solution for growing plants on the moon. As humans begin considering colonizing the\nmoon, there must be viable methods for growing crops in the lunar highland regolith as food\ncannot be transported to the moon in mass.\nThis experiment attempted to make lunar regolith more habitable for plants via\nimplementation of peat moss. The goal was to determine what ratio can sustain plant life whilst\nusing maximum lunar simulant. Green bean seeds (Phaseolus vulgaris) and Swiss Chard seeds\n(Beta vulgaris subsp. vulgaris) were planted in equal amounts. The initial experimental design\ncalled for the use of fertilizer on one half of the plants at the 4 week mark, as an additional\nvariable for review. However replanting was done multiple times throughout the experiment\npushing the 4 week fertilization point beyond the 8 week growing window for the experiment\n*Noted in Difficulties and Revisions*. As a result, this variable was removed from our\nexperiment and data results will reflect this. Germination rates were recorded in addition to the\nheight of the plants once they began growing.",
+      "char_count": 1196,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "text": "Original Hypothesis\nIf a tray of 48 seeds are planted with 4 ratios of Lunar Highland Simulant to Peat Moss\n*See Appendix A*, and half are fertilized with Miracle Grow, then the highest concentrations of\nPeat Moss with fertilizer will show the greatest Germination and growth rates. Due to the more\nhospitable conditions provided by Peat Moss, the plants started in Higher concentrations of Peat\nMoss will have more favorable chances of success. Although fertilization has no impact on\ngermination the plants that are fertilized can be expected to grow more rapidly than those\nwithout fertilizer.\nRevised Hypothesis\nIf a tray is planted with 48 seeds, and 4 ratios of Lunar Highland Simulant to Peat Moss\n*See Appendix B* then the highest concentrations of Peat Moss will show the greatest\nGermination and growth rates, closest to the rates of the control seeds. Due to the more\nhospitable conditions provided by Peat Moss, the plants started in Higher concentrations of Peat\nMoss will have more favorable chances of success.",
+      "char_count": 1025,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "text": "Materials\n\u25cf\nLunar Soil (2,500 ml)\n\u25cf\nPeat Moss (3,200 ml)\n\u25cf\n30 Green Bean Seeds\n\u25cf\n30 Swiss Chard seeds\n\u25cf\n2 x 6 Cell Seed Trays (10)\n\u25cf\nDistilled Water\n\u25cf\n10 ml Syringes (2)\n\u25cf\n500 ml Beakers (2)\n\u25cf\nTable Space\n\u25cf\nLED Grow light (100-240 V)\n\u25cf\nHeat Mat (maintains 70-80 degrees)\n\u25cf\nScotch Tape\n\u25cf\nBlack Sharpie\n\u25cf\nScissors\n\u25cf\nGlass stir rods (4)\n\u25cf\nWater-Tight Buckets\n\u25cf\nKN95 masks\n\u25cf\nLab Aprons\n\u25cf\nLab Goggles\n\u25cf\nDisposable gloves",
+      "char_count": 415,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "text": "Independent Variable:\n>plant type (Swiss Chard and Green Beans)\n>Growing Media makeup\n-100% lunar highland simulant\n-50% lunar highland simlant/ 50% peat moss\n-25% lunar highland simulant/ 75% peat moss\n-15% lunar highland simulant/ 85% peat moss\nDependent Variable:\n>Germination rate ( _/6) ,\n>Growth rate (height mm)\nControl:\n>Soil grown Swiss Chard and Green Beans\nConstants:\n>Soil amount (20 ml)\n>Light amount (100-240 V 24 hours a day)\n>Environmental factors: temperature, humidity, airflow\n>pH of water (7.2)\n>Date of Germination (Final - 10/21/2022)\n>Container shape and size",
+      "char_count": 582,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "text": "Experimental Design/Procedures:\n1.) Fill a non porous growing tray with 4 rows of 2 individual, porous planters (2x6 cells per\nplanter)\n2.) Fill a second non porous growing tray with 2 individual, porous planters (2x6 cells)\n3.) Begin use of KN95 masks, aprons, and goggles\n4.) Mix 2000ml Lunar simulant, 2000 ml peat moss in a plastic bucket, lid bin and shake to\nmix (Allow 5 minutes for dust in bin to settle before opening)\n5.) Collect 500 ml 50/50 mix and 500 ml peat moss, combine in a new plastic bucket to\nmake a 25% lunar simulant, 75% peat moss mix (Allow 5 minutes for dust in bin to settle\nbefore opening)\n6.) Collect 300 ml 50/50 mix and 700 ml peat moss, combine in a new plastic bucket to\nmake a 15% lunar simulant, 85% Peat moss mix (Allow 5 minutes for dust in bin to settle\nbefore opening)\n7.) Fill row 1 planters with 100% Lunar simulant\n8.) Fill row 2 planters with 50/50 mix\n9.) Fill row 3 planters with new 25/75 mix\n10.) Fill row 4 planters with 15/85 mix\n11.) Water all planter cells with 10 ml of distilled water and stir simulant to hydrate\n12.) Plant green bean seeds in first line of rows 1-4 approximately 1/2 inch deep in soil\n13.) Plant Swiss chard seeds in second line of rows 1-4\n14.) Set plants on growing mat and under LED Light 24/7\n15.) Saran Wrap over the top of the growing tray for 4-10 days or until seeds begin\ngerminating\n16.) Water with 5 ml approximately once every 2 days (based upon school A/B schedule)\n17.) When soil appears dry prior to watering, pour 400 ml of water in lower growing trays to\nbe slowly absorbed by individual cells.\n19.) Monitor/measure Growth in mm weekly",
+      "char_count": 1624,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "text": "Difficulties and Revisions\nThe initial Experimental Design had to be edited significantly before the current\nexperimental layout was structured. The initial attempt at hydrating the lunar regolith failed, as\ntoo much water was used (25 ml). Due to the hydrophobic nature of the lunar simulant and its\nsmall particle size, the water took over a day to fully saturate the soil. Once saturated the\nsimulant solidified due to the lack of pore space between soil particles. This was severe enough\nthat seeds could not feasibly be planted. The experiment was restarted and the initial saturation\namount was reduced to 10 ml.\nThe initial design also planned to track pH readings of soil/regolith throughout the\nexperiment. However there was not enough spare growing media to effectively measure pH,\nmaking any readings taken an unreliable source of data and this variable was removed from the\nexperiment.\nAlso removed as a variable was the use of fertilizer. The initial design called for the use\nof fertilizer at the 4 week growing mark, under the assumption that seeds were planted at the start\nof the 8 week growing period, and germinating within 4-7 days of the start date. However the\nfirst \u201cset\u201d of Swiss Chard and Green Bean seeds planted had a 0% germination rate after 10 days.\nThe seeds were a year old and the assumption is that they were faulty. At this point, the\nexperiment needed to be restarted with newly purchased seeds from 2022. The new planting date\nfor the seeds was October 21, 2022. At this point there were less than 4 weeks remaining in the\ngrowing period and the observation of fertilizer use on plant growth could not be done.",
+      "char_count": 1647,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "text": "Results",
+      "char_count": 7,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "text": "Results (Continued)\nThe Germination rate for the Swiss Chard Control was 2/6 and the die off rate was zero.\nThe Swiss Chard in 100% Lunar Regolith had a germination rate of 2/6 with 50% die off. The\n50% lunar regolith to peat moss samples germinated at 3/6 with 33% die off, The 25% lunar\nsimulant germinated at 2/6 with a 50% die off, and 15% regolith germinated at 3/6 with a 66%\ndie off rate.\nThe Green Bean control sample also germinated at 2/6 with zero die off. Green Bean\nseeds did not germinate in 100% or 25% lunar simulant. In the 50% regolith seeds germinated at\na rate of 1/6 with 100% die off. In 15% simulant germination was also 1/6 with zero die-off.\nThe heights of all Swiss Chard and Green Bean plants were recorded throughout the\nexperiment and taken in inches. The final heights recorded are as follows: The 2 Swiss Chard\ncontrols averaged 54.1mm, the 100% sample was 27.9mm, the 2 50% samples averaged\n57.1mm, the 25% regolith sample was 6.4mm, and the 15 percent sample was 38.1mm. For\nGreen Beans the 2 controls averaged 279.4mm with a notable differentiation between the\nmeasurements. One plant measured 12.7mm while the other measured 546.1mm. The only\nsurviving lunar regolith Green Bean plant was a 15% regolith sample measuring 6.4mm.\nThis experiment most notably demonstrates the inhospitableness of Lunar regolith. Of the\ntwo seed types, Green Beans struggled particularly with germination, with only 2 of 24 seeds\ngerminating in any lunar simulant samples, despite replanting of multiple seed samples. Of these\nonly one seed survived in the most diluted 15% lunar to peat moss growing media. The Swiss\nChard Seeds were more successful but still demonstrated a below average germination and\nsurvival rate with 10 of 24 seeds germinating and 5 plants surviving. Death, or complete lack of\ngermination was recorded for both plant species in all 4 soil ratios. By comparison, the",
+      "char_count": 1906,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "text": "soil/control samples for Swiss Chard and Green Beans both germinated at low rates of 2/6 but\ndemonstrated consistent growth and zero die off throughout the experiment.\nThe most hospitable ratios of peat moss to lunar regolith simulant was relatively\nconsistent between Green Beans and Swiss Chard. 50% Lunar regolith proved to be the best\ngrowing media for Swiss Chard plants, and 15% the best growing media for Green Beans and the\nsecond best for Swiss Chard.\nBoth plant species germinated at the highest rates in 50 and 15 percent lunar simulant.\nFor Swiss chard, the 3/6 germination of both 15% and 50% was higher than the germination rate\nof the control. For Green Beans the most successful lunar simulants were half the germination\nrate of the control and were the default most successful as they were the only plants to germinate.\n50% and 15% lunar simulant also persisted as the most hospitable conditions for long\nterm survival and growth. For Swiss chard the largest plant height average between the control\nand lunar simulant samples were the 50% samples at 57.1mm this was also the most resilient of\nall the lunar/peat moss ratios. The 15% saw reasonable growth as the second largest lunar\nsimulant plant reaching 38.1mm. The only surviving Green Bean sample was a 6.4 mm green\nbean plant from the 15% lunar regolith.\nThe least hospitable growing media for any plants was the 100% lunar simulant and the\n25% simulant as Green Beans would not germinate in either and the smallest Swiss Chard plants\nof the experiment were grown in these soil samples. The 100% lunar regolith Swiss Chard that\nsurvived reached 27.9mm. This is logical as the lunar regolith by itself has little to no nutritional\nvalue, making survival and rapid growth less likely than in peat moss subsidized growing media.\nHowever, the persistent failure of plant growth in 25% lunar regolith is inconsistent with other",
+      "char_count": 1896,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "text": "data results. The 25% seed sample results could be expected to fall somewhere between those of\n50% and 15% but fall significantly closer to those of 100% lunar regolith.",
+      "char_count": 169,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 12,
+      "text": "Conclusion\nThe purpose of this experiment was to determine whether a mixture of 50/50 lunar\nregolith and peat moss, a 25/75 mixture, a 15/85 mixture, or pure lunar regolith, would result in\ngreater germination rates and greater plant heights for Swiss Chard and Green Beans.\nThe experiment results demonstrate that a mixture of up to 50% lunar regolith with peat\nmoss can provide growth results comparable to that of the earth soil samples for Swiss Chard\nplants and a 15% lunar regolith mixture for Green Beans. The 50% and 15% lunar regolith\nmixture were the highest germinating growing media for both plant types. These two regolith\nmixtures also demonstrated the highest plant heights for Swiss Chard with average heights of\n57.1mm for 50% and 38.1mm for 15%. The only surviving green bean plant after initial\ngermination was a 6.4mm 15% regolith sample, making it the most, and only, hospitable growing\nmedium for Green Bean survival long term. There was a result gap for the 25% simulant mix as\ngermination rates and plant heights did not fall within that of the 50% and 15% as expected. The\nexperimental data patterns indicate that the results for the 25% lunar regolith are inconsistent\nwith the experiment.\nIt was hypothesized that the highest concentrations of Peat Moss would show the greatest\nGermination and growth rates, closest to the rates of the control seeds, due to the nutritional\nvalue added by peat moss. Our hypothesis is supported by the results of the Green Bean samples\nand partially disproved by the Swiss Chard Samples.\nThe highest Peat moss concentration sample made up of 85% peat moss and 15% lunar\nsimulant was the only growing medium Green Beans could survive in. However Green Bean\nseeds were capable of germinating in 50% lunar simulant samples as well. Under the assumption",
+      "char_count": 1809,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 13,
+      "text": "that the lack of data for 25% simulant is faulty, this supports the hypothesis as the Greatest\nsuccess for Green Beans was found within the greatest Peat Moss Concentration samples.\nThe results of Swiss Chard are less supportive of the hypothesis as the most successful\ngrowing media was not the highest Peat Moss concentration sample. The most successful\nregolith mixture for germination and long term growth was the 50% mixture. However, the 15%\nregolith mixture fell close behind in germination and long term survival. In addition, the 100%\nlunar simulant for Swiss Chard was farther behind both in germination and final height. This\ndemonstrates the positive impact of peat moss on Swiss Chard growth when combined with lunar\nregolith, but does not support the prediction that a correlation would be present between level of\nsuccess and amount of peat moss present.\nThis experiment has provided valuable information on how to more effectively set up a\nstudy on lunar regolith simulants, but lacked the size to prove statistical significance. The results\ndemonstrated inconsistencies that call for the experiment to be rerun over a full 8 week growth\nperiod with a larger experimental group for more accurate results.",
+      "char_count": 1220,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 14,
+      "text": "Appendix A - Initial Growing Tray Guide (W/Fertilizer)\nKey:\nSC - Swiss Chard GB - Green Beans\nF - Fertilized\nNF - Non Fertilized\nBlue - 100% Lunar Green - 50% Lunar Yellow - 25% Lunar\nRed - 15% Lunar\nPurple - Control/Soil\nSC F\nSC F\nSC F\nSC NF\nSC NF\nSC NF\nGB F\nGB F\nGB F\nGB NF\nGB NF\nGB NF\nSC F\nSC F\nSC F\nSC NF\nSC NF\nSC NF\nGB F\nGB F\nGB F\nGB NF\nGB NF\nGB NF\nSC F\nSC F\nSC F\nSC NF\nSC NF\nSC NF\nGB F\nGB F\nGB F\nGB NF\nGB NF\nGB NF\nSC F\nSC F\nSC F\nSC NF\nSC NF\nSC NF\nGB F\nGB F\nGB F\nGB NF\nGB NF\nGB NF\nSC F\nSC F\nSC F\nGB F\nGB F\nGB F\nSC NF\nSC NF\nSC NF\nGB NF\nGB NF\nGB NF",
+      "char_count": 551,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "SC F",
+            "SC F",
+            "SC F",
+            "SC NF",
+            "SC NF",
+            "SC NF"
+          ],
+          [
+            "GB F",
+            "GB F",
+            "GB F",
+            "GB NF",
+            "GB NF",
+            "GB NF"
+          ],
+          [
+            "SC F",
+            "SC F",
+            "SC F",
+            "SC NF",
+            "SC NF",
+            "SC NF"
+          ],
+          [
+            "GB F",
+            "GB F",
+            "GB F",
+            "GB NF",
+            "GB NF",
+            "GB NF"
+          ],
+          [
+            "SC F",
+            "SC F",
+            "SC F",
+            "SC NF",
+            "SC NF",
+            "SC NF"
+          ],
+          [
+            "GB F",
+            "GB F",
+            "GB F",
+            "GB NF",
+            "GB NF",
+            "GB NF"
+          ],
+          [
+            "SC F",
+            "SC F",
+            "SC F",
+            "SC NF",
+            "SC NF",
+            "SC NF"
+          ],
+          [
+            "GB F",
+            "GB F",
+            "GB F",
+            "GB NF",
+            "GB NF",
+            "GB NF"
+          ]
+        ],
+        [
+          [
+            "SC F",
+            "SC F",
+            "SC F",
+            "GB F",
+            "GB F",
+            "GB F"
+          ],
+          [
+            "SC NF",
+            "SC NF",
+            "SC NF",
+            "GB NF",
+            "GB NF",
+            "GB NF"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 15,
+      "text": "Appendix B - Revised Growing Tray Guide (Non-Fertilized)\nKey:\nSC - Swiss Chard GB - Green Beans\nBlue - 100% Lunar Green - 50% Lunar Yellow - 25% Lunar\nRed - 15% Lunar\nPurple - Control/Soil\nSC\nSC\nSC\nSC\nSC\nSC\nGB\nGB\nGB\nGB\nGB\nGB\nSC\nSC\nSC\nSC\nSC\nSC\nGB\nGB\nGB\nGB\nGB\nGB\nSC\nSC\nSC\nSC\nSC\nSC\nGB\nGB\nGB\nGB\nGB\nGB\nSC\nSC\nSC\nSC\nSC\nSC\nGB\nGB\nGB\nGB\nGB\nGB\nSC\nSC\nSC\nGB\nGB\nGB\nSC\nSC\nSC\nGB\nGB\nGB",
+      "char_count": 368,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "SC",
+            "SC",
+            "SC",
+            "SC",
+            "SC",
+            "SC"
+          ],
+          [
+            "GB",
+            "GB",
+            "GB",
+            "GB",
+            "GB",
+            "GB"
+          ],
+          [
+            "SC",
+            "SC",
+            "SC",
+            "SC",
+            "SC",
+            "SC"
+          ],
+          [
+            "GB",
+            "GB",
+            "GB",
+            "GB",
+            "GB",
+            "GB"
+          ],
+          [
+            "SC",
+            "SC",
+            "SC",
+            "SC",
+            "SC",
+            "SC"
+          ],
+          [
+            "GB",
+            "GB",
+            "GB",
+            "GB",
+            "GB",
+            "GB"
+          ],
+          [
+            "SC",
+            "SC",
+            "SC",
+            "SC",
+            "SC",
+            "SC"
+          ],
+          [
+            "GB",
+            "GB",
+            "GB",
+            "GB",
+            "GB",
+            "GB"
+          ]
+        ],
+        [
+          [
+            "SC",
+            "SC",
+            "SC",
+            "GB",
+            "GB",
+            "GB"
+          ],
+          [
+            "SC",
+            "SC",
+            "SC",
+            "GB",
+            "GB",
+            "GB"
+          ]
+        ]
+      ]
+    }
+  ]
+}

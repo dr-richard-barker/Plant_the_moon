@@ -1,0 +1,161 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://dr-richard-barker.github.io/Plant_the_moon/schemas/experiment_record.schema.json",
+  "title": "Plant the Moon Structured Experimental Extraction",
+  "description": "Structured scientific parameters, treatment trial arms, and verbatim PDF provenance extracted from a Plant the Moon report.",
+  "type": "object",
+  "required": [
+    "report_id",
+    "extraction_method",
+    "celestial_body",
+    "regolith_simulant",
+    "crop_common_name",
+    "crop_guild",
+    "has_earth_soil_control",
+    "has_unamended_regolith_control",
+    "summary_findings",
+    "arms"
+  ],
+  "properties": {
+    "report_id": { "type": "string", "minLength": 3 },
+    "extraction_method": {
+      "type": "string",
+      "enum": ["gemini_structured", "heuristic"]
+    },
+    "model_name": { "type": ["string", "null"] },
+    "celestial_body": {
+      "type": "string",
+      "enum": ["lunar", "martian", "both", "unspecified"]
+    },
+    "regolith_simulant": {
+      "type": "string",
+      "enum": [
+        "LHS-1",
+        "LHS-1D",
+        "LMS-1",
+        "LMS-1D",
+        "JSC-1A",
+        "MGS-1",
+        "MGS-1S",
+        "MMS-1",
+        "MMS-2",
+        "exolith_unspecified",
+        "other",
+        "unspecified"
+      ]
+    },
+    "regolith_simulant_raw": { "type": ["string", "null"] },
+    "crop_common_name": { "type": "string" },
+    "crop_scientific_name": { "type": ["string", "null"] },
+    "crop_guild": {
+      "type": "string",
+      "enum": [
+        "leafy_green",
+        "root",
+        "legume",
+        "fruiting",
+        "grain",
+        "herb",
+        "fungi",
+        "microgreen",
+        "mixed",
+        "other",
+        "unspecified"
+      ]
+    },
+    "experimental_duration_days": { "type": ["number", "null"], "minimum": 0 },
+    "total_plants_or_pots": { "type": ["integer", "null"], "minimum": 1 },
+    "replicates_per_treatment": { "type": ["integer", "null"], "minimum": 1 },
+    "has_earth_soil_control": { "type": "boolean" },
+    "has_unamended_regolith_control": { "type": "boolean" },
+    "statistical_tests_reported": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "data_availability": {
+      "type": "string",
+      "enum": ["raw_table", "summary_means", "charts_only", "qualitative_only", "unknown"]
+    },
+    "primary_bottlenecks": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "alkaline_ph",
+          "compaction_crusting",
+          "hydrophobicity_water_retention",
+          "nutrient_deficiency",
+          "heavy_metals_or_salinity",
+          "microbial_contamination",
+          "germination_failure",
+          "light_or_temperature_stress",
+          "root_restriction",
+          "other"
+        ]
+      }
+    },
+    "innovation_tags": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "key_hypothesis": { "type": ["string", "null"] },
+    "summary_findings": { "type": "string" },
+    "arms": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "arm_id",
+          "is_control",
+          "amendment_category",
+          "outcome_vs_regolith_control"
+        ],
+        "properties": {
+          "arm_id": { "type": "string" },
+          "arm_label": { "type": ["string", "null"] },
+          "is_control": { "type": "boolean" },
+          "control_type": {
+            "type": ["string", "null"],
+            "enum": ["earth_soil", "unamended_regolith", "none", null]
+          },
+          "regolith_pct": { "type": ["number", "null"], "minimum": 0, "maximum": 100 },
+          "amendment_category": {
+            "type": "string",
+            "enum": [
+              "none_control",
+              "earth_soil_control",
+              "organic_compost_manure",
+              "vermicompost_aquaculture",
+              "microbial_mycorrhizal",
+              "hydrogel_alginate_polymer",
+              "synthetic_fertilizer_hydroponic",
+              "biochar_carbon",
+              "nano_fertilizer_mineral",
+              "plant_extract_waste",
+              "light_spectrum_env",
+              "coir_peat_perlite_substrate",
+              "multi_amendment",
+              "other"
+            ]
+          },
+          "amendment_detail": { "type": ["string", "null"] },
+          "amendment_dose": { "type": ["string", "null"] },
+          "germination_rate_pct": { "type": ["number", "null"], "minimum": 0, "maximum": 100 },
+          "survival_rate_pct": { "type": ["number", "null"], "minimum": 0, "maximum": 100 },
+          "mean_shoot_height_cm": { "type": ["number", "null"], "minimum": 0 },
+          "mean_root_length_cm": { "type": ["number", "null"], "minimum": 0 },
+          "mean_fresh_biomass_g": { "type": ["number", "null"], "minimum": 0 },
+          "mean_dry_biomass_g": { "type": ["number", "null"], "minimum": 0 },
+          "substrate_ph": { "type": ["number", "null"], "minimum": 0, "maximum": 14 },
+          "outcome_vs_regolith_control": {
+            "type": "string",
+            "enum": ["improved", "neutral", "reduced", "not_reported"]
+          },
+          "reported_effect_pct": { "type": ["number", "null"] },
+          "evidence_quote": { "type": ["string", "null"] },
+          "page_number": { "type": ["integer", "null"], "minimum": 1 }
+        }
+      }
+    }
+  }
+}

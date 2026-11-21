@@ -1,0 +1,101 @@
+{
+  "extraction": {
+    "report_id": "fall25-junior-wenceslaus-knights-gold-cf6453",
+    "extraction_method": "heuristic",
+    "model_name": "table-aware-lexicon-v2",
+    "celestial_body": "lunar",
+    "regolith_simulant": "unspecified",
+    "regolith_simulant_raw": null,
+    "crop_common_name": "lettuce",
+    "crop_scientific_name": "Lactuca sativa",
+    "crop_guild": "leafy_green",
+    "experimental_duration_days": 175.0,
+    "total_plants_or_pots": null,
+    "replicates_per_treatment": null,
+    "has_earth_soil_control": true,
+    "has_unamended_regolith_control": true,
+    "statistical_tests_reported": [],
+    "data_availability": "summary_means",
+    "primary_bottlenecks": [
+      "hydrophobicity_water_retention",
+      "nutrient_deficiency",
+      "microbial_contamination",
+      "light_or_temperature_stress"
+    ],
+    "innovation_tags": [
+      "plant_extract_waste"
+    ],
+    "key_hypothesis": "We were not correct on Hypothesis 1.",
+    "summary_findings": "We did some research and found that either they have a fungus or they need",
+    "arms": [
+      {
+        "arm_id": "arm_ctrl_earth",
+        "arm_label": "Earth Soil Control",
+        "is_control": true,
+        "control_type": "earth_soil",
+        "regolith_pct": 0.0,
+        "amendment_category": "earth_soil_control",
+        "amendment_detail": null,
+        "amendment_dose": null,
+        "germination_rate_pct": null,
+        "survival_rate_pct": null,
+        "mean_shoot_height_cm": null,
+        "mean_root_length_cm": null,
+        "mean_fresh_biomass_g": null,
+        "mean_dry_biomass_g": null,
+        "substrate_ph": null,
+        "outcome_vs_regolith_control": "not_reported",
+        "reported_effect_pct": null,
+        "evidence_quote": "\u25cb\u200b 100% Earth soil (control) + 2 worms",
+        "page_number": 1
+      },
+      {
+        "arm_id": "arm_ctrl_regolith",
+        "arm_label": "Unamended Regolith Control",
+        "is_control": true,
+        "control_type": "unamended_regolith",
+        "regolith_pct": 100.0,
+        "amendment_category": "none_control",
+        "amendment_detail": null,
+        "amendment_dose": null,
+        "germination_rate_pct": null,
+        "survival_rate_pct": null,
+        "mean_shoot_height_cm": null,
+        "mean_root_length_cm": null,
+        "mean_fresh_biomass_g": null,
+        "mean_dry_biomass_g": null,
+        "substrate_ph": null,
+        "outcome_vs_regolith_control": "neutral",
+        "reported_effect_pct": null,
+        "evidence_quote": "H3: Blends (RB-Mix, BE-Mix & B-Mix) will grow better than pure regolith and may be close to",
+        "page_number": 3
+      },
+      {
+        "arm_id": "arm_trt_1",
+        "arm_label": "Treatment (Banana peel)",
+        "is_control": false,
+        "control_type": "none",
+        "regolith_pct": null,
+        "amendment_category": "plant_extract_waste",
+        "amendment_detail": "Banana peel",
+        "amendment_dose": null,
+        "germination_rate_pct": null,
+        "survival_rate_pct": null,
+        "mean_shoot_height_cm": null,
+        "mean_root_length_cm": null,
+        "mean_fresh_biomass_g": null,
+        "mean_dry_biomass_g": null,
+        "substrate_ph": null,
+        "outcome_vs_regolith_control": "not_reported",
+        "reported_effect_pct": null,
+        "evidence_quote": "\u25cb\u200b 50% Regolith / 40% Earth soil / 10% Banana peel + 2 worms",
+        "page_number": 1
+      }
+    ]
+  },
+  "provenance_audit": {
+    "quotes_checked": 3,
+    "quotes_matched": 3,
+    "quote_match_rate": 1.0
+  }
+}

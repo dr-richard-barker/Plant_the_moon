@@ -1,0 +1,273 @@
+{
+  "report_id": "fall25-junior-lunar-planting-123dc1",
+  "sha256": "b4a8a1a4279dc420bef99efb703fd290fe6886a48e368069857ae3c98b7db302",
+  "page_count": 12,
+  "total_chars": 9899,
+  "avg_chars_per_page": 824.9,
+  "total_images": 19,
+  "table_count": 9,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Bean Plant Growth in Lunar Regolith \nSimulant With Different Percentages of \nSphagnum Moss as an Additive \nDate of report: November 25, 2025 \nTeam name: Lunar Planting\u200b \u200b\n\u200b\n\u200b\n\u200b\nTeam ID: 22975 \nTeam: Elena Damyanov\u200b\n\u200b\n\u200b\n\u200b\n\u200b\nCoach: Petya Parvanova \nEducational institutions of the team member: School of Humanity, STEALM Academy, 126 \n\"Petko Yu. Todorov\" School, Teach the Future Young Voices Network \n \nTeam photo \nMission badge",
+      "char_count": 427,
+      "image_count": 2,
+      "tables": [
+        [
+          [
+            "Team photo",
+            "Mission badge"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "Team name: Lunar Planting \nTeam ID: 22975 \nAbout the experiment \nIndependent variable \nPercent of sphagnum moss added to the pots, except for the control with 100% regolith \nDependent variable \nPlant growth: \n- height \n- number of leaves \n- number of pods \n- number of flowers \nControls \n1.\u200b Ratio of moss vs regolith (pot 1 - 100% lunar regolith; pot 2 - 50% regolith and 50% \nsphagnum moss; pot 3 - 75% regolith and 25% sphagnum moss; pot 4 - 85% regolith \nand 15% sphagnum moss). \n2.\u200b Pot size (provided by PTMC Jr). \n3.\u200b Species of plant (beans/Phaseolus vulgaris L.). \n4.\u200b Water amount (all pots received the same amount of water per watering). \n5.\u200b Type of water: filtered tap water. \n6.\u200b Number of seeds per pot (3 seeds added to each pot). \n7.\u200b Temperature (depended a lot on the temperature in our house and the weather). \n8.\u200b Humidity (was not the same throughout the experiment because it depended on the \nhumidity of our home, but was the same for all pots). \n9.\u200b Light (It was kept constant for all of the plants but depended on local climate. Curtains \nwere scheduled to open at sunrise and close at sunset using Aqara Home). \nAmendments \nFor this experiment we used New Zealand sphagnum moss (typically used for orchids). It has \nthe unique ability to absorb up to 20 times its own weight in water. \nHypothesis \nThe amount of sphagnum moss we add will distribute the water more evenly throughout the pot \nand lead to more efficient plant growth. It will also make the soil less compacted, which might \nresult in higher plants, more leaves, flowers, and pods. \n1",
+      "char_count": 1576,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "text": "Team name: Lunar Planting \nTeam ID: 22975 \nBackground \nWhy Lunar regolith? \nNASA\u2019s Artemis missions inspired me to choose Lunar regolith for my experiment. Contributing \nto the success of this mission will open doors for further space exploration and colonization. \nWhy sphagnum moss? \nSphagnum moss has the property of absorbing up to 20 times its own weight in water, which \nmeans less frequent watering will be needed, saving one of the most precious resources in \nspace. It also has the ability to reduce the compaction of lunar regolith. Sphagnum moss is \nlightweight, reducing the cost of the payload. Last but not least, when shagnum moss \ndecomposes it also adds organic matter to the potting medium. \nWhy plant growth (flowers, leaves, pods, etc.)? \nWe monitor the number of leaves as more leaves means more photosynthesis, therefore more \nfood for the plant to produce pods. We counted the number of flowers to see how many pods \none plant might produce in the regolith. We counted the number of pods to see how many of the \nflowers produced pods. \nWhy beans? \nBeans are very nutritious and filling, therefore a good meal source for astronauts in space. The \nspecific kind of bean I selected contains the following nutrients and minerals per 100 grams: \n21.3 g of protein, 1.8 g of fat, 40 g of carbohydrates, 17 g of fiber, 0.50 mg vitamin B1, 140 mg \nof magnesium, 0.01 mg of sodium, 426 mg of phosphorus, 6.17 mg of iron, 2.6 mg of zinc, and \nthe energy value is 260 kcal \nFurthermore, they are self-pollinating, which means they will not require pollinators to be \nbrought to space; they are nitrogen fixers, meaning that the potting mix they grow in will be \nbeneficial for the next crop that will be planted there; their stalks and leaves can be turned into \ncompost, which will add organic material and enrich the soil. \nBeans also have a relatively fast period from sowing to cropping: between 45 to 75 days. Dried \nbeans can be stored for longer periods of time, allowing the astronauts to cook them whenever \nneeded and bringing variety to their diet. \nExperimental rational \nMy experiment brings astronauts in space a good source of nutrition, the first steps for \ncultivating Mars and the Moon. This has relevance because my discoveries could potentially \nbring the Artemis missions valuable data and ideas. \n2",
+      "char_count": 2332,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "text": "Team name: Lunar Planting \nTeam ID: 22975 \nGrow pot setup \n \nFour pots were prepared and planted: \nPot 1 - 100% regolith (control) \nPot 2 - 50% regolith, 50% sphagnum moss \nPot 3 - 75% regolith, 25% sphagnum moss \nPot 4 - 85% regolith, 15% sphagnum moss \n \nAmmendments: \nPremium \nNew Zealand \nSphagnum moss (as described above) \n \nCrop: White bean variety from Dobrudzha, \nBulgaria, often referred to as Dobruzhanka. \n \n \nProcedures: \nPlanting procedure: \n1.\u200b Presoak the beans overnight \n2.\u200b Take out 4 pots and label them \n3.\u200b Divide the height of pots according to the percentage of regolith to be added (100%, \n85%, 75%, 50%) \n4.\u200b Take pot 1, fill with 100% regolith, place the regolith in a separate container, moisten the \nregolith, return potting mix to the pot and set aside for sowing. \n5.\u200b Take pot 2, fill with 50% regolith, add 50% sphagnum moss, place mixture in a separate \ncontainer, mix and moisten, return potting mix to the pot and set aside for sowing. \n6.\u200b Take pot 3, fill with 75% regolith, add 25% spahgnum moss, place mixture in a separate \ncontainer, mix and moisten, return potting mix to the pot and set aside for sowing. \n7.\u200b Take pot 4, fill with 85% regolith, add 15% sphagnum moss, place mixture in a separate \ncontainer, mix and moisten, return potting mix to the pot and set aside for sowing. \n8.\u200b Sow 3 seeds of equal size in each of the pots. \n9.\u200b Place the pots next to the window receiving the most light in our living room. \n \n \n \n \n3",
+      "char_count": 1472,
+      "image_count": 1,
+      "tables": [
+        [
+          [
+            "Four pots were prepared and planted: Pot 1 - 100% regolith (control) Pot 2 - 50% regolith, 50% sphagnum moss Pot 3 - 75% regolith, 25% sphagnum moss Pot 4 - 85% regolith, 15% sphagnum moss Ammendments: Premium New Zealand Sphagnum moss (as described above) Crop: White bean variety from Dobrudzha, Bulgaria, often referred to as Dobruzhanka.",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 5,
+      "text": "Team name: Lunar Planting \nTeam ID: 22975 \nTracking procedure (minimum twice a week): \n1.\u200b Check if plants need watering \n2.\u200b Use a measuring tape to measure plant height in centimeters and record the data \n3.\u200b Count and write down the number of leaves on each plant \n4.\u200b Check for flowers and record their amount \n5.\u200b Look for pods and write down their number \n \nExperiment photos \n \nWeek 2 \nPlanting \n \n \nWeek \n2 \nGrowth \n \n \n4",
+      "char_count": 429,
+      "image_count": 4,
+      "tables": [
+        [
+          [
+            "Week 2 Planting",
+            "",
+            ""
+          ],
+          [
+            "Week 2 Growth",
+            "",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 6,
+      "text": "Team name: Lunar Planting \nTeam ID: 22975 \nWeek 3 \n \nWeek 4 \n \n5",
+      "char_count": 64,
+      "image_count": 2,
+      "tables": [
+        [
+          [
+            "Week 3",
+            ""
+          ],
+          [
+            "Week 4",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 7,
+      "text": "Team name: Lunar Planting \nTeam ID: 22975 \nWeek 5 \n \n6",
+      "char_count": 54,
+      "image_count": 1,
+      "tables": [
+        [
+          [
+            "Week 5",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 8,
+      "text": "Team name: Lunar Planting \nTeam ID: 22975 \n \nWeek 6 \n \n \n7",
+      "char_count": 58,
+      "image_count": 3,
+      "tables": [
+        [
+          [
+            "Week 6",
+            "",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 9,
+      "text": "Team name: Lunar Planting \nTeam ID: 22975 \nWeek 7 \n \n \nWeek 8 \n \n \n \nDisclaimers: \n1.\u200b We couldn\u2019t plant during the first growth period week due to illness. \n2.\u200b Pot 1 (100% regolith) needed to be replanted due to lack of growth for over 18 days. It \nwas replanted on October 25th. \n3.\u200b We restarted the day counter for pot 1 after replanting, therefore there is no data for the \ndays after day 29. \n4.\u200b In pot 1 (100% regolith) only 2 of the plants emerged. \n5.\u200b The tip of plant 2 in pot 3 was broken during support installation in week 2, so it could \nnot reach its full potential height \n8",
+      "char_count": 593,
+      "image_count": 4,
+      "tables": [
+        [
+          [
+            "Week 7",
+            "",
+            ""
+          ],
+          [
+            "Week 8",
+            "",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 10,
+      "text": "Team name: Lunar Planting \nTeam ID: 22975 \nResults \nData collection \nWe collected data about each of the plants in each pot: \n-\u200b\nHeight in centimeters \n-\u200b\nNumber of leaves (also counting the seed leaves or cotyledons) \n-\u200b\nNumber of flowers \n-\u200b\nNumber of pods \nBelow we present this data as tables and charts. \n \nAverage Plant Height \n \nNumber of leaves \n \nAverage number of leaves per pot for the duration of the growth period \n \nWeek Number \nPot setup \n2 \n3 \n4 \n5 \n6 \n7 \n8 \nPot 1 (100% regolith) \n0.0 \n8.5 \n9.5 \n12.0 \n \n \n \nPot 2 (50% regolith) \n0.0 \n5.7 \n10.0 \n12.7 \n13.0 \n15.7 \n18.7 \nPot 3 (75% regolith) \n0.0 \n8.3 \n10.3 \n12.7 \n14.3 \n15.7 \n18.3 \nPot 4 (85% regolith) \n0.0 \n6.7 \n9.0 \n11.7 \n13.7 \n14.0 \n13.7 \n \n9",
+      "char_count": 713,
+      "image_count": 1,
+      "tables": [
+        [
+          [
+            "Average number of leaves per pot for the duration of the growth period",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "Week Number",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Pot setup",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8"
+          ],
+          [
+            "Pot 1 (100% regolith)",
+            "0.0",
+            "8.5",
+            "9.5",
+            "12.0",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Pot 2 (50% regolith)",
+            "0.0",
+            "5.7",
+            "10.0",
+            "12.7",
+            "13.0",
+            "15.7",
+            "18.7"
+          ],
+          [
+            "Pot 3 (75% regolith)",
+            "0.0",
+            "8.3",
+            "10.3",
+            "12.7",
+            "14.3",
+            "15.7",
+            "18.3"
+          ],
+          [
+            "Pot 4 (85% regolith)",
+            "0.0",
+            "6.7",
+            "9.0",
+            "11.7",
+            "13.7",
+            "14.0",
+            "13.7"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 11,
+      "text": "Team name: Lunar Planting \nTeam ID: 22975 \n \nNumber of flowers \n \nAverage number of flowers per pot \n \nWeek number \nPot setup \n7 \n8 \nPot 1 (100% regolith) 0.0 \n0.0 \nPot 2 (50% regolith) 1.3 \n1.7 \nPot 3 (75% regolith) 0.0 \n2.0 \nPot 4 (85% regolith) 2.5 \n1.5 \n \nNumber of pods \nDuring the last week, pots 2 and 4 both had 1.5 pods on average. \nAnalysis \nThe experimental design was sound and the collected data is trustworthy and consistent. \nHowever, the failure of the first planting in pot 1 and the shorter growth period for the team (1 \nweek was lost due to illness) did not produce the convincing results we were hoping for. \nBy height, the 75% regolith, 25% sphagnum moss pot achieved the best results, however it did \nnot grow any pods before the end of the growth period. For comparison, pot 2 and pot 4 did not \nreach the same average height, but at the end of the growth period each of them had 1.5 pods \non average. \n10",
+      "char_count": 929,
+      "image_count": 1,
+      "tables": [
+        [
+          [
+            "Average number of flowers per pot",
+            "",
+            ""
+          ],
+          [
+            "",
+            "Week number",
+            ""
+          ],
+          [
+            "Pot setup",
+            "7",
+            "8"
+          ],
+          [
+            "Pot 1 (100% regolith)",
+            "0.0",
+            "0.0"
+          ],
+          [
+            "Pot 2 (50% regolith)",
+            "1.3",
+            "1.7"
+          ],
+          [
+            "Pot 3 (75% regolith)",
+            "0.0",
+            "2.0"
+          ],
+          [
+            "Pot 4 (85% regolith)",
+            "2.5",
+            "1.5"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 12,
+      "text": "Team name: Lunar Planting \nTeam ID: 22975 \nWhat we have observed for all 3 plants in pot 4 (85% regolith) is that its leaves gradually started \nto yellow from the bottom up, as you will see from the graph \u201cAverage Number of Leaves Per \nPot\u201d. This might be considered evidence of a shorter life span for the plants in the lunar regolith. \nHowever, further experiments should be conducted in order to reach a conclusion. \nConclusions \nWe believe that adding sphagnum moss could be beneficial, especially for high water demand \nplants on the moon. However, from our experiment we could not fully conclude what the best \nratio of sphagnum moss for bean plants is. Further experiments should be done in order to \ndetermine the precise ratios that would benefit the plants the most. \nFuture considerations \n1.\u200b Planting on the first possible day in order to give the plants enough time to grow \n2.\u200b Adding compost/soil to the pots that are not a control \n3.\u200b Thinning out the plants so the roots have more space to develop and have more \nnutrients \n4.\u200b Counting the total number of flowers that a plant produces instead of how many are \ncurrently on the plant \n5.\u200b Adding plant support before placing the seeds in the pots to prevent risk of damaging \n \n \n11",
+      "char_count": 1252,
+      "image_count": 0,
+      "tables": []
+    }
+  ]
+}

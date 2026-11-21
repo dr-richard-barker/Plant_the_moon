@@ -1,0 +1,77 @@
+{
+  "extraction": {
+    "report_id": "fall24-junior-sjcs-incrementums-7-8th-grade-f1d068",
+    "extraction_method": "heuristic",
+    "model_name": "table-aware-lexicon-v2",
+    "celestial_body": "lunar",
+    "regolith_simulant": "unspecified",
+    "regolith_simulant_raw": null,
+    "crop_common_name": "arugula",
+    "crop_scientific_name": "Eruca vesicaria",
+    "crop_guild": "leafy_green",
+    "experimental_duration_days": null,
+    "total_plants_or_pots": null,
+    "replicates_per_treatment": null,
+    "has_earth_soil_control": true,
+    "has_unamended_regolith_control": false,
+    "statistical_tests_reported": [],
+    "data_availability": "summary_means",
+    "primary_bottlenecks": [
+      "light_or_temperature_stress"
+    ],
+    "innovation_tags": [
+      "light_spectrum_env"
+    ],
+    "key_hypothesis": "Hypothesis Team: Luke A.",
+    "summary_findings": "flower faster, and overall it will grow better because it is documented that blue light",
+    "arms": [
+      {
+        "arm_id": "arm_ctrl_earth",
+        "arm_label": "Earth Soil Control",
+        "is_control": true,
+        "control_type": "earth_soil",
+        "regolith_pct": 0.0,
+        "amendment_category": "earth_soil_control",
+        "amendment_detail": null,
+        "amendment_dose": null,
+        "germination_rate_pct": null,
+        "survival_rate_pct": null,
+        "mean_shoot_height_cm": null,
+        "mean_root_length_cm": null,
+        "mean_fresh_biomass_g": null,
+        "mean_dry_biomass_g": null,
+        "substrate_ph": null,
+        "outcome_vs_regolith_control": "not_reported",
+        "reported_effect_pct": null,
+        "evidence_quote": "a) What does purple light do for plant growth in Moon regolith vs Earth soil?",
+        "page_number": 2
+      },
+      {
+        "arm_id": "arm_trt_1",
+        "arm_label": "Treatment (blue light)",
+        "is_control": false,
+        "control_type": "none",
+        "regolith_pct": null,
+        "amendment_category": "light_spectrum_env",
+        "amendment_detail": "blue light",
+        "amendment_dose": null,
+        "germination_rate_pct": null,
+        "survival_rate_pct": null,
+        "mean_shoot_height_cm": null,
+        "mean_root_length_cm": null,
+        "mean_fresh_biomass_g": null,
+        "mean_dry_biomass_g": null,
+        "substrate_ph": null,
+        "outcome_vs_regolith_control": "improved",
+        "reported_effect_pct": null,
+        "evidence_quote": "flower faster, and overall it will grow better because it is documented that blue light",
+        "page_number": 2
+      }
+    ]
+  },
+  "provenance_audit": {
+    "quotes_checked": 2,
+    "quotes_matched": 2,
+    "quote_match_rate": 1.0
+  }
+}

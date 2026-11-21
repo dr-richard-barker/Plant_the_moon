@@ -1,0 +1,1375 @@
+{
+  "report_id": "fall22-main-vit-vaial-team-3-028ead",
+  "sha256": "fbfe0e1317ecf4b017d092b894b0b94630e1b4b69bbd4995dd8ff5b9c01283ac",
+  "page_count": 26,
+  "total_chars": 24566,
+  "avg_chars_per_page": 944.8,
+  "total_images": 41,
+  "table_count": 29,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PLANT THE MARS \nAND MOON \nCHALLENGE\nTeam Members\nAisha Hameed\nNishanth.CN\nSrija.R\nShashanth. G\nMridula.S\nBharathi Mithra B.G\nSwetha.K.B\nParkavi.K\nKomali.K\nDr Saiyyeda Firdous\nVIT School of Agricultural Innovations \nand Advanced Learning (VAIAL)\nVellore Institute of Technology, \nVellore 632014, INDIA. \nTEAM NAME: VIT VAIAL Team 3\nCHALLENGE DIVISION: \nUndergraduate\nChief Advisor: Dr. Subramanian Babu\nMentors: Dr. Parthasarathi.T\nTEAM#: 10726\nCoriander in martial regolith: Promoting growth \nwith optimal amendments",
+      "char_count": 516,
+      "image_count": 6,
+      "tables": [
+        [
+          [
+            "PLANT THE MARS AND MOON CHALLENGE TEAM#: 10726 Coriander in martial regolith: Promoting growth with optimal amendments Team Members TEAM NAME: VIT VAIAL Team 3 CHALLENGE DIVISION: Aisha Hameed Undergraduate Nishanth.CN Chief Advisor: Dr. Subramanian Babu Srija.R Mentors: Dr. Parthasarathi.T Shashanth. G Mridula.S Bharathi Mithra B.G Swetha.K.B VIT School of Agricultural Innovations Parkavi.K and Advanced Learning (VAIAL) Komali.K Vellore Institute of Technology, Vellore 632014, INDIA. Dr Saiyyeda Firdous",
+            ""
+          ],
+          [
+            "",
+            "Team Members Aisha Hameed Nishanth.CN Srija.R Shashanth. G Mridula.S Bharathi Mithra B.G Swetha.K.B Parkavi.K Komali.K Dr Saiyyeda Firdous"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "1 \n \nINTRODUCTION: \n \n A fundamental challenge in human missions to Mars is producing \nconsumable foods efficiently with the in-situ resources such as soil, water, \nnutrients and solar radiation available on Mars (Kasiviswanathan P et al., 2022). \nFor long-term missions on Mars, it is crucial to develop techniques to increase the \nnutrient content of the Martian soil and to desalinate. It is therefore essential to \ndevelop strategies to enhance nutrient content in Mars soil and to desalinate for \nlong-term missions on Mars. To tackle this issue, we have undertaken various \namendments to improve the nutrient supplying capability of the soil and salinity \nreducing bacteria to deter the salinity levels. \n \nCoriander (Coriandrum sativum) is a flavorful, high-antioxidant herb with a wide \nrange of culinary use and has vitamins, minerals, and antioxidants in coriander that \nprovides significant health benefits. It may aid in lowering blood sugar, preventing \ninfections, and enhancing the health of your heart, brain, skin, and digestive system. \nCoriander seeds or leaves, often known as cilantro, are simple to incorporate into \nour diet. Vitamin K, which is essential for assisting with blood clotting, is abundant \nin the leaves and seeds of coriander. Additionally, vitamin K aids in bone healing, \nassisting in the prevention of conditions like osteoporosis. \n \nSimulated Martian regolith was tested with alfalfa added as a fertilizer. Turnips, \nradishes and lettuces require little in the way of maintenance, grow quickly, and don't \nneed much water and were all grown successfully in Martian regolith. \nThere is a catch though: fresh water was also needed. Based on previous \nexperiments, the briny water available on Mars could be treated with a type of marine \nbacteria and then filtered through volcanic rock in order to produce the fresh water \nneeded for crop growth at Mars (David Nield et al., 2022) condition. \nFuture martian habitation will be inadequate without these kinds of nourishing foods. \nWe have selected coriander to be the test crop to grow in the mars simulant given \nbased on the aforementioned considerations.",
+      "char_count": 2148,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Simulated Martian regolith was tested with alfalfa added as a fertilizer. Turnips,"
+          ],
+          [
+            "radishes and lettuces require little in the way of maintenance, grow quickly, and don't"
+          ],
+          [
+            "need much water and were all grown successfully in Martian regolith."
+          ],
+          [
+            "There is a catch though: fresh water was also needed. Based on previous"
+          ],
+          [
+            "experiments, the briny water available on Mars could be treated with a type of marine"
+          ],
+          [
+            "bacteria and then filtered through volcanic rock in order to produce the fresh water"
+          ],
+          [
+            "needed for crop growth at Mars (David Nield et al., 2022) condition."
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "2 \n \nTHEORY: \n \n Coriander is a tropical crop and can be grown throughout the year except in very \nhot seasons i.e. March-May. A dry and cold weather free from frost especially during \nflowering and fruit setting stage favors good grain production. Heavy rain affects \nthe crop. As an irrigated crop, it can be cultivated on almost all types of soils \nprovided sufficient organic matter is applied. Black cotton soils with high retentivity \nof moisture are best under rainfed conditions. \n \nThe Martian regolith is extremely salty and contains uncommon salts like sulphates \nand perchlorates, making its use in agriculture extremely difficult (Kasiviswanathan \nP 2022). \nAccording to Seiferlin et al., 2008 organic matter and biotic activity is not found in \nmartial soil. Therefore, all macro- and micronutrients, which are derived solely (N), \nlargely (P, S), or partially (K, Ca, Mg, Fe, Zn, Cu, Mn, B, Cl, and Ni) from the \nbreakdown of organic components, are possibly inadequate in Martian. Regolith \nsimulants therefore are unable to be sustainable for crop production in the absence \nof exogenous inputs of organic matter or inorganic fertilizers. \nThese simulations generally have properties that are detrimental to plant health, such \nas an high salt content (Ram\u00edrez et al., 2019) alkaline pH, high Na availability (Zeng \net al., 2015; K\u00f6lbl et al., 2017), low mineral component cohesiveness, and a \npreference for macro-vs. micropores and limited water storage capacity. \nAdditionally, hazardous perchlorates (Eichler et al., 2021) can occasionally be found \nin the Martian regolith. \nDeveloping techniques to eliminate or reduce salt toxicity is crucial, but it is also \nimportant to increase the fertility of Martian regolith by including organic materials \nreused from solid waste composting processes from the human habitat. \nThe use of microorganisms to degrade organic matter including nanoparticles for \nsoil remediation. (Ram\u00edrez et al., 2017). \n \nThe regolith may also play host to several potentially growth limiting characteristics: \nHigh salinity, phytotoxic substances (E.g. perchlorate, heavy metals, etc.), low water",
+      "char_count": 2143,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Coriander is a tropical crop and can be grown throughout the year except in very"
+          ],
+          [
+            "hot seasons i.e. March-May. A dry and cold weather free from frost especially during"
+          ],
+          [
+            "flowering and fruit setting stage favors good grain production. Heavy rain affects"
+          ],
+          [
+            "the crop. As an irrigated crop, it can be cultivated on almost all types of soils"
+          ],
+          [
+            "provided sufficient organic matter is applied. Black cotton soils with high retentivity"
+          ],
+          [
+            "of moisture are best under rainfed conditions."
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "3 \n \nholding capacity (WHC), nutrients present in non-bioavailable forms or at toxic \nconcentrations, and extremely low availability of organic matter. In its raw form, \nMartian regolith would likely be inhospitable for growing plants, but there is \npotential to treat it to make it suitable. (Fackrell, 2018). \n \nKhan et al. (2014) found that sodium chloride (NaCl) decreased all of the measured \nmetrics, such as seed germination, plant length, number of leaves, plant strength, \nnumber of roots, length of roots, and percentage of survival. \n \nAny plants growing on Martian soil will be under significant stress from the extreme \nsalinity of the soil. To maximize production in a protected, controlled environment \nwith a pressurized atmosphere, it will be essential to combine the right sowing \ntechnique with tolerant genotypes and soil management. \n \nCoriander crop requires NPK in the ratio 10:40:20 (Nitrogen: Phosphorus: \nPotassium). This is for 1 hectare of area requirement. It has been calculated for a \nsingle pot (1 liter in size) with 350g soil and added as a treatment. \n \nMEASUREMENTS AND METHODS: \n \n\u25cf Initial samples were analyzed in Mars Simulant and Earth Soil before \nproceeding with the experiment. \n\u25cf Test crop: Coriander (Coriandrum sativum) \n\u25cf Number of sets- 2 \n\u25cf SET 1 - Earth soil \n\u25cf SET 2 - Mars regolith \n\u25cf Treatment 1: Mars regolith 350g without adding any amendments is taken \nas control for the experiment. \n\u25cf Treatment 2: Mars regolith 350g, coir pith 150g, Vermicompost 100g, \nBiochar 5g, Gypsum 1.25g and Inorganic fertilizers Urea 0.04g, Single super \nphosphate 0.05, and Murate of potash 0.07g is added. \n\u25cf Treatment 3: Mars regolith 350g, Coir pith 150g, Vermicompost 100g, \nWaste Decomposer, Gypsum 1.25g. \n\u25cf Treatment 4: Mars regolith 350g, Coir pith 150g, Vermicompost 100g, \nBiochar 5g, Gypsum 1.25g, Bio dynamic manure 1.5g.",
+      "char_count": 1869,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "text": "4 \n \n\u25cf Another set uses Earth soil with the same treatment. \n\u25cf The total of 12 pots in each set, three replicas of each treatment. For the \nexperiment, a total of 24 pots were used. \n\u25cf 2 ml of Salinity reducing bacteria is added as an amendment in all mars \nregolith pots. It is provided by the School of Bio Sciences and Technology \n(SBST), Vellore Institute of Technology, Vellore, India. \n\u25cf Vermicompost used for the experiment were collected from the \nVermicomposting unit, VIT School of Agricultural Innovations and \nAdvanced Learning (VAIAL), Vellore, India. It is made from decomposing \nwaste using earthworms in our unit. It helps in plant growth and improving \nsoil qualities. \n\u25cf Biodynamic manure used for the experiment was collected from our faculties. \nIt is made from cow dung from a lactating cow of average 50-150 g dung per \nhorn, which is fermented and is buried in the soil for 6 months. It helps to \nstimulate root growth, increases germination and humus formation. The BD \n500 - Combination Manure (Cow horn + Cow dung + Flower manure) has its \nNitrogen, Potassium, Phosphorus and organic carbon content at 1.6%, 1.1%, \n2.5%, 24.50% respectively which will increase on the period basis. It helps to \nincrease the root growth and increase the germination (Vatsala et al., 2013) \n\u25cf Quality coriander seed of the variety Divya has been used for sowing. \n \nPROJECT HYPOTHESIS: \nThe hypothesis of the project is to improve soil quality by adding amendments \nand nutrients. The main objective of the experiment is to develop a healthy crop and \novercome crop establishment and growth issues. The primary goal of this research \nis to develop a better strategy for increasing coriander growth and yield in Martian \nsoil. One of the driving questions is whether the amendments and supplements are \neffective as a potential media for the mars soil. Furthermore, testing the potential of \namendments to reduce the salinity of mars soil is a driving research force.",
+      "char_count": 1974,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "text": "5 \n \nEXPERIMENTAL DESIGN AND PROCEDURES: \n \n\u25cf In a contained environment, experimental pots are placed in the shade net \nhouse, VIT school of Agricultural Innovations and Advanced Learning, \nVellore Institute of Technology, Vellore, India. To lower temperature and \nmaintain humidity inside the polyhouse, jute bags were placed on all sides and \nwere routinely irrigated. \n\u25cf The pots were filled with regolith, soil, amendments, treatments before \nsowing and were placed in an order. One table had Earth soil pots, and another \ntable had Mars regolith pots. \n\u25cf A transparent polythene sheet was covered in the top of the shade net to \nprotect the crops from rain. \n\u25cf Seeds were broken and soaked for 6 hours in water for uniform germination \nof seeds. \n\u25cf After setting up pots with treatments, 50 seeds in each pot were sown and 100 \nml of distilled water was added using measuring cylinders. \n\u25cf The \nexperimental \nsetup \nis \nshown \nas \nfollows.\n \n \n \n Figure 1. Picture of the pot setup in the polyhouse",
+      "char_count": 1004,
+      "image_count": 3,
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "text": "6 \n \n\u25cf Waste decomposing bacteria is mass multiplied by taking 2 kg of jaggery in \n200 L of water in a drum and mixing 1 bottle of waste decomposer. This \nmixture was stirred regularly with a wooden stick and closed tightly. After 5 \ndays, the solution turns creamy and can be used for application. \n\u25cf Waste decomposing bacteria were added at a ratio of 1:5 (waste \ndecomposing bacteria: distilled water) one time per week for five weeks. \npH was recorded in the first week as initial reading, later at the end of the \nstudy pH was analyzed. \n\u25cf Harvesting was carried out the 60th day after sowing on all the replications \nand the total biomass was recorded. \n \nPLANT ANALYSIS: \n \n The plant growth in the mars stimulant was recorded through various agronomic \nparameters, among them plant height and root length. Root length was recorded by \npulling out a plant in 1 pot for every pot during week 1 and a week before harvest. \nThis value is averaged and represented in the graph. \n \nThree analysis were carried out on the harvested plant samples i.e. Microbiome, Gas \nChromatography (GC) and Plant growth hormone analysis. For GC analysis 100 mg \nsamples from all the treatments of Earth and Mars soil were taken. For the \nMicrobiome and Hormone analysis 100 mg plant samples from four treatments were \nchosen. Plants harvested from treatment 2 and 4 of earth soil were sent for analysis \nof 430 mg each. Plants harvested from treatment 1 and 4 of the mars stimulant were \nsent for analysis of 321 mg, 871 mg respectively. The results are yet to come, which \nwill be further incorporated in our future study report. \n \nRESULTS AND DISCUSSION: \n \nInitial chemical analysis was done on mars regolith simulant using LaMotte \nsoil testing kit before the start of the growth period. The results revealed a neutral \npH of 7.8 and an electrical conductivity of 8.05 mS. The primary nutrient \nconcentration was estimated as Nitrogen at 0.03 ppm (low), Potassium at 17.8 ppm \n(very high), phosphate at 0.18 ppm (very low).",
+      "char_count": 2014,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "text": "7 \n \nTable 1. Initial Mars regolith analysis \n \nComponent \nResult \nElectrical Conductivity \n8.05 mS \npH \n7.81 \nNitrogen \n0.03 ppm \nPhosphorous \n0.18 ppm \nPotassium \n0.25 ppm \n \nOther growth supporting nutrients like copper was estimated at 11.8 ppm, \nchloride, iron and magnesium at higher levels. The pH of the soil samples was \ntested at various stages of the growth period. The initial pH of the mars simulant \nwas alkaline. After the amendments, the pH was reached near neutral and suitable \nfor growth of coriander cultivation under optimum pH 6-7 and electrical \nconductivity levels (Rabiei et al., 2020) \n \nTable 2. Initial and Final pH of Mars regolith and Earth soil at the end of \nstudy \nTreatments \nEarth soil \nMars regolith \nInitial pH \nFinal pH \nInitial pH \nFinal \nT1 \n8.2 \n7.3 \n8.4 \n7.9 \nT2 \n8.2 \n7.4 \n8.0 \n7.6 \nT3 \n8.2 \n7.2 \n8.1 \n7.8 \nT4 \n8.5 \n6.8 \n8.5 \n7.6 \nMean \n8.3 \n7.2 \n8.3 \n7.7",
+      "char_count": 898,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Component",
+            "Result"
+          ],
+          [
+            "Electrical Conductivity",
+            "8.05 mS"
+          ],
+          [
+            "pH",
+            "7.81"
+          ],
+          [
+            "Nitrogen",
+            "0.03 ppm"
+          ],
+          [
+            "Phosphorous",
+            "0.18 ppm"
+          ],
+          [
+            "Potassium",
+            "0.25 ppm"
+          ]
+        ],
+        [
+          [
+            "Treatments",
+            "Earth soil",
+            "",
+            "Mars regolith",
+            ""
+          ],
+          [
+            "",
+            "Initial pH",
+            "Final pH",
+            "Initial pH",
+            "Final"
+          ],
+          [
+            "T1",
+            "8.2",
+            "7.3",
+            "8.4",
+            "7.9"
+          ],
+          [
+            "T2",
+            "8.2",
+            "7.4",
+            "8.0",
+            "7.6"
+          ],
+          [
+            "T3",
+            "8.2",
+            "7.2",
+            "8.1",
+            "7.8"
+          ],
+          [
+            "T4",
+            "8.5",
+            "6.8",
+            "8.5",
+            "7.6"
+          ],
+          [
+            "Mean",
+            "8.3",
+            "7.2",
+            "8.3",
+            "7.7"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 9,
+      "text": "8 \n \n \nTable 3. Electrical conductivity (mS) of samples at the end of the study \n \nTreatments \nEarth Soil \nMars regolith \nT1 \n0.23 \n0.25 \nT2 \n0.29 \n0.15 \nT3 \n0.35 \n0.39 \nT4 \n0.24 \n0.31 \nMean \n0.28 \n0.27 \n \nTable 4. Germination percentage and plant height of samples in the first week \nTreatments \nEarth soil \nMars regolith \nGermination \npercentage (%) Plant height (cm) \nGermination \npercentage (%) \nPlant height \n(cm) \nT1 \n10.0 \n5.5 \n14.7 \n4.2 \nT2 \n13.0 \n5.2 \n50.7 \n6.9 \nT3 \n23.0 \n5.9 \n54.7 \n6.7 \nT4 \n13.3 \n5.5 \n19.3 \n4.7 \nMean \n14.8 \n5.5 \n34.8 \n5.6 \n \nThe highest plant height in the mar simulant was recorded in treatment 2, \ncontaining Biochar + Gypsum + NPK. The additional supplement of nitrogen, \nphosphorus and potassium was given through inorganic fertilizers such as Urea \n0.04g, Single super phosphate 0.05 g, and Murate of potash 0.07g per pot. The \nincrease in plant height with NPK fertilization can be attributed to the fact that macro \nelements, particularly nitrogen, promotes plant growth which ultimately increases \nthe number and length of the internodes which results in progressive increase in plant \nheight (Kwon et al., 2019).",
+      "char_count": 1150,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Treatments",
+            "Earth Soil",
+            "Mars regolith"
+          ],
+          [
+            "T1",
+            "0.23",
+            "0.25"
+          ],
+          [
+            "T2",
+            "0.29",
+            "0.15"
+          ],
+          [
+            "T3",
+            "0.35",
+            "0.39"
+          ],
+          [
+            "T4",
+            "0.24",
+            "0.31"
+          ],
+          [
+            "Mean",
+            "0.28",
+            "0.27"
+          ]
+        ],
+        [
+          [
+            "Treatments",
+            "Earth soil",
+            "",
+            "Mars regolith",
+            ""
+          ],
+          [
+            "",
+            "Germination percentage (%)",
+            "Plant height (cm)",
+            "Germination percentage (%)",
+            "Plant height (cm)"
+          ],
+          [
+            "T1",
+            "10.0",
+            "5.5",
+            "14.7",
+            "4.2"
+          ],
+          [
+            "T2",
+            "13.0",
+            "5.2",
+            "50.7",
+            "6.9"
+          ],
+          [
+            "T3",
+            "23.0",
+            "5.9",
+            "54.7",
+            "6.7"
+          ],
+          [
+            "T4",
+            "13.3",
+            "5.5",
+            "19.3",
+            "4.7"
+          ],
+          [
+            "Mean",
+            "14.8",
+            "5.5",
+            "34.8",
+            "5.6"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 10,
+      "text": "9 \n \n \n \n \nThe highest root length was observed in treatment 3 containing Gypsum + \nBiochar + Waste Decomposing Bacteria. It can be inferred that the microbial \nconsortium applied was effective in reducing the salinity of the mars stimulant, \nwhich paved the way for the better establishment of the plant and better root \ndevelopment. In addition, the biodynamic manure helps in increasing root activity, \nstimulates/increases soil-micro life, regulates trace elements, and helps in \nincreasing germination percentage (Zaller et al., 2004). \n \nFigure 2. Root length of plants on Mars regolith and Earth soil at the end of study",
+      "char_count": 627,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "text": "10 \n \nTotal biomass of the crop was recorded after harvest. The highest biomass was \nobserved in treatment 2 i.e., Mars simulant with Biochar, Gypsum and Inorganic \nfertilizers (Urea, Single super phosphate, and Murate of potash) followed by \ntreatment 4 containing Biochar, Gypsum, Bio dynamic manure. In T4, the \nbiodynamic manure BD 500 cow horn manure has the potential microbes which \nwere growth promotion capacity reasoned for the increased biomass (Vatsala et al., \n2013). The microbiome analysis of plant samples is yet to be completed for deeper \nunderstanding. In T2, Inorganic fertilizers, biochar played a major role in increasing \nvegetative growth and improving harvest biomass (Saleem et al., 2021). \n \nTable 5. Total biomass of harvested plant samples \n \nTreatments \nEarth Soil \nMars regolith \nT1 \n0.05 \n0.17 \nT2 \n0.09 \n0.26 \nT3 \n0.14 \n0.10 \nT4 \n0.25 \n0.20 \nMean \n0.13 \n0.18 \n \nThe nutrient analysis was done at the end of the growth period and observed that of \nthe considerable increase in the nitrogen content in all the treatments of the mars \nregolith except the control, the highest nitrogen content was found in treatment 3, \nwhereas potassium content was recorded the highest in treatment 2. In T3, the use \nof waste decomposing bacteria promoted the growth of bacterial population in soil \nand is considered an effective method for improving mars regolith for plant growth. \nThe organic amendments present (Biochar, Gypsum, Coir pith, Vermicompost) in \nT2, provided favorable growth, nutrient availability to the coriander plants by \nmaking the media suitable for the Martian regolith.",
+      "char_count": 1611,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Treatments",
+            "Earth Soil",
+            "Mars regolith"
+          ],
+          [
+            "T1",
+            "0.05",
+            "0.17"
+          ],
+          [
+            "T2",
+            "0.09",
+            "0.26"
+          ],
+          [
+            "T3",
+            "0.14",
+            "0.10"
+          ],
+          [
+            "T4",
+            "0.25",
+            "0.20"
+          ],
+          [
+            "Mean",
+            "0.13",
+            "0.18"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 12,
+      "text": "11 \n \n Table 6. Analysis of soils at the end of study \n \nEarth \nMars \nTreatments N (ppm) P (ppm) \nK (ppm) Treatments N (ppm) P (ppm) K (ppm) \nET1 \n5.7 \n41.86 \n112.7 \nMT1 \n0.4 \n26.48 \n39.1 \nET2 \n4.5 \n33.82 \n125.6 \nMT2 \n3.2 \n21.82 \n102.2 \nET3 \n5.8 \n30.2 \n101.3 \nMT3 \n3.4 \n20.84 \n24.14 \nET4 \n4.8 \n32.04 \n109.5 \nMT4 \n2.4 \n17.46 \n43.17 \n \nBased on an analysis of the data, it can be concluded that the addition of \ndifferent amendments, such as gypsum, biochar, inorganic fertilizers, microbial \nconsortiums, and biodynamic manure, will optimize the development of coriander \nin the mars regolith. The information and findings from this preliminary trial, which \nwas conducted to gather information, served as the basis for our present efforts to \nmaximize the growth and for our future undertaking on optimizing the growth of \namaranthus which was sowed using the aforementioned methods in the future in \norder to create a more suitable set of cultivation techniques for growing coriander in \nthe martian regolith.",
+      "char_count": 1010,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Earth",
+            "",
+            "",
+            "",
+            "Mars",
+            "",
+            "",
+            ""
+          ],
+          [
+            "reatments",
+            "N (ppm)",
+            "P (ppm)",
+            "K (ppm)",
+            "Treatments",
+            "N (ppm)",
+            "P (ppm)",
+            "K (ppm)"
+          ],
+          [
+            "ET1",
+            "5.7",
+            "41.86",
+            "112.7",
+            "MT1",
+            "0.4",
+            "26.48",
+            "39.1"
+          ],
+          [
+            "ET2",
+            "4.5",
+            "33.82",
+            "125.6",
+            "MT2",
+            "3.2",
+            "21.82",
+            "102.2"
+          ],
+          [
+            "ET3",
+            "5.8",
+            "30.2",
+            "101.3",
+            "MT3",
+            "3.4",
+            "20.84",
+            "24.14"
+          ],
+          [
+            "ET4",
+            "4.8",
+            "32.04",
+            "109.5",
+            "MT4",
+            "2.4",
+            "17.46",
+            "43.17"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 13,
+      "text": "12 \n \nReferences: \n \n1. Kasiviswanathan P, Swanner ED, Halverson LJ, Vijayapalani P (2022) Farming \non Mars: Treatment of basaltic regolith soil and briny water simulants sustains \nplant \ngrowth. \nPLoS \nONE \n17(8): \ne0272209. \nhttps://doi.org/10.1371/journal.pone.0272209 \n2. Khan, Muhammad & Malook, Ijaz & Atlas, Amir & Jan, Mehmood & Ullah, \nSami & Shah, Gulmeena. (2014). The Effect of Sodium Chloride (NaCl) stress \non Seed germination and Seedling Growth of Rice (Oryza Sativa L.). Journal of \nBio-Molecular Sciences. 2. 100-107. \n3. Kwon, Soo & Kim, Hye & Roy, Swapan & Kim, Hyun & Boo, Hee-Ock & Woo, \nSun-Hee & Kim, Hag. (2019). Effects of Nitrogen, Phosphorus and Potassium \nFertilizers on Growth Characteristics of Two Species of Bellflower (Platycodon \ngrandiflorum). Journal of Crop Science and Biotechnology. 22. 481-487. \nhttps://doi.org/10.1007/s12892-019-0277-0 \n4. Laura E Fackrell, Dr. Paul A. Schroeder, University of Georgia, Department of \nGeology, Franklin College of Arts and Sciences, Growing plants on mars \nregolith-potential and limitations of martian regolith for in-situ resource \nutilization, \n5. Milena Danici ,Ivana Maksimovic,Marina Putnik-Delic,Rudolf Kastori,Biomass \nproduction and mineral composition of coriander (Coriandrum sativum L.) \nexposed \nto \nNacl.https://www.researchgate.net/publication/351646927_Biomass_productio\nn_and_mineral_composition_of_coriander_Coriandrum_sativum_L_exposed_t\no_NaCl \n6. Muhammad Hamzah Saleem, Xiukang Wang, Sajjad Ali, Sadia Zafar, \nMuhammad Nawaz, Muhammad Adnan, Shah Fahad, Asia Shah, Mohammed \nNasser Alyemeni, Daniel Ingo Hefft, Shafaqat Ali, Interactive effects of \ngibberellic acid and NPK on morpho-physio-biochemical traits and organic acid \nexudation pattern in coriander (Coriandrum sativum L.) grown in soil artificially \nspiked with boron, Plant Physiology and Biochemistry, Volume 167, 2021, \nPages 884-900, ISSN 0981-9428, https://doi.org/10.1016/j.plaphy.2021.09.015 \n7. Perumal, K., & Vatsala, T. M. (2013). Utilization of local alternative materials \nin cow horn manure (BD 500) Preparations: A case study on biodynamic \nvegetable \ncultivation. \nReprint \ncopy \n(http://www. \nbiodynamics. \nnet.",
+      "char_count": 2187,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "1. Kasiviswanathan P, Swanner ED, Halverson LJ, Vijayapalani P (2022) Farming",
+            ""
+          ],
+          [
+            "",
+            "on Mars: Treatment of basaltic regolith soil and briny water simulants sustains"
+          ],
+          [
+            "",
+            "plant growth. PLoS ONE 17(8): e0272209."
+          ],
+          [
+            "",
+            "https://doi.org/10.1371/journal.pone.0272209"
+          ]
+        ],
+        [
+          [
+            "2. Khan, Muhammad & Malook, Ijaz & Atlas, Amir & Jan, Mehmood & Ullah,",
+            ""
+          ],
+          [
+            "",
+            "Sami & Shah, Gulmeena. (2014). The Effect of Sodium Chloride (NaCl) stress"
+          ],
+          [
+            "",
+            "on Seed germination and Seedling Growth of Rice (Oryza Sativa L.). Journal of"
+          ],
+          [
+            "",
+            "Bio-Molecular Sciences. 2. 100-107."
+          ]
+        ],
+        [
+          [
+            "3. Kwon, Soo & Kim, Hye & Roy, Swapan & Kim, Hyun & Boo, Hee-Ock & Woo,",
+            ""
+          ],
+          [
+            "",
+            "Sun-Hee & Kim, Hag. (2019). Effects of Nitrogen, Phosphorus and Potassium"
+          ],
+          [
+            "",
+            "Fertilizers on Growth Characteristics of Two Species of Bellflower (Platycodon"
+          ],
+          [
+            "",
+            "grandiflorum). Journal of Crop Science and Biotechnology. 22. 481-487."
+          ],
+          [
+            "",
+            "https://doi.org/10.1007/s12892-019-0277-0"
+          ]
+        ],
+        [
+          [
+            "4. Laura E Fackrell, Dr. Paul A. Schroeder, University of Georgia, Department of",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "Geology, Franklin College of Arts and Sciences, Growing plants on mars",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "regolith-potential and limitations of martian regolith for in-situ resource",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "utilization,",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "5.",
+            "Milena Danici ,",
+            "",
+            "",
+            "ana Maksimovic,Marina Putnik-Delic",
+            ",",
+            "Rudolf Kastori,Biomass"
+          ],
+          [
+            "",
+            "production and mineral composition of coriander (Coriandrum sativum L.)",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "exposed to",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "Nac",
+            "l.",
+            "https://www.researchgate.net/publication/351646927_Biomass_productio",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "n_and_mineral_composition_of_coriander_Coriandrum_sativum_L_exposed_t",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "o_NaCl",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "6.",
+            "Muhammad Hamzah Saleem, Xiukang Wang, Sajjad Ali, Sadia Zafar,",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "Muhammad Nawaz, Muhammad Adnan, Shah Fahad, Asia Shah, Mohammed",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "Nasser Alyemeni, Daniel Ingo Hefft, Shafaqat Ali, Interactive effects of",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "gibberellic acid and NPK on morpho-physio-biochemical traits and organic acid",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "exudation pattern in coriander (Coriandrum sativum L.) grown in soil artificially",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "spiked with boron, Plant Physiology and Biochemistry, Volume 167, 2021,",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "Pages 884-900, ISSN 0981-9428, https://doi.org/10.1016/j.plaphy.2021.09.015",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "7.",
+            "Perumal, K., & Vatsala, T. M. (2013). Utilization of local alternative materials",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "in cow horn manure (BD 500) Preparations: A case study on biodynamic",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "vegetable cultivation. Reprint copy (http://www. biodynamics. net.",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 14,
+      "text": "13 \n \nau/resources/UTILIZATION OF LOCAL ALTERNATIVE MATERIALS IN \nCOW HORN MANURE. doc), 16-18. \n8. Rabiei Z, Hosseini SJ, Pirdashti H, Hazrati S. Physiological and biochemical \ntraits in coriander affected by plant growth-promoting rhizobacteria under salt \nstress. Heliyon. 2020 Oct 26;6(10):e05321. doi: 10.1016/j.heliyon.2020.e05321. \nPMID: 33145448; PMCID: PMC7591739. \n9. Ram\u00edrez, D., Kreuze, J., Amoros, W., Valdivia-Silva, J., Ranck, J., Garcia, S., . \n. . Yactayo, W. (2019). Extreme salinity as a challenge to grow potatoes under \nMars-like soil conditions: Targeting promising genotypes. International Journal \nof \nAstrobiology, \n18(1), \n18-24. \nDOI: \nhttps://doi.org/10.1017/S1473550417000453 \n10. Wamelink GWW, Frissel JY, Krijnen WHJ, Verwoert MR, Goedhart PW (2014) \nCan Plants Grow on Mars and the Moon: A Growth Experiment on Mars and \nMoon \nSoil \nSimulants. \nPLoS \nONE \n9(8): \ne103138. \nhttps://doi.org/10.1371/journal.pone.0103138 \n11. Zaller, J.G., K\u00f6pke, U. Effects of traditional and biodynamic farmyard manure \namendment on yields, soil chemical, biochemical and biological properties in a \nlong-term field experiment. Biol Fertil Soils 40, 222\u2013229 (2004). \nhttps://doi.org/10.1007/s00374-004-0772-0 \n12. Zeng et al., 2015; K\u00f6lbl et al., (2017).The Potential for Lunar and Martian \nRegolith Simulants to Sustain Plant Growth:AMultidisciplinary Overview \n.https://www.frontiersin.org/articles/10.3389/fspas.2021.747821/full#B45",
+      "char_count": 1449,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "au/resources/UTILIZATION OF LOCAL ALTERNATIVE MATERIALS IN"
+          ],
+          [
+            "COW HORN MANURE. doc), 16-18."
+          ]
+        ],
+        [
+          [
+            "8. Rabiei Z, Hosseini SJ, Pirdashti H, Hazrati S. Physiological and biochemical",
+            ""
+          ],
+          [
+            "",
+            "traits in coriander affected by plant growth-promoting rhizobacteria under salt"
+          ],
+          [
+            "",
+            "stress. Heliyon. 2020 Oct 26;6(10):e05321. doi: 10.1016/j.heliyon.2020.e05321."
+          ],
+          [
+            "",
+            "PMID: 33145448; PMCID: PMC7591739."
+          ]
+        ],
+        [
+          [
+            "9. Ram\u00edrez, D., Kreuze, J., Amoros, W., Valdivia-Silva, J., Ranck, J., Garcia, S., .",
+            "",
+            ""
+          ],
+          [
+            "",
+            ". . Yactayo, W. (2019). Extreme salinity as a challenge to grow potatoes under",
+            ""
+          ],
+          [
+            "",
+            "Mars-like soil conditions: Targeting promising genotypes. International Journal",
+            ""
+          ],
+          [
+            "",
+            "of Astrobiology, 18(1), 18-24.",
+            "DOI:"
+          ],
+          [
+            "",
+            "https://doi.org/10.1017/S1473550417000453",
+            ""
+          ]
+        ],
+        [
+          [
+            "10. Wamelink GWW, Frissel JY, Krijnen WHJ, Verwoert MR, Goedhart PW (2014)",
+            ""
+          ],
+          [
+            "",
+            "Can Plants Grow on Mars and the Moon: A Growth Experiment on Mars and"
+          ],
+          [
+            "",
+            "Moon Soil Simulants. PLoS ONE 9(8): e103138."
+          ],
+          [
+            "",
+            "https://doi.org/10.1371/journal.pone.0103138"
+          ],
+          [
+            "11.",
+            "Zaller, J.G., K\u00f6pke, U. Effects of traditional and biodynamic farmyard manure"
+          ],
+          [
+            "",
+            "amendment on yields, soil chemical, biochemical and biological properties in a"
+          ],
+          [
+            "",
+            "long-term field experiment. Biol Fertil Soils 40, 222\u2013229 (2004)."
+          ],
+          [
+            "",
+            "https://doi.org/10.1007/s00374-004-0772-0"
+          ]
+        ],
+        [
+          [
+            "12. Zeng et al., 2015; K\u00f6lbl et al., (2017).The Potential for Lunar and Martian",
+            ""
+          ],
+          [
+            "",
+            "Regolith Simulants to Sustain Plant Growth:AMultidisciplinary Overview"
+          ],
+          [
+            "",
+            ".https://www.frontiersin.org/articles/10.3389/fspas.2021.747821/full#B45"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 15,
+      "text": "14 \n \nAPPENDICES \n \nTable 1. Initial and Final pH of Mars regolith and Earth soil at the end of \nstudy \nEarth \nSamples \nInitial pH \nFinal pH \nMars \nSamples \nInitial pH \nFinal pH \nET1R1 \n8.2 \n7.47 \nMT1R1 \n8.5 \n7.87 \nET1R2 \n8.1 \n7.35 \nMT1R2 \n8.4 \n7.94 \nET1R3 \n8.4 \n7.15 \nMT1R3 \n8.4 \n7.92 \nET2R1 \n8.3 \n7.34 \nMT2R1 \n8 \n7.71 \nET2R2 \n8.2 \n7.4 \nMT2R2 \n8 \n7.84 \nET2R3 \n8.2 \n7.4 \nMT2R3 \n8.1 \n7.16 \nET3R1 \n8.1 \n7.38 \nMT3R1 \n8.4 \n7.9 \nET3R2 \n8.3 \n7.25 \nMT3R2 \n7.9 \n7.79 \nET3R3 \n8.2 \n7.05 \nMT3R3 \n8 \n7.65 \nET4R1 \n8.4 \n7.3 \nMT4R1 \n8.4 \n7.7 \nET4R2 \n8.6 \n6.7 \nMT4R2 \n8.5 \n7.71 \nET4R3 \n8.4 \n6.3 \nMT4R3 \n8.5 \n7.3",
+      "char_count": 595,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Earth Samples",
+            "Initial pH",
+            "Final pH",
+            "Mars Samples",
+            "Initial pH",
+            "Final pH"
+          ],
+          [
+            "ET1R1",
+            "8.2",
+            "7.47",
+            "MT1R1",
+            "8.5",
+            "7.87"
+          ],
+          [
+            "ET1R2",
+            "8.1",
+            "7.35",
+            "MT1R2",
+            "8.4",
+            "7.94"
+          ],
+          [
+            "ET1R3",
+            "8.4",
+            "7.15",
+            "MT1R3",
+            "8.4",
+            "7.92"
+          ],
+          [
+            "ET2R1",
+            "8.3",
+            "7.34",
+            "MT2R1",
+            "8",
+            "7.71"
+          ],
+          [
+            "ET2R2",
+            "8.2",
+            "7.4",
+            "MT2R2",
+            "8",
+            "7.84"
+          ],
+          [
+            "ET2R3",
+            "8.2",
+            "7.4",
+            "MT2R3",
+            "8.1",
+            "7.16"
+          ],
+          [
+            "ET3R1",
+            "8.1",
+            "7.38",
+            "MT3R1",
+            "8.4",
+            "7.9"
+          ],
+          [
+            "ET3R2",
+            "8.3",
+            "7.25",
+            "MT3R2",
+            "7.9",
+            "7.79"
+          ],
+          [
+            "ET3R3",
+            "8.2",
+            "7.05",
+            "MT3R3",
+            "8",
+            "7.65"
+          ],
+          [
+            "ET4R1",
+            "8.4",
+            "7.3",
+            "MT4R1",
+            "8.4",
+            "7.7"
+          ],
+          [
+            "ET4R2",
+            "8.6",
+            "6.7",
+            "MT4R2",
+            "8.5",
+            "7.71"
+          ],
+          [
+            "ET4R3",
+            "8.4",
+            "6.3",
+            "MT4R3",
+            "8.5",
+            "7.3"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 16,
+      "text": "15 \n \nTable 2. Electrical conductivity at the end of the study \n \nEarth \nSoil \nElectrical Conductivity \n(mS) \nMars \nSoil \nElectrical \nConductivity (mS) \nT1R1 \n0.23 \nT1R1 \n0.26 \nT1R2 \n0.26 \nT1R2 \n0.28 \nT1R3 \n0.21 \nT1R3 \n0.20 \nT2R1 \n0.27 \nT2R1 \n0.18 \nT2R2 \n0.21 \nT2R2 \n0.14 \nT2R3 \n0.38 \nT2R3 \n0.13 \nT3R1 \n0.38 \nT3R1 \n0.42 \nT3R2 \n0.38 \nT3R2 \n0.38 \nT3R3 \n0.29 \nT3R3 \n0.36 \nT4R1 \n0.25 \nT4R1 \n0.34 \nT4R2 \n0.2 \nT4R2 \n0.39 \nT4R3 \n0.28 \nT4R3 \n0.21",
+      "char_count": 438,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Earth Soil",
+            "Electrical Conductivity (mS)",
+            "Mars Soil"
+          ],
+          [
+            "T1R1",
+            "0.23",
+            "T1R1"
+          ],
+          [
+            "T1R2",
+            "0.26",
+            "T1R2"
+          ],
+          [
+            "T1R3",
+            "0.21",
+            "T1R3"
+          ],
+          [
+            "T2R1",
+            "0.27",
+            "T2R1"
+          ],
+          [
+            "T2R2",
+            "0.21",
+            "T2R2"
+          ],
+          [
+            "T2R3",
+            "0.38",
+            "T2R3"
+          ],
+          [
+            "T3R1",
+            "0.38",
+            "T3R1"
+          ],
+          [
+            "T3R2",
+            "0.38",
+            "T3R2"
+          ],
+          [
+            "T3R3",
+            "0.29",
+            "T3R3"
+          ],
+          [
+            "T4R1",
+            "0.25",
+            "T4R1"
+          ],
+          [
+            "T4R2",
+            "0.2",
+            "T4R2"
+          ],
+          [
+            "T4R3",
+            "0.28",
+            "T4R3"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 17,
+      "text": "16 \n \nTable 3. Germination percentage and plant height of samples in the first week \n \n \nTreatment \n(Earth) \nGerminatio\nn \npercentage \n(%) \nAvg. \nheight of \nplants \n(cm) \nTreatment \n(Mars) \nGerminatio\nn \npercentage \n(%) \nAvg. height \nof plants \n(cm) \nET1R1 \n7 \n6.1 \nMT1R1 \n12 \n3.6 \nET1R2 \n15 \n4.7 \nMT1R2 \n22 \n4.7 \nET1R3 \n8 \n5.6 \nMT1R3 \n10 \n4.2 \nET2R1 \n14 \n5.6 \nMT2R1 \n68 \n6.3 \nET2R2 \n6 \n4.4 \nMT2R2 \n40 \n7.7 \nET2R3 \n19 \n5.8 \nMT2R3 \n44 \n6.8 \nET3R1 \n12 \n5.7 \nMT3R1 \n48 \n6.8 \nET3R2 \n33 \n6.1 \nMT3R2 \n52 \n7.3 \nET3R3 \n24 \n5.9 \nMT3R3 \n64 \n6.0 \nET4R1 \n14 \n5.5 \nMT4R1 \n18 \n6.3 \nET4R2 \n14 \n4.7 \nMT4R2 \n10 \n4.1 \nET4R3 \n12 \n6.1 \nMT4R3 \n30 \n3.8",
+      "char_count": 630,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Treatment (Earth)",
+            "Germinatio n percentage (%)",
+            "Avg. height of plants (cm)",
+            "Treatment (Mars)",
+            "Germinatio n percentage (%)",
+            "Avg. height of plants (cm)"
+          ],
+          [
+            "ET1R1",
+            "7",
+            "6.1",
+            "MT1R1",
+            "12",
+            "3.6"
+          ],
+          [
+            "ET1R2",
+            "15",
+            "4.7",
+            "MT1R2",
+            "22",
+            "4.7"
+          ],
+          [
+            "ET1R3",
+            "8",
+            "5.6",
+            "MT1R3",
+            "10",
+            "4.2"
+          ],
+          [
+            "ET2R1",
+            "14",
+            "5.6",
+            "MT2R1",
+            "68",
+            "6.3"
+          ],
+          [
+            "ET2R2",
+            "6",
+            "4.4",
+            "MT2R2",
+            "40",
+            "7.7"
+          ],
+          [
+            "ET2R3",
+            "19",
+            "5.8",
+            "MT2R3",
+            "44",
+            "6.8"
+          ],
+          [
+            "ET3R1",
+            "12",
+            "5.7",
+            "MT3R1",
+            "48",
+            "6.8"
+          ],
+          [
+            "ET3R2",
+            "33",
+            "6.1",
+            "MT3R2",
+            "52",
+            "7.3"
+          ],
+          [
+            "ET3R3",
+            "24",
+            "5.9",
+            "MT3R3",
+            "64",
+            "6.0"
+          ],
+          [
+            "ET4R1",
+            "14",
+            "5.5",
+            "MT4R1",
+            "18",
+            "6.3"
+          ],
+          [
+            "ET4R2",
+            "14",
+            "4.7",
+            "MT4R2",
+            "10",
+            "4.1"
+          ],
+          [
+            "ET4R3",
+            "12",
+            "6.1",
+            "MT4R3",
+            "30",
+            "3.8"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 18,
+      "text": "17 \n \nTable 4. Total biomass of harvested plant samples \n \nEarth Soil \nTotal Biomass (g) \nMars Regolith \nTotal Biomass (g) \nT1R1 \n0.051 \nT1R1 \n0.005 \nT1R2 \n0.041 \nT1R2 \n0.224 \nT1R3 \n0.062 \nT1R3 \n0.266 \nT2R1 \n0.176 \nT2R1 \n0.18 \nT2R2 \n0.057 \nT2R2 \n0.457 \nT2R3 \n0.034 \nT2R3 \n0.142 \nT3R1 \n0.368 \nT3R1 \n0.185 \nT3R2 \n0.024 \nT3R2 \n0.064 \nT3R3 \n0.021 \nT3R3 \n0.051 \nT4R1 \n0.32 \nT4R1 \n0.396 \nT4R2 \n0.245 \nT4R2 \n0.023 \nT4R3 \n0.195 \nT4R3 \n0.191",
+      "char_count": 432,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Earth Soil",
+            "Total Biomass (g)",
+            "Mars Regolith"
+          ],
+          [
+            "T1R1",
+            "0.051",
+            "T1R1"
+          ],
+          [
+            "T1R2",
+            "0.041",
+            "T1R2"
+          ],
+          [
+            "T1R3",
+            "0.062",
+            "T1R3"
+          ],
+          [
+            "T2R1",
+            "0.176",
+            "T2R1"
+          ],
+          [
+            "T2R2",
+            "0.057",
+            "T2R2"
+          ],
+          [
+            "T2R3",
+            "0.034",
+            "T2R3"
+          ],
+          [
+            "T3R1",
+            "0.368",
+            "T3R1"
+          ],
+          [
+            "T3R2",
+            "0.024",
+            "T3R2"
+          ],
+          [
+            "T3R3",
+            "0.021",
+            "T3R3"
+          ],
+          [
+            "T4R1",
+            "0.32",
+            "T4R1"
+          ],
+          [
+            "T4R2",
+            "0.245",
+            "T4R2"
+          ],
+          [
+            "T4R3",
+            "0.195",
+            "T4R3"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 19,
+      "text": "18 \n \nTable 5. Plant height at the end of study in Mars regolith and Earth soil \n \nEarth \nSoil \nAverage plant height \n(cm) \nMars \nSoil \nAverage plant height \n(cm) \nET1R1 \n6.1 \nMT1R1 \n3.6 \nET1R2 \n4.7 \nMT1R2 \n4.7 \nET1R3 \n5.6 \nMT1R3 \n5.6 \nET2R1 \n5.6 \nMT2R1 \n9.7 \nET2R2 \n4.4 \nMT2R2 \n8.2 \nET2R3 \n5.8 \nMT2R3 \n7.0 \nET3R1 \n5.7 \nMT3R1 \n4.7 \nET3R2 \n6.1 \nMT3R2 \n7.3 \nET3R3 \n5.9 \nMT3R3 \n5.1 \nET4R1 \n5.5 \nMT4R1 \n6.3 \nET4R2 \n4.7 \nMT4R2 \n4.1 \nET4R3 \n6.1 \nMT4R3 \n5.5",
+      "char_count": 450,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Earth Soil",
+            "Average plant height (cm)",
+            "Mars Soil"
+          ],
+          [
+            "ET1R1",
+            "6.1",
+            "MT1R1"
+          ],
+          [
+            "ET1R2",
+            "4.7",
+            "MT1R2"
+          ],
+          [
+            "ET1R3",
+            "5.6",
+            "MT1R3"
+          ],
+          [
+            "ET2R1",
+            "5.6",
+            "MT2R1"
+          ],
+          [
+            "ET2R2",
+            "4.4",
+            "MT2R2"
+          ],
+          [
+            "ET2R3",
+            "5.8",
+            "MT2R3"
+          ],
+          [
+            "ET3R1",
+            "5.7",
+            "MT3R1"
+          ],
+          [
+            "ET3R2",
+            "6.1",
+            "MT3R2"
+          ],
+          [
+            "ET3R3",
+            "5.9",
+            "MT3R3"
+          ],
+          [
+            "ET4R1",
+            "5.5",
+            "MT4R1"
+          ],
+          [
+            "ET4R2",
+            "4.7",
+            "MT4R2"
+          ],
+          [
+            "ET4R3",
+            "6.1",
+            "MT4R3"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 20,
+      "text": "19 \n \nTable 6. Root length of plants on Mars regolith and Earth soil at the end of \nstudy \n \nEarth \nSoil \nAverage root length \n(cm) \nMars \nSoil \nAverage root length \n(cm) \nET1R1 \n0.8 \nMT1R1 \n0.9 \nET1R2 \n1.0 \nMT1R2 \n1.8 \nET1R3 \n1.1 \nMT1R3 \n4.0 \nET2R1 \n1.3 \nMT2R1 \n2.1 \nET2R2 \n1.6 \nMT2R2 \n2.1 \nET2R3 \n1.7 \nMT2R3 \n2.2 \nET3R1 \n2.2 \nMT3R1 \n1.8 \nET3R2 \n2.7 \nMT3R2 \n1.8 \nET3R3 \n1.3 \nMT3R3 \n3.5 \nET4R1 \n2.6 \nMT4R1 \n2.1 \nET4R2 \n1.8 \nMT4R2 \n3.2 \nET4R3 \n1.9 \nMT4R3 \n1.6",
+      "char_count": 458,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Earth Soil",
+            "Average root length (cm)",
+            "Mars Soil"
+          ],
+          [
+            "ET1R1",
+            "0.8",
+            "MT1R1"
+          ],
+          [
+            "ET1R2",
+            "1.0",
+            "MT1R2"
+          ],
+          [
+            "ET1R3",
+            "1.1",
+            "MT1R3"
+          ],
+          [
+            "ET2R1",
+            "1.3",
+            "MT2R1"
+          ],
+          [
+            "ET2R2",
+            "1.6",
+            "MT2R2"
+          ],
+          [
+            "ET2R3",
+            "1.7",
+            "MT2R3"
+          ],
+          [
+            "ET3R1",
+            "2.2",
+            "MT3R1"
+          ],
+          [
+            "ET3R2",
+            "2.7",
+            "MT3R2"
+          ],
+          [
+            "ET3R3",
+            "1.3",
+            "MT3R3"
+          ],
+          [
+            "ET4R1",
+            "2.6",
+            "MT4R1"
+          ],
+          [
+            "ET4R2",
+            "1.8",
+            "MT4R2"
+          ],
+          [
+            "ET4R3",
+            "1.9",
+            "MT4R3"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 21,
+      "text": "20 \n \nPHOTOS \n \n \n \n Mars Global Simulant (as received) Earth soil we used \n \n \nSetting up the pots for treatment Vermicompost from VAIAL, VIT,Vellore \n \n \n \nWeighing and preparing the pot mixture Experimental Setup with pot mixtures",
+      "char_count": 233,
+      "image_count": 6,
+      "tables": [
+        [
+          [
+            "Setting up the pots for treatment Vermicompost from VAIAL, VIT,Vellore",
+            "",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 22,
+      "text": "21 \n \n \n \n \n \n \n Seeds used for sowing in the pots \n \n \n \n \n Sowing seeds in pot",
+      "char_count": 80,
+      "image_count": 4,
+      "tables": []
+    },
+    {
+      "page_number": 23,
+      "text": "22 \n \n \n \n \n \nSeeds were sown into the pot Mass multiplication of waste decomposing bacteria \n \n \n \n \n Preparation of waste decomposer for the treatment \n \n \n \n \n Adding waste decomposing bacteria to the soil Salinity reducing bacteria",
+      "char_count": 235,
+      "image_count": 7,
+      "tables": [
+        [
+          [
+            "Seeds were sown into the pot",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        [
+          [
+            "Preparation of waste decomposer for the treatment"
+          ]
+        ],
+        [
+          [
+            "Adding",
+            "Salinity reducing bacteria",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 24,
+      "text": "23 \n \n \n \n Irrigation done by Team members \n \n \n \n \n Team members performing Soil Tests \n \n \n \n \n \n \nSoil Potassium testing Soil pH testing",
+      "char_count": 139,
+      "image_count": 6,
+      "tables": [
+        [
+          [
+            "Irrigation done by Team members",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 25,
+      "text": "24 \n \n \n \n \nCoriander Germination in Earth soil Coriander Germination in Mars soil \n \n \nCoriander plant in Mars soil Coriander plant in Earth soil \n \n \n \n \n \n Harvested Plant samples Grown Coriander Plant (A-T1, B-\nT2,C-T3, D-T4)",
+      "char_count": 229,
+      "image_count": 6,
+      "tables": []
+    },
+    {
+      "page_number": 26,
+      "text": "25 \n \n \n \n Student team involved in the Project",
+      "char_count": 47,
+      "image_count": 1,
+      "tables": []
+    }
+  ]
+}

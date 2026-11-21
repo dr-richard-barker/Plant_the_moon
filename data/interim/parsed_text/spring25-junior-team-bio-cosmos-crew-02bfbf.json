@@ -1,0 +1,369 @@
+{
+  "report_id": "spring25-junior-team-bio-cosmos-crew-02bfbf",
+  "sha256": "1cdba17cbf26e4d8ea42686d337dde32514626d5e0592d4689e632b8b3ef0e7c",
+  "page_count": 9,
+  "total_chars": 13802,
+  "avg_chars_per_page": 1533.6,
+  "total_images": 4,
+  "table_count": 15,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Team Name: BioCosmos Crew, \n Team #: (20529) \n Team Coach: Zedaker & Ciucci \n \nTEAM PHOTO:\n \n \nBackground & Reasoning: Throughout history, one of man\u2019s greatest \naccomplishments is going to space. Nowadays, many people are filled with curiosity \nabout the Artemis mission which is said to take astronauts back to the moon. What if \nthis time we could find a way to grow food on the moon so that astronauts could actually \nlive there? This led the BioCosmos Crew to ponder about the weight hurdle of carrying \nplant materials to space. If we want to carry materials to space while on a budget, we \nhave to restrict the weight of the materials. Because the soil is such a foundational \ncomponent when it comes to planting we knew that this was what our team would \nmeasure. This curiosity and passion is why we chose to manipulate the amendments \nthat we add to lunar soil. That\u2019s why we decided to experiment and finalize which \nsupplement would help grow kale plants the most to reduce the weight carried and \nincrease the proficiency. \n \nHypothesis: \n \u200b\nOur hypothesis was \u201cIf we utilize various amendments and manipulate the amount \nof supplements we add to the lunar regolith, then we will be able to confirm which \ncomponent will work best to cultivate kale plants in lunar soil which will allow us to note \nwhat nutrients kale plants need the most and what they can do without so that scientists \nwill be able to save both money and space.\u201d For instance, kale plants need areas with \nsodium, potassium and nitrogen. However, carrying all these nutrients in bundles to outer space \nwill be inefficient and difficult, therefore we must decide which elements are truly necessary and \nwhich we will not need. This is what our experiment revolves around. Our background research: \nAccording to NASA\u2019s article \u201cScientists Grow Plants in Lunar Soil\u201d by Bill Keeter, \u201cSequencing \nthe RNA revealed the patterns of genes that were expressed, which showed that the \nplants were indeed under stress and had reacted the way researchers have seen \nArabidopsis respond to growth in other harsh environments, such as when soil has too",
+      "char_count": 2123,
+      "image_count": 1,
+      "tables": [
+        [
+          [
+            "the RNA revealed the patterns of genes that were expressed, which showed that the"
+          ],
+          [
+            "plants were indeed under stress and had reacted the way researchers have seen"
+          ],
+          [
+            "Arabidopsis respond to growth in other harsh environments, such as when soil has too"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "much salt or heavy metals.\u201dThis led us to think about the sodium levels we would be \nusing. We predicted that plants in the sodium rich fertilizer would not grow as well as the \nother plants. Another article \u201cHow to make lunar soil suitable for cultivation?\u201d highlights the \nimportance of sterilizing lunar soil to prevent unwanted bacteria. It also states that \u201cStatistical \nanalysis revealed that most of the simulated lunar soils had higher Na and K contents, implying \nthat plants would be subjected to more severe salt stress. For improvement options, the addition \nof organic matter and microorganisms is the best choice.\u201d This and the aforementioned \nNASA article had one key point in similarity; the higher sodium content in lunar soil that \nled to salt stress. After reading and perusing these articles, our team decided that the \nsupplements would be what mattered the most. We wanted to experiment with different \nnutrient levels in the supplements and try to see which additive would ease the stress \nlevels in kale plants while being cost efficient and minimal amount of weight as possible. \n \nMission Patch: \n \nProcedures and Experimental Design: Below, there is a list of what our variables \nwere and how we used them to test the accuracy of our hypothesis. Then we have the \nsetup and measurements of each pot that are our evidence as to which supplement \ngrows the best kale crops. \n \nIndependent Variable: The independent variable that our team manipulated was the amount \nof additive we include to the base lunar soil. In our control pot we kept it 100% lunar regolith \nwith no additives of any sort. In pots 1-9 we added different percentages of plant supplements \nlike compost, earth soil, and fertilizer. We distributed 3 pots to each of the 3 supplements and \nmodulated whether we put 25%, 35%, or 45% of an additive into the three pots. We had to \nmake sure that our calculations about the volume of the pot were accurate and aligned with the \nrestrictions of adding no more than 50% of any extra mixture other than lunar soil.",
+      "char_count": 2051,
+      "image_count": 1,
+      "tables": [
+        [
+          [
+            "much salt or heavy metals.\u201dThis led us to think about the sodium levels we would be"
+          ],
+          [
+            "using. We predicted that plants in the sodium rich fertilizer would not grow as well as th"
+          ],
+          [
+            "other plants. Another article \u201cHow to make lunar soil suitable for cultivation?\u201d highlights the"
+          ],
+          [
+            "importance of sterilizing lunar soil to prevent unwanted bacteria. It also states that \u201cStatistical"
+          ],
+          [
+            "analysis revealed that most of the simulated lunar soils had higher Na and K contents, implying"
+          ],
+          [
+            "that plants would be subjected to more severe salt stress. For improvement options, the addition"
+          ],
+          [
+            "of organic matter and microorganisms is the best choice.\u201d This and the aforementioned"
+          ]
+        ],
+        [
+          [
+            "led to salt stress. After reading and perusing these articles, our team decided that the"
+          ],
+          [
+            "supplements would be what mattered the most. We wanted to experiment with different"
+          ],
+          [
+            "nutrient levels in the supplements and try to see which additive would ease the stress"
+          ],
+          [
+            "levels in kale plants while being cost efficient and minimal amount of weight as possible"
+          ]
+        ],
+        [
+          [
+            "Mission Patch:"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "\u200b\nAfter figuring out the volume of each pot, we then combined our mixtures and put them \ninto their respective pots. We decided that exploiting the regolith would be the most beneficial \nmethod to determine how we could successfully grow plants in lunar soil. \n \nDependent Variable: The dependent variable that our team collected data on was how robust \neach kale plant is after the growth period ends. We will determine which pot produced the best \nkale plant by comparing the height of the plant, the amount of sprouts in a pot, and the amount \nof kale leaves a plant has. \nControl: In our experiment, our control was the first pot. In this pot we put the lunar \nregolith mixture without any other soil type. \nConstants: There were many important factors that we had to monitor as constants. These \nconstants were kept as consistent as possible so that we would receive precise results. \n\u200b\nWe controlled the amount of UV light that the plants would absorb each day to a 12 hour \ncycle. We felt that this would be most similar to the Moon\u2019s lighting conditions which would help \nus get the utmost similar data as if we planted the seeds on the Moon. \n\u200b\nThe water is another key component that we tried to keep persistent. Our watering \nschedule included the irrigators of the team to water each of the ten pots every other day. We \nsprayed each pot 8 times and tried to make sure that the water was well spread out. The water \nwas distilled and purified of any particles before spraying. Additionally, we added one pipette \nfilled with 10 cm of distilled water to each pot for the weekend when we were unable to manually \nwater the plants. \n\u200b\nOther constants include the greenhouse and shelves where we placed the pots in, ( 5 \npots on each greenhouse rack) the temperature of the plants\u2019 surroundings, (60o-70o) and the \npot we used (standard pots sent in the PTMC jr. kit). Also, the kale seeds were also constants. \n(5 seeds in each pot.) \n \nGrow Pot Setup: \nPot \n# \nPot \n#1(control\n) \nPot #2 \nPot #3 \nPot #4 \nPot #5 \nPot #6 \nPot #7 \nPot #8 \nPot #9 \nPot #10 \nSoil \ncompositi\n-on \n100% lunar \nsoil \n75% lunar \nsoil, 25% \nfertilizer \n 65% \nlunar \nsoil, \n35% \nfertilizer \n55% \nlunar \nsoil, 45% \nfertilizer \n75% \nlunar \nsoil, \n25% \nearth \nsoil \n55% \nlunar \nsoil, \n45% \nearth \nsoil \n75% \nlunar \nsoil, \n25% \ncompost \n65% \nlunar \nsoil, \n35% \ncompost \n55% \nlunar \nsoil, \n45% \ncompost \n65% lunar \nsoil, 35% \nearth soil \nAmendme-\nnts \nLunar soil \nLunar soil, \nfertilizer \nLunar \nsoil, \nfertilizer \nLunar \nsoil, \nfertilizer \nLunar \nsoil, \nearth \nsoil \nLunar \nsoil, \nearth \nsoil \nLunar \nsoil, \ncompost \nLunar \nsoil, \ncompost \nLunar \nsoil, \ncompost \nLunar soil, \nearth soil \nCrop type \nKale \nKale \nKale \nKale \nKale \nKale \nKale \nKale \nKale \nKale \nAlong with this we also added 2% of alfalfa meal to every pot except for the control group \nto boost the nitrogen levels in the mixture and improve soil structure of lunar regolith.",
+      "char_count": 2918,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Pot #",
+            "Pot #1(control )",
+            "Pot #2",
+            "Pot #3",
+            "Pot #4",
+            "Pot #5",
+            "Pot #6",
+            "Pot #7",
+            "Pot #8",
+            "Pot #9",
+            "Pot #10"
+          ],
+          [
+            "Soil compositi -on",
+            "100% lunar soil",
+            "75% lunar soil, 25% fertilizer",
+            "65% lunar soil, 35% fertilizer",
+            "55% lunar soil, 45% fertilizer",
+            "75% lunar soil, 25% earth soil",
+            "55% lunar soil, 45% earth soil",
+            "75% lunar soil, 25% compost",
+            "65% lunar soil, 35% compost",
+            "55% lunar soil, 45% compost",
+            "65% lunar soil, 35% earth soil"
+          ],
+          [
+            "Amendme- nts",
+            "Lunar soil",
+            "Lunar soil, fertilizer",
+            "Lunar soil, fertilizer",
+            "Lunar soil, fertilizer",
+            "Lunar soil, earth soil",
+            "Lunar soil, earth soil",
+            "Lunar soil, compost",
+            "Lunar soil, compost",
+            "Lunar soil, compost",
+            "Lunar soil, earth soil"
+          ],
+          [
+            "Crop type",
+            "Kale",
+            "Kale",
+            "Kale",
+            "Kale",
+            "Kale",
+            "Kale",
+            "Kale",
+            "Kale",
+            "Kale",
+            "Kale"
+          ]
+        ],
+        [
+          [
+            "Pot"
+          ],
+          [
+            "#"
+          ]
+        ],
+        [
+          [
+            "Soi"
+          ],
+          [
+            "compositi"
+          ],
+          [
+            "-on"
+          ]
+        ],
+        [
+          [
+            "100% lunar"
+          ],
+          [
+            "soil"
+          ]
+        ],
+        [
+          [
+            "75% lunar"
+          ],
+          [
+            "soil, 25%"
+          ],
+          [
+            "fertilizer"
+          ]
+        ],
+        [
+          [
+            "65%"
+          ],
+          [
+            "lunar"
+          ],
+          [
+            "soil,"
+          ],
+          [
+            "35%"
+          ],
+          [
+            "fertilizer"
+          ]
+        ],
+        [
+          [
+            "55%"
+          ],
+          [
+            "luna"
+          ],
+          [
+            "soil, 45%"
+          ],
+          [
+            "fertilizer"
+          ]
+        ],
+        [
+          [
+            "75%"
+          ],
+          [
+            "luna"
+          ],
+          [
+            "soil,"
+          ],
+          [
+            "25%"
+          ],
+          [
+            "eart"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "Data collection routine (procedure): \nData was collected by two team members every other day for the entirety of the growth \nperiod. \n \nBeginning: plant 12 kale seeds in each pot.(4 cm deep and each seed placed at least 5 cm \napart.) Then cover the seeds with a thin layer of alfalfa meal. \n \nGrowth Period Data Gathering: \nStep 1: Wear the PPE- masks, gloves, and lab coats. \nStep 2 : Prep the materials- Ph meter, water spray, height measuring device, etc. \nStep 3: Remove plants from the greenhouse and place them on the lab table. \nStep 4: Collect data (ph levels, soil moisture, # of sprouts, and number of leaves\u201d and \npost on the data collection sheet. \nStep 5: Water the plants. \nStep 6 Place plants back into the greenhouse and check lighting. \n \n \n \nData Collection/Results: \nBelow are tables that have the data average of each experimental group at the end of the \ngrowth period. \n \n \n Compost Pots\u2019 Results \nPot # \nPot #5 \nPot #6 \nPot #10 \nHeight (cm) \n8.5 cm \n9 cm \n11.43 cm \nHealth \n1-dead \n5-healthy \n4 \n5 \n5 \nNumber of sprouts \n4 \n8 \n7 \nAverage # of leaves 2 \n3 \n5 \n In pot 7 we put only 25% compost and 75% of lunar soil. We believe this was why in \nthis pot, the plants would sprout and grow healthy, but after a certain height they would \nbend over because the stems were unable to support the leaves. Pot 8 and pot 9 both \nproduced healthy sprouts that quickly grew multiple leaves.",
+      "char_count": 1402,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Pot #",
+            "Pot #5",
+            "Pot #6",
+            "Pot #10"
+          ],
+          [
+            "Height (cm)",
+            "8.5 cm",
+            "9 cm",
+            "11.43 cm"
+          ],
+          [
+            "Health 1-dead 5-healthy",
+            "4",
+            "5",
+            "5"
+          ],
+          [
+            "Number of sprouts",
+            "4",
+            "8",
+            "7"
+          ],
+          [
+            "Average # of leaves",
+            "2",
+            "3",
+            "5"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 5,
+      "text": "Earth Soil Pots\u2019 Results \nPot # \nPot #7 \nPot #8 \nPot#9 \nHeight (cm) \n3.2 cm \n4.18 cm \n6.32 cm \nHealth \n1-dead \n5-healthy \n4 \n4 \n4 \nNumber of sprouts \n2 \n2 \n3 \nAverage # of leaves 1 \n2 \n1 \n\u200b\nIn this experimental group, the sprouts were quite healthy but their progress in \ngrowth wasn\u2019t high compared to the compost group. We believe that this is possibly \nbecause the earth soil wasn\u2019t able to maintain the required amount of nutrients for the \nplants when it was combined with the lunar regolith. \n \n \n Fertilizer Pots\u2019 Evaluation \nPot # \nPot #2 \nPot #3 \nPot #4 \nHeight (cm) \n0 cm \n0 cm \n0 cm \nHealth \n1-dead \n5-healthy \n0 \n0 \n0 \nNumber of sprouts \n0 \n0 \n0 \nAverage # of leaves 0 \n0 \n0 \n These results really shocked us. In all of the fertilizer pots not even one seed \nsprouted. We treated each experimental group the exact same way, but the only thing \ndifferent about these pots was that we added fertilizer. Although we don\u2019t know for sure \nwhat the conflicting results were caused by, we infer that the lunar regolith didn\u2019t \ncombine with the fertilizer well and caused the seeds to not receive the necessary \namount of nutrients. \n \n \nLastly, our control pot. In pot 1 we did have two sprouts but they wilted within a day of \ngerminating. Our team supposes that the reason for this unexpecting sprouting was the \n2% of alfalfa meal we added. Since the alfalfa meal was just on top of the seeds, some of \nthe seeds were able to germinate through that. We assume that the sprouts died when \nthe roots entered the lunar soil and didn\u2019t get any nutrients they needed.",
+      "char_count": 1570,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Pot #",
+            "Pot #7",
+            "Pot #8",
+            "Pot#9"
+          ],
+          [
+            "Height (cm)",
+            "3.2 cm",
+            "4.18 cm",
+            "6.32 cm"
+          ],
+          [
+            "Health 1-dead 5-healthy",
+            "4",
+            "4",
+            "4"
+          ],
+          [
+            "Number of sprouts",
+            "2",
+            "2",
+            "3"
+          ],
+          [
+            "Average # of leaves",
+            "1",
+            "2",
+            "1"
+          ]
+        ],
+        [
+          [
+            "Pot #",
+            "Pot #2",
+            "Pot #3",
+            "Pot #4"
+          ],
+          [
+            "Height (cm)",
+            "0 cm",
+            "0 cm",
+            "0 cm"
+          ],
+          [
+            "Health 1-dead 5-healthy",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "Number of sprouts",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "Average # of leaves",
+            "0",
+            "0",
+            "0"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 6,
+      "text": "Analysis: \nAt the end of the growth period, our team took time to reflect on the \nexperiment's journey together. When we thoroughly reviewed our data, we came \nto a deduction that kale plants with any amount of compost grew the best. The \ncompost we implemented into the pots was one rich in nitrogen and potassium \nwhich were two very important elements that kale plants need. Since our \ndedicated team members collected data every other day and used expert-level \ndata collecting tools, we believe that it would be safe to say that our data \ncollection was consistent and reliable. \n \n \nConclusions: In our hypothesis, we stated that experimenting with different \nsoil supplements would help our team determine which additive combined with \nlunar soil and provided the necessary nutrients the best without causing sodium \nstress for the plants. Our hypothesis was proved accurate by our experiment \nresults. We can conclude that using 35% or more of compost to lunar soil allows \nplants to receive the essential nutrients they need because as shown in the above \ntables, the pots with composts produced the healthiest kale plants which also \nhad bigger leaves. \nEven though discovering the best supplement was our primary goal, this \nexperiment taught us many other attributes about extraterrestrial conditions and \nhow plants need to be nurtured in certain ways for them to truly flourish. For \ninstance, lunar soil, which lacks nutrients, would turn into a concrete like \nsubstance when it made contact with water. This was a hurdle because if the \nwater wasn\u2019t able to soak into the soil, then the seeds wouldn\u2019t be able to sprout. \nWe had to devise methods like using pipettes to get the water all around the pot \nso that plants could germinate without trouble. \n \nFuture Considerations: \nIn the future, if we were to do this experiment again, one of the major \npoints would be to consistently water the plants. Due to the prolonged breaks, we \nwere unable to water the initial seeds. This caused them to die and we had to \nreplant. Although replanting was successful, we wasted valuable resources like \ntime and money to replant. When using lunar soil, it would also be helpful to use \nslightly bigger seeds; we discovered that the kale seeds, which were bigger than \narugula seeds, geminated quicker due to the toughness of the shell. The shell \nwas able to withstand the grains of the lunar soil and sprout without trouble. The \nbest seeds to plant in lunar soil would be bean seeds, cabbage seeds, or kale \nseeds. Knowing what seeds to plant beforehand would have helped our",
+      "char_count": 2584,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "text": "experiment tremendously, because it would have increased the growth of the \nplant quicker. \n \nExperimental Rational: Our experiment and outcome helps \nscientists determine what amendment is best for plant growth in lunar \nconditions so that they don\u2019t have to. This will allow botanists and \nscientists to better understand what types of plants resist the challenges \nplaced by the grainy lunar soil and how we can support the plants growth \nin various conditions.",
+      "char_count": 464,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "text": "Experiment Photos:\n \n \n \nMessage from Project Manager: I would like to take this opportunity to express my \ngratitude to my team members who have so dedicatedly spent their time and efforts into \nthis experiment. I would also like to thank my coaches Mrs. Zedaker, Ms. Ciucci, and Ms.",
+      "char_count": 284,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "text": "Demille for presenting me with this project and allowing me to fulfill my aspirations of \ndoing something practical for the space and science community. Most of all, thank you to \nNASA, ICS, and the Virginia Space Grant Consortium for acknowledging the passions of \nkids like me and supporting our dreams. I was and still am thrilled about this chance and \nlook forward to many possibilities like this one.",
+      "char_count": 406,
+      "image_count": 0,
+      "tables": []
+    }
+  ]
+}

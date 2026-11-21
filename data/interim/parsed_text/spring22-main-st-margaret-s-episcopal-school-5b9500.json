@@ -1,0 +1,839 @@
+{
+  "report_id": "spring22-main-st-margaret-s-episcopal-school-5b9500",
+  "sha256": "c140065c83ea6aa2f0cc7ac064266e400406c18255c0a6d69cc63a8b14896da1",
+  "page_count": 11,
+  "total_chars": 19750,
+  "avg_chars_per_page": 1795.5,
+  "total_images": 26,
+  "table_count": 43,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Evaluating the Impact of Mycorrhizae Inoculants on Tomato and Kale Growth in Various Martian and\nEarth Soil Mixtures\nTeam St. Margaret\u2019s Episcopal School\nPlant Mars Challenge 2022\nReport Compiled By: Alexis Lindenfelser, Charlotte Newman, Charlotte Quintanar, Tina Mai\nAdvisor: Andrea Chou",
+      "char_count": 289,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "text": "Team St. Margaret\u2019s Episcopal School\nPlant Mars Challenge 2022\nBackground\nEarth soil (standard Miracle Grow potting soil) is integral to the growth of plants because\nit contains organic material that provides limiting nutrients and natural fertilizers. Earth soil is\nalso, as demonstrated in the experiment that follows, more aerated and porous, allowing water to\nmore easily permeate through the soil and saturate plant roots. Mars regolith is much more\ncompact (almost like clay), making it more difficult for water to move through and for fragile\nroots to establish (and, as stated above, no organic material, which comes from life). As such,\nEarth soil (or organic matter equivalent) will most likely have to be transported by future\nMars-colonizers if they intend to cultivate crops. Minimizing the weight of this soil will be ideal,\nwhich is why this experiment attempted to measure the minimum amount of Earth soil necessary\nto grow crops. This experiment also sought to observe the impact of microbial inoculants\n(specifically, mycorrhizae fungi purchased from Dynomyco) on plant growth. Mycorrhizae is a\nfungi which forms a symbiotic relationship with plant roots and helps the plant uptake more\nnutrients from the soil to promote plant growth. The use of this inoculant goes with the\nassumption that plants will be grown indoors on Mars, where the microbes are protected from\npotentially damaging UV-radiation. It is hoped that the inoculants, which weigh less than Earth\nsoil, will help the plants take up adequate nutrients and counteract the impact of the Martian\nregolith in potting mixtures with higher concentrations of the regolith. We also designed and\n3D-printed our own self-watering pots to help prevent under- and over-watering. Research is\ncurrently being done on how humans could someday 3D-print materials from Martian dust to\nbuild bases and tools (and, perhaps, pots) in order to reduce the amount of supplies future\ncolonizers would have to bring from Earth. We were curious about 3D-printing and figured that\nthe pots would ensure that the plants had access to water even if we were not there every day. We\nalso wanted to see what it would be like to create our own pots from scratch, similarly to how\nfuture colonizers will need to use innovation, technology, and creativity to build their own\nsupplies on Mars.\nThe nine members of our all-girls team during our first meeting on the day we received our soil\nsimulant! From left to right: Rainbow L., Tina M., Alexis L., Eva D., Sophia K., Charlotte Q.,\nMichaela M., Tina M. (x2), Charlotte Q. (x2), Emma G.\nNot pictured: Charlotte N. (she was on Zoom due to quarantine).\n1",
+      "char_count": 2652,
+      "image_count": 3,
+      "tables": [
+        [
+          [
+            "it contains organic material that provides limiting nutrients and natural fertilizers. Earth soil i"
+          ],
+          [
+            "also, as demonstrated in the experiment that follows, more aerated and porous, allowing water to"
+          ],
+          [
+            "more easily permeate through the soil and saturate plant roots. Mars regolith is much more"
+          ],
+          [
+            "compact (almost like clay), making it more difficult for water to move through and for fragile"
+          ],
+          [
+            "roots to establish (and, as stated above, no organic material, which comes from life). As such,"
+          ],
+          [
+            "Earth soil (or organic matter equivalent) will most likely have to be transported by future"
+          ],
+          [
+            "Mars-colonizers if they intend to cultivate crops. Minimizing the weight of this soil will be ideal,"
+          ],
+          [
+            "which is why this experiment attempted to measure the minimum amount of Earth soil necessary"
+          ],
+          [
+            "to grow crops. This experiment also sought to observe the impact of microbial inoculants"
+          ],
+          [
+            "(specifically, mycorrhizae fungi purchased from Dynomyco) on plant growth. Mycorrhizae is a"
+          ]
+        ],
+        [
+          [
+            "nutrients from the soil to promote plant growth. The use of this inoculant goes with the"
+          ],
+          [
+            "assumption that plants will be grown indoors on Mars, where the microbes are protected from"
+          ],
+          [
+            "potentially damaging UV-radiation. It is hoped that the inoculants, which weigh less than Earth"
+          ],
+          [
+            "soil, will help the plants take up adequate nutrients and counteract the impact of the Martian regolith in potting mixtures with higher concentrations of the regolith. We also designed and"
+          ],
+          [
+            "3D-printed our own self-watering pots to help prevent under- and over-watering. Research is"
+          ],
+          [
+            "currently being done on how humans could someday 3D-print materials from Martian dust to"
+          ],
+          [
+            "build bases and tools (and, perhaps, pots) in order to reduce the amount of supplies future"
+          ],
+          [
+            "colonizers would have to bring from Earth. We were curious about 3D-printing and figured that"
+          ],
+          [
+            "the pots would ensure that the plants had access to water even if we were not there every day. We"
+          ],
+          [
+            "also wanted to see what it would be like to create our own pots from scratch, similarly to how"
+          ],
+          [
+            "future colonizers will need to use innovation, technology, and creativity to build their own"
+          ],
+          [
+            "supplies on Mars."
+          ]
+        ],
+        [
+          [
+            "",
+            "The nine members of our all-girls team during our first meeting on the day we received our soil"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "Team St. Margaret\u2019s Episcopal School\nPlant Mars Challenge 2022\nExperimental Design\nAs described above, one aspect of our experiment was evaluating the impact of different\nconcentrations of Martian regolith on plant growth. In the experiment, we grew plants in a 50%\nMartian regolith by volume (and 50% Earth soil), a 75% Martian regolith by volume (and 25%\nEarth soil), and 100% Earth soil for the control pots. We made the assumption that anything\nhigher than 75% regolith would not be able to support significant plant growth and that the\ncontrol pots would exhibit the most growth. In tandem with varying the concentrations of Mars\nregolith, we also evaluated the impact of microbial inoculants. For each of the three\nconcentrations (50%, 75%, and 0% Mars regolith) we had two pots, one inoculated with\nmycorrhizae and one that was not. This would enable us to see the impact of the microbial\ninoculants alone by comparing pots with the same percentage of Martian regolith. Our layout\nalso enabled us to see if the addition of microbial inoculants in potting mixtures with more\nMartian soil could exhibit the same amount of plant growth as in potting with less Martian\nregolith, but no inoculants. (The short answer, no.) Lastly, we chose to grow kale and tomatoes.\nWe researched prior professional martian-growing experiments, and saw that their results often\nfavored kale and tomato growth over other plants. Both plants are also known to be tolerant of\nextreme conditions. This research and planning was done before we received our soil simulant\nand supplies.\nNote: Originally this experiment was also planned to evaluate the impact of ammonium nitrate\n(a soil acidifier) on the growth of tomato plants (since they prefer more acidic soils), and\nMartian regolith is naturally basic at a pH of 8-9). However, we ultimately decided not to use the\nsoil acidifier in order to focus on the other variables and aspects of our experiment.\nFigure 1: Our so-called \u201cplant map\u201d describing the contents of each of our 15 pots. \u201cMyco\u201d is\nour shorthand for mycorrhizae.\n2",
+      "char_count": 2064,
+      "image_count": 1,
+      "tables": [
+        [
+          [
+            "",
+            "As described above, one aspect of our experiment was evaluating the impact of different"
+          ],
+          [
+            "concentrations of Martian regolith on plant growth. In the experiment, we grew plants in a 50%",
+            ""
+          ]
+        ],
+        [
+          [
+            "Earth soil), and 100% Earth soil for the control pots. We made the assumption that anything"
+          ],
+          [
+            "higher than 75% regolith would not be able to support significant plant growth and that the"
+          ],
+          [
+            "control pots would exhibit the most growth. In tandem with varying the concentrations of Mars"
+          ],
+          [
+            "regolith, we also evaluated the impact of microbial inoculants. For each of the three"
+          ],
+          [
+            "concentrations (50%, 75%, and 0% Mars regolith) we had two pots, one inoculated with"
+          ],
+          [
+            "mycorrhizae and one that was not. This would enable us to see the impact of the microbial"
+          ],
+          [
+            "inoculants alone by comparing pots with the same percentage of Martian regolith. Our layout"
+          ],
+          [
+            "also enabled us to see if the addition of microbial inoculants in potting mixtures with more"
+          ],
+          [
+            "Martian soil could exhibit the same amount of plant growth as in potting with less Martian"
+          ],
+          [
+            "regolith, but no inoculants. (The short answer, no.) Lastly, we chose to grow kale and tomatoes."
+          ]
+        ],
+        [
+          [
+            "(a soil acidifier) on the growth of tomato plants (since they prefer more acidic soils), and"
+          ],
+          [
+            "Martian regolith is naturally basic at a pH of 8-9). However, we ultimately decided not to use th"
+          ],
+          [
+            "soil acidifier in order to focus on the other variables and aspects of our experiment."
+          ]
+        ],
+        [
+          [
+            "",
+            "Figure 1: Our so-called \u201cplant map\u201d describing thecontents of each of our 15 pots. \u201cMyco\u201d i"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "Team St. Margaret\u2019s Episcopal School\nPlant Mars Challenge 2022\nInitially, we filled Solo cups (with holes in the bottom to allow for drainage) with the soil\nmixtures. The plan was to transfer the germinated sprouts to larger pots (the 3D-printed ones)\nonce they established some roots. The Solo cups were then placed in a large plastic bin, which\nwas then loaded into our chemistry teacher\u2019s (Ms. Chou\u2019s) fume hood. The fume hood had LED\nlighting, a ventilation system, and a clear front window to prevent curious freshmen from\ntampering with the experiment. In addition to the fume hood\u2019s lighting, we purchased red, blue,\nand purple colored (the color wavelengths that are most efficient for photosynthesis) grow lights\nand clipped them to the rim of the clear bin, so that the light source was closer to the plants. In\nthe first few weeks, the lights were left on all day and night.\nFigure 2: The first day of the grow period, depicting the unplanted soil mixtures in the labeled\ncups.\nFigure 3: A few weeks into the challenge, the plants are shown from a birds-eye view with the\ngrow lights and some green sprouts! Note: full-spectrum (white) grow lights are shown in the\nimage because the colored ones had not yet arrived, and we thought it would be better for the\nplants to receive full-spectrum initially, then switch to colored lights.\n3",
+      "char_count": 1345,
+      "image_count": 4,
+      "tables": [
+        [
+          [
+            "Initially, we filled Solo cups (with holes in the bottom to allow for drainage) with the soil"
+          ],
+          [
+            "mixtures. The plan was to transfer the germinated sprouts to larger pots (the 3D-printed ones)"
+          ]
+        ],
+        [
+          [
+            "was then loaded into our chemistry teacher\u2019s (Ms. Chou\u2019s) fume hood. The fume hood had LED"
+          ],
+          [
+            "lighting, a ventilation system, and a clear front window to prevent curious freshmen from"
+          ],
+          [
+            "tampering with the experiment. In addition to the fume hood\u2019s lighting, we purchased red, blue,"
+          ],
+          [
+            "and purple colored (the color wavelengths that are most efficient for photosynthesis) grow light"
+          ]
+        ],
+        [
+          [
+            "Figure 3: A few weeks into the challenge, the plants are shown from a birds-eye view with the"
+          ],
+          [
+            "grow lights and some green sprouts!Note: full-spectrum(white) grow lights are shown in the"
+          ],
+          [
+            "image because the colored ones had not yet arrived, and we thought it would be better for the"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 5,
+      "text": "Team St. Margaret\u2019s Episcopal School\nPlant Mars Challenge 2022\nFigure 4: The outside of the fume hood and the setup, with red and blue LED grow lights.\n3D-printed pots\nAnother key part of our setup was the 3D-printed pots.\u200b The design features a reservoir on\ntop of which rests a funnel with holes in the narrower portion. The reservoir is filled with water,\nand the planted soil mixture goes into the funnel portion. The plant roots can uptake water\nthrough the holes in the bottom of the funnel. Originally, both the reservoirs and the funnels were\ngoing to be 3D-printed, but we had trouble getting the right density of lattice to prevent leakage\nand wanted to generate less plastic waste, so we used recycled Fiji water bottles instead. Because\nof this, the size and shape of the funnel portion was designed to fit the water bottle. The printer\nwe had access to was relatively small, so we had to model the designs in multiple sections in\norder to maximize the size of pots we could create on the small printer.\nFigure 5: The final 3D-models (in Tinkercad) of both pieces of our pots. They would be later\nglued together and placed on top of the reservoir. The semicircle cutout in the side enables water\nto be poured into the reservoir to refill it without lifting up the funnel and disturbing the plants.\n4",
+      "char_count": 1311,
+      "image_count": 4,
+      "tables": [
+        [
+          [
+            "",
+            "Another key part of our setup was the 3D-printed pots. The design features a reservoir on"
+          ],
+          [
+            "top of which rests a funnel with holes in the narrower portion. The reservoir is filled with water,",
+            ""
+          ],
+          [
+            "and the planted soil mixture goes into the funnel portion. The plant roots can uptake water",
+            ""
+          ],
+          [
+            "through the holes in the bottom of the funnel. Originally, both the reservoirs and the funnels wer",
+            ""
+          ],
+          [
+            "going to be 3D-printed, but we had trouble getting the right density of lattice to prevent leakage",
+            ""
+          ],
+          [
+            "and wanted to generate less plastic waste, so we used recycled Fiji water bottles instead. Becaus",
+            ""
+          ]
+        ],
+        [
+          [
+            "we had access to was relatively small, so we had to model the designs in multiple sections in"
+          ],
+          [
+            "order to maximize the size of pots we could create on the small printer."
+          ]
+        ],
+        [
+          [
+            "",
+            "Figure 5: The final 3D-models (in Tinkercad) of bothpieces of our pots. They would be later"
+          ],
+          [
+            "glued together and placed on top of the reservoir. The semicircle cutout in the side enables wate",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 6,
+      "text": "Team St. Margaret\u2019s Episcopal School\nPlant Mars Challenge 2022\nFigure 6: Multiple iterations of our pots. Left: The second iteration was redesigned because it\nwas too small. Middle: The third iteration, oblong to maximize volume, but impractical for a\nreservoir. Right: The final iteration, finding a perfect balance between size and shape.\nHypothesis\nWe predicted that plants will grow more (have a greater height) in pots that have a lower\npercent-by-volume of Martian regolith, since Earth soil is generally better for growing plants. We\nalso predict that the pots receiving microbial inoculants will exhibit more growth because of the\nbenefits that mycorrhizae has on nutrient uptake.\nVariables\n-\nIndependent Variable\nThe independent variables in this experiment was the ratio of Earth soil to Martian soil as\nmeasured in percent-by-volume and the presence or absence of mycorrhizae.\n-\nDependent Variable\nThe dependent variable was the height of the plant measured after growing in the soil\nmixture.\n-\nControls\nThe controls for this experiment was that each pot received the same amount of water and\nall were equally exposed to the grow lights. Temperature was also kept constant.\nMeasurements\nWe monitored the height of the plants in centimeters (based on the height of the tallest\nleaf/sprout) weekly, and also wrote down observations on the appearance of the soil and plants.\nAdditionally, we added to the observations log everytime we made a change to the potting\nmixtures contents. We attempted to measure the pH of the potting mixtures using the provided\npH strips, but our data kept coming out the same for every single pot (at a pH of around 7).\nThese readings seemed inaccurate, which was part of the decision to not add the soil acidifier,\nsince we did not want to risk killing the already-fragile tomato plants in a hostile growing\n5",
+      "char_count": 1848,
+      "image_count": 3,
+      "tables": [
+        [
+          [
+            "percent-by-volume of Martian regolith, since Earth soil is generally better for growing plants. We"
+          ],
+          [
+            "also predict that the pots receiving microbial inoculants will exhibit more growth because of the"
+          ],
+          [
+            "benefits that mycorrhizae has on nutrient uptake."
+          ]
+        ],
+        [
+          [
+            "The independent variables in this experiment was the ratio of Earth soil to Martian soil as"
+          ],
+          [
+            "measured in percent-by-volume and the presence or absence of mycorrhizae."
+          ]
+        ],
+        [
+          [
+            "The dependent variable was the height of the plant measured after growing in the soil"
+          ],
+          [
+            "mixture."
+          ]
+        ],
+        [
+          [
+            "The controls for this experiment was that each pot received the same amount of water and"
+          ],
+          [
+            "all were equally exposed to the grow lights. Temperature was also kept constant."
+          ]
+        ],
+        [
+          [
+            "Measurements"
+          ],
+          [
+            "We monitored the height of the plants in centimeters (based on the height of the tallest"
+          ],
+          [
+            "leaf/sprout) weekly, and also wrote down observations on the appearance of the soil and plants"
+          ],
+          [
+            "Additionally, we added to the observations log everytime we made a change to the potting"
+          ],
+          [
+            "mixtures contents. We attempted to measure the pH of the potting mixtures using the provided"
+          ],
+          [
+            "pH strips, but our data kept coming out the same for every single pot (at a pH of around 7)."
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 7,
+      "text": "Team St. Margaret\u2019s Episcopal School\nPlant Mars Challenge 2022\nenvironment. We later learned that leaving pH strips to dry on white paper (to better see the\ncolor) caused them to take on the pH of the paper, not the soil. As a result, we unfortunately had\nto void all our pH data.\nFigure 7: Tracking of the plant heights. A height of 0 represents a plant that was not exhibiting\ngrowth.\nFigure 8: Left: A picture of the plants from 2/15 (pre-self watering pots).\nMiddle: This legend matches the pot number (as shown in Figure 7) to the contents of each pot.\nControl pot represents a 100% Earth soil mixture. Right: A picture of the plants from 3/2 (when\ngrowth was at its peak).\n6",
+      "char_count": 680,
+      "image_count": 4,
+      "tables": [
+        [
+          [
+            "environment. We later learned that leaving pH strips to dry on white paper (to better see the"
+          ],
+          [
+            "color) caused them to take on the pH of the paper, not the soil. As a result, we unfortunately had"
+          ],
+          [
+            "to void all our pH data."
+          ]
+        ],
+        [
+          [
+            "Middle: This legend matches the pot number (as shownin Figure 7) to the contents of each pot."
+          ],
+          [
+            "Control pot represents a 100% Earth soil mixture. Right:A picture of the plants from 3/2 (when"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 8,
+      "text": "Team St. Margaret\u2019s Episcopal School\nPlant Mars Challenge 2022\nDate\nObservations\nAdjustments\n2/7-2/8\n-Martian regolith is red and has very fine particles\n-Martian regolith is much softer to the touch, but much denser compared\nto Earth soil\n-Earth soil remains relatively light, more rough, dark brown in color\n-Wet Martian regolith forms a very muddy texture on top, but remains dry\nunderneath\n-Wet Earth soil is moist and not nearly as muddy \u2192 water distribution\nthroughout soil is even, the underneath is wet\n-Plant the seeds and add water\n-Do not add inoculants yet (per box instructions)\n2/10\n-Martian regolith appears to be extremely dry \u2192 Dries out much quicker\ncompared to Earthen soil\n-Martian regolith dries in the shapes of how water moves the regolith \u2192\nforms small, hardened peaks and divots\n-Earth soil is also relatively dry, but not nearly as much as Martian\nregolith\n-Earth soil is also significantly softer than the Martian regolith when dry\n\u2192 dried Martian soil is rock hard and difficult to break apart\n-Aerate soil by mixing\n2/11\n-Martian regolith is dry \u2192 soil is not very permeable as water gathers on\ntop and takes a while to filter down through the cup\n-Earthen soil absorbs water with relative ease\n-After Martian regolith dries it looks like clay, becomes extremely hard\nand jagged\n-Water, aerate soil by mixing, turn down light\nintensity for the weekend (hope that they\nsurvive)\n2/14\n-Small, flat, white formations along the sides of cups appearing (mold?\ncalcium deposits?)\n-Some germination in lower regolith concentration pots \u2192 small, green\nsprouts around 1-2 cm in height\n-Martian soil still very dry \u2192 more consistent watering methods required\n(consider piercing the soil and watering to place water into lower levels of\nsoil)\n3/10\n-Plants are either not growing at all or are so big that they are growing\noutside of cup the cup (need to transfer to bigger pot) \u2192 the controls are\nexperiencing the most growth currently around 3-5 cm\n-Some Martian plants are looking like slimy and wilting; slight yellow\ndiscoloration \u2192 might be due to Martian soil\u2019s inefficient water\ndistribution/drainage\n-Many of the plants that grew in Martian regolith showed mixes of green\nand red inside the plant itself \u2192 discoloration\n-Small, white, dry calcium build up/salt deposits still present on the\ninterior walls of the cups\n-Plant more seeds in pots that exhibit no growth,\nin case the original seeds were infertile\n-Need to add acidic additive and myco as per\ninstructions\n3/17\n-Last week we added new seeds to the pots that are not growing in case\nthe seeds are infertile \u2192 experiencing a lack of growth\n-Currently working on transferring the crops to the bigger self-watering\npots \u2192 Plants reached around 6-8 cm in length and need more space\n-Control plants are experiencing the most growth and need transfers \u2192\nStrong, green, & healthy\n-The white calcium deposits are have disappeared\n-Some plants that we replanted in the higher concentration of regolith\nappear to have wilted or dried out\n-Regolith soil is still very dry and hard\n-5g of mycorrhizae added to each\nmyco-designated pot\n7",
+      "char_count": 3110,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Date",
+            "Observations",
+            "Adjustments"
+          ],
+          [
+            "2/7-2/8",
+            "-Martian regolith is red and has very fine particles -Martian regolith is much softer to the touch, but much denser compared to Earth soil -Earth soil remains relatively light, more rough, dark brown in color -Wet Martian regolith forms a very muddy texture on top, but remains dry underneath -Wet Earth soil is moist and not nearly as muddy \u2192 water distribution throughout soil is even, the underneath is wet",
+            "-Plant the seeds and add water -Donotadd inoculants yet (per box instructions)"
+          ],
+          [
+            "2/10",
+            "-Martian regolith appears to be extremely dry \u2192 Dries out much quicker compared to Earthen soil -Martian regolith dries in the shapes of how water moves the regolith \u2192 forms small, hardened peaks and divots -Earth soil is also relatively dry, but not nearly as much as Martian regolith -Earth soil is also significantly softer than the Martian regolith when dry \u2192 dried Martian soil is rock hard and difficult to break apart",
+            "-Aerate soil by mixing"
+          ],
+          [
+            "2/11",
+            "-Martian regolith is dry \u2192 soil is not very permeable as water gathers on top and takes a while to filter down through the cup -Earthen soil absorbs water with relative ease -After Martian regolith dries it looks like clay, becomes extremely hard and jagged",
+            "-Water, aerate soil by mixing, turn down light intensity for the weekend (hope that they survive)"
+          ],
+          [
+            "2/14",
+            "-Small, flat, white formations along the sides of cups appearing (mold? calcium deposits?) -Some germination in lower regolith concentration pots \u2192 small, green sprouts around 1-2 cm in height -Martian soil still very dry \u2192 more consistent watering methods required (consider piercing the soil and watering to place water into lower levels of soil)",
+            ""
+          ],
+          [
+            "3/10",
+            "-Plants are either not growing at all or are so big that they are growing outside of cup the cup (need to transfer to bigger pot) \u2192 the controls are experiencing the most growth currently around 3-5 cm -Some Martian plants are looking like slimy and wilting; slight yellow discoloration \u2192 might be due to Martian soil\u2019s inefficient water distribution/drainage -Many of the plants that grew in Martian regolith showed mixes of green and red inside the plant itself \u2192 discoloration -Small, white, dry calcium build up/salt deposits still present on the interior walls of the cups",
+            "-Plant more seeds in pots that exhibit no growth, in case the original seeds were infertile -Need to add acidic additive and myco as per instructions"
+          ],
+          [
+            "3/17",
+            "-Last week we added new seeds to the pots that are not growing in case the seeds are infertile \u2192 experiencing a lack of growth -Currently working on transferring the crops to the bigger self-watering pots \u2192 Plants reached around 6-8 cm in length and need more space -Control plants are experiencing the most growth and need transfers \u2192 Strong, green, & healthy -The white calcium deposits are have disappeared -Some plants that we replanted in the higher concentration of regolith appear to have wilted or dried out -Regolith soil is still very dry and hard",
+            "-5g of mycorrhizae added to each myco-designated pot"
+          ]
+        ],
+        [
+          [
+            "-Martian regolith is red and has very fine particles"
+          ],
+          [
+            "-Martian regolith is much softer to the touch, but much denser compared"
+          ],
+          [
+            "to Earth soil"
+          ],
+          [
+            "-Earth soil remains relatively light, more rough, dark brown in color"
+          ],
+          [
+            "-Wet Martian regolith forms a very muddy texture on top, but remains dr"
+          ],
+          [
+            "underneath"
+          ],
+          [
+            "-Wet Earth soil is moist and not nearly as muddy \u2192 water distribution"
+          ],
+          [
+            "throughout soil is even, the underneath is wet"
+          ]
+        ],
+        [
+          [
+            "-Plant the seeds and add water"
+          ],
+          [
+            "-Donotadd inoculants yet (per box instructions)"
+          ]
+        ],
+        [
+          [
+            "-Martian regolith appears to be extremely dry \u2192 Dries out much quicker"
+          ],
+          [
+            "compared to Earthen soil"
+          ],
+          [
+            "-Martian regolith dries in the shapes of how water moves the regolith \u2192"
+          ],
+          [
+            "forms small, hardened peaks and divots"
+          ],
+          [
+            "-Earth soil is also relatively dry, but not nearly as much as Martian"
+          ],
+          [
+            "regolith"
+          ],
+          [
+            "-Earth soil is also significantly softer than the Martian regolith when dry"
+          ],
+          [
+            "\u2192 dried Martian soil is rock hard and difficult to break apart"
+          ]
+        ],
+        [
+          [
+            "-Martian regolith is dry \u2192 soil is not very permeable as water gathers on"
+          ],
+          [
+            "top and takes a while to filter down through the cup"
+          ],
+          [
+            "-Earthen soil absorbs water with relative ease"
+          ],
+          [
+            "-After Martian regolith dries it looks like clay, becomes extremely hard"
+          ],
+          [
+            "and jagged"
+          ]
+        ],
+        [
+          [
+            "-Water, aerate soil by mixing, turn down light"
+          ],
+          [
+            "intensity for the weekend (hope that they"
+          ],
+          [
+            "survive)"
+          ]
+        ],
+        [
+          [
+            "-Small, flat, white formations along the sides of cups appearing (mold?"
+          ],
+          [
+            "calcium deposits?)"
+          ],
+          [
+            "-Some germination in lower regolith concentration pots \u2192 small, gree"
+          ],
+          [
+            "sprouts around 1-2 cm in height"
+          ],
+          [
+            "-Martian soil still very dry \u2192 more consistent watering methods required"
+          ],
+          [
+            "(consider piercing the soil and watering to place water into lower levels o"
+          ],
+          [
+            "soil)"
+          ]
+        ],
+        [
+          [
+            "-Plants are either not growing at all or are so big that they are growing"
+          ],
+          [
+            "outside of cup the cup (need to transfer to bigger pot) \u2192 the controls are"
+          ],
+          [
+            "experiencing the most growth currently around 3-5 cm"
+          ],
+          [
+            "-Some Martian plants are looking like slimy and wilting; slight yellow"
+          ],
+          [
+            "discoloration \u2192 might be due to Martian soil\u2019s inefficient water"
+          ],
+          [
+            "distribution/drainage"
+          ],
+          [
+            "-Many of the plants that grew in Martian regolith showed mixes of green"
+          ],
+          [
+            "and red inside the plant itself \u2192 discoloration"
+          ],
+          [
+            "-Small, white, dry calcium build up/salt deposits still present on the"
+          ],
+          [
+            "interior walls of the cups"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 9,
+      "text": "Team St. Margaret\u2019s Episcopal School\nPlant Mars Challenge 2022\n-The plants that have grown are doing really great!\n3/28\n-Many plants are struggling to grow in the Martian soils \u2192 little to no\ngrowth\n-A few sprouts present in the 50/50 and 75/25 samples, but the sprouts are\nsmall and wilting \u2192 indicating plant death soon\n-Starting to see some discoloration in the tomato plants for the controls \u2192\nwilting at ends of leaves + yellow leaves\n-Control kale plants are still green, strong, and healthy\n-Earth soil is slightly dry, but remains relatively soft\n-Martian soil is still very dry and very jagged and hard\n-Realized that the colored lights are killing\nplants, switched back to white/full spectrum\n4/14\n-Most plants are no longer growing, with the exception of the control pots\n-Kale control pots were the most successful and remain green, strong and\nhealthy\n-One control tomato has completely died \u2192 the heat from growth lights\ncaused the leaves to wilt, turn yellow, then it shriveled up and died\n-The other control tomato remains around 5 cm and has a slight wilting,\nbut is still green\n-Earthen soil appears dry, but still soft and airy\n-Martian soil remains rockhard and without growth \u2192 the underbelly of\nthe Martian soil is also dry but much softer and fine like from Week 1\n-White deposits have largely vanished\nFigure 9: Observations over the course of the experiment when we made major changes. Note:\nThe self-watering pots are sprinkled in as we gradually re-planted the larger plants. We did not\nend up printing a full set of pots because it would not make sense to replant pots with no growth.\nFigure 10: Close-ups of the soil and some sprouts early on. The white deposits mentioned in the\nobservations are seen in the bottom right corner of the middle image.\nResults\nHonestly, life is quite brutal for an Earth plant trying to establish roots in a Martian environment.\nOverall, the data shows that, ultimately, kale was better at surviving than the tomatoes. This\nmight have had something to do with the pH, as we predicted that the increased alkalinity of\nMartian soil could be detrimental to acid-loving tomatoes. It was difficult to evaluate the impact\nof the mycorrhizae on our plant growth because many of the plants did not survive the entire\nGrow Period. However, the data shows that the kale control pot inoculated with mycorrhizae\ngrew about 3 inches taller than the kale control pot that was not inoculated. The self-watering\npots seemed to have a positive impact on the growth of the plants, because they enabled the\nplants to uptake water both through the roots (wetting the bottom half of the soil) and we could\n8",
+      "char_count": 2645,
+      "image_count": 3,
+      "tables": [
+        [
+          [
+            "",
+            "-The plants that have grown are doing really great!",
+            ""
+          ],
+          [
+            "3/28",
+            "-Many plants are struggling to grow in the Martian soils \u2192 little to no growth -A few sprouts present in the 50/50 and 75/25 samples, but the sprouts are small and wilting \u2192 indicating plant death soon -Starting to see some discoloration in the tomato plants for the controls \u2192 wilting at ends of leaves + yellow leaves -Control kale plants are still green, strong, and healthy -Earth soil is slightly dry, but remains relatively soft -Martian soil is still very dry and very jagged and hard",
+            "-Realized that the colored lights are killing plants, switched back to white/full spectrum"
+          ],
+          [
+            "4/14",
+            "-Most plants are no longer growing, with the exception of the control pots -Kale control pots were the most successful and remain green, strong and healthy -One control tomato has completely died \u2192 the heat from growth lights caused the leaves to wilt, turn yellow, then it shriveled up and died -The other control tomato remains around 5 cm and has a slight wilting, but is still green -Earthen soil appears dry, but still soft and airy -Martian soil remains rockhard and without growth \u2192 the underbelly of the Martian soil is also dry but much softer and fine like from Week 1 -White deposits have largely vanished",
+            ""
+          ],
+          [
+            "",
+            "Figure 9: Observations over the course of the experimentwhen we made major changes. Note: The self-watering pots are sprinkled in as we gradually re-planted the larger plants. We did not",
+            ""
+          ],
+          [
+            "",
+            "end up printing a full set of pots because it would not make sense to replant pots with no growth",
+            ""
+          ]
+        ],
+        [
+          [
+            "-Many plants are struggling to grow in the Martian soils \u2192 little to no"
+          ],
+          [
+            "growth"
+          ],
+          [
+            "-A few sprouts present in the 50/50 and 75/25 samples, but the sprouts are"
+          ],
+          [
+            "small and wilting \u2192 indicating plant death soon"
+          ],
+          [
+            "-Starting to see some discoloration in the tomato plants for the controls \u2192"
+          ],
+          [
+            "wilting at ends of leaves + yellow leaves"
+          ],
+          [
+            "-Control kale plants are still green, strong, and healthy"
+          ],
+          [
+            "-Earth soil is slightly dry, but remains relatively soft"
+          ],
+          [
+            "-Martian soil is still very dry and very jagged and hard"
+          ]
+        ],
+        [
+          [
+            "-Realized that the colored lights are killing"
+          ],
+          [
+            "plants, switched back to white/full spectrum"
+          ]
+        ],
+        [
+          [
+            "-Most plants are no longer growing, with the exception of the control pots"
+          ],
+          [
+            "-Kale control pots were the most successful and remain green, strong and"
+          ],
+          [
+            "healthy"
+          ],
+          [
+            "-One control tomato has completely died \u2192 the heat from growth lights"
+          ],
+          [
+            "caused the leaves to wilt, turn yellow, then it shriveled up and died"
+          ],
+          [
+            "-The other control tomato remains around 5 cm and has a slight wilting,"
+          ],
+          [
+            "but is still green"
+          ],
+          [
+            "-Earthen soil appears dry, but still soft and airy"
+          ],
+          [
+            "-Martian soil remains rockhard and without growth \u2192 the underbelly of"
+          ],
+          [
+            "the Martian soil is also dry but much softer and fine like from Week 1"
+          ],
+          [
+            "-White deposits have largely vanished"
+          ]
+        ],
+        [
+          [
+            "Results"
+          ],
+          [
+            "Honestly, life is quite brutal for an Earth plant trying to establish roots in a Martian environment."
+          ],
+          [
+            "Overall, the data shows that, ultimately, kale was better at surviving than the tomatoes. This"
+          ],
+          [
+            "might have had something to do with the pH, as we predicted that the increased alkalinity of"
+          ],
+          [
+            "Martian soil could be detrimental to acid-loving tomatoes. It was difficult to evaluate the impact"
+          ],
+          [
+            "of the mycorrhizae on our plant growth because many of the plants did not survive the entire"
+          ],
+          [
+            "Grow Period. However, the data shows that the kale control pot inoculated with mycorrhizae"
+          ],
+          [
+            "grew about 3 inches taller than the kale control pot that was not inoculated. The self-watering"
+          ],
+          [
+            "pots seemed to have a positive impact on the growth of the plants, because they enabled the"
+          ],
+          [
+            "plants to uptake water both through the roots (wetting the bottom half of the soil) and we could"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 10,
+      "text": "Team St. Margaret\u2019s Episcopal School\nPlant Mars Challenge 2022\nsprinkle water on the plants from above, helping mitigate some of the negative impact that the\nimpermeable Martian soil had on growth. When we cleaned up our experiment after the end of\nthe Grow Period (after a few days neglecting to water the plants) and poured out the potting\nmixture from those pots, we saw that the top layer of dirt was dry and crackly, while the lower\nlayer was more moist.\nFigure 11: A final snapshot of our plants and experimental setup.\nDiscussion & Conclusion\nIn exploring the growth of plants in Martian conditions, there are still a few factors we chose to\nomit from the experiment. We assume that in a situation where plants are being grown on mars, it\nwould be done indoors in an environment with normal gravity. Gravity is said to affect how\nwater permeates into the soil, but because of this assumption, we decided not to test the impacts\nof reduced gravity on plant growth. Wind storms, which would also be a concern in outdoor\ngrowing environments, are not an issue in indoor conditions. Another concern in relation to Mars\nregolith are perchlorates. Perchlorates have a strong attraction to water and lower its freezing\npoint. But while a concern for real Martian dust, perchlorates are not included in any of Exolith\u2019s\nsimulants because they are dangerous to humans.\nIn this experiment, we were probably too ambitious with the amount of variables we wanted to\nevaluate. The complicated nature of our experimental design probably made our experiment\nmore hypothetical than actually realistic for a group of non-gardener students to figure out in a\n10-week period. In other plants, our plants probably would have been more successful if we\nsimplified our experiment and focused more on cultivation and tending to our plants than\nmanipulating variables. If we ever try this challenge again in the future, we would have focused\nour experiment on manipulating just one variable (e.g., Martian to Earth soil ratio) and making\nsure to check up on our plants as frequently as possible.\nBut, I suppose they say \u201cShoot for the moon, even if you miss, at least you\u2019ll still land amongst\nthe stars.\u201d In our case, we shot for Mars, maybe missed, but still learned a lot on designing and\nconducting experiments and how to work together. Thank you to the Plant the Moon Challenge\nfor this amazing experience!\n9",
+      "char_count": 2395,
+      "image_count": 2,
+      "tables": [
+        [
+          [
+            "impermeable Martian soil had on growth. When we cleaned up our experiment after the end of"
+          ],
+          [
+            "the Grow Period (after a few days neglecting to water the plants) and poured out the potting"
+          ]
+        ],
+        [
+          [
+            "Discussion & Conclusion"
+          ],
+          [
+            "In exploring the growth of plants in Martian conditions, there are still a few factors we chose to"
+          ],
+          [
+            "omit from the experiment. We assume that in a situation where plants are being grown on mars, it"
+          ],
+          [
+            "would be done indoors in an environment with normal gravity. Gravity is said to affect how"
+          ],
+          [
+            "water permeates into the soil, but because of this assumption, we decided not to test the impact"
+          ],
+          [
+            "of reduced gravity on plant growth. Wind storms, which would also be a concern in outdoor"
+          ],
+          [
+            "growing environments, are not an issue in indoor conditions. Another concern in relation to Mars"
+          ],
+          [
+            "regolith are perchlorates. Perchlorates have a strong attraction to water and lower its freezing"
+          ],
+          [
+            "point. But while a concern for real Martian dust, perchlorates are not included in any of Exolith\u2019s"
+          ],
+          [
+            "simulants because they are dangerous to humans."
+          ]
+        ],
+        [
+          [
+            "In this experiment, we were probably too ambitious with the amount of variables we wanted to"
+          ],
+          [
+            "evaluate. The complicated nature of our experimental design probably made our experiment"
+          ],
+          [
+            "more hypothetical than actually realistic for a group of non-gardener students to figure out in a"
+          ],
+          [
+            "10-week period. In other plants, our plants probably would have been more successful if we"
+          ],
+          [
+            "simplified our experiment and focused more on cultivation and tending to our plants than"
+          ],
+          [
+            "manipulating variables. If we ever try this challenge again in the future, we would have focuse"
+          ],
+          [
+            "our experiment on manipulating just one variable (e.g., Martian to Earth soil ratio) and making"
+          ],
+          [
+            "sure to check up on our plants as frequently as possible."
+          ]
+        ],
+        [
+          [
+            "But, I suppose they say \u201cShoot for the moon, even if you miss, at least you\u2019ll still land amongst"
+          ],
+          [
+            "the stars.\u201d In our case, we shot for Mars, maybe missed, but still learned a lot on designing and"
+          ],
+          [
+            "conducting experiments and how to work together. Thank you to the Plant the Moon Challenge"
+          ],
+          [
+            "for this amazing experience!"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 11,
+      "text": "Team St. Margaret\u2019s Episcopal School\nPlant Mars Challenge 2022\nFigure 12: \u201cWe planted Mars!\u201d From left to right: Charlotte Q., Michaela M., Sophia K., Alexis\nL., Charlotte N. (on Zoom), Tina M., Emma G.\nSources\nMycorrhizal applications: Leaders in the production of mycorrhizal fungi. Mycorrhizal\nApplications | Leaders in the Production of Mycorrhizal Fungi. (2020, March 31).\nRetrieved April 30, 2022, from https://mycorrhizae.com/how-it-works/'\nKluepfel, O. A. M., Kluepfel, M., Lippert, B., & Williamson, J. (2012, October 20). Changing\nthe ph of your soil. Home & Garden Information Center | Clemson University, South\nCarolina. Retrieved April 30, 2022, from\nhttps://hgic.clemson.edu/factsheet/changing-the-ph-of-your-soil/\nMinkel, J. R. (2008, June 26). Pay dirt: Martian soil fit for earthly life. Scientific American.\nRetrieved April 30, 2022, from\nhttps://www.scientificamerican.com/article/martian-soil-fit-for-earthly-life/\nGhose, T. (2017, April 14). The first mars colony could be 3D printed from Red Planet Dust.\nLiveScience. Retrieved April 30, 2022, from\nhttps://www.livescience.com/58695-3d-inks-made-from-martian-dust.html\nThingiverse.com. (n.d.). Self-watering planter (small) by Parallelgoods. Thingiverse. Retrieved\nApril 30, 2022, from https://www.thingiverse.com/thing:903411\nCheck out our Instagram for more photos and videos! @plantmars.smes\nhttps://www.instagram.com/plantmars.smes/\n10",
+      "char_count": 1411,
+      "image_count": 1,
+      "tables": [
+        [
+          [
+            "Mycorrhizal applications: Leaders in the production of mycorrhizal fungi. Mycorrhizal"
+          ],
+          [
+            "Applications | Leaders in the Production of Mycorrhizal Fungi. (2020, March 31)."
+          ],
+          [
+            "Retrieved April 30, 2022, from https://mycorrhizae.com/how-it-works/"
+          ]
+        ],
+        [
+          [
+            "Kluepfel, O. A. M., Kluepfel, M., Lippert, B., & Williamson, J. (2012, October 20). Changing"
+          ],
+          [
+            "the ph of your soil. Home & Garden Information Center| Clemson University, South"
+          ],
+          [
+            "Carolina. Retrieved April 30, 2022, from"
+          ],
+          [
+            "https://hgic.clemson.edu/factsheet/changing-the-ph-of-your-soil/"
+          ]
+        ],
+        [
+          [
+            "Minkel, J. R. (2008, June 26).Pay dirt: Martian soilfit for earthly life. Scientific American."
+          ],
+          [
+            "Retrieved April 30, 2022, from"
+          ],
+          [
+            "https://www.scientificamerican.com/article/martian-soil-fit-for-earthly-life/"
+          ]
+        ],
+        [
+          [
+            "Ghose, T. (2017, April 14). The first mars colonycould be 3D printed from Red Planet Dust."
+          ],
+          [
+            "LiveScience. Retrieved April 30, 2022, from"
+          ],
+          [
+            "https://www.livescience.com/58695-3d-inks-made-from-martian-dust.html"
+          ]
+        ],
+        [
+          [
+            "Thingiverse.com. (n.d.).Self-watering planter (small)by Parallelgoods. Thingiverse. Retrieved"
+          ],
+          [
+            "April 30, 2022, from https://www.thingiverse.com/thing:903411"
+          ]
+        ],
+        [
+          [
+            "Check out our Instagram for more photos and videos!@plantmars.smes"
+          ],
+          [
+            "https://www.instagram.com/plantmars.smes/"
+          ]
+        ]
+      ]
+    }
+  ]
+}

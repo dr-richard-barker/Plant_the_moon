@@ -1,0 +1,109 @@
+{
+  "extraction": {
+    "report_id": "fall25-main-mycorrhizal-moon-1d1ca7",
+    "extraction_method": "heuristic",
+    "model_name": "table-aware-lexicon-v2",
+    "celestial_body": "lunar",
+    "regolith_simulant": "LHS-1",
+    "regolith_simulant_raw": "LHS-1",
+    "crop_common_name": "lettuce",
+    "crop_scientific_name": "Lactuca sativa",
+    "crop_guild": "leafy_green",
+    "experimental_duration_days": 56.0,
+    "total_plants_or_pots": null,
+    "replicates_per_treatment": null,
+    "has_earth_soil_control": false,
+    "has_unamended_regolith_control": false,
+    "statistical_tests_reported": [
+      "t-test",
+      "Standard Deviation / Error",
+      "p-value"
+    ],
+    "data_availability": "summary_means",
+    "primary_bottlenecks": [
+      "compaction_crusting",
+      "hydrophobicity_water_retention",
+      "nutrient_deficiency",
+      "microbial_contamination",
+      "light_or_temperature_stress",
+      "root_restriction"
+    ],
+    "innovation_tags": [
+      "microbial_mycorrhizal",
+      "coir_peat_perlite_substrate",
+      "organic_compost_manure"
+    ],
+    "key_hypothesis": "We hypothesized that lettuce plants grown in a nutrient-poor lunar regolith simulant",
+    "summary_findings": "Measurements taken weekly from weeks 1-7 to gauge overall plant health included plant",
+    "arms": [
+      {
+        "arm_id": "arm_trt_1",
+        "arm_label": "Treatment (Mycorrhizal)",
+        "is_control": false,
+        "control_type": "none",
+        "regolith_pct": null,
+        "amendment_category": "microbial_mycorrhizal",
+        "amendment_detail": "Mycorrhizal",
+        "amendment_dose": null,
+        "germination_rate_pct": null,
+        "survival_rate_pct": null,
+        "mean_shoot_height_cm": null,
+        "mean_root_length_cm": null,
+        "mean_fresh_biomass_g": null,
+        "mean_dry_biomass_g": null,
+        "substrate_ph": null,
+        "outcome_vs_regolith_control": "not_reported",
+        "reported_effect_pct": null,
+        "evidence_quote": "Impact of Arbuscular Mycorrhizal Fungi on Lactuca sativa",
+        "page_number": 1
+      },
+      {
+        "arm_id": "arm_trt_2",
+        "arm_label": "Treatment (perlite)",
+        "is_control": false,
+        "control_type": "none",
+        "regolith_pct": null,
+        "amendment_category": "coir_peat_perlite_substrate",
+        "amendment_detail": "perlite",
+        "amendment_dose": null,
+        "germination_rate_pct": null,
+        "survival_rate_pct": null,
+        "mean_shoot_height_cm": null,
+        "mean_root_length_cm": null,
+        "mean_fresh_biomass_g": null,
+        "mean_dry_biomass_g": null,
+        "substrate_ph": null,
+        "outcome_vs_regolith_control": "reduced",
+        "reported_effect_pct": null,
+        "evidence_quote": "27.5% fine sand to reduce compaction, 7.5% perlite for aeration and drainage, 5% compost to",
+        "page_number": 2
+      },
+      {
+        "arm_id": "arm_trt_3",
+        "arm_label": "Treatment (compost)",
+        "is_control": false,
+        "control_type": "none",
+        "regolith_pct": null,
+        "amendment_category": "organic_compost_manure",
+        "amendment_detail": "compost",
+        "amendment_dose": null,
+        "germination_rate_pct": null,
+        "survival_rate_pct": null,
+        "mean_shoot_height_cm": null,
+        "mean_root_length_cm": null,
+        "mean_fresh_biomass_g": null,
+        "mean_dry_biomass_g": null,
+        "substrate_ph": null,
+        "outcome_vs_regolith_control": "reduced",
+        "reported_effect_pct": null,
+        "evidence_quote": "27.5% fine sand to reduce compaction, 7.5% perlite for aeration and drainage, 5% compost to",
+        "page_number": 2
+      }
+    ]
+  },
+  "provenance_audit": {
+    "quotes_checked": 3,
+    "quotes_matched": 3,
+    "quote_match_rate": 1.0
+  }
+}

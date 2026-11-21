@@ -1,0 +1,279 @@
+{
+  "total_award_entries": 324,
+  "total_pdf_reports": 187,
+  "total_pages": 2710,
+  "total_tables": 1206,
+  "total_arms": 581,
+  "total_treatment_arms": 376,
+  "n_states": 13,
+  "ncbitaxon_mapped": 173,
+  "earth_ctrl_pct": 71.7,
+  "reg_ctrl_pct": 38.0,
+  "stat_test_pct": 15.0,
+  "celestial_counts": {
+    "lunar": 132,
+    "martian": 47,
+    "both": 6,
+    "unspecified": 2
+  },
+  "top_crops": [
+    {
+      "crop": "radish",
+      "count": 34
+    },
+    {
+      "crop": "green bean",
+      "count": 19
+    },
+    {
+      "crop": "spinach",
+      "count": 16
+    },
+    {
+      "crop": "lettuce",
+      "count": 14
+    },
+    {
+      "crop": "pea",
+      "count": 12
+    },
+    {
+      "crop": "sunflower",
+      "count": 9
+    },
+    {
+      "crop": "tomato",
+      "count": 8
+    },
+    {
+      "crop": "microgreens",
+      "count": 8
+    }
+  ],
+  "amendment_outcomes": [
+    {
+      "category": "microbial mycorrhizal",
+      "n_arms": 25,
+      "n_improved": 23,
+      "improved_pct": 92.0,
+      "ci_low": 75.0,
+      "ci_high": 97.8
+    },
+    {
+      "category": "organic compost manure",
+      "n_arms": 25,
+      "n_improved": 20,
+      "improved_pct": 80.0,
+      "ci_low": 60.9,
+      "ci_high": 91.1
+    },
+    {
+      "category": "coir peat perlite substrate",
+      "n_arms": 22,
+      "n_improved": 17,
+      "improved_pct": 77.3,
+      "ci_low": 56.6,
+      "ci_high": 89.9
+    },
+    {
+      "category": "vermicompost aquaculture",
+      "n_arms": 10,
+      "n_improved": 10,
+      "improved_pct": 100.0,
+      "ci_low": 72.2,
+      "ci_high": 100.0
+    },
+    {
+      "category": "other",
+      "n_arms": 10,
+      "n_improved": 8,
+      "improved_pct": 80.0,
+      "ci_low": 49.0,
+      "ci_high": 94.3
+    },
+    {
+      "category": "synthetic fertilizer hydroponic",
+      "n_arms": 10,
+      "n_improved": 8,
+      "improved_pct": 80.0,
+      "ci_low": 49.0,
+      "ci_high": 94.3
+    },
+    {
+      "category": "nano fertilizer mineral",
+      "n_arms": 10,
+      "n_improved": 6,
+      "improved_pct": 60.0,
+      "ci_low": 31.3,
+      "ci_high": 83.2
+    },
+    {
+      "category": "plant extract waste",
+      "n_arms": 5,
+      "n_improved": 5,
+      "improved_pct": 100.0,
+      "ci_low": 56.6,
+      "ci_high": 100.0
+    },
+    {
+      "category": "biochar carbon",
+      "n_arms": 4,
+      "n_improved": 3,
+      "improved_pct": 75.0,
+      "ci_low": 30.1,
+      "ci_high": 95.4
+    },
+    {
+      "category": "light spectrum env",
+      "n_arms": 4,
+      "n_improved": 3,
+      "improved_pct": 75.0,
+      "ci_low": 30.1,
+      "ci_high": 95.4
+    }
+  ],
+  "top_bottlenecks": [
+    {
+      "bottleneck": "nutrient deficiency",
+      "count": 129,
+      "pct": 69.0
+    },
+    {
+      "bottleneck": "light or temperature stress",
+      "count": 123,
+      "pct": 65.8
+    },
+    {
+      "bottleneck": "compaction crusting",
+      "count": 79,
+      "pct": 42.2
+    },
+    {
+      "bottleneck": "hydrophobicity water retention",
+      "count": 67,
+      "pct": 35.8
+    },
+    {
+      "bottleneck": "heavy metals or salinity",
+      "count": 50,
+      "pct": 26.7
+    },
+    {
+      "bottleneck": "microbial contamination",
+      "count": 44,
+      "pct": 23.5
+    },
+    {
+      "bottleneck": "alkaline ph",
+      "count": 41,
+      "pct": 21.9
+    },
+    {
+      "bottleneck": "root restriction",
+      "count": 37,
+      "pct": 19.8
+    }
+  ],
+  "ml": {
+    "n_total_arms": 128,
+    "n_unique_reports": 87,
+    "n_train_arms": 104,
+    "n_test_arms": 24,
+    "positive_rate": 0.828,
+    "best_model": "Random Forest",
+    "models": [
+      {
+        "model": "Dummy (Majority)",
+        "cv_roc_auc": 0.5,
+        "cv_roc_auc_ci": [
+          0.5,
+          0.5
+        ],
+        "cv_pr_auc": 0.817,
+        "cv_pr_auc_ci": [
+          0.74,
+          0.894
+        ],
+        "cv_f1": 0.899,
+        "test_roc_auc": 0.5,
+        "test_f1": 0.933
+      },
+      {
+        "model": "Logistic Regression",
+        "cv_roc_auc": 0.494,
+        "cv_roc_auc_ci": [
+          0.348,
+          0.651
+        ],
+        "cv_pr_auc": 0.836,
+        "cv_pr_auc_ci": [
+          0.753,
+          0.917
+        ],
+        "cv_f1": 0.902,
+        "test_roc_auc": 0.571,
+        "test_f1": 0.909
+      },
+      {
+        "model": "Random Forest",
+        "cv_roc_auc": 0.689,
+        "cv_roc_auc_ci": [
+          0.576,
+          0.802
+        ],
+        "cv_pr_auc": 0.915,
+        "cv_pr_auc_ci": [
+          0.863,
+          0.961
+        ],
+        "cv_f1": 0.897,
+        "test_roc_auc": 0.476,
+        "test_f1": 0.93
+      },
+      {
+        "model": "HistGradientBoosting",
+        "cv_roc_auc": 0.61,
+        "cv_roc_auc_ci": [
+          0.473,
+          0.748
+        ],
+        "cv_pr_auc": 0.873,
+        "cv_pr_auc_ci": [
+          0.801,
+          0.944
+        ],
+        "cv_f1": 0.891,
+        "test_roc_auc": 0.595,
+        "test_f1": 0.909
+      }
+    ],
+    "test_slices": {
+      "celestial_body=lunar": {
+        "n_arms": 12,
+        "positive_rate": 0.917,
+        "accuracy": 0.917
+      },
+      "celestial_body=martian": {
+        "n_arms": 10,
+        "positive_rate": 0.8,
+        "accuracy": 0.8
+      },
+      "track=junior": {
+        "n_arms": 4,
+        "positive_rate": 1.0,
+        "accuracy": 1.0
+      },
+      "track=main": {
+        "n_arms": 20,
+        "positive_rate": 0.85,
+        "accuracy": 0.85
+      }
+    }
+  },
+  "figures_present": {
+    "fig1": true,
+    "fig2": true,
+    "fig3": true,
+    "fig4": true
+  }
+}

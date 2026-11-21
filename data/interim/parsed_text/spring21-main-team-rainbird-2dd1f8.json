@@ -1,0 +1,728 @@
+{
+  "report_id": "spring21-main-team-rainbird-2dd1f8",
+  "sha256": "0c487634487fcae4d599dc1914256e3c4021e0693206b7f67c8c216103af814f",
+  "page_count": 24,
+  "total_chars": 44046,
+  "avg_chars_per_page": 1835.2,
+  "total_images": 11,
+  "table_count": 8,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "",
+      "char_count": 0,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "text": "Table of Contents:\nList of Symbols and Acronyms:\n1. Introduction\n2. Theory\n2.1 Plant Selection\n2.2 Bacterial Inoculant\n2.3 Mycorrhizal Inoculant\n2.5 Compost Additive\n2.6 Water composition\n3. Methodology\nAnalysis & Results\nDiscussion\nLimitations\nConclusion",
+      "char_count": 255,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "text": "List of Terms, Symbols, and Acronyms:\nTerm, Symbol, or Acronym:\nDefinition\nSuccession\nShorthand for \u201cPrimary Succession,\u201d the process\nin which previously uninhabited areas begin to\nform an ecosystem.\nLHS-1\nLunar Highlands Simulant, a regolith developed\nby the Exolith Lab at the University of Florida to\nbe analogous to an average highlands location on\nthe Moon.\nM\nMicrobial inoculant treatment\nF\nFungal inoculant treatment\nMF\nCombined microbial and fungal inoculant\ntreatment\nC\nControl, no seed treatment\nS\nSoil label, identifying Group 2 plants.\nppm\nparts per million, Concentration\noC\ndegree celsius, Temperature\nNPK\nNitrogen, Phosphorous, and Potassium.",
+      "char_count": 657,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Term, Symbol, or Acronym:",
+            "Definition"
+          ],
+          [
+            "Succession",
+            "Shorthand for \u201cPrimary Succession,\u201d the process in which previously uninhabited areas begin to form an ecosystem."
+          ],
+          [
+            "LHS-1",
+            "Lunar Highlands Simulant, a regolith developed by the Exolith Lab at the University of Florida to be analogous to an average highlands location on the Moon."
+          ],
+          [
+            "M",
+            "Microbial inoculant treatment"
+          ],
+          [
+            "F",
+            "Fungal inoculant treatment"
+          ],
+          [
+            "MF",
+            "Combined microbial and fungal inoculant treatment"
+          ],
+          [
+            "C",
+            "Control, no seed treatment"
+          ],
+          [
+            "S",
+            "Soil label, identifying Group 2 plants."
+          ],
+          [
+            "ppm",
+            "parts per million, Concentration"
+          ],
+          [
+            "oC",
+            "degree celsius, Temperature"
+          ],
+          [
+            "NPK",
+            "Nitrogen, Phosphorous, and Potassium."
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "1. Introduction\nThis project focused on a potential method for long-term, in-situ farming practices using Lunar\nHighlands Simulant (LHS-1) and biological inoculants. With particular biological inoculum, it may be\npossible to create fertile soil via succession rather than needing to ship chemical fertilizers and other soil\namendments into space. Additionally, following long-term human lunar habitation it is assumed that\nin-situ byproducts like compost and water will be available which could further enhance the quality of\nsoil. This study explores the impact of biological inoculants on a soil matrix composed of LHS-1, compost\nand water, and discusses its implications for sustainably creating a fertile growth medium for future\nhuman habitation of the Moon.\nTo grow a healthy plant, you necessarily must have a healthy medium for growth to take place.\nLHS represents a very inhospitable medium for plants to grow in, as it is essentially sterile and lacking\nmajor nutrients for plants to be successful. Though the \u201cbig 3\u201d nutrients required for plant growth\n(Nitrogen, Potassium, and Phosphorous) are lacking in this soil and could be enhanced through dosing\nnutrients into the growth medium, many other needs and long-term sustainability would not be met by\ndoing that alone. As well, reliance on additional fertilizers would not be sustainable or a cost-effective\npractice for lunar agriculture. As such, our project was interested in \u201cgrowing soil\u201d more than plants, by\nattempting to speed soil succession through the addition of specific biological inoculants while still being\nable to grow plants. The benefits that these biological inoculants provide should boost the growth of\nplants in LHS without the need to increase compost soil fraction or additional chemical fertilizers.\nOrganic fraction additions to lunar regolith have been explored in literature. Two recent studies\nhave had success with a low fraction of organics in their growth medium. Pouwels, Wamelink, Musilova,\nand Foing (2020) had success growing garden cress with a 2% by volume compost addition to\nlunar-regolith adjacent terrestrial soil, and Wamelink et al. (2014) had success growing several food\ncrops with a roughly 10% by volume addition of organic matter in JSC1-1A lunar regolith simulant.\nMicroorganisms\nand\nsoil\nhealth\nare\nthe\ncornerstone of sustainable agriculture, and\nunderstanding their interaction and impact in particular soil matrices is very important. The chosen\nbiological additives have been studied in terrestrial contexts and shown to increase the available\nnutrients in soil, form symbiotic relationships with plants to increase nutrient uptake, and positively\nimpact a plant\u2019s resistance to stress and pathogens. Several of these inoculants have studies specific to\nthe chosen plant variety in this study as well. Similarly, recent studies in simulated lunar soil conditions\nusing\nFrench marigold (Tagetes patula L.) also found that beneficial bacteria can be used to combat\npests and pathogens, improve germination and growth, regulate bioleaching, and the uptake and toxicity\nagainst different metal elements. ( Kozyrovska et al., 2006; Lytvynenko et al., 2006; Zaets et al., 2011).\nIt is expected that through the addition of biological inoculants and by adding compost to each\nsample pot\u2019s contents, that lunar exolith will develop a new rhizosphere (that is, a rich and diverse soil\necosystem that will be a healthy environment for plants to grow in). This can lead to a sustainable\ncompost producing cycle, where the biomass of a plant generations will be transformed by\nmicroorganisms into a compost substrate for future crops. This work however represents only a starting\npoint for this line of inquiry, and paves the way for future research exploring the impacts that specific\nstrains of microorganisms would have on plants and on LHS-1 succession.",
+      "char_count": 3865,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "text": "2. Theory\nHypothesis: The addition of biological additives will enhance the growth of Micro Tom tomatoes\ngrown in a mixture of 90% LHS-1 lunar simulant and 10% compost by volume.\n\u201cGrowing soil\u201d is an important aspect of long-term human habitation in lunar settlements. While\non earth soil amendments to meet every possible need are readily available, it would be a challenge to\nregularly send fertilizer or other soil amendments out of Earth\u2019s orbit. One easy and sustainable method\n(though long-term) would be to encourage succession in lunar regolith with the addition of biological\ninoculants and \u201cpioneer plant\u201d species.\nAs an important part of succession, biological inoculants will consume plant waste and digest\ncompounds within the regolith, creating greater fertility in the soil while doing so, or enable plants to\nuptake the new nutrients more readily. They can increase a plant\u2019s ability to uptake nutrients and resist\ndisease, as well as create an environment in soil inhospitable to common plant pathogens.\nTo simulate growing in an environment without an established rhizosphere, we will sterilize all\nsoil prior to planting. This will give us an indication of the impact of our biological inoculants specifically\nrather than any that were unintentionally included.\nWe made the decision to grow in pots rather than a hydroponics setup as the purpose of this\nchallenge is to determine practices to enhance the suitability of LHS-1 (and therefore actual lunar\nregolith) for agricultural purposes. In addition, it was discouraged to pursue hydroponics by organizers in\nthe Q&A chat box during the Plant the Moon Challenge introductory Webinar (2021, 40:51) (link).\nRegardless, the results of this experiment can have positive implications for future hydroponic-based\nlunar agriculture. For example, amending LHS-1 to be more suitable for growing plants would raise the\nfeasibility of lunar hydroponics (particularly wicking or drip methods), where a more nutritious growth\nmedium that is made from in-situ regolith would reduce the amount of material needed to bring into\norbit, such as chemical fertilizers, exfoliated clay pellets, or vermiculite.\n2.1 Plant Selection\nA dwarf variety of tomato (Solanum lycopersicum\u00a0cv. \u201cMicro Tom\u201d) was chosen for this project.\n\u201cMicro Tom\u201d tomatoes are a determinate dwarf tomato cultivar known to be among the smallest, and\nthis unique quality has led to it being suggested as a very convenient species for research (Meissner et\nal., 1997).\nIn addition, tomato plants themselves have previously been researched in lunar exolith growth\nexperiments (Wamelink et al., 2014), have a wide body of knowledge on the positive impacts of bacterial\nand mycorrhizal inoculants (Asaka & Shoda, 1996), and are widely used as a specimen for plant studies in\ngeneral (Schwarz, Thompson, and Kl\u00e4ring, 2014).\nTomato plants are also a very familiar garden staple for millions of gardeners, where they are\ngrown in 86% of American homes with vegetable gardens (National Gardening Association, 2014). This\npopularity means a project using tomatoes would be more accessible to the general public and the\nresults easier to understand, compared to a project based around lesser-known plants such as garden\ncress.",
+      "char_count": 3238,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "text": "Finally, due to the small seed of tomato plants the growth of the plant will be more dependent\non the nutrients the plant is able to extract from the soil rather than what is available from the germ.\nThese factors make the \u201cMicro Tom\u201d cultivar tomato an ideal candidate for this experiment.\n2.2 Bacterial Inoculant\nA retail-available bacterial soil inoculant was chosen (Appendix A), which included the species\nBacillus subtilis, Bacillus amyloliquefaciens, and Pseudomonas monteilii. These have well-demonstrated\nimpacts on plant health and resilience, especially in less-than-ideal growth conditions:\n\u25cf\nP. monteilli produces siderophores that chelate unavailable iron to increase iron uptake in plants\n(Arjjumend et al., 2017) and has shown to have a positive impact on plant mass in\nmetal-stressed soil (Dharni et al., 2014). Additionally, bacteria belonging to the genus\nPseudomonas could destroy alumino-silicates (Melnikova et al., 1990, as cited in Kozyrovska et\nal., 2006).\n\u25cf\nB. amyloliquefaciens improved root and shoot biomass over water and fertilizer, produced\nchitinase, improved overall NPK uptake, and improved chlorophyll content in leaves solubilizes\nphosphates (Qaiser et al., 2018).\n\u25cf\nB.\nSubtillis\nSuppresses\ndiseases\nthrough\nthe\nsynthesis\nof\nmetabolites,\nhormones,\ncell-wall-degrading enzymes, and antioxidants to raise a plant's resilience toward pathogens. In\naddition, it can solubilize phosphorus and enhance nitrogen fixation (Hashem et al., 2019).\n2.3 Mycorrhizal Inoculant\nA common retail-available mixture of arbuscular mycorrhiza was chosen (Appendix A), which\nincluded the species Glomus intraradicies, Glomus mosseae, Glomus aggregatum, and Glomus\netunicatum. Three of these species have prior research showing positive impacts to tomato plants\nspecifically:\n\u25cf\nG. intraradices improved the dry and fresh weights of stems and plant appendages (Nemec &\nDatoff, 1993).\n\u25cf\nG. mosseae provides pathogen protection as well as demonstrated positive impacts on tomato\nseed germination, plant mass, root volume, and fruit weight (Kareem & Hassan, 2014).\n\u25cf\nG. etunicatum demonstrated positive impacts on tomato plant weight and uptake of\nphosphorous (Malekzadeh et al., 2007).\nArbuscular-mycorrhizal fungi (including Glomids) in general can increase the absorption and transfer of\nions released from the regolith as it is consumed by bacteria such as Pseudomonas sp. (Kozyrovska et al.,\n2006). Given that these individual fungi have demonstrated positive impacts on the general physiological\nperformance of tomato plants, they are ideal to use for our experiment.\n2.5 Growth Medium Composition\nPlants simply would not thrive in untreated, unamended LHS-1 due to the lack of\nmacro-nutrients plants need, as well as density of the regolith presenting challenges to water retention,\nroot penetration, and gas exchange. The addition of organic materials would mitigate these challenges.\nAs previously mentioned, recent experiments have had success with a fraction of organics in\ntheir growth medium ranging between 2% and 10%. As the amount of organic matter was not the main",
+      "char_count": 3091,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "text": "line of inquiry and due to the limited amount of LHS-1 available, we chose to run our experiment with a\nconsistent 10% addition of compost to all pots.\nThe compost used was Sea Soil which has an NPK ratio of 2.1-0.16-0.05. It is composed of waste\nproduced from logging (logs, leaves, branches) and mixed with fish packing industry waste, and\ncomposted for a minimum of two years (see Appendix A). For comparison, a second group of pots were\nmade with Miracle-Gro Potting Mix, which has an NPK ratio of 0.21-0.11-0.16.\nTo ensure results were indicating the impacts of our inoculants rather than stray bacteria and to\nensure no viruses or pathogens were transmitted unintentionally to the plants, all soil was sterilized. The\nLHS-1, Sea Soil, and Miracle-Gro Potting Mix were sterilized at 85\u00b0C for 30 minutes after a probe inserted\ninto the center indicated 82\u00b0C, as per the guidelines of Baker et al. (1957) to destroy most pathogenic\nbacteria, fungi, viruses, and insects.\n2.6 Water composition\nWe chose to use filtered tap water to irrigate our samples as nutrient aqueous solutions were\nnot part of the line of inquiry. The filter used was the Brita longlast, model #OB06 to process out\nchemicals that could be harmful to the inoculum such as chlorine and chloramines. The water quality\nreport can be found in Appendix B. Key parameters like water pH, hardness, Total Dissolved Solids (TDS)\nand conductivity were also monitored throughout the course of the project. The use of distilled water\nwas avoided so not to shift focus from the benefits on the inoculums effect. Although an exploration of\nthe varying salt types and concentrations is very important.\n2.7 Treatment Conditions\nTo determine the impact of each individual set of inoculants and the impact of them combined,\nour experiment was measured in three treatment conditions:\n\u25cf\nLabel \u201cM\u201d: Bacterial inoculant treatment.\n\u25cf\nLabel \u201cF\u201d: Fungal inoculant treatment.\n\u25cf\nLabel \u201cMF\u201d: Both bacterial and fungal inoculant treatments.\nFurther, these conditions were tested in two groups:\n\u25cf\nGroup 1 was composed of 16oz cups filled with 90% lunar LHS-1 exolith and 10% Sea Soil\ncompost. Two repeated samples were made for each treatment condition. These pots were\nlabeled as \u201cLHS\u201d to represent their simulant composition. Each condition was duplicated with\nnumber 1 or 2 indicating the replicate.\n\u25cf\nGroup 2 was composed of 16oz cups filled with 90% Miracle Gro Potting Mix and 10% Sea Soil\ncompost. This is a composition familiar to the science team as they grow their personal garden\nplants in this mixture. Two repeated samples would be made for each treatment condition.\nThese pots were labeled as \u201cS\u201d for \u201csoil\u201d. Each condition was duplicated with number 1 or 2\nindicating the replicate.\nIn addition, a negative control for group 1 was established with two pots of 90% lunar LHS-1\nexolith and 10% compost with no inoculant treatment. A negative control for group 2 was also made\nwith two pots filled with 90% garden soil and 10% compost with no inoculant treatment.",
+      "char_count": 3019,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "text": "2.8 Testing Conditions\nAs per the guidelines for tomato growth by Klaring, Thompson, & Schwarz (2014), ideal conditions for\ntomato growth and fruiting were set to be 60-90% Relative Humidity (RH), 18.5\u00b0-29.5\u00b0 Celsius, and a\nlight period of 12 hours.\n2.9 Hardware\n16-oz cups were used for this experiment to 1) balance the small amount of exolith, 2) balance\nlimited physical space for growing plants, and 3) allow sufficient spacing between plants, and 4) provide\nthe minimum amount of soil a \u201cMicro Tom\u201d tomato plant needed to grow in.\nA grow tent equipped with a hydrostat and thermostat was used for this project to ensure\ngreater control over the environment. The fans and humidifier were automatically controlled through\nthese equipment. To ensure temperature was maintained adequately the room the grow tent was in was\nheated to a consistent 19.5\u00b0 celsius, ensuring the lower end of the target range would not be surpassed.\nThree fans were also employed to maintain temperature: one to consistently exhaust air from the tent\nand cycle fresh air in, one to circulate air within the tent itself, and a third emergency exhaust fan that\nwould turn on if the temperature or humidity reached too high a level.\nPicture 1: The layout of the grow tent.\nThe experimental protocol also included the following steps:\n1.\nPlants were rotated every other day to minimize the impact of any one particular\nlocation\u2019s light, humidity, air current, etc., could have on a plant\u2019s growth.\n2.\nA humidifier with adjustable output was added to the grow tent on week 2, as RH levels\nwere fluctuating and becoming challenging to keep within the target range.",
+      "char_count": 1638,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "text": "3.\nA small battery operated motor was used to vibrate blossoms to encourage\nself-pollination, plants were agitated with this vibrating motor twice a day so long as\nthey had active blooms.\n4.\nSmall plastic stakes were added to the Group 1 (LHS-1) plants as they began to fall to the\nside from the weight of their tomatoes. Due to the density of the simulant, the tomato\nplants had shallow roots which were unable to support the plant\u2019s full weight with\ntomatoes added. Additional media of the setup can be seen in Appendix E.\n2.10 Science Communication\nTo facilitate engagement with the public on this topic and the Plant the Moon Challenge in\ngeneral, the Team Rainbird science team created accounts on several social media platforms (see\nAppendix E). Additionally, several videos were shot and uploaded to YouTube giving project updates and\ndeeper insight into the process of growing plants in LHS-1.\n3. Measurement Methods\n3.1 Regular Observations\nSamples were observed and measured twice a day for qualitative conditions, height, and soil\nmoisture levels, which were collated into an online spreadsheet for analysis:\n\u25cf\nSoil moisture was measured on a scale out of 10 a VIVOSUN brand moisture meter, with\nanything below a 5 indicating the plant needs watering. When applicable, plants were given 15\nmL of filtered water applied gently with a syringe so as to not disturb the LHS-1.\n\u25cf\nPlant height was measured daily as the absolute highest point of growth from the base of the\nplant\u2019s stem, in millimeters. A measure was placed as close to the plant as possible, and a\nstraight-edge was used to indicate on a ruler the plant\u2019s maximum height. Where plants began to\nbecome pulled to one side due to the weight of the tomatoes, plants were pulled upright for\nmeasurements.\nPlant progress was photo and video-documented, including interpretive videos shared on social\nmedia and weekly photos on plant growth (See Appendix E). Photos of plants were taken from above\nusing a ring light and with a ruler placed beside it for scale.\nA weekly measurement of pH was taken on the last day of each growth week using the included\nRapitest Digital Probe (Model 1845). In addition, a litmus paper test was conducted on the first and last\ndays of the experiment to confirm the pH readings obtained from the probe.\nOn the final day of growth, plants were cleaned of all soil and weighed. The soil of each pot was\ncollected and an NPK test was performed using a HoldAll brand chemical soil test kit and distilled water.\nIt is important to note that this test kit gives qualitative results of \u201cVery Low,\u201d \u201cLow,\u201d \u201cMedium,\u201d and\n\u201cHigh,\u201d rather than a precise NPK composition.\n4. Analysis & Results\nQualitatively and quantitatively, Group 1 plants (grown in the LHS-1 mixture) grew better than\ntheir counterparts in Group 2 (grown in Miracle-Gro and compost). Of the Group 1 plants, those that",
+      "char_count": 2873,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "text": "received the bacterial inoculant or both bacterial and fungal inoculant treatments fared better than the\ncontrol or fungal treatments. All Group 1 plants grew tomatoes, but only those plants which received M\nor MF treatment actually had their tomatoes ripen by the end of the growth period.\nGroup 2 plants suffered apparent nutrient burn, causing several samples to die and those that\nremained were severely stunted. However, those plants which received the MF inoculant treatment\nseem to have been more resilient.\nAll plants demonstrated increased fertility (as measured by NPK). Differences in fertility were\nmore apparent in the Group 1 LHS-1 plants, where the MF treatment showed the most consistent rise in\nNPK. In Group 2, all soil tests showed no difference and were extremely high in Nitrogen and\nPhosphorus, but low in Potassium.\nThe complete raw data, pictures, and videos of all plants and their growth over time can be\nfound in Appendix D.\n4.1 Group 1 (LHS-1 Mixture)\nLHS-MF2 was the first to germinate on day 3, and by day 5 all LHS samples had sprouted. The\nplants developed at a comparable rate with LHS-MF2 (pic 1) which recorded a final length of 129 mm by\nthe end of the 10 week period. The average growth of the duplicates can be seen in Graph 1 below,\nwhere the microbial treated samples recorded the highest growth average.\nPicture 2: Left, LHS-MF2 sprout on day 3, Right LHS-MF2 plant on day 69",
+      "char_count": 1416,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "text": "Graph 1: log average growth in LHS samples observed over a 10 week period.\nLHS_F1 was first to flower, and LHS_M1 and LHS_MF2 were the first to produce a tomato.\nHowever, LHS_M1 and LHS_MF2 were also the only plants that produced ripe tomatoes by the end of\nthe growth period. Table 1 shows the fruit growth observed on each of the LHS samples.\nNumber of\nTomatoes\nLHS-C1\n1\nLHS-C2\n2\nLHS-M1\n5\nLHS-M2\n3\nLHS-F1\n2\nLHS-F2\n3\nLHS-MF1\n2\nLHS-MF2\n6\nTable 1: Number of tomatoes grown on LHS samples by the end of the 10 week period.",
+      "char_count": 520,
+      "image_count": 1,
+      "tables": [
+        [
+          [
+            "",
+            "Number of Tomatoes"
+          ],
+          [
+            "LHS-C1",
+            "1"
+          ],
+          [
+            "LHS-C2",
+            "2"
+          ],
+          [
+            "LHS-M1",
+            "5"
+          ],
+          [
+            "LHS-M2",
+            "3"
+          ],
+          [
+            "LHS-F1",
+            "2"
+          ],
+          [
+            "LHS-F2",
+            "3"
+          ],
+          [
+            "LHS-MF1",
+            "2"
+          ],
+          [
+            "LHS-MF2",
+            "6"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 12,
+      "text": "Picture 3: Left, first tomato on LHS-MF2, Right, LHS-MF2 with ripened tomatoes.\nAs for biomass weight, LHS-MF2 recorded the highest weight by the end of the 10 week period. Graph 3\nshows the average weight distribution of the biomass in the LHS group.\nGraph 3: LHS biomass by the end of the 10 week period.\nWith regard to soil fertility, all plants demonstrated negative change in nutrient content in\ncomparison to the original mixture (90% LHS-1 and 10% Sea Soil compost) that was measured on the\nfirst day of the experiment as a control. However, the MF treatment showed a consistently higher",
+      "char_count": 594,
+      "image_count": 3,
+      "tables": []
+    },
+    {
+      "page_number": 13,
+      "text": "amount across all three macronutrients than other plants, and the control plants had the lowest\nreadings overall.\nNitrogen\nPhosphorus\nPotassium\nLHS-1 + Compost\nControl\nHigh\nHigh\nMedium\nLHS-C1\nVery Low\nLow\nVery Low\nLHS-C2\nVery Low\nLow\nVery Low\nLHS-M1\nVery Low\nMedium\nLow\nLHS-M2\nLow\nMedium\nLow\nLHS-F1\nMedium\nMedium\nLow\nLHS-F2\nMedium\nLow\nlow\nLHS-MF1\nMedium\nMedium\nMedium\nLHS-MF2\nMedium\nMedium\nMedium\nTable 2: Nutrient value of Group 1 soil at the end of the 10 week period.\n4.2 Group 2 (Garden Soil Mixture)\nS-F1 was the first to germinate on day 7, and by day 10 all soil samples had sprouted, except for\nS-C1 which did not sprout until day 14. On day 18, it was observed that all plants in this group were\nexhibiting yellowing leaves. Plants however continued to grow well until Week 6, where growth\nstagnated, leaf drop began to occur, and plants began dying. A soil test on day 43 was conducted using a\nLaMotte NPK soil test kit, as well as pH testing. These results indicated \u201cvery high\u201d levels of Nitrogen,\nPhosphorous, and Potassium, though normal pH of 7.\nPicture 4: S_MF2 on Week 6, exhibiting the yellowing leaves indicating possible nutrient burn.\nAs it was likely the plants were experiencing nutrient burn (colloquially known as \u201ctoo much of a\ngood thing\u201d), it was decided to rinse each plant\u2019s soil with three cups of distilled water each to attempt\nto remove some of the excess nutrient before the samples died. Plants were allowed to drain for an hour",
+      "char_count": 1464,
+      "image_count": 1,
+      "tables": [
+        [
+          [
+            "",
+            "Nitrogen",
+            "Phosphorus",
+            "Potassium"
+          ],
+          [
+            "LHS-1 + Compost Control",
+            "High",
+            "High",
+            "Medium"
+          ],
+          [
+            "LHS-C1",
+            "Very Low",
+            "Low",
+            "Very Low"
+          ],
+          [
+            "LHS-C2",
+            "Very Low",
+            "Low",
+            "Very Low"
+          ],
+          [
+            "LHS-M1",
+            "Very Low",
+            "Medium",
+            "Low"
+          ],
+          [
+            "LHS-M2",
+            "Low",
+            "Medium",
+            "Low"
+          ],
+          [
+            "LHS-F1",
+            "Medium",
+            "Medium",
+            "Low"
+          ],
+          [
+            "LHS-F2",
+            "Medium",
+            "Low",
+            "low"
+          ],
+          [
+            "LHS-MF1",
+            "Medium",
+            "Medium",
+            "Medium"
+          ],
+          [
+            "LHS-MF2",
+            "Medium",
+            "Medium",
+            "Medium"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 14,
+      "text": "before being put back into the grow tent. Some plants demonstrated resilience, such as the S_MF\nsamples which continued to slowly grow and produce new green growth. However, each of the control\n(S-C1), microbial (S-M1), and fungal (S-F1) treatments had one sample die in the three days following the\nrinse. This can be observed in graph 2 as a decrease in the logarithmic average growth trend. The largest\ngrowth was recorded on the S-MF2 sample that recorded a final length of 77 mm.\nGraph 4: Log average growth in soil samples observed over a 10 week period.\nNone of the soil samples produced any tomatoes. As for the biomass, the Group 2 samples had a\nlower final biomass than Group 1, and the MF treatment had 48% more mass than the next heaviest\nsample, the control group. Unexpectedly, the M and F treatments performed poorly with regards to\naccumulated biomass. The distribution can be shown in graph 5.",
+      "char_count": 910,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 15,
+      "text": "Graph 5: Soil samples biomass by the end of the 10 week period\nWith regard to soil fertility, all plants demonstrated no difference in nutrient content in\ncomparison to the original mixture (90% Miracle-Gro and 10% Sea Soil compost) that was measured on\nthe first day of the experiment as a control. This is likely due to the extremely high amount of nutrients\nin the original mixture, as well as Miracle-Gro\u2019s time-release fertilizers.\nNitrogen\nPhosphorus\nPotassium\nMiracle-Gro +\nCompost Control\nHigh\nHigh\nLow\nS-C2\nHigh\nHigh\nLow\nS-M2\nHigh\nHigh\nLow\nS-F2\nHigh\nHigh\nLow\nS-MF1\nHigh\nHigh\nLow\nS-MF2\nHigh\nHigh\nLow\nTable 4: Nutrient value of Group 2 soil after 69 days of growth.\n5. Discussion\nOur results demonstrate that the addition of bacterial and fungal inoculants has a very positive\nimpact on plant growth in LHS-1, and that this result is consistently better when the inoculants were\ntreated together.\nIn addition, of the nutrient-burned plants grown in Miracle Grow soil, those that had received\nboth the bacterial and fungal inoculants demonstrated more resilience and growth compared to the",
+      "char_count": 1095,
+      "image_count": 1,
+      "tables": [
+        [
+          [
+            "",
+            "Nitrogen",
+            "Phosphorus",
+            "Potassium"
+          ],
+          [
+            "Miracle-Gro + Compost Control",
+            "High",
+            "High",
+            "Low"
+          ],
+          [
+            "S-C2",
+            "High",
+            "High",
+            "Low"
+          ],
+          [
+            "S-M2",
+            "High",
+            "High",
+            "Low"
+          ],
+          [
+            "S-F2",
+            "High",
+            "High",
+            "Low"
+          ],
+          [
+            "S-MF1",
+            "High",
+            "High",
+            "Low"
+          ],
+          [
+            "S-MF2",
+            "High",
+            "High",
+            "Low"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 16,
+      "text": "other plants. The combined bacterial and fungal treatment was also the only condition that did not have\none of the two samples die. It is likely that the combined inoculants contributed to the resilience of\nthese specimens.\nAnother interesting result demonstrating the benefit of a diverse biological inoculum is the soil\nfertility of the Group 1 LHS-1 plants. In this case, the MF treatment had lowered the least with regard to\nNPK content compared to the original soil test. This could be a result of the biological inoculants\nproducing nutrients within the simulant.\nFinally, biomass differed across the two groups. In Group 1, the M treatment demonstrated the\nmost mass, with the MF treatment not far behind. However, in Group 2, the MF treatment had nearly\ndouble the average mass of the next highest, which was the control group. Surprisingly, the M and F\ntreatments did worse than the control in this context, whereas in Group 1 all plants surpassed the mass\nof the control plants.\n5.1 Limitations\nSeveral limitations were faced during this preliminary experiment, several of which present\nopportunities for continuous improvement or future research:\n\u25cf\nFull details of experimental setups were not available in peer reviewed papers, as such\nparameters like water quality and amount, the percent of organic additive, the details of organic\nadditives, and growth conditions were based loosely on several references.\n\u25cf\nPot volumes and number of replicated samples were limited by the amount of LHS available;\nideally there would have been several more samples per each treatment for greater rigor and\nconfidence in results.\n\u25cf\nChallenges with the accuracy of the provided pH probe, the unavailability of inexpensive\nalternatives, and the inability to do frequent litmus paper tests (See Appendix C).\n\u25cf\nA late start to the experiment\u2019s start due to shipping delays of LHS-1 means plants could not\ncomplete a full growth cycle and ripen their fruit, so no fair comparison of fruit size or mass\ncould occur.\n\u25cf\nThe limited availability of specific bacterial or fungal strains both in Canada and to persons\noutside of academia means that we were reliant on retail-available inoculant mixtures. This\nmeans that we were unable to pinpoint any particular positive effects of any one species in our\nbiological inoculants, whereas ideally we would be able to test individual bacterial or fungi and\nseveral combinations of them.\n\u25cf\nThough tomatoes are considered to be very \u201cefficient\u201d plants, other crops such as grains and\nbeans may be more effective and easier to grow food sources for lunar missions.\n\u25cf\nEncouraging soil succession is something that will take a long time to accomplish meaningfully in\nLHS given how slow of a process it is, and any succession that did occur in our soil would likely be\nminiscule given the short timeframe of the project. However, our results are still encouraging\nand demonstrate that ongoing land stewardship may reap greater cumulative benefits as\nhumans work with lunar soil over long periods of time as soil becomes more fertile.\n\u25cf\nAs suggested by Kozyrovska et al. (2006), \u201cpioneer plants,\u201d or plants that could thrive in low\nnutrient soils, could serve as a disposable \u201cfirst wave\u201d of plants that can produce additional\nfertility in soil so later generations of food crops could be more successful. While we were able\nto successfully grow tomato plants without these sacrificial plants to increase soil fertility,",
+      "char_count": 3447,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 17,
+      "text": "multiple generations of plants starting with pioneer species would be a good line of inquiry in\nthe future.\n6. Conclusion\nDespite challenges, this project was successful in confirming that bacterial and fungal inoculant\ntreatment with Pseudomonas sp., Bacillus spp., and Glomus spp. have positive impacts on plant growth\nin lunar regolith simulant. The idea that a complex and diverse rhizosphere is important for plant health\nis commonplace, and two particular results of ours demonstrate this well. First, the tallest and most\nproducing plant in all of the Group 1 LHS plants was the one that received the bacterial and fungal\ntreatments. This demonstrates the growth-enhancing capabilities of the inoculants and the cumulative\neffect that a diverse inoculum can have. On the other hand, in an unintended stress-test through\nnutrient burn in the Group 2 Miracle-Gro plants, the plants that demonstrated the most resilience were\nthose that received the bacterial and fungal inoculant treatment. This is demonstrative of the ability of\nthe inoculum to raise a plant\u2019s resilience toward abiotic and biotic stressors.\nAdditionally, an exciting result is that our experiment was successful without the addition of any\nchemical fertilizers or nutrient solutions (outside of the minerals and salts that were not filtered out of\nour tap water). Further, the combination of bacterial and fungal inoculant in our Group 1 plants\ndemonstrated higher NPK content compared to the other treatments. This demonstrates that it may be\npossible to successfully grow plants in lunar regolith without needing to bring additional fertilizer into\nspace, and that a long-term approach of starting succession and building soil fertility with pioneer plants\nmay only need this bacterial and fungal inoculant to begin.\n6.1 Future Work\nWhile there is a growing collective of research on biological inoculants in soil, there is still much\nwork that can be done about specific species and their interaction with LHS-1. Isolation of particular\nspecies and seeing which both synergize together well and can perform best in lunar regolith should be\npursued, particularly to address further challenges such as the high amount of Aluminum Oxide in the\nregolith.\nFuture studies should also attempt a longer term approach prior to starting with higher plants\nsuch as tomato or other food crops. If the idea is to begin with pioneer species and \u201cgrow soil\u201d, it would\nbe interesting to action this and determine if it is feasible. Additionally, it would be interesting to know\nhow long it takes and if automated processes could produce this fertile soil prior to human habitation.\nEncouraging soil succession is something that will take a long time to accomplish meaningfully in LHS\ngiven how slow of a process it is. However, these results are encouraging and demonstrate that ongoing\nland stewardship may reap greater cumulative benefits as humans work with lunar soil over long periods\nof time.\nBiofortification would be an interesting line of inquiry as well, as a completely grown plant does\nnot necessarily mean a nutritious one that could provide an important staple to an astronaut\u2019s diet.\nOnce methods for growth have been reified, raising the quality of plants may be a nex step. For example,\nIodine has also already been shown to be a valuable biofortification and growth promoting agent in\ncrops (Medrano-Macias et al., 2016) and may be a good starting point for biofortification work.",
+      "char_count": 3460,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 18,
+      "text": "Finally, other additives to biological inoculants to make them grow better would be an\ninteresting line of inquiry as well. Yucca extract, for example, can be effective at neutralizing some fungal\npathogens (Wulff et al., 2011) and could allow desirable fungal cultures to grow without competition.\nKelp powder also functions as a sort of fertilizer to many arbuscular mycorrhizal fungi and could be a\nvaluable addition to ensure fungal cultures grow in inhospitable conditions.",
+      "char_count": 478,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 19,
+      "text": "References\nArjjumend, Hasrat & Neufeld, Simon & Yargeau, Viviane & Warren, Michael. (2017). Reviving Soil Biology\nand Crop Productivity through New Biofertilizer: Agroecological Performance of Pseudomonas\nmonteilli in Tropical Environments.\nhttps://www.researchgate.net/publication/325103022_Reviving_Soil_Biology_and_Crop_Produc\ntivity_through_New_Biofertilizer_Agroecological_Performance_of_Pseudomonas_monteilli_in_T\nropical_Environments\nAsaka, O., & Shoda, M. (1996). Biocontrol of Rhizoctonia solani Damping-Off of Tomato with Bacillus\nsubtilis RB14. Applied and Environmental Microbiology, 62(11), 4081\u20134085.\nhttps://doi.org/10.1128/aem.62.11.4081-4085.1996\nBaker, K.F., Chandler, P. (1957). The U.C. system for producing healthy container-grown plants: through\nthe use of clean soil, clean stock and sanitation. University of California, Division of Agricultural\nSciences, Agricultural Experiment Station, Extension Service.\nhttps://archive.org/details/ucsystemforprodu23bake/page/126/mode/2up\nDharni, S., Srivastava, A. K., Samad, A., & Patra, D. D. (2014). Impact of plant growth promoting\nPseudomonas monteilii PsF84 and Pseudomonas plecoglossicid a PsF610 on metal uptake and\nproduction of secondary metabolite (monoterpenes) by rose-scented geranium ( Pelargonium\ngraveolens cv. bourbon) grown on tannery sludge amended soil. Chemosphere, 117, 433\u2013439.\nhttps://doi.org/10.1016/j.chemosphere.2014.08.001\nHashem, A., Tabassum, B., & Fathi Abd_Allah, E. (2019). Bacillus subtilis: A plant-growth promoting\nrhizobacterium that also impacts biotic stress. Saudi Journal of Biological Sciences, 26(6),\n1291\u20131297. https://doi.org/10.1016/j.sjbs.2019.05.004)\nKareem, Tareq & Hassan, M. (2014). Evaluation of Glomus Mosseae as Biocontrol Agents against\nRhizoctonia Solani on Tomato. Journal of Biology, Agriculture and Healthcare. 4. 15-19.\nKozyrovska, N., Lutvynenko, T., Korniichuk, O., Kovalchuk, M., Voznyuk, T., Kononuchenko, O., Zaetz, I.,\nRogutskyy, I., Mytrokhyn, O., Mashkovska, S., Foing, B., & Kordyum, V. (2006). Growing pioneer\nplants\nfor\na\nlunar\nbase.\nAdvances\nin\nSpace\nResearch,\n37(1),\n93\u201399.\nhttps://doi.org/10.1016/j.asr.2005.03.005\nLytvynenko, T., Zaetz, I., Voznyuk, T., Kovalchuk, M., Rogutskyy, I., Mytrokhyn, O., Lukashov, D.,\nEstrella-Liopis, V., Borodinova, T., Mashkovska, S., Foing, B., Kordyum, V., & Kozyrovska, N. (2006).\nA rationally assembled microbial community for growing Tagetes patula L. in a lunar greenhouse.\nResearch in Microbiology, 157(1), 87\u201392. https://doi.org/10.1016/j.resmic.2005.07.009\nMalekzadeh, P., Khara, J., & Farshian, S. (2007). Effect of Arbuscular Mycorrhiza (Glomus etunicatum) on\nSome Physiological Growth Parameters of Tomato Plant under Copper Toxicity in Solution.\nPakistan Journal of Biological Sciences, 10(8), 1326\u20131330.\nhttps://doi.org/10.3923/pjbs.2007.1326.1330\nMeissner, R., Jacobson, Y., Melamed, S., Levyatuv, S., Shalev, G., Ashri, A., Elkind, Y., & Levy, A. (1997). A\nnew model system for tomato genetics. The Plant Journal, 12(6), 1465\u20131472.\nhttps://doi.org/10.1046/j.1365-313x.1997.12061465.x)",
+      "char_count": 3070,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 20,
+      "text": "National Gardening Association (2014). National Gardening Association Special Report: GARDEN TO\nTABLE. A 5-year look at food gardening in America. National Gardening Association.\nhttps://garden.org/special/pdf/2014-NGA-Garden-to-Table.pdf\nNemec, S., & Datnoff, L. (1993). Pepper and tomato cultivar responses to inoculation with Glomus\nintraradices. Advances in Horticultural Science, 7(4), 161-164. Retrieved April 29, 2021, from\nhttp://www.jstor.org/stable/42881706\nPitaktamrong, P., Kingkaew, J., Yooyongwech, S., Cha-um, S., & Phisalaphong, M. (2018). Development of\nArbuscular Mycorrhizal Fungi-Organic Fertilizer Pellets Encapsulated with Alginate Film.\nEngineering Journal, 22(6), 65\u201379. https://doi.org/10.4186/ej.2018.22.6.65)\nPlant the Moon Challenge. (2021, January 28). Plant the Moon Opening Symposium [Video, Chat box].\nZoom.\nhttps://us02web.zoom.us/rec/play/dgI9PDjUZIdPsavDm0FFiUiYMAxcF8A7bak9Xx7DYlEyzeQ3dW\nzXXcvKbBMmfJlST9C7IkRgO-Vv4UZk.kvnfVEVvOBbbe3NZ?continueMode=true&_x_zm_rtaid=t7\nbJrKvcRxG--PPFMKyyHA.1619648321365.a3648465fbe82edadb2332c4305871a5&_x_zm_rhtaid\n=99\nPouwels, C. R. (2020, May 16). FOOD FOR EXTRA-TERRESTRIAL ASTRONAUT MISSIONS ON NATIVE SOIL\n[Paper presentation]. 51st Lunar and Planetary Science Conference, The Woodlands, TX, USA.\nhttps://www.hou.usra.edu/meetings/lpsc2020/pdf/1605.pdf\nQaiser, J., Yong Seong, L., Hyeon Deok, J., & Kil Young, K. (2018). Effect of plant growth-promoting\nbacteria Bacillus amylliquefaciens Y1 on soil properties, pepper seedling growth, rhizosphere\nbacterial\nflora\nand\nsoil\nenzymes.\nPlant\nProtection\nScience,\n54(No.\n3),\n129\u2013137.\nhttps://doi.org/10.17221/154/2016-pps\nSchwarz, D., Thompson, A. J., & Kl\u00e4ring, H. P. (2014). Guidelines to use tomato in experiments with a\ncontrolled environment. Frontiers in plant science, 5, 625.\nhttps://doi.org/10.3389/fpls.2014.00625\nWamelink, G. W. W., Frissel, J. Y., Krijnen, W. H. J., Verwoert, M. R., & Goedhart, P. W. (2014). Can Plants\nGrow on Mars and the Moon: A Growth Experiment on Mars and Moon Soil Simulants. PLoS\nONE, 9(8), e103138. https://doi.org/10.1371/journal.pone.0103138\nWulff, E. G., Zida, E., Torp, J., & Lund, O. S. (2011). Yucca schidigera extract: a potential biofungicide\nagainst seedborne pathogens of sorghum. Plant Pathology, 61(2), 331\u2013338.\nhttps://doi.org/10.1111/j.1365-3059.2011.02517.x\nZaets, I., Burlak, O., Rogutskyy, I., Vasilenko, A., Mytrokhyn, O., Lukashov, D., Foing, B., & Kozyrovska, N.\n(2011). Bioaugmentation in growing plants for lunar bases. Advances in Space Research, 47(6),\n1071\u20131078. https://doi.org/10.1016/j.asr.2010.11.014.)",
+      "char_count": 2590,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 21,
+      "text": "Appendix A: Materials and Setup\nSea Soil:\nhttps://www.seasoil.com/sea-soil-ingredients.html#:~:text=SEA%20SOIL%20is%20a%20complete,ingredi\nents%20available%20for%20composting%20today.\n\u25cf\nBatch: 4189\n\u25cf\nNPK analysis: 2.1-0.16-0.05\n\u25cf\npH 5.5 - 6\nMiracle Gro Potting Mix: https://www.miraclegro.com/en-ca/products/soils/miracle-gro-potting-mix\n\u25cf\nNPK analysis: 0.21-0.11-0.16\nLHS-1 Lunar Highlands Simulant: https://sciences.ucf.edu/class/simulant_lunarhighlands/\nEarth Alive Soil Activator: https://earthalivect.com/agriculture/soil-activator/\n\u25cf\nBatch: 10041\n\u25cf\nContains Bacillus subtillis (2.48 x 106 CFU/g), Bacillus amyloliquefaciens (5.0 x 106CFU/g), and\nPseudomonas monteilli (1.0 x 106 CFU/g)\nBluesky Organics Myco-Grow: https://blueskyorganics.com/product/myco-grow/\n\u25cf\nBatch MG.03.12.2020\n\u25cf\nContains Glomus intraradicies (22,425 viable spores/lb), Glomus mosseae (22,425 viable\nspores/lb), Glomus aggregatum (22,425 viable spores/lb), Glomus etunicatum (22,425 viable\nspores/lb), Yucca extract (unspecified amount), and kelp powder (unspecified amount).\nVIVOSUN 3-in-1 Moisture, Light, pH Meter:\nhttps://www.amazon.ca/VIVOSUN-Meter-Moisture-Tester-Combo/dp/B08TWY4JHT/ref=sr_1_43?dchild=\n1&keywords=ph+moisture+light+meter&qid=1619746156&sr=8-43\n\u25cf\nItem appears to be discontinued on VIVOSUN\u2019s website; however, this same 3-in-1 probe seems\nto be manufactured by several different producers and should not be difficult to source.\nDIGITEN Temperature & Humidity Controller model DHTC-1011:\nhttps://www.digiten.shop/products/digiten-temperature-and-humidity-controller-dhtc-1011-pre-wired-\ndual-stage-outlet-digital-thermostat-humidistat-for-reptile-terrarium-mushroom-greenhouse-home-bre\nw-fermentation\nHoneywell Mistmate ultrasonic humidifier model HUL520W:\nhttps://www.honeywellstore.com/store/products/honeywell-mist-mate-cool-mist-humidifier-white-hul5\n20w.htm\nSecret Jardin 16 W Monkey Fan: https://www.secretjardin.com/product/monkey-fan-16w/",
+      "char_count": 1946,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 22,
+      "text": "Luster Leaf Rapitest Digital Soil pH Meter model 1845:\nhttp://www.lusterleaf.com/img/instruction/1845_instruction.pdf\nMARSHYDRO 2.3\u2019 x 2.3\u2019 x 5\u2019 Grow Tent:\nhttps://www.mars-hydro.com/grow-tent/2-x2-grow-tent/buy-mars-hydro-grow-tent-28x28x64-1680d-for\nsale\nMARSHYDRO TS1000 LED Grow Light:\nhttps://www.mars-hydro.com/led-grow-light/mars-ts-series-led-grow-light/mars-ts-1000-led-full-spectru\nm-hydroponic-led-grow-light\n\u25cf\n150 Watt Output\n\u25cf\n342 LEDs\n\u25cf\nFull-spectrum output with \u201csunlike\u201d color\nMARSHYDRO 4\" Inline Duct Fan:\nhttps://www.amazon.ca/MARS-HYDRO-Temperature-Ventilation-Hydroponics/dp/B08RZ3D69D/ref=sr_1_\n5?dchild=1&keywords=mars%2Bhydro%2B4%22%2Binline%2Bfan&qid=1619749367&sr=8-5&th=1\n\u25cf\nRated for 200 CFM maximum.\nAppendix B: Water Quality\nEdmonton Tap Water Quality Report for the month of February 2021:\nhttps://www.epcor.com/products-services/water/water-quality/wqreportsedmonton/wwq-edmonton-fe\nbruary-2021.pdf\nMeasured Water Quality Parameters:\nConductivity\n[uS/cm]\npH\nTDS\n[ppm]\nTotal Hardness\n[ppm as CaCO3]\nCalcium\nHardness [ppm\nas CaCO3]\nMagnesium\nHardness\n[ppm]\nFebruary\n20th, 2021\n401\n7.02\n207\n200\n160\n40\nMarch 6th,\n2021\n383\n7.71\n241\n200\n140\n60\nMarch\n13th, 2021\n389\n7.58\n208\n200\n140\n60\nMarch\n27th, 2021\n385\n7.63\n257\n180\n140\n40\nApril 10th,\n2021\n391\n7.8\n261\n180\n140\n40\nMay 1st,\n2021\n386\n8.0\nN/A\n180\n140\n40",
+      "char_count": 1327,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "https://www.amazon.ca/MARS-HYDRO-Temperature-Ventilation-Hydroponics/dp/B08RZ3D69D/ref=sr_1_"
+          ],
+          [
+            "5?dchild=1&keywords=mars%2Bhydro%2B4%22%2Binline%2Bfan&qid=1619749367&sr=8-5&th=1"
+          ]
+        ],
+        [
+          [
+            "",
+            "Conductivity [uS/cm]",
+            "pH",
+            "TDS [ppm]",
+            "Total Hardness [ppm as CaCO3]",
+            "Calcium Hardness [ppm as CaCO3]",
+            "Magnesium Hardness [ppm]"
+          ],
+          [
+            "February 20th, 2021",
+            "401",
+            "7.02",
+            "207",
+            "200",
+            "160",
+            "40"
+          ],
+          [
+            "March 6th, 2021",
+            "383",
+            "7.71",
+            "241",
+            "200",
+            "140",
+            "60"
+          ],
+          [
+            "March 13th, 2021",
+            "389",
+            "7.58",
+            "208",
+            "200",
+            "140",
+            "60"
+          ],
+          [
+            "March 27th, 2021",
+            "385",
+            "7.63",
+            "257",
+            "180",
+            "140",
+            "40"
+          ],
+          [
+            "April 10th, 2021",
+            "391",
+            "7.8",
+            "261",
+            "180",
+            "140",
+            "40"
+          ],
+          [
+            "May 1st, 2021",
+            "386",
+            "8.0",
+            "N/A",
+            "180",
+            "140",
+            "40"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 23,
+      "text": "Appendix C: pH measurements and discussion\npH Measurements were taken at the end of each week utilizing the Rapitest probe included with the\nPlant the Moon Challenge. However, it is notable that there was no discernible change in pH recorded\nacross any of the pots.\nWeekly pH Reading\nWeek 1\nWeek 2\nWeek 3\nWeek 4\nWeek 5\nWeek 6\nWeek 7\nWeek 8\nWeek 9\nWeek 10\nLHS-C1\n7\n7\n7\n7\n7\n7\n7\n7\n7\n7\nLHS-C2\n7\n7\n7\n7\n7\n7\n7\n7\n7\n7\nLHS-M1\n7\n7\n7\n7\n7\n7\n7\n7\n7\n7\nLHS-M2\n7\n7\n7\n7\n7\n7\n7\n7\n7\n7\nLHS-F1\n7\n7\n7\n7\n7\n7\n7\n7\n7\n7\nLHS-F2\n7\n7\n7\n7\n7\n7\n7\n7\n7\n7\nLHS-MF1\n7\n7\n7\n7\n7\n7\n7\n7\n7\n7\nLHS-MF2\n7\n7\n7\n7\n7\n7\n7\n7\n7\n7\nS-C1\n7\n7\n7\n7\n7\n7\n7\nN/A1\nN/A\nN/A\nS-C2\n7\n7\n7\n7\n7\n7\n7\n7\n7\n7\nS-M1\n7\n7\n7\n7\n7\n7\n7\nN/A\nN/A\nN/A\nS-M2\n7\n7\n7\n7\n7\n7\n7\n7\n7\n7\nS-F1\n7\n7\n7\n7\n7\n7\n7\nN/A\nN/A\nN/A\nS-F2\n7\n7\n7\n7\n7\n7\n7\n7\n7\n7\nS-MF1\n7\n7\n7\n7\n7\n7\n7\n7\n7\n7\nS-MF2\n7\n7\n7\n7\n7\n7\n7\n7\n7\n7\nHowever, the probe is not very accurate and likely would not be able to register the amount of changes\nthat would occur in soil over a period as small as ten weeks. Indeed, if anything drastic did change with\nthe soil pH, it would likely have been very detrimental to the health of the plants growing in it.\nAdditionally, while we have litmus paper on hand, conducting a test by mixing soil and water would not\nbe feasible for the LHS plants as they had very shallow roots that obstructed access to the soil compared\nto their Group 2 Miracle Grow counterparts. Consequently, soil pH was only confirmed with litmus paper\nat the start and end of the project. The results of litmus paper testing were not different from the\nreadings obtained by the Rapitest probe.\nWe produced a video where we conducted an assay using the provided pH probe with several different\nmaterials we knew the pH of already to determine how sensitive and accurate the probe is. It appeared\nthat the probe was less accurate the further from the center of the pH scale it went, but significantly was\n1 These values are not available as this sample died and was no longer being tested.",
+      "char_count": 1949,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "",
+            "Weekly pH Reading",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "Week 1",
+            "Week 2",
+            "Week 3",
+            "Week 4",
+            "Week 5",
+            "Week 6",
+            "Week 7",
+            "Week 8",
+            "Week 9",
+            "Week 10"
+          ],
+          [
+            "LHS-C1",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7"
+          ],
+          [
+            "LHS-C2",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7"
+          ],
+          [
+            "LHS-M1",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7"
+          ],
+          [
+            "LHS-M2",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7"
+          ],
+          [
+            "LHS-F1",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7"
+          ],
+          [
+            "LHS-F2",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7"
+          ],
+          [
+            "LHS-MF1",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7"
+          ],
+          [
+            "LHS-MF2",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7"
+          ],
+          [
+            "S-C1",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "N/A1",
+            "N/A",
+            "N/A"
+          ],
+          [
+            "S-C2",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7"
+          ],
+          [
+            "S-M1",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "N/A",
+            "N/A",
+            "N/A"
+          ],
+          [
+            "S-M2",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7"
+          ],
+          [
+            "S-F1",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "N/A",
+            "N/A",
+            "N/A"
+          ],
+          [
+            "S-F2",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7"
+          ],
+          [
+            "S-MF1",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7"
+          ],
+          [
+            "S-MF2",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 24,
+      "text": "inconsistent with similar pH values (for example, reading 7 in a pH 5.5 substance, but 6.1 in a pH 5.9\nsubstance).\nSubstance (pH):\nRapitest Probe Reading\nPotting Soil(5.5)\n7\nDifferent Potting Soil (6.5)\n7\nCompost (6.5)\n7\nRO Water (5.9)\n6.1\nVinegar (2.5-3)\n5.1\nTap water (7.5-8)\n6.7\npH 4 Buffer solution (4)\n4.8\npH 7 Buffer solution (7)\n5.8\npH 10 Buffer solution (10)\n8.9\nBecause we lack access to more precise litmus tests or higher quality probes, we are unable to truly\nconfirm that there was no change in pH across our samples.\nAppendix D: Growth Data and Observations\nhttps://docs.google.com/spreadsheets/d/1YdgeiBEA6LKmShYur4Tut0uHpVZVL5_Q_oZBhZ-3KS8/edit?us\np=sharing\nAppendix E: Multimedia\nWeekly plant photos:\nhttps://drive.google.com/drive/folders/1L0r6BGu4H3CmxZhZXcGC2okR9FJpkVnX?usp=sharing\nTeam Rainbird YouTube playlist, containing weekly video updates of the plant and project process:\nhttps://youtu.be/8W0csI-fUn4\nTeam Rainbird Instagram page, containing many additional photos and discussion on the plants and the\nproject: https://www.instagram.com/rainbirddelalune/\nTeam Rainbird Twitter page: https://twitter.com/RainbirdTeam",
+      "char_count": 1144,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Substance (pH):",
+            "Rapitest Probe Reading"
+          ],
+          [
+            "Potting Soil(5.5)",
+            "7"
+          ],
+          [
+            "Different Potting Soil (6.5)",
+            "7"
+          ],
+          [
+            "Compost (6.5)",
+            "7"
+          ],
+          [
+            "RO Water (5.9)",
+            "6.1"
+          ],
+          [
+            "Vinegar (2.5-3)",
+            "5.1"
+          ],
+          [
+            "Tap water (7.5-8)",
+            "6.7"
+          ],
+          [
+            "pH 4 Buffer solution (4)",
+            "4.8"
+          ],
+          [
+            "pH 7 Buffer solution (7)",
+            "5.8"
+          ],
+          [
+            "pH 10 Buffer solution (10)",
+            "8.9"
+          ]
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "report_id": "spring24-main-geo-gro-6b9401",
+  "sha256": "32bcea8d118cc31eb930ab5141b14c9890f1c75a441a0972dba197b193f7afd3",
+  "page_count": 26,
+  "total_chars": 23663,
+  "avg_chars_per_page": 910.1,
+  "total_images": 77,
+  "table_count": 1,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Measuring the Effect of\nGeotropism on Plants\nPlant the Moon Challenge | Spring 2024 | Professional/Undergraduate Division\nGeoGro | Team # 18057\nGeoGro Inc.\nBlackstone Memorial Library\nBranford, CT\nJohnathan Gray\nRobert Carbone\nMacKenze McAleer\nDr. Joel Cuello\nEvan Buckman\nGrant Funded by the CTSGC \u00b7 Connecticut Space Grant Consortium",
+      "char_count": 335,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "text": "-The GeoGro Team\n-\nINTRODUCTION\nAs humanity begins to expand into & beyond low-Earth orbit for sustained\nperiods, developing a new set of strategies is paramount to the success of our\nhabitation in these extreme environments. Among those integral elements,\ngrowing fresh produce with astro-agriculture, and cultivating & processing\nbiological organisms, is paramount in providing nutrition for extended-duration\nmissions, psychological well-being (Zhang et al, 2020) & resource efficiencies.\nUnsurprisingly, the gravity anomalies experienced in off-world habitats\nsubstantially affect plant development, rendering traditional agronomy obsolete.\nThe opportunity to leverage the beneficial effects of gravity on biological\norganisms\u2019 growth presents an under-utilized opportunity to support more hardy,\nconsistent production. Accordingly, pioneering strategies centered around plant\nadaptation to zero-or-partial gravity situations emerge as crucial to our pursuit of\nlife amongst these cosmic frontiers and critical to address our need for renewable\nsources of sustenance, on and off-world.\nBackground\nIn plants grown on Earth\u2019s surface, geotropism and gravitropism are virtually\nsynonymous, however, in space (and in this experiment) it is vital to note the subtle\ndistinction between the two. Gravitropism is a special case of geotropism; It\npossesses its own implied vector metric: positive gravitropism is when a plant\ngrows towards the source of gravity (activated by the amyloplast in the roots) while\nnegative gravitropism is when a plant grows away from the source of gravity\n(Lopez, et al., 2014). All gravitropic movements can be considered geotropic, but\nnot all geotropic movements involve gravity detection and induce a response\nspecific to plants.\n3",
+      "char_count": 1762,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "text": "-The GeoGro Team\n-\nThe basic principles governing gravitropism, particularly the consistent downward\ngrowth of plant roots, are believed to rely on the Cholodny-Went hypothesis. This\nconcept suggests that the perception of gravity induces lateral redistribution of the\nphytohormone, auxin, within the plant, thereby triggering differential growth\nbetween the lower & upper sides of the affected organ, which leads to directed\ncurvature towards the source of gravity. Thus, the Cholodny-Went model forms\nthe foundation for our comprehension of Gravitropism in plants (Cholodny, 1927;\nWent, 1928; Orbovik and Poff, 1993; Sato et al, 2014).\nAuxins are a class of phytohormones that have a pivotal role in coordinating\nvarious aspects of plant growth and development. Specifically, auxins play a direct\nand critical role in ensuring the proper coupling of cell growth and proliferation\nunder normal terrestrial conditions. Auxins mediate the link between detected\nstimuli and subsequent cellular responses in plants. By functioning as signaling\nmolecules, auxins enable cells to detect and react appropriately to environmental\ncues, thereby facilitating the activation of downstream molecular events that\nultimately shape plant growth and behavior. Through careful modulation of auxin\nproduction, distribution, and breakdown, plants dynamically adjust their\nphysiological activities to match prevailing circumstances best (Muday and\nMurphy, 2002; Medina and Herranz, 2010).\nFurthermore, auxins exert a major influence on the decoupling of these processes\nunder altered gravity conditions, such as during spaceflight. At the cellular level,\nauxins primarily regulate meristematic competence, which encompasses the\ncapacity to coordinate cell growth and proliferation in distinct zones within plant\nroots. (Bhalerao and Bennet, 2003; Taele et al, 2006). These zones correspond to\nregions where cell division, expansion, and differentiation occur, allowing for the\nmaintenance of appropriate cell number and size (Perrot-Rechenmann, 2010).\nIt is widely understood that plant organs have a growth orientation in response to\ngravity. The input (gravity sensing) in cells and then signal conversion (gravity\nsignaling) progress sequentially which then in turn triggers the next step which\nredirects auxin transport toward the lower flank of the plant organ (Nakamura,\n4",
+      "char_count": 2359,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "text": "-The GeoGro Team\n-\n2019). When gravity alteration takes place, a change is produced within the lateral\nbalance of the auxin signaling process, resulting in the loss of orientation,\nultimately altering the gravitropism of the plant (Gadella, 2018).\nNotably, the disturbance of gravity during spaceflight triggers a notable stress\nreaction in plants, likely attributable to the loss of meristematic competence,\nunderscoring the importance of auxins in mediating plant responses to changing\nenvironmental conditions (Medina, 2021). The close association between cell\ngrowth & proliferation constitutes a hallmark feature of meristematic cells,\nrendering the dissociation of these two cellular processes triggered by microgravity\nconditions. It is helpful to remember that this is a significant source of stress for\nthese specialized cells. Typically, tight synchronization of cell growth and\nproliferation ensures optimal plant development, tissue regeneration, and response\nto environmental perturbations.\nNevertheless, under microgravity conditions, such strict coordination becomes\ncompromised, potentially giving rise to deleterious consequences, notably the\nundue accumulation of damaged cells, diminished photosynthetic efficiency, and\nhampered biomass accretion. This is seen in multiple studies that observe an\nincrease in cell proliferation but a decrease in cell growth in space. Past studies\nsuspect that these observed results were due to alterations in the regulation of the\ncell cycles. (Gonz\u00e1lez-Camacho et al, 2021; Manzana et al, 2018; Matia et al, 2010).\nAdditional studies imply that modified gravity impacts cell growth and\nproliferation via the transduction of the gravitropic signal initially received by\ncolumella cells located within the root tip. Specifically, alterations in gravity\ntranslate to altered cell division and expansion through the actions of these\nspecialized gravity sensor cells (Medina and Herranz, 2010).\nHence, identifying effective countermeasures against microgravity-induced\nuncoupling assumes paramount importance in advancing our understanding of\nplant adaptation and resilience in extreme habitat settings, eventually contributing\nto the design of functional bio-regenerative life support systems required for\n5",
+      "char_count": 2258,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "text": "-The GeoGro Team\n-\nextended stays in environmental scenarios like those found on the Moon, Mars,\nand other extraterrestrial environments.\nExperimental Apparatus\nEnclosure\nAs external environmental factors, such as\ntemperature\nand\nhumidity\ncould\neasily\ninduce\nvariation\nto\nthe experiment, we\ndecided\nto\ndesign\nand\nconstruct\nan\napparatus for housing our experiment. By\nkeeping\nthe\nexperiment\nas\nisolated\nas\npossible,\nour\nquality\nof\nthe\ndependent\nvariable data was increased. The apparatus\nwas constructed of an outer 9U server rack\nwith a pull-out equipment tray installed on the lowest rung. A peristaltic pump to\ndispense timed & dosed water into the experiment was affixed to the far left corner\nof the container alongside a water collection tray at the very bottom. A gold radiant\nbarrier, which was used as a light reflector, was hung on 3 sides of the container\nand the top as well.\nA full spectrum LED Grow Light with 144\nLEDs (74 Cold\nWhite + 46 Warm White + 20 Red + 2 Purple + 2 Dark Red) was hung from above 8\ninches from the surface of where the plants were grown. Upon the equipment tray\nthere were multiple hardware components mounted. Before anything else could be\naffixed, first, supports for the motors and\ntensioners were attached to the tray. Next,\nan\nembedded\nsystem\nrunning\na\nlinux\nserver was attached and connected to three\nNEMA motors(two for the drive system\nand one for the peristaltic pump). Also\nconnected\nwere\n2\nArduino\nmicrocontrollers, one for the drive system\n6",
+      "char_count": 1490,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "text": "-The GeoGro Team\n-\nand one for the lights & water pump. A stepper driver hat was used to run the drive\nsystem. Additionally connected was a light meter, a hygrometer, dew points sensor.\nNext, both were wired and programmed control modules to collect and record data\ncontinuously and maintain prescribed rotational drive parameters. Belts were\naffixed to two of the three-cylinder apparatuses & these were programmed to\nrotate at the predetermined rates, as laid forth in our hypothesis (2 rpms & 4 rpms).\nAs the control cylinder would have no reason to rotate, there was no belt connected\nas it remained stationary throughout the experiment. This is all held aloft by two\nA-frame mounts on either side of the equipment tray.\nWater Core\nTo provide hydration to the specimens, the design called for a central pipe to carry\nwater through the center of each cylinder, a water core. A 17mm(outside diameter)\npipe was used for this purpose and also acted as a central axel for the cylinders to\nfreely rotate around. This pipe was machined with 18 total - six 2mm equidistant\nholes for each of the three-cylinder segments using a laser beam and a drill press.\nThe capillary cloth was then around the water core to prevent soil from plugging\nup the irrigation holes and facilitate even distribution of water around the soil\nmass. Connecting to one side of the watercore/pipe was a tube running from the\nperistaltic pump, which delivered 1-deciliter of 6-stage reverse osmosis filtered\nwater on a 12-hour timer to deliver from a water reservoir. (We did not use a\nbladder as planned due to pressure & siphon effects.)\nCylinders\nRather than traditional pots, our experiment called for the design and fabrication\nof three hollow cylinders. These cylinders would be filled with the lunar simulant /\nsoil mixture and act as the receptacle for the plants to germinate & grow. End caps\nwere affixed to either side of the cylinder to give it structure; the cylinders\nconsisted of a single surface membrane and two end caps; and made entirely of\nHDPE. (See figures 1,2) This material was used as other plastics tend to leach\nchemicals into soil and wanted to avoid that. Both 1/16th inch surface members &\n7",
+      "char_count": 2190,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "text": "-The GeoGro Team\n-\n1/2 inch end caps were designed in CAD and cut with a CNC router. Having been\ndrilled intact everything was assembled with machine screws. Both sides end caps\nwere equipped with bearings (as seen in figures 3,4,5) that allows the cylinders to\nfreely revolve around the fixed water core as a central fixed axle.\nFigure 1: Design of the cylinder panels\nFigure 2: Cylinder cutouts ready for assembly\nUsing CAD/CAM software and CNC hardware, we were able to ensure design\nfidelity and dimensional accuracy while minimizing any margin for error.\nFigure 3 4,5 : Cylinder fabrication overview\nTiming belts attached to each cylinder's end caps and independent stepper motors\nprovided reliable, and accurately controlled rotations per unit.\n8",
+      "char_count": 752,
+      "image_count": 5,
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "text": "-The GeoGro Team\n-\nRooting Baskets & Burlap Encasement\nIn order to prevent the soil from falling out we used a\ncombination of burlap and 3D printed \u2018rooting baskets\u2019.\nThe design called for a small cage to hold a seed in\nbefore being thrust through the burlap into the soil\nmass; it would mechanically interface and lock into the\ncylinder for stability. The design went through to\ndifferent versions. The initial one worked well, meeting\nminimum requirements; however, did not fit entirely\nflush to the cylinder; it was redesigned to allow for\ngreater retention within the grow port interface.\nThe second version increased surface area interface for\nmechanical connection and fit flush. You can see this in\nthe below diagrams and the Appendix.\nSee Photos in the Appendix for more Diagrams\nof our experimental apparatus\nEXPERIMENT\nExperiment Abstract\nThe experiment displays the effects of two(2) different rates of geotropism on\nplants, here, on earth by propagating them in a mix of soil, and the provided\nLunar-regolith-like simulant. The experiment consists of three(3) hollow\nhorizontal cylinders: one stationary cylindric control group, one slowly rotating\ncylinder, and one more rapidly rotating cylinder. All cylinders were held aloft by\nsupporting \u2018racks\u2019 and will be filled with a 50% Lunar-regolith simulant, and 50%\nsoil blend. Cavities were bored into these cylinders, \u2018grow-ports\u2019, and \u2018rooting\nbaskets\u2019 were 3D printed & seeds were sown, with the intention for plants to grow\noutwards orthogonal to their cylinders\u2019 axis of rotation. Each cylinder housed and\ngrew three Arugula, three Red Romaine, and three WheatGrass specimens.\n9",
+      "char_count": 1644,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "text": "-The GeoGro Team\n-\nNutrients were dosed by a pump and all inputs, environmental variables &\noperational activities were appropriately monitored, managed, recorded, and\nreported.\nExperimental Parameters\nRotational Rates:\nRotational Rates of Cylinders: 0 rpms (control) \u00b7 2 rpms \u00b7 4 rpms\nCrops\n\u00b7 Red romaine lettuce\nlactuca sativa\n\u00b7 Arugula\neruca vesicaria\n\u00b7 Wheat grass\ntriticum aestivum\nLight\nDaily Light Index:\n73.78\nPhotosynthetic photon flux density:\n1138.62 ppfd\nDLI=PPFD x light hours per day x (3600/1000,000).\nLight Hours Per Day:\n18 hours\nLight turn on Time:\n6:30\nam\nLight turn off Time:\n12:30 am\nWater\nDose Amount:\n1 deciliter\nFrequency Every\n12 hours\nTime 1:\n6:30\nam\nTime 2:\n6:30\npm\nSpectrum of the Light Source\n10",
+      "char_count": 724,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "text": "-The GeoGro Team\n-\nGrow Medium Composition\nMixture: 50% Lunar Simulant / 50% Fox Farms Forest Ocean\nAbove: Fox Farm Ocean Forest\u00ae Specifications\nOur potting material was comprised by mixing together equal parts Exolith lunar\nregolith with Fox Farm Ocean Forest\u00ae potting soil, which is a blend of: sphagnum\npeat moss, earthworm castings, bat guano, fish emulsion, and crab meal in a sandy\nloam.\nhttps://cdn.shopify.com/s/files/1/0398/9268/0862/files/lhs-1-spec-sheet-Dec2023.pdf?v=1703001782\nAdditional information can be found at the link above.\n11",
+      "char_count": 548,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "text": "-The GeoGro Team\n-\nResults\nWeek-by-Week\n2-12-24\n2-19-24\n12",
+      "char_count": 58,
+      "image_count": 6,
+      "tables": []
+    },
+    {
+      "page_number": 12,
+      "text": "-The GeoGro Team\n-\n2-26-24\n3-4-24\n13",
+      "char_count": 36,
+      "image_count": 6,
+      "tables": []
+    },
+    {
+      "page_number": 13,
+      "text": "-The GeoGro Team\n-\n3-11-24\nEnvironmental Data: Temperature \u00b7 Relative Humidity \u00b7 VPD \u00b7 Dew Point\n14",
+      "char_count": 99,
+      "image_count": 5,
+      "tables": []
+    },
+    {
+      "page_number": 14,
+      "text": "-The GeoGro Team\n-\nFresh Weight\nOn March 14th, 2024, 31 days after the start of the experiment, we used a knife to\ncut and separate our three samples from the cylinder in order to get a\nmeasurement of their fresh weight.\nWe measured a .01 gram digital scale with the weight of a small plastic bag and\nthen proceeded to take the measurement of biomass. See figures below.\nRPM 0 : 5.53 grams\nRPM 2 : 5.14 grams\nRPM 4 : 1.30 grams\nVitamin C\nThe biomass of each sample was then removed from the bags and subsequently\nground to a pulp the biomass to utilize vitamin C strips to measure Vitamin C\nlevels. We exposed the reagent on the vitamin C test strips for 2 seconds to get the\nmeasurement and then waited 30 seconds for the reagent to react and then visually\ncompared the color to a table to ascertain the vitamin C levels present in the\nsamples.\n15",
+      "char_count": 848,
+      "image_count": 5,
+      "tables": []
+    },
+    {
+      "page_number": 15,
+      "text": "-The GeoGro Team\n-\nDISCUSSION & CONCLUSIONS\nOur study set out to examine whether prolonged exposure to rotational stimuli\nduring the growth cycles of select species would confer a favorable adaptive\nresponse mechanism within their morphology. Preliminary visual inspections\ndisplayed encouraging signs consistent with positive responses, such as improved\nmorphologic appearance up till a particular juncture. Surprisingly, contrary to our\nworking hypothesis, the obtained results yielded an exact reverse trend once\nmeasurements were compiled at the conclusion of the study.\nWe suspect and substantiate our suspicions with photographic records that the\ntotal mass produced by the specimen rotating at 4 rpm surpassed the load and\nspace limits tolerated by our prototype apparatus. Throughout consecutive stages\nof the trial period, we show in the figures provided, that the specimen begins to\nexhibit signs of stress. Photographic records show the specimen being subjected to\nmechanical stress forces such as colliding with the inner wall and floor of the\napparatus due it\u2019s increase in size compared to the other two test groups. This\ninevitably skewed the intended outcomes unfavorably.\nThis is seen in past studies showing that the challenges with long term experiments\nconducted with rotational machines have challenges relating to the increased mass\nof the plant specimens, the changing weight distribution, the bending stress and\nother random mechanical stimulation it ultimately causes. (van Loon et al, 2007;\nManzano et al., 2009)\nWhile the ultimate outcome of our study did not align with our initial hypothesis,\nthe earlier weeks of our specimen\u2019s growth did. The initial vegetative growth of the\nspecimen rotating at 4 rpm indicates an acceleration within germination occuring\nup until the point of mechanical interference.\nIn addition to our obstacles with the mechanical stress force, there were also\nchallenges with our light intensity causing the red roman and arugula to seemingly\nsprout but not grow past the germination phase. We also had issues with our\n16",
+      "char_count": 2075,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 16,
+      "text": "-The GeoGro Team\n-\nhygrometer exporting and deleting date, this break of data can be seen in the above\nresults section.\nDue to the promising growth in the initial stages, we still theorize that if these\nchallenges are circumvented the implication is large for the practical application\ninvolving rotational spin and sustainable plant growth within outer space. It is\nsuspected that the rotational spin altered the mesomatic competence of the plant\naffecting the auxins signaling.\nFurther studies should also examine the following unresolved questions.\n\u25cf\nHow do alterations in varied gravitational stimuli impact fundamental plant\ngrowth metrics?\n\u25cf\nHow does rotational stimuli affect the auxin mesomatic competence of the\nplant?\n\u25cf\nDoes a spinning rotational machine provide a significant enough\nimprovement in plant growth to warrant such an apparatus?\n\u25cf\nWhat implications does this discovery hold for improving future\nexplorations in astro-agriculture & terrestrial crops, alike?\n\u25cf\nHow does rotational stimuli affect the auxin mesomatic competence of the\nplant?\nTo effectively build upon prior learnings and render significant strides towards\nprogressive achievements, we recommend the following experimental\nimprovements -\n\u25cf\nOptimize hardware configurations accommodating wider spectra of plant\ndimensions to prevent premature failures linked to excess bulk burden.\n\u25cf\nEmploy cutting-edge imaging modalities for extracting detailed metric\nintelligence tracking incremental adjustments occurring within plant tissue\nlayers.\n\u25cf\nDevelop comparative analytics\n17",
+      "char_count": 1557,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 17,
+      "text": "-The GeoGro Team\n-\n\u25cf\nExplore and find the diminishing point of return on cylinder rotation speed\nfor various genotypes and phenotypes.\n\u25cf\nAlternating and exploring light frequencies and intensities.\nCurrently there\u2019s limited studies that explore the direct relationship between plant\nrotation and auxin concentration fluctuations. Nonetheless, indirect evidence\nsuggests that rotation induces mechanical forces that are beneficial for the growth\nof plants in potential space environments. This phenomenon exhibits promising\nimplications for tailored optimization of rotation strategies promoting improved\nplant health and stability within spacecraft ecosystems.\nREFERENCES\nBhalerao, R. P., & Bennett, M. J. (2003). The case for morphogens in plants.\nNature Cell Biology, 5(11), 939\u2013943. https://doi.org/10.1038/ncb1103-939\nCholodny N. (1927). Wuchshormone und Tropismen bei den Pflanzen. Biol.\nZentralbl. 47, 604\u2013626.\nGadalla, D. S., Braun, M., & B\u00f6hmer, M. (2018). Gravitropism in higher\nplants: Cellular aspects. In G. Ruyters, & M. Braun (Eds.), Gravitational\nbiology I: Gravity sensing and graviorientation in microorganisms and\nplants (pp. 75\u201392). Springer International Publishing.\nLopez, D., Tocquard, K., Venisse, J. S., Legu\u00e9, V., & Roeckel-Drevet, P. (2014).\nGravity sensing, a largely misunderstood trigger of plant orientated growth.\nFrontiers in plant science, 5, 610. https://doi.org/10.3389/fpls.2014.00610\nManzano, A., Herranz, R., den Toom, L. A., te Slaa, S., Borst, G., Visser, M.,\nMedina, F. J., & van Loon, J. J. W. A. (2018). Novel, Moon and Mars, partial\ngravity simulation paradigms and their effects on the balance between cell\ngrowth and cell proliferation during early plant development. Npj\nMicrogravity, 4(1). https://doi.org/10.1038/s41526-018-0041-4\n18",
+      "char_count": 1782,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 18,
+      "text": "-The GeoGro Team\n-\nManzano, A. I., Mat\u00eda, I., Gonz\u00e1lez-Camacho, F., Carnero-D\u00edaz, E., van Loon, J. J. W.\nA., Dijkstra, C., Larkin, O., Anthony, P., Davey, M. R., Marco, R., & Medina, F. J.\n(2008). Germination of Arabidopsis Seed in Space and in Simulated Microgravity:\nAlterations in Root Cell Growth and Proliferation. Microgravity Science and\nTechnology, 21(4), 293\u2013297. https://doi.org/10.1007/s12217-008-9099-z\nMat\u00eda, I., Gonz\u00e1lez-Camacho, F., Herranz, R., Kiss, J. Z., Gasset, G., van Loon,\nJ. J. W. A., Marco, R., & Javier Medina, F. (2010). Plant cell proliferation and\ngrowth are altered by microgravity conditions in spaceflight. Journal of Plant\nPhysiology, 167(3), 184\u2013193. https://doi.org/10.1016/j.jplph.2009.08.012\nMedina, F. J. (2021). Space explorers need to be space farmers: What we\nknow and what we need to know about plant growth in space. M\u00e8tode Science\nStudies Journal, 11, 55\u201362.\nhttps://www.redalyc.org/journal/5117/511766954009/html/\nMuday, G. K., & Murphy, A. S. (2002). An Emerging Model of Auxin\nTransport Regulation. The Plant Cell, 14(2), 293\u2013299.\nhttps://doi.org/10.1105/tpc.140230\nNakamura, M., Nishimura, T., & Morita, M. T. (2019). Gravity sensing and\nsignal conversion in plant gravitropism. Journal of Experimental Botany,\n70(14), 3495\u20133506. https://doi.org/10.1093/jxb/erz158\nOrbovik V., Poff K. L. (1993). Growth distribution during phototropism of\nArabidopsis thaliana seedlings. Plant Physiol. 103, 157\u2013163.\n10.1104/pp.103.1.157\nPerrot-Rechenmann, C. (2010). Cellular responses to auxin: Division versus\nexpansion. Cold Spring Harbor Perspectives in Biology, 2(5), a001446. doi:\n10.1101/cshperspect.a001446\nSato, E. M., Hijazi, H., Bennett, M. J., Vissenberg, K., & Swarup, R. (2014).\nNew insights into root gravitropic signalling. Journal of Experimental Botany,\n66(8), 2155\u20132165. https://doi.org/10.1093/jxb/eru515\n19",
+      "char_count": 1859,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Manzano, A. I., Mat\u00eda, I., Gonz\u00e1lez-Camacho, F., Carnero-D\u00edaz, E., van Loon, J. J. W."
+          ],
+          [
+            "A., Dijkstra, C., Larkin, O., Anthony, P., Davey, M. R., Marco, R., & Medina, F. J."
+          ],
+          [
+            "(2008). Germination of Arabidopsis Seed in Space and in Simulated Microgravity:"
+          ],
+          [
+            "Alterations in Root Cell Growth and Proliferation. Microgravity Science and"
+          ],
+          [
+            "Technology, 21(4), 293\u2013297. https://doi.org/10.1007/s12217-008-9099-z"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 19,
+      "text": "-The GeoGro Team\n-\nTeale, W. D., Paponov, I. A., & Palme, K. (2006). Auxin in action: signalling,\ntransport and the control of plant growth and development. Nature Reviews\nMolecular Cell Biology, 7(11), 847\u2013859. https://doi.org/10.1038/nrm2020\n\u200bVan Loon, J. J. W. A. (2007). Some history and use of the random positioning\nmachine, RPM, in gravity related research. Advances in Space Research, 39(7),\n1161\u20131165. https://doi.org/10.1016/j.asr.2007.02.016\nWent F. W. (1928). Wuchsstoff und Wachstum. Recueil Des Travaux Botaniques\n. N\u00e9erlandais 25, 1\u2013116.\nZhang, W., Liu, H., Li, Z., & Liu, H. (2020). Synergistic effects of edible\nplants with light environment on the emotion and sleep of humans in\nlong-duration isolated environment. Life Sciences in Space Research, 24, 42\u201349.\nhttps://doi.org/10.1016/j.lssr.2019.11.003\nAppendix A : Photos\nMotors Microcontrollers & hats\nUsing OctoPrint to assist controlling Motors\n20",
+      "char_count": 918,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 20,
+      "text": "-The GeoGro Team\n-\nFabrication of Cylinders\n21",
+      "char_count": 46,
+      "image_count": 4,
+      "tables": []
+    },
+    {
+      "page_number": 21,
+      "text": "-The GeoGro Team\n-\nInstallation of WebCamera\nAddition of Water Core\n22",
+      "char_count": 70,
+      "image_count": 6,
+      "tables": []
+    },
+    {
+      "page_number": 22,
+      "text": "-The GeoGro Team\n-\nRooting Basket First Version\n23",
+      "char_count": 50,
+      "image_count": 4,
+      "tables": []
+    },
+    {
+      "page_number": 23,
+      "text": "-The GeoGro Team\n-\nRooting Basket Second Version\nCylinder Buildout\n24",
+      "char_count": 69,
+      "image_count": 8,
+      "tables": []
+    },
+    {
+      "page_number": 24,
+      "text": "-The GeoGro Team\n-\nWater Core Installation\nPreparing Cylinders for Lunar Simulant Mixture\n25",
+      "char_count": 92,
+      "image_count": 7,
+      "tables": []
+    },
+    {
+      "page_number": 25,
+      "text": "-The GeoGro Team\n-\n26",
+      "char_count": 21,
+      "image_count": 6,
+      "tables": []
+    },
+    {
+      "page_number": 26,
+      "text": "-The GeoGro Team\n-\n27",
+      "char_count": 21,
+      "image_count": 5,
+      "tables": []
+    }
+  ]
+}

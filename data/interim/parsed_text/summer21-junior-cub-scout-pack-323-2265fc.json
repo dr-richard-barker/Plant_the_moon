@@ -1,0 +1,587 @@
+{
+  "report_id": "summer21-junior-cub-scout-pack-323-2265fc",
+  "sha256": "b058975917d4f116146c70ca7df758dc4433706d417b6dc67a2018172bcf8dc7",
+  "page_count": 11,
+  "total_chars": 12929,
+  "avg_chars_per_page": 1175.4,
+  "total_images": 91,
+  "table_count": 23,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Cub Scout Pack 323 \nID# 8178 \n \n \nSummer \n2021 \nPernille Langenbach \nCub Scout Pack 323 \u2013 Moscow, \nID \nSummer 2021 \nPlant Mars Challenge",
+      "char_count": 136,
+      "image_count": 6,
+      "tables": [
+        [
+          [
+            "",
+            "",
+            "Summer 2021 Challenge Pernille Langenbach Cub Scout Pack 323 \u2013 Moscow, ID Summer 2021"
+          ],
+          [
+            "Plant Mars",
+            "",
+            "Challenge"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "Cub Scout Pack 323Summer 2021Plant Mars Challenge \n \nPage 1 of 11 \n \nBackground \nWe are Cub Scout Pack 323 in Moscow, Idaho, and our pack currently consists of 8 kids ranging from 7 to 11 \nyears of age. Pack 323 has been working a lot with science over the last 18 months and learned about rocks & \nminerals, volcanos, chemical reactions, physics, and plants, so we thought the Plant Mars Challenge would be a \ngood way to expand on our knowledge of science and end our Scouting year with a special project. We would \nlike to say thank you to Idaho Space Grant for giving us the opportunity to participate in this challenge possible. \nExperiment design \nPack 323 choose to plant two different types of plants, kale and Four O\u2019clock flowers, which we planted in a 50% \nMartian regolith and a combination of Expert Gardener Potting Mix and high or low amounts of Sungro\u2019s Black \nGold Perlite to help with the density of the Martian regolith by loosening the soil. We decided to add Expert \nGardener Plant Food for Azalea, Camellia, and Rhododendron as our fertilizer to half of our test plants to try and \nlower the pH value of the soil, and not add fertilizer to the other half to see if that would make a difference. \nBecause we ended up having 154g of Martian regolith left after having filled the other 12 pots, we decided not to \nwaste it and used the last of the regolith to plant a potato. We sat up our plant experiment in our Cubmaster\u2019s \ngarage on a table where we hung two growth lights over the middle of the two containers holding the six kale \nplants and the six Four O\u2019clock flower, the potatoes were placed a little further away from the growth lights but \nwas rotated once in a while to even out the effect of the exposure to the growth lights. Growth was measured as \nthe length/height of the plants, and the highest measurement is the one that will be used when assessing our results. \nPot # \nPlant \nMartian Regolith \nPerlite \nPotting Mix \nFertilize\nr \n#1 \nKale \n50% (500g) \n5% (50g) \n45% (450g) \nNormal \n#2 \nKale \n50% (500g) \n20% (200g) \n30% (300g) \nNormal \n#3 \nKale \n50% (500g) \n5% (50g) \n45% (450g) \nNone \n#4 \nKale \n50% (500g) \n20% (200g) \n30% (300g) \nNone \n#5 \nKale \n100% (880g) \n0% \n1 inch in the bottom (120g) \nNone \n#11 \nKale \n0% \n0% \n100% \nNone \nPot # \nPlant \nMartian Regolith \nPerlite \nPotting Mix \nFertilizer \n#6 \nFour O\u2019clocks \n50% (500g) \n5% (50g) \n45% (450g) \nNormal \n#7 \nFour O\u2019clocks \n50% (500g) \n20% (200g) \n30% (300g) \nNormal \n#8 \nFour O\u2019clocks \n50% (500g) \n5% (50g) \n45% (450g) \nNone \n#9 \nFour O\u2019clocks \n50% (500g) \n20% (200g) \n30% (300g) \nNone \n#10 \nFour O\u2019clocks \n0% \n0% \n100% \nNone \n#12 \nFour O\u2019clocks \n50% (880g) \n \n1 inch in the bottom (120g) \nNone \n#13 \nPurple Viking Potato \n20.43% (154g) \n13.26% (100g) \n66.31% (500g) \nNone \n#14 \nPurple Viking Potato \n0% \n13.26% (100g) \n86.74% (654g) \nNone",
+      "char_count": 2833,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Experiment design"
+          ],
+          [
+            "Pack 323 choose to plant two different types of plants, kale and Four O\u2019clock flowers, which we planted in a 50%"
+          ],
+          [
+            "Martian regolith and a combination of Expert Gardener Potting Mix and high or low amounts of Sungro\u2019s Black"
+          ],
+          [
+            "Gold Perlite to help with the density of the Martian regolith by loosening the soil. We decided to add Expert"
+          ],
+          [
+            "Gardener Plant Food for Azalea, Camellia, and Rhododendron as our fertilizer to half of our test plants to try and"
+          ],
+          [
+            "lower the pH value of the soil, and not add fertilizer to the other half to see if that would make a difference."
+          ],
+          [
+            "Because we ended up having 154g of Martian regolith left after having filled the other 12 pots, we decided not to"
+          ],
+          [
+            "waste it and used the last of the regolith to plant a potato. We sat up our plant experiment in our Cubmaster\u2019s"
+          ],
+          [
+            "garage on a table where we hung two growth lights over the middle of the two containers holding the six kale"
+          ],
+          [
+            "plants and the six Four O\u2019clock flower, the potatoes were placed a little further away from the growth lights but"
+          ],
+          [
+            "was rotated once in a while to even out the effect of the exposure to the growth lights. Growth was measured as"
+          ],
+          [
+            "the length/height of the plants, and the highest measurement is the one that will be used when assessing our results."
+          ]
+        ],
+        [
+          [
+            "Pot #",
+            "Plant",
+            "Martian Regolith",
+            "",
+            "Perlite",
+            "Potting Mix",
+            "",
+            "Fertilize r"
+          ],
+          [
+            "#1",
+            "Kale",
+            "50% (500g)",
+            "",
+            "5% (50g)",
+            "45% (450g)",
+            "",
+            "Normal"
+          ],
+          [
+            "#2",
+            "Kale",
+            "50% (500g)",
+            "",
+            "20% (200g)",
+            "30% (300g)",
+            "",
+            "Normal"
+          ],
+          [
+            "#3",
+            "Kale",
+            "50% (500g)",
+            "",
+            "5% (50g)",
+            "45% (450g)",
+            "",
+            "None"
+          ],
+          [
+            "#4",
+            "Kale",
+            "50% (500g)",
+            "",
+            "20% (200g)",
+            "30% (300g)",
+            "",
+            "None"
+          ],
+          [
+            "#5",
+            "Kale",
+            "100% (880g)",
+            "",
+            "0%",
+            "1 inch in the bottom (120g)",
+            "",
+            "None"
+          ],
+          [
+            "#11",
+            "Kale",
+            "0%",
+            "",
+            "0%",
+            "100%",
+            "",
+            "None"
+          ],
+          [
+            "Pot #",
+            "Plant",
+            "Martian Regolith",
+            "",
+            "Perlite",
+            "Potting Mix",
+            "",
+            "Fertilizer"
+          ],
+          [
+            "#6",
+            "Four O\u2019clocks",
+            "50% (500g)",
+            "",
+            "5% (50g)",
+            "45% (450g)",
+            "",
+            "Normal"
+          ],
+          [
+            "#7",
+            "Four O\u2019clocks",
+            "50% (500g)",
+            "",
+            "20% (200g)",
+            "30% (300g)",
+            "",
+            "Normal"
+          ],
+          [
+            "#8",
+            "Four O\u2019clocks",
+            "50% (500g)",
+            "",
+            "5% (50g)",
+            "45% (450g)",
+            "",
+            "None"
+          ],
+          [
+            "#9",
+            "Four O\u2019clocks",
+            "50% (500g)",
+            "",
+            "20% (200g)",
+            "30% (300g)",
+            "",
+            "None"
+          ],
+          [
+            "#10",
+            "Four O\u2019clocks",
+            "0%",
+            "",
+            "0%",
+            "100%",
+            "",
+            "None"
+          ],
+          [
+            "#12",
+            "Four O\u2019clocks",
+            "50% (880g)",
+            "",
+            "",
+            "1 inch in the bottom (120g)",
+            "",
+            "None"
+          ],
+          [
+            "#13",
+            "Purple Viking Potato",
+            "",
+            "20.43% (154g)",
+            "13.26% (100g)",
+            "",
+            "66.31% (500g)",
+            "None"
+          ],
+          [
+            "#14",
+            "Purple Viking Potato",
+            "",
+            "0%",
+            "13.26% (100g)",
+            "",
+            "86.74% (654g)",
+            "None"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "Cub Scout Pack 323Summer 2021Plant Mars Challenge \n \nPage 2 of 11 \n \n \nHypothesis \nThe Cub Scouts thought that the kale would grow best in the pot with 5% Perlite and fertilizer, and that the Four \nO\u2019clock flowers would grow best in the pot with 20% of Perlite mixed in with the potting soil and Martian regolith \nwith added fertilizer. The potatoes in the potting soil were predicted to grow significantly more than the one in \nthe Martian regolith and potting soil mixture. \nIndependent variables & dependent variables \nThe independent variables in Cub Scout Pack 323\u2019s experiment is the 50 % Martian regolith in all our pots with \nthe exception of our controls (100% Martian regolith or 100% potting soil, and of course our potatoes). The first \ndependent variables in our experiment are the amount of Perlite in the pots, either low with 5% or high with 20% \nPerlite added to the potting soil. Another dependent variable is Expert Gardener Plant food versus no fertilizer. \nMeasurements \nAs a measurement of our plant\u2019s success, we chose to measure the height/length of the plants. We quickly \nadded a point system as well as a measurement for how well the plants were thriving (0=no plant, \n1=shrivel/died, 2=okay, 3=good). We decided to add 50% of the pot\u2019s total weight in water to each pot, and \nthen every time we watered the plants, we measured the weight of each pot as seen in the pictures below to \nfigure out how much water to add. For example, pot #1 the initial weight including 50% of the weight in water \nweighed 1556g, so every time we watered, we added water until we reached a weight of 1556g.",
+      "char_count": 1614,
+      "image_count": 3,
+      "tables": [
+        [
+          [
+            "The Cub Scouts thought that the kale would grow best in the pot with 5% Perlite and fertilizer, and that the Four"
+          ],
+          [
+            "O\u2019clock flowers would grow best in the pot with 20% of Perlite mixed in with the potting soil and Martian regolith"
+          ],
+          [
+            "with added fertilizer. The potatoes in the potting soil were predicted to grow significantly more than the one in"
+          ],
+          [
+            "the Martian regolith and potting soil mixture."
+          ]
+        ],
+        [
+          [
+            "The independent variables in Cub Scout Pack 323\u2019s experiment is the 50 % Martian regolith in all our pots with"
+          ],
+          [
+            "the exception of our controls (100% Martian regolith or 100% potting soil, and of course our potatoes). The first"
+          ],
+          [
+            "dependent variables in our experiment are the amount of Perlite in the pots, either low with 5% or high with 20%"
+          ],
+          [
+            "Perlite added to the potting soil. Another dependent variable is Expert Gardener Plant food versus no fertilizer."
+          ]
+        ],
+        [
+          [
+            "Measurements"
+          ],
+          [
+            "As a measurement of our plant\u2019s success, we chose to measure the height/length of the plants. We quickly"
+          ],
+          [
+            "added a point system as well as a measurement for how well the plants were thriving (0=no plant,"
+          ],
+          [
+            "1=shrivel/died, 2=okay, 3=good). We decided to add 50% of the pot\u2019s total weight in water to each pot, and"
+          ],
+          [
+            "then every time we watered the plants, we measured the weight of each pot as seen in the pictures below to"
+          ],
+          [
+            "figure out how much water to add. For example, pot #1 the initial weight including 50% of the weight in water"
+          ],
+          [
+            "weighed 1556g, so every time we watered, we added water until we reached a weight of 1556g."
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "Cub Scout Pack 323Summer 2021Plant Mars Challenge \n \nPage 3 of 11 \n \n \nControls \nWe have two controls for the kale and the Four O\u2019clock flowers, one pot with 100 % Martian soil and one \nwith 100 % potting soil with no fertilizer and no Perlite, so we had something to compare our results to at the \nend of our growth period. For the pot with 100 % Martian regolith, we had to add 1 inch (120g) of potting \nsoil in the bottom of the pots to avoid losing the very fine-grained regolith through the bottom of the pots. For \nthe potatoes we had one control pot with 87 % potting soil and 13% Perlite.",
+      "char_count": 596,
+      "image_count": 11,
+      "tables": [
+        [
+          [
+            "Controls"
+          ],
+          [
+            "We have two controls for the kale and the Four O\u2019clock flowers, one pot with 100 % Martian soil and one"
+          ],
+          [
+            "with 100 % potting soil with no fertilizer and no Perlite, so we had something to compare our results to at the"
+          ],
+          [
+            "end of our growth period. For the pot with 100 % Martian regolith, we had to add 1 inch (120g) of potting"
+          ],
+          [
+            "soil in the bottom of the pots to avoid losing the very fine-grained regolith through the bottom of the pots. For"
+          ],
+          [
+            "the potatoes we had one control pot with 87 % potting soil and 13% Perlite."
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 5,
+      "text": "Cub Scout Pack 323Summer 2021Plant Mars Challenge \n \nPage 4 of 11 \n \nThe results & discussion of the results \n \n0\n5\n10\n1 2 3 4 5 6 7 8 9 10 11 12 13\n#1 - Kale in low Perlite with high \nfertilizer\n0\n2\n4\n6\n8\n1 2 3 4 5 6 7 8 9 10 11 12 13\n#2 - Kale in high Perlite with high \nfertilizer \n0\n5\n10\n15\n1 2 3 4 5 6 7 8 9 10 11 12 13\n#3 - Kale in low Perlite with no \nfertilizer\n0\n5\n10\n15\n1 2 3 4 5 6 7 8 9 10 11 12 13\n#4 - Kale in high Perlite with no \nfertilizer\n0\n2\n4\n6\n8\n1 2 3 4 5 6 7 8 9 10 11 12 13\n#5 - Cotrole Kale in \n100% Martian regolith\n0\n5\n10\n15\n1 2 3 4 5 6 7 8 9 10 11 12 13\n#11 - Controle Kale in 100% \npotting soil\n0\n10\n20\n30\n1 2 3 4 5 6 7 8 9 10 11 12 13\n#6 - Four O'clock in low Perlite \nwith high fertilizer \n0\n10\n20\n30\n40\n1 2 3 4 5 6 7 8 9 10 11 12 13\n#7 - Four O'clock in high Perlite \nwith high fertilizer\nThe kale plants did fine until they \nreceived fertilizer which burned \nthe roots and killed the plants. \nWe later learned that one is not \nsupposed to give plants fertilizer \nbefore 3 weeks into the growth \nperiod. \nThe kale plants with no fertilizer \ndid markedly better than the \nplants with fertilizer. Lower \namounts of Perlite helped the \nplant grow taller. Part of the issue \nwith the kale dying was most \nlikely due to high temperatures \nand too little water. \nThe kale plants in 100% potting \nsoil grew taller than most of the \npots with Martian regolith except \nfor pot #3 with Martian regolith \nin low Perlite and with no \nfertilizer. The control with the \n100% Martian regolith surprised \nus by sprouting a single kale seed \ntowards the edge of the pot, \nmaybe the pot had a little soil on \nit as it was used but did not look \ndirty. It was not expected to \nsprout at all. \nThe Four O\u2019clock flowers with \nhigh amounts of Perlite grew \nlonger vines than the ones with \nlow amounts of Perlite. The \nflowers without fertilizer grew \nlonger vines than the ones with \nfertilizer.",
+      "char_count": 1904,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "The results & discussion of the results",
+            "",
+            ""
+          ],
+          [
+            "",
+            "The kale plants did fine until they received fertilizer which burned the roots and killed the plants. We later learned that one is not supposed to give plants fertilizer before 3 weeks into the growth period.",
+            ""
+          ]
+        ],
+        [
+          [
+            "#1 -Kale in low Perlite with high fertilizer 10 5 0 1 2 3 4 5 6 7 8 9 10111213",
+            "#2 -Kale in high Perlite with high fertilizer 8 6 4 2 0 1 2 3 4 5 6 7 8 9 10111213"
+          ]
+        ],
+        [
+          [
+            "The kale plants with no fertilizer did markedly better than the plants with fertilizer. Lower amounts of Perlite helped the plant grow taller. Part of the issue with the kale dying was most likely due to high temperatures and too little water.",
+            "",
+            ""
+          ],
+          [
+            "The kale plants in 100% potting",
+            "",
+            ""
+          ],
+          [
+            "soil grew taller than most of the",
+            "",
+            ""
+          ],
+          [
+            "pots with Martian regolith except for pot #3 with Martian regolith in low Perlite and with no fertilizer. The control with the 100% Martian regolith surprised us by sprouting a single kale seed towards the edge of the pot, maybe the pot had a little soil on it as it was used but did not look dirty. It was not expected to",
+            "",
+            ""
+          ],
+          [
+            "sprout at all.",
+            "",
+            ""
+          ],
+          [
+            "",
+            "The Four O\u2019clock flowers wi high amounts of Perlite gre longer vines than the ones wi low amounts of Perlite. T flowers without fertilizer gre longer vines than the ones wi fertilizer.",
+            ""
+          ]
+        ],
+        [
+          [
+            "#3 -Kale in low Perlite with no fertilizer 15 10 5 0 1 2 3 4 5 6 7 8 9 10111213",
+            "#4 -Kale in high Perlite with no fertilizer 15 10 5 0 1 2 3 4 5 6 7 8 9 10111213"
+          ]
+        ],
+        [
+          [
+            "#5 -Cotrole Kale in 100% Martian regolith 8 6 4 2 0 1 2 3 4 5 6 7 8 9 10111213",
+            "#11 -Controle Kale in 100% potting soil 15 10 5 0 1 2 3 4 5 6 7 8 9 10111213"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 6,
+      "text": "Cub Scout Pack 323Summer 2021Plant Mars Challenge \n \nPage 5 of 11 \n \n \nWe chose kale because it is among the most nutrient-dense foods on our planet and therefore super healthy and \nwould help our astronauts stay healthy while living on Mars.1 The flowers were chosen for their mental benefits \nas flowers has been found to improve moods, increase our level of compassion, boost our memories especially \nthrough smell, and reduce stress, which will be very beneficial for our future astronauts who I am sure will be in \na very stressful environment where a sense of homeliness\u2019 will help them cope much better with all the challenges \nthey face.2 \nThe conclusion \nThe Cub Scouts hypothesis did part hold as our experiment seems to suggest that kale grow better with 5% Perlite \nthan 20% Perlite in the pots, however the fertilizer ended up killing our plants instead of increasing their growth. \nIf we were to do another experiment, it would be interesting to see if adding the fertilizer after the plants are well-\n \n1 https://www.healthline.com/nutrition/10-proven-benefits-of-\nkale#:~:text=Given%20its%20incredibly%20low%20calorie,nutrient%20content%20of%20your%20diet.&text=Kale%20is%20very%20high%20in,dense%20foods%20o\nn%20the%20planet. \n2 https://www.lavieflo.com/5-amazing-health-benefits-of-flowers/ \n0\n20\n40\n1 2 3 4 5 6 7 8 9 10 11 12 13\n#8 - Four O'clock in low Perlite \nwith no fertilizer\n0\n20\n40\n1 2 3 4 5 6 7 8 9 10 11 12 13\n#9 - Four O'clock in high Perlite \nwith no fertilizer\n0\n20\n40\n60\n1 2 3 4 5 6 7 8 9 10 11 12 13\n#10 - Controle Four O'clock in \n100% potting soil\n0\n0.5\n1\n1 2 3 4 5 6 7 8 9 10 11 12 13\n#12 - Controle Four O'clock in \n100% Martian regolith\n0\n20\n40\n60\n1 2 3 4 5 6 7 8 9 10 11 12 13\n#13 - Potato in Martian regolith \n/potting soil with medium Perlite\n0\n50\n100\n150\n1 2 3 4 5 6 7 8 9 10 11 12 13\n#14 - Potato in 100% potting soil \nwith medium Perlite\nThe Four O\u2019clock flowers with \nhigh amounts of Perlite grew \nslightly longer vines than the \nones with low amounts of Perlite. \nThe control with 100% potting \nsoil outgrew pot #6, #7, and #8, \nbut did about as good as pot #9 \nwith \nhigh \nPerlite \nand \nno \nfertilizer. The control with 100% \nMartian regolith did not grow as \nexpected. \nFor the Purple Viking potato \nplants, the growth difference was \nmarkedly as it pertains to height, \nthe one in 100% potting soil \ngrew significantly taller than the \npot \nthat \ncontained \nMartian \nregolith, but both plants grew a \nlot in the growth period even \nthough none of them produced \nany potatoes.",
+      "char_count": 2525,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "#8 -Four O'clock in low Perlite with no fertilizer 40 20 0 1 2 3 4 5 6 7 8 9 10111213",
+            "#9 -Four O'clock in high Perlite with no fertilizer 40 20 0 1 2 3 4 5 6 7 8 9 10111213"
+          ]
+        ],
+        [
+          [
+            "#10 -Controle Four O'clock in 100% potting soil 60 40 20 0 1 2 3 4 5 6 7 8 9 10111213",
+            "#12 -Controle Four O'clock in 100% Martian regolith 1 0.5 0 1 2 3 4 5 6 7 8 9 10111213"
+          ]
+        ],
+        [
+          [
+            "The control with 100% potting soil outgrew pot #6, #7, and #8, but did about as good as pot #9 with high Perlite and no fertilizer. The control with 100% Martian regolith did not grow as expected."
+          ],
+          [
+            "For the Purple Viking potato"
+          ],
+          [
+            "plants, the growth difference was markedly as it pertains to height, the one in 100% potting soil grew significantly taller than the pot that contained Martian regolith, but both plants grew a lot in the growth period even though none of them produced any potatoes."
+          ]
+        ],
+        [
+          [
+            "#13 -Potato in Martian regolith /potting soil with medium Perlite 60 40 20 0 1 2 3 4 5 6 7 8 9 10111213",
+            "#14 -Potato in 100% potting soil with medium Perlite 150 100 50 0 1 2 3 4 5 6 7 8 9 10111213"
+          ]
+        ],
+        [
+          [
+            "The Cub Scouts hypothesis did part hold as our experiment seems to suggest that kale grow better with 5% Perlite"
+          ],
+          [
+            "than 20% Perlite in the pots, however the fertilizer ended up killing our plants instead of increasing their growth."
+          ],
+          [
+            "If we were to do another experiment, it would be interesting to see if adding the fertilizer after the plants are well-"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 7,
+      "text": "Cub Scout Pack 323Summer 2021Plant Mars Challenge \n \nPage 6 of 11 \n \nestablished would have increased their growth. The Four O\u2019clock flowers were hypothesized to grow better in \nthe pot with heigh amounts of Perlite mixed in with the potting soil and Martian regolith with added fertilizer, \nand our results seems to support that 20% of Perlite is better than 5% of Perlite, but again the fertilizer did not \nimprove the growth of our plants. We had hoped that by adding plant food meant for Azalea, Camelia, and \nRhododendron that it would lower the pH value of the soil, which did not happen as the pH value for all plants \nduring all the tests were at 6. \nWe planted our seeds on June 16th, and on the 20th our kale started to sprout, which was super exciting. \nUnfortunately, due to the extreme heat we have had here in Idaho this summer and having the experiment set up \nin our garage which was affected by the temperature changes outside made our plants dry out quickly and produce \ntall and skinny plants that eventually would fall over and die. An automatic watering system that gave the plants \nwater continuously would probably have benefited them a lot. The flowers on the other hand were slower to come \nup, but have grown continuously with lots of leaves, no flowers, but again the plants are very long and skinny and \nbecame very fragile, and some broke while we handled them as can be seen in the growth charts where the plants \nsudden grew shorter. \nPhotos \nDay 1 (June 16th,2021) \u2013 Planting our kale and Four O\u2019clock seeds \n \n \n \nDay 2 (June 17th, 2021) \u2013 Planted our Purple Viking potatoes \n \n \n \n \nDay 6 (June 21st, 2021) \u2013 First sprouts",
+      "char_count": 1656,
+      "image_count": 5,
+      "tables": [
+        [
+          [
+            "established would have increased their growth. The Four O\u2019clock flowers were hypothesized to grow better in"
+          ],
+          [
+            "the pot with heigh amounts of Perlite mixed in with the potting soil and Martian regolith with added fertilizer,"
+          ],
+          [
+            "and our results seems to support that 20% of Perlite is better than 5% of Perlite, but again the fertilizer did not"
+          ],
+          [
+            "improve the growth of our plants. We had hoped that by adding plant food meant for Azalea, Camelia, and"
+          ],
+          [
+            "Rhododendron that it would lower the pH value of the soil, which did not happen as the pH value for all plants"
+          ],
+          [
+            "during all the tests were at 6."
+          ]
+        ],
+        [
+          [
+            "Photos"
+          ],
+          [
+            "Day 1 (June 16th,2021) \u2013 Planting our kale and Four O\u2019clock seeds"
+          ],
+          [
+            "Day 2 (June 17th, 2021) \u2013 Planted our Purple Viking potatoes"
+          ],
+          [
+            "Day 6 (June 21st, 2021) \u2013 First sprouts"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 8,
+      "text": "Cub Scout Pack 323Summer 2021Plant Mars Challenge \n \nPage 7 of 11 \n \n \n \nDay 8 (June 23rd, 2021) \u2013 Flowers starts to sprout too \n \n \nDay 10 (June 25th, 2021) \u2013 Potatoes are starting to sprout \n \n \n \n \n \nDay 11(June 26th, 2021) \u2013 it\u2019s going well",
+      "char_count": 244,
+      "image_count": 17,
+      "tables": [
+        [
+          [
+            "Day 8 (June 23rd, 2021) \u2013 Flowers starts to sprout too",
+            ""
+          ],
+          [
+            "Day 10 (June 25th, 2021) \u2013 Potatoes are starting to sprout",
+            ""
+          ],
+          [
+            "Day 11(June 26th, 2021) \u2013 it\u2019s going well",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 9,
+      "text": "Cub Scout Pack 323Summer 2021Plant Mars Challenge \n \nPage 8 of 11 \n \n \n \n \n \nDay 20 (July 5th, 2021) \u2013 Back from summer camp, kale suffered in the heat. New kale planted! \n \n \n \n \n \n \n \nDay 24 (July 9th, 2021) \u2013 Most of the kale died, flowers and potatoes are doing well \n \n \nDay 27 (July 12th, 2021) \u2013 Potatoes and flowers doing well and new kale have sprouted",
+      "char_count": 361,
+      "image_count": 19,
+      "tables": [
+        [
+          [
+            "Day 20 (July 5th, 2021) \u2013 Back from summer camp, kale suffered in the heat. New kale planted!"
+          ],
+          [
+            "Day 24 (July 9th, 2021) \u2013 Most of the kale died, flowers and potatoes are doing well"
+          ],
+          [
+            "Day 27 (July 12th, 2021) \u2013 Potatoes and flowers doing well and new kale have sprouted"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 10,
+      "text": "Cub Scout Pack 323Summer 2021Plant Mars Challenge \n \nPage 9 of 11 \n \n \n \nDay 30 (July 15th, 2021) \u2013 Cute helpers, plants looks okay or good \n \n \nDay 35 (July 20th, 2021) \u2013 Kale died again, and forgot to take pictures. Planted new kale seeds again \nDay 39 (July 24th, 2021) \u2013 Flowers and potatoes are doing well, kale still struggling. No Picutres. \nDay 44 (July 29th, 2021) \u2013 Flowers are doing well and potato plants starts to dry out a bit \n \n \n \n \n \nDay 45 (July 30th, 2021) \u2013 Last picture with the Cub Scouts and our plants",
+      "char_count": 526,
+      "image_count": 12,
+      "tables": [
+        [
+          [
+            "Day 30 (July 15th, 2021) \u2013 Cute helpers, plants looks okay or good"
+          ],
+          [
+            "Day 35 (July 20th, 2021) \u2013 Kale died again, and forgot to take pictures. Planted new kale seeds again"
+          ],
+          [
+            "Day 39 (July 24th, 2021) \u2013 Flowers and potatoes are doing well, kale still struggling. No Picutres."
+          ],
+          [
+            "Day 44 (July 29th, 2021) \u2013 Flowers are doing well and potato plants starts to dry out a bit"
+          ],
+          [
+            "Day 45 (July 30th, 2021) \u2013 Last picture with the Cub Scouts and our plants"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 11,
+      "text": "Cub Scout Pack 323Summer 2021Plant Mars Challenge \n \nPage 10 of 11 \n \n \nDay 48 (August 2nd, 2021) \u2013 Last measurements of the plants \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nVideo link \nhttps://photos.app.goo.gl/zPCZ5WjZ6tZnPk4G9 \nReferences \nWebsites: \nhttps://www.healthline.com/nutrition/10-proven-benefits-of-\nkale#:~:text=Given%20its%20incredibly%20low%20calorie,nutrient%20content%20of%20your%20diet.&text=Kale%20is%20very\n%20high%20in,dense%20foods%20on%20the%20planet \n \nhttps://www.lavieflo.com/5-amazing-health-benefits-of-flowers/",
+      "char_count": 534,
+      "image_count": 18,
+      "tables": [
+        [
+          [
+            "Day 48 (August 2nd, 2021) \u2013 Last measurements of the plants"
+          ],
+          [
+            "Video link"
+          ],
+          [
+            "https://photos.app.goo.gl/zPCZ5WjZ6tZnPk4G9"
+          ],
+          [
+            "References"
+          ],
+          [
+            "Websites: https://www.healthline.com/nutrition/10-proven-benefits-of-"
+          ],
+          [
+            "kale#:~:text=Given%20its%20incredibly%20low%20calorie,nutrient%20content%20of%20your%20diet.&text=Kale%20is%20very"
+          ],
+          [
+            "%20high%20in,dense%20foods%20on%20the%20planet"
+          ],
+          [
+            "https://www.lavieflo.com/5-amazing-health-benefits-of-flowers/"
+          ]
+        ]
+      ]
+    }
+  ]
+}

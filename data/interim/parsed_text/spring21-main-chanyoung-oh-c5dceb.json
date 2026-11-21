@@ -1,0 +1,798 @@
+{
+  "report_id": "spring21-main-chanyoung-oh-c5dceb",
+  "sha256": "9ea139c5327f6ece5b90bdf3e29e62fcd2fe33f2add8c2c21aba1e704d9e2bb6",
+  "page_count": 10,
+  "total_chars": 19962,
+  "avg_chars_per_page": 1996.2,
+  "total_images": 23,
+  "table_count": 22,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Chanyoung Oh\nPlant the moon project\n4//2021\n\u201cWhich Method of Growing Garden Cress on a Lunar Mission is the best?\u201d\nBackground\nThis experiment was conducted to identify the optimal crop and method of growing the crop in a lunar mission that would result\nin the largest output to input ratio. It aims to feed NASA\u2019s Artemis Program crews using local resources in the most efficient way.\nExperiment design\n-\nTo identify the most optimal crop, no experiments were performed, but extensive research from reliable sources was\ndone to create a simple chart in google spreadsheets comparing the traits of different edible plants that would impact\nthe lunar mission.\n-\nTo identify the most optimal method of growing the crop in a lunar mission, the experiment was performed in the\nfollowing way.\n-\nLocation: most experiments were performed in a small room (length by width by height, 32\u201d by 52\u201d by 40\u201d)\nnext to our family television where the electronics used to be plugged in.\n-\nSchedule: Experiments were performed weekly, consisting of 9 variables and 1 control. Specific instructions\nare enlisted for each variable before the experiment. Daily photographic and observational evidence is taken.\n-\nSetup: A reflective curtain was set up in the entrance to block potential external influence. The humidity and\ntemperature primarily relied on the humidity and temperature of the house, the light strength relied on the two\nled desk lamps with controllable brightness, and the frequency & quantity of water relied on the frequency I\nenter the room to use my controlled spray bottle. Plant pots are placed on an aluminum tray or paper bowl for\nthe drainage holes.\nHypothesis\n-\nThe most suitable edible plant for a lunar mission is garden cress. Compared to other plants such as Spinach, Arugula,\nor Lettuce, Garden Cress possessed the most desirable traits.\nGreen - best of the three at that trait\nYellow - middle of the three at that trait\nOrange - worst of the three at that trait\nSpinach - Spinacia Oleracea\nArugula - Eruca Vesicaria\nGarden Cress - Lepidium\nSativum\nenergy\npriority #2\ncalories\n23/100g\n25/100g\n32/100g\nmacronutrients\npriority #3\nprotein\n2.9g\n2.6g\n2.6g\nfat\n0.4g\n0.7g\n0.8g\ncarbohydrate\n3.6g\n3.7g\n5.6g\nmicronutrients\npriority #4\nfiber\n5g\n1.6g\n1.2g\nvitamin C\n28mg\n15mg\n69mg\nvitamin A\n1.5mg\n0.71mg\n1.1mg\nvitamin K\n0.48mg\n0.11mg\n0.54mg\nfolate\n194mcg\n97mcg\n80mcg\npotassium\n558mg\n370mg\n606mg\nphosphorus\n49mg\n50mg\n76mg\nvitamin E\n2mg\n0.43mg\n0.7mg\nplant suitability\npriority #1\nsoil weight\n500g will work\n500g will work\n500g will work\ngrowth time\n6 weeks\n4-7 weeks\n5-7 days\nmass - seed weight\n70-80 per g\n500 per g\n350 per g\n1",
+      "char_count": 2623,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "",
+            "",
+            "Spinach - Spinacia Oleracea",
+            "Arugula - Eruca Vesicaria",
+            "Garden Cress - Lepidium Sativum"
+          ],
+          [
+            "energy priority #2",
+            "calories",
+            "23/100g",
+            "25/100g",
+            "32/100g"
+          ],
+          [
+            "",
+            "protein",
+            "2.9g",
+            "2.6g",
+            "2.6g"
+          ],
+          [
+            "",
+            "fat",
+            "0.4g",
+            "0.7g",
+            "0.8g"
+          ],
+          [
+            "",
+            "carbohydrate",
+            "3.6g",
+            "3.7g",
+            "5.6g"
+          ],
+          [
+            "",
+            "fiber",
+            "5g",
+            "1.6g",
+            "1.2g"
+          ],
+          [
+            "",
+            "vitamin C",
+            "28mg",
+            "15mg",
+            "69mg"
+          ],
+          [
+            "",
+            "vitamin A",
+            "1.5mg",
+            "0.71mg",
+            "1.1mg"
+          ],
+          [
+            "",
+            "vitamin K",
+            "0.48mg",
+            "0.11mg",
+            "0.54mg"
+          ],
+          [
+            "",
+            "folate",
+            "194mcg",
+            "97mcg",
+            "80mcg"
+          ],
+          [
+            "",
+            "potassium",
+            "558mg",
+            "370mg",
+            "606mg"
+          ],
+          [
+            "",
+            "phosphorus",
+            "49mg",
+            "50mg",
+            "76mg"
+          ],
+          [
+            "",
+            "vitamin E",
+            "2mg",
+            "0.43mg",
+            "0.7mg"
+          ],
+          [
+            "",
+            "soil weight",
+            "500g will work",
+            "500g will work",
+            "500g will work"
+          ],
+          [
+            "",
+            "growth time",
+            "6 weeks",
+            "4-7 weeks",
+            "5-7 days"
+          ],
+          [
+            "",
+            "mass - seed weight",
+            "70-80 per g",
+            "500 per g",
+            "350 per g"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "volume - height\n6-12 inches\n6-12 inches tall\n2-3inches\nvolume - width\n6-8 inches?\n12 inches?\nno spacing\nadditional info\n7-9 leaves/plant\nExtremely adaptable\ntotal:\n6 green, 6 yellow, 5 orange\n2 green, 10 yellow, 6 orange\n12 green, 4 yellow, 2 orange\nSource: (USDA official website)\n[note: this is one of many tables completed during the project.]\nThere is an overwhelming advantage of using Garden Cress during this mission. Garden Cress Takes the shortest time\nto mature, takes up the least space, is highly adaptable, and rich in nutrition; it easily earns its place as one of the easiest\nplants to grow in the world. It was an obvious choice to choose garden cress over other plants. Because no experiments\nwere performed, this hypothesis can not be proven nor disproven based on the experiments; instead, I can only make an\neducated assumption that this hypothesis is correct and use this information to perform the experiments.\n-\nThe best method of growing the crop in a lunar mission is using pure lunar regolith for its soil base with standard\nprocedures in growing Garden Cress on regular soil. Garden Cress is a largely hydroponic plant as a microgreen, the\nmain benefit of soil being that it can provide support. As long as the lunar regolith can retain water, unlike sand, the\nlunar regolith, in theory, should be able to provide the cress with support and water much like soil. The garden cress\ngrowing from lunar regolith should grow just as well as garden cress growing from soil, meaning we can save load\ncarried to the space shuttle. Other methods in reducing the cost would most likely have a drawback. For example, a\nmethod that saves light energy will most likely have a drawback of the garden cress not containing any nutrients\ntypically produced by photosynthesis.\nVariables\nIndependent Variables: soil type (lunar to topsoil ratio, paper towel), soil mass (g), soil depth (cm), light strength (lux), light type\n(standard led desk lamp), watering frequency, seed spacing, container shape, container wall height, Humidity (not controllable),\ntemperature.\nDependent Variables: Mass of plant (g), plant height (cm), plant health condition (rotting, leaf color, wilting.\nobservational/subjective), nutritional value (spiciness: the production of vitamin C, carotene and mustard oil glycosides.\nSubjective)\nExperimental Variables\nControlled Variables\nControl\n-\nsoil type: 100%topsoil\n-\nsoil mass: 50g\n-\nlight strength: 200 lux\n-\nlight type: led desk lamp\n-\nlight duration: 8 am to 9 pm\n-\nwatering quantity: 5 sprays, ~4ml\n-\nwatering frequency: 8am & 1pm\n-\nspacing: 1400 seeds (4g) per 37cm^2; 37 seeds per\ncm^2\n-\nseed depth: 0 cm\n2",
+      "char_count": 2647,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "volume - height",
+            "6-12 inches",
+            "6-12 inches tall",
+            "2-3inches"
+          ],
+          [
+            "volume - width",
+            "6-8 inches?",
+            "12 inches?",
+            "no spacing"
+          ],
+          [
+            "additional info",
+            "",
+            "7-9 leaves/plant",
+            "Extremely adaptable"
+          ]
+        ],
+        [
+          [
+            "total:",
+            "6 green, 6 yellow, 5 orange",
+            "2 green, 10 yellow, 6 orange",
+            "12 green, 4 yellow, 2 orange"
+          ]
+        ],
+        [
+          [
+            "",
+            "Experimental Variables",
+            "Controlled Variables"
+          ]
+        ],
+        [
+          [
+            "Control",
+            "",
+            "- soil type: 100%topsoil - soil mass: 50g - light strength: 200 lux - light type: led desk lamp - light duration: 8 am to 9 pm - watering quantity: 5 sprays, ~4ml - watering frequency: 8am & 1pm - spacing: 1400 seeds (4g) per 37cm^2; 37 seeds per cm^2 - seed depth: 0 cm"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "-\ncontainer description: diameter of 6.5 cm plastic plant\npot with 8 pencil-sized drainage holes.\n-\ncontainer wall height: 1 cm\n-\ntemperature: ~23 C\n-\nhumidity: ~45 RH\n-\nph: 6.5\nVariable 1 (to see if garden cress\ncan grow purely on lunar regolith)\n-\nsoil type: 100% lunar regolith\nSame as above except the experimental variable.\nVariable 2 (to see whether the\nratios between luner to soil\nmatters)\n-\nsoil type: 50% topsoil, 50% lunar regolith\nSame as above except the experimental variable.\nVariable 3 (to see whether garden\ncress needs darkness)\n-\nlight duration: 24 hours\nSame as above except the experimental variable.\nVariable 4 (to find the limit of\nhow much light garden cress can\nabsorb)\n-\nlight strength: 1000 lux\nSame as above except the experimental variable.\nVariable 5 (to see whether garden\ncress grows taller in darkness)\n-\nlight strength: 0 lux\n-\nhumidity: above 45 RH, undeterminable\nSame as above except the experimental variable.\nVariable 6 (to see if temperature\nimpacts the speed of growth)\n-\ntemperature: avg ~5C\nSame as above except the experimental variable.\nVariable 7 (to find the best amount\nof water garden cress requires)\n-\nwatering quantity: 15 sprays, 13ml\nSame as above except the experimental variable.\nVariable 8 (to see whether soil\nprovides any nutrients)\n-\nsoil type: 100% shredded & compressed\npaper towel\n-\nsoil mass: 5g\nSame as above except the experimental variable.\nVariable 9 (to find the optimal\nspacing for seeds.)\n-\nspacing: 700 seeds (2g) per 37cm^2; 18.5\nseeds per cm^2\nSame as above except the experimental variable.\nUpdated - Batch#2 Control\n(Batch#1 Variable 7)\n-\nwatering quantity: 15 sprays, 13ml\nSame as above except the experimental variable.\nVariable 1 - Batch#2 (to see\nwhether this method helps roots)\n-\nwatering quantity: 15 sprays, 13ml\n-\nseed depth: ~0.2cm\nSame as above except the experimental variable.\nVariable 2 - Batch#2 (to see\nwhether this method works on\nlunar regolith)\n-\nwatering quantity: 15 sprays, 13ml\n-\nseed depth:~0.2cm\n-\nsoil type: 100% lunar regolith\nSame as above except the experimental variable.\nVariable 3 - Batch#2 (to find the\nminimum amount of soil garden\ncress needs)\n-\nwatering quantity: 15 sprays, 13ml\n-\nsoil mass: 10g\nSame as above except the experimental variable.\nVariable 4 - Batch#2 (to see\nwhether more water would work\non lunar regolith)\n-\nwatering quantity: 15 sprays, 13ml\n-\nsoil type: 100% lunar regolith\nSame as above except the experimental variable.\nVariable 5 - Batch#2 (to see\nwhether more water would solve\nthe wilting issue)\n-\nwatering quantity: 15 sprays, 13ml\n-\nsoil type: 100% shredded &\nuncompressed paper towel\n-\nsoil mass: 5g\nSame as above except the experimental variable.\n3",
+      "char_count": 2687,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "",
+            "",
+            "- container description: diameter of 6.5 cm plasticplant pot with 8 pencil-sized drainage holes. - container wall height: 1 cm - temperature: ~23 C - humidity: ~45 RH - ph: 6.5"
+          ],
+          [
+            "Variable 1 (to see if garden cress can grow purely on lunar regolith)",
+            "- soil type: 100% lunar regolith",
+            "Same as above except the experimental variable."
+          ],
+          [
+            "Variable 2 (to see whether the ratios between luner to soil matters)",
+            "- soil type: 50% topsoil, 50% lunar regolith",
+            "Same as above except the experimental variable."
+          ],
+          [
+            "Variable 3 (to see whether garden cress needs darkness)",
+            "- light duration: 24 hours",
+            "Same as above except the experimental variable."
+          ],
+          [
+            "Variable 4 (to find the limit of how much light garden cress can absorb)",
+            "- light strength: 1000 lux",
+            "Same as above except the experimental variable."
+          ],
+          [
+            "Variable 5 (to see whether garden cress grows taller in darkness)",
+            "- light strength: 0 lux - humidity: above 45 RH, undeterminable",
+            "Same as above except the experimental variable."
+          ],
+          [
+            "Variable 6 (to see if temperature impacts the speed of growth)",
+            "- temperature: avg ~5C",
+            "Same as above except the experimental variable."
+          ],
+          [
+            "Variable 7 (to find the best amount of water garden cress requires)",
+            "- watering quantity: 15 sprays, 13ml",
+            "Same as above except the experimental variable."
+          ],
+          [
+            "Variable 8 (to see whether soil provides any nutrients)",
+            "- soil type: 100% shredded & compressed paper towel - soil mass: 5g",
+            "Same as above except the experimental variable."
+          ],
+          [
+            "Variable 9 (to find the optimal spacing for seeds.)",
+            "- spacing: 700 seeds (2g) per 37cm^2; 18.5 seeds per cm^2",
+            "Same as above except the experimental variable."
+          ],
+          [
+            "Updated - Batch#2 Control (Batch#1 Variable 7)",
+            "- watering quantity: 15 sprays, 13ml",
+            "Same as above except the experimental variable."
+          ],
+          [
+            "Variable 1 - Batch#2 (to see whether this method helps roots)",
+            "- watering quantity: 15 sprays, 13ml - seed depth: ~0.2cm",
+            "Same as above except the experimental variable."
+          ],
+          [
+            "Variable 2 - Batch#2 (to see whether this method works on lunar regolith)",
+            "- watering quantity: 15 sprays, 13ml - seed depth:~0.2cm - soil type: 100% lunar regolith",
+            "Same as above except the experimental variable."
+          ],
+          [
+            "Variable 3 - Batch#2 (to find the minimum amount of soil garden cress needs)",
+            "- watering quantity: 15 sprays, 13ml - soil mass: 10g",
+            "Same as above except the experimental variable."
+          ],
+          [
+            "Variable 4 - Batch#2 (to see whether more water would work on lunar regolith)",
+            "- watering quantity: 15 sprays, 13ml - soil type: 100% lunar regolith",
+            "Same as above except the experimental variable."
+          ],
+          [
+            "Variable 5 - Batch#2 (to see whether more water would solve the wilting issue)",
+            "- watering quantity: 15 sprays, 13ml - soil type: 100% shredded & uncompressed paper towel - soil mass: 5g",
+            "Same as above except the experimental variable."
+          ]
+        ],
+        [
+          [
+            "Variable 1 (to see if garden cress"
+          ],
+          [
+            "can grow purely on lunar regolith)"
+          ]
+        ],
+        [
+          [
+            "Variable 2 (to see whether the"
+          ],
+          [
+            "ratios between luner to soil"
+          ],
+          [
+            "matters)"
+          ]
+        ],
+        [
+          [
+            "Variable 3 (to see whether garden"
+          ],
+          [
+            "cress needs darkness)"
+          ]
+        ],
+        [
+          [
+            "Variable 4 (to find the limit of"
+          ],
+          [
+            "how much light garden cress can"
+          ],
+          [
+            "absorb)"
+          ]
+        ],
+        [
+          [
+            "Variable 5 (to see whether garden"
+          ],
+          [
+            "cress grows taller in darkness)"
+          ]
+        ],
+        [
+          [
+            "- light strength: 0 lux"
+          ],
+          [
+            "- humidity: above 45 RH, undeterminable"
+          ]
+        ],
+        [
+          [
+            "Variable 7 (to find the best amount"
+          ],
+          [
+            "of water garden cress requires"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "Variable 6 - Batch#2 (to see\nwhether the frequency has a\ndifference)\n-\nwatering quantity: 10 sprays, 8.5ml\n-\nwatering frequency: 8am, 1pm & 9pm\nSame as above except the experimental variable.\nVariable 7 - Batch#2 (to see\nwhether I can increase mass and\nnutritional value)\n-\nwatering quantity: 15 sprays, 13ml\n-\nlight strength: day 1-4 0 lux, day 5-7 200\nlux\n-\nhumidity: day 1-4 above 45 RH &\nundeterminable, day 5-7 ~45RH\nSame as above except the experimental variable.\nVariable 8 - Batch#2 (to see\nwhether more water would\nincrease even further growth)\n-\nwatering quantity: 15 sprays, 13ml\n-\nlight strength: 0 lux\n-\nhumidity: above 45 RH, undeterminable\nSame as above except the experimental variable.\nVariable 9 - Batch#2 (to find the\noptimal spacing for seeds)\n-\nwatering quantity: 15 sprays, 13ml\n-\nspacing: 1050 seeds (3g) per 37cm^2; 28\nseeds per cm^2\nSame as above except the experimental variable.\nMeasurements:\nmass (grams), average height (cm), taste/spiciness (subjective), plant condition (observational)\nControls:\nThe first batch has the following control:\n-\nsoil type: 100% topsoil\n-\nsoil mass: 50g\n-\nlight strength: 200 lux\n-\nlight type: led desk lamp\n-\nlight duration: 8 am to 9 pm\n-\nwatering quantity: 5 sprays, ~4ml\n-\nwatering frequency: 8am & 1pm\n-\nspacing: 1400 seeds (4g) per 37cm^2; 37 seeds per cm^2\n-\nseed depth: 0 cm\n-\ncontainer description: diameter of 6.5 cm plastic plant pot with 8 pencil-sized drainage holes.\n-\ncontainer wall height: 1 cm\n-\ntemperature: ~23 C\n-\nhumidity: ~45 RH\n-\nph: 6.5\nThe updated control in batch 2 (batch 1 variable 7):\n-\nsoil type: 100% topsoil\n-\nsoil mass: 50g\n-\nlight strength: 200 lux\n-\nlight type: led desk lamp\n-\nlight duration: 8 am to 9 pm\n-\nwatering quantity: 15 sprays, ~13ml\n-\nwatering frequency: 8am & 1pm\n-\nspacing: 1400 seeds (4g) per 37cm^2; 37 seeds per cm^2\n-\nseed depth: 0 cm\n-\ncontainer description: a diameter of 6.5 cm plastic plant pot with 8 pencil-sized drainage holes.\n-\ncontainer wall height: 1 cm\n-\ntemperature: ~23 C\n-\nhumidity: ~45 RH\n-\nph: 6.5\n4",
+      "char_count": 2028,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Variable 6 - Batch#2 (to see whether the frequency has a difference)",
+            "- watering quantity: 10 sprays, 8.5ml - watering frequency: 8am, 1pm & 9pm",
+            "Same as above except the experimental variable."
+          ],
+          [
+            "Variable 7 - Batch#2 (to see whether I can increase mass and nutritional value)",
+            "- watering quantity: 15 sprays, 13ml - light strength: day 1-4 0 lux, day 5-7 200 lux - humidity: day 1-4 above 45 RH & undeterminable, day 5-7 ~45RH",
+            "Same as above except the experimental variable."
+          ],
+          [
+            "Variable 8 - Batch#2 (to see whether more water would increase even further growth)",
+            "- watering quantity: 15 sprays, 13ml - light strength: 0 lux - humidity: above 45 RH, undeterminable",
+            "Same as above except the experimental variable."
+          ],
+          [
+            "Variable 9 - Batch#2 (to find the optimal spacing for seeds)",
+            "- watering quantity: 15 sprays, 13ml - spacing:1050 seeds (3g) per 37cm^2; 28 seeds per cm^2",
+            "Same as above except the experimental variable."
+          ]
+        ],
+        [
+          [
+            "- watering quantity: 10 sprays, 8.5m"
+          ],
+          [
+            "- watering frequency: 8am, 1pm & 9pm"
+          ]
+        ],
+        [
+          [
+            "- watering quantity: 15 sprays, 13ml"
+          ],
+          [
+            "- light strength: day 1-4 0 lux, day 5-7 200"
+          ]
+        ],
+        [
+          [
+            "- watering quantity: 15 sprays, 13ml"
+          ],
+          [
+            "- light strength: 0 lux"
+          ],
+          [
+            "- humidity: above 45 RH, undeterminable"
+          ]
+        ],
+        [
+          [
+            "- watering quantity: 15 sprays, 13ml"
+          ],
+          [
+            "- spacing:"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 5,
+      "text": "Results:\nAll results will be organised by mass, height, taste, and observations.\nMass:\nHeight:\nTaste(spiciness):\nspiciness-batch#1\nspiciness-batch#2\nC\ncontrol\nC\ncontrol\nV1\nno difference\nV1 no difference\nV2\nno difference\nV2 no difference\nV3\nno difference\nV3 no difference\nV4\nno difference\nV4 no difference\nV5\nlower\nV5 lower\nV6\nno difference\nV6 no difference\nV7\nno difference\nV7 lower\nV8\nno difference\nV8 lower\nV9\nno difference\nV9 no difference\n5",
+      "char_count": 444,
+      "image_count": 4,
+      "tables": [
+        [
+          [
+            "",
+            "",
+            "spiciness-batch#1",
+            "",
+            "",
+            "spiciness-batch#2"
+          ],
+          [
+            "",
+            "C",
+            "control",
+            "",
+            "C",
+            "control"
+          ],
+          [
+            "",
+            "V1",
+            "no difference",
+            "",
+            "V1",
+            "no difference"
+          ],
+          [
+            "",
+            "V2",
+            "no difference",
+            "",
+            "V2",
+            "no difference"
+          ],
+          [
+            "",
+            "V3",
+            "no difference",
+            "",
+            "V3",
+            "no difference"
+          ],
+          [
+            "",
+            "V4",
+            "no difference",
+            "",
+            "V4",
+            "no difference"
+          ],
+          [
+            "",
+            "V5",
+            "lower",
+            "",
+            "V5",
+            "lower"
+          ],
+          [
+            "",
+            "V6",
+            "no difference",
+            "",
+            "V6",
+            "no difference"
+          ],
+          [
+            "",
+            "V7",
+            "no difference",
+            "",
+            "V7",
+            "lower"
+          ],
+          [
+            "",
+            "V8",
+            "no difference",
+            "",
+            "V8",
+            "lower"
+          ],
+          [
+            "",
+            "V9",
+            "no difference",
+            "",
+            "V9",
+            "no difference"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 6,
+      "text": "Root Observations:\nobservations-batch#1\nobservations-batch#2\nC\nroot system seems compact and well implanted\nC\nroot system seems compact and well implanted\nV1\nsome seeds were lifted by other sprouts before they\ncould fully root\nV1\nnoticeable stench of rotting seeds, no roots seen.\nV2\nSimilar issue with V1\nV2\nstrong stench of rotting seeds, plants are easily pulled out\nV3\nroot system seems compact and well implanted\nV3\nvery slight smell of rotting seeds, plants are easily pulled\nout\nV4\nroot system seems compact and well implanted\nV4\nnoticeable stench of rotting seeds, plants are easily pulled\nout\nV5\nroot system seems compact and well implanted\nV5\nroot system seems compact and well implanted, slightly\ndehydrated\nV6\nmany leftover seeds unable to sprout in the middle.\nV6\nroot system seems compact and well implanted\nV7\nroot system seems compact and well implanted\nV7\nroot system seems compact and well implanted, slightly\ndehydrated\nV8\nmany plants were easily pulled out, similar issue with\nV1\nV8\nroot system seems compact and well implanted\nV9\nroot system seems to spread out and well implanted\nV9\nroot system seems compact and well implanted\nFinal Observations:\nobservations-batch#1\nobservations-batch#2\nC\nhealthy, green\nC\nhealthy, green\nV1 minor wilting, green\nV1\nnoticeable stench of rotting seeds, very few surviving stems, green\nV2 minor wilting, green\nV2\nstrong stench of rotting seeds, few surviving stems, green\nV3 healthy, green\nV3\nhealthy, green\nV4 healthy, green\nV4\nnoticeable stench of rotting seeds, green\nV5 extremely tall, healthy, yellow\nV5\nwilting, green\nV6 premature, green\nV6\nhealthy, green\nV7 tall, healthy, green\nV7\nmajor wilting, dried areas, yellowish-green\nV8 wilting, green\nV8\nextremely tall, healthy, yellow\nV9 healthy, green\nV9\nhealthy green\n6",
+      "char_count": 1777,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "",
+            "",
+            "observations-batch#1",
+            "",
+            "",
+            "observations-batch#2"
+          ],
+          [
+            "",
+            "C",
+            "root system seems compact and well implanted",
+            "",
+            "C",
+            "root system seems compact and well implanted"
+          ],
+          [
+            "",
+            "V1",
+            "some seeds were lifted by other sprouts before they could fully root",
+            "",
+            "V1",
+            "noticeable stench of rotting seeds, no roots seen."
+          ],
+          [
+            "",
+            "V2",
+            "Similar issue with V1",
+            "",
+            "V2",
+            "strong stench of rotting seeds, plants are easilypulled out"
+          ],
+          [
+            "",
+            "V3",
+            "root system seems compact and well implanted",
+            "",
+            "V3",
+            "very slight smell of rotting seeds, plants are easilypulled out"
+          ],
+          [
+            "",
+            "V4",
+            "root system seems compact and well implanted",
+            "",
+            "V4",
+            "noticeable stench of rotting seeds, plants are easilypulled out"
+          ],
+          [
+            "",
+            "V5",
+            "root system seems compact and well implanted",
+            "",
+            "V5",
+            "root system seems compact and well implanted, slightly dehydrated"
+          ],
+          [
+            "",
+            "V6",
+            "many leftover seeds unable to sprout in the middle.",
+            "",
+            "V6",
+            "root system seems compact and well implanted"
+          ],
+          [
+            "",
+            "V7",
+            "root system seems compact and well implanted",
+            "",
+            "V7",
+            "root system seems compact and well implanted, slightly dehydrated"
+          ],
+          [
+            "",
+            "V8",
+            "many plants were easily pulled out, similar issuewith V1",
+            "",
+            "V8",
+            "root system seems compact and well implanted"
+          ],
+          [
+            "",
+            "V9",
+            "root system seems to spread out and well implanted",
+            "",
+            "V9",
+            "root system seems compact and well implanted"
+          ]
+        ],
+        [
+          [
+            "",
+            "",
+            "observations-batch#1",
+            "",
+            "",
+            "observations-batch#2"
+          ],
+          [
+            "",
+            "C",
+            "healthy, green",
+            "",
+            "C",
+            "healthy, green"
+          ],
+          [
+            "",
+            "V1",
+            "minor wilting, green",
+            "",
+            "V1",
+            "noticeable stench of rotting seeds, very few survivingstems, green"
+          ],
+          [
+            "",
+            "V2",
+            "minor wilting, green",
+            "",
+            "V2",
+            "strong stench of rotting seeds, few surviving stems,green"
+          ],
+          [
+            "",
+            "V3",
+            "healthy, green",
+            "",
+            "V3",
+            "healthy, green"
+          ],
+          [
+            "",
+            "V4",
+            "healthy, green",
+            "",
+            "V4",
+            "noticeable stench of rotting seeds, green"
+          ],
+          [
+            "",
+            "V5",
+            "extremely tall, healthy, yellow",
+            "",
+            "V5",
+            "wilting, green"
+          ],
+          [
+            "",
+            "V6",
+            "premature, green",
+            "",
+            "V6",
+            "healthy, green"
+          ],
+          [
+            "",
+            "V7",
+            "tall, healthy, green",
+            "",
+            "V7",
+            "major wilting, dried areas, yellowish-green"
+          ],
+          [
+            "",
+            "V8",
+            "wilting, green",
+            "",
+            "V8",
+            "extremely tall, healthy, yellow"
+          ],
+          [
+            "",
+            "V9",
+            "healthy, green",
+            "",
+            "V9",
+            "healthy green"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 7,
+      "text": "Discussion & Conclusion:\nA list of variables and their simplified description of the experimental variable for easy reference:\nC\nRegular growing conditions\nC#2\nMore water\nV1\nlunar regolith\nV1#2\nSeeds planted below surface with more water\nV2\nHalf lunar regolith\nV2#2\nSeeds planted below surface in lunar regolith with more water\nV3\nLight on for all day\nV3#2\nLess soil with more water\nV4\nStrong light\nV4#2\nLunar regolith with more water\nV5\nNo light\nV5#2\nPaper towel with more water\nV6\nCold\nV6#2\nIncreased watering frequency\nV7\nMore water\nV7#2\nNo light for 4 days with more water\nV8\nPaper towel\nV8#2\nNo light with more water\nV9\nLess seeds\nV9#2\nLess seeds with more water\n(c stands for control, v1 stands for variable 1, v1#2 stands for variable 2 - batch#2)\nMass:\nIn terms of mass, v8#2(No light with more water) produced the most, weighing 62 grams. The experimental variables\nfor v8#2(No light with more water) were 13mls or water instead of 4mls, no light instead of 200lux, and higher humidity. It is the\ncombination of all these variables that have led to this result. No light and high humidity proved to increase growth in v5(No\nlight), and more water proved to increase growth as well in v7(More water). Although these two combinations turned out to be\nsuccessful, it is important to note, combining the variables of two positive results does not always return a positive result. For\nexample, v4#2(Lunar regolith with more water) is the combination of the experimental variables of v1(lunar regolith) and\nv7(More water)(which were both successful in terms of mass), yet it only produced 9 grams due to the seeds rotting from the\nexcessive water.\n+\n=\n(variable 5 mass:42g)\n(variable 7 mass:41g)\n(variable 8 - batch#2 mass:62g)\n+\n=\n(variable 1 mass:35g)\n(variable 7 mass:41g)\n(variable 4 - batch #2 mass:9g)\nAs the simple diagram shows, the combination of v5(No light) and v7(More water) produced v8#2(No light with more water),\nwhich was successful, but the combination of v1(lunar regolith) and v7(More water) produced v4#2(Lunar regolith with more\nwater) which was unsuccessful.\n7",
+      "char_count": 2086,
+      "image_count": 5,
+      "tables": [
+        [
+          [
+            "",
+            "C",
+            "Regular growing conditions",
+            "",
+            "C#2",
+            "More water"
+          ],
+          [
+            "",
+            "V1",
+            "lunar regolith",
+            "",
+            "V1#2",
+            "Seeds planted below surface with more water"
+          ],
+          [
+            "",
+            "V2",
+            "Half lunar regolith",
+            "",
+            "V2#2",
+            "Seeds planted below surface in lunar regolith withmore water"
+          ],
+          [
+            "",
+            "V3",
+            "Light on for all day",
+            "",
+            "V3#2",
+            "Less soil with more water"
+          ],
+          [
+            "",
+            "V4",
+            "Strong light",
+            "",
+            "V4#2",
+            "Lunar regolith with more water"
+          ],
+          [
+            "",
+            "V5",
+            "No light",
+            "",
+            "V5#2",
+            "Paper towel with more water"
+          ],
+          [
+            "",
+            "V6",
+            "Cold",
+            "",
+            "V6#2",
+            "Increased watering frequency"
+          ],
+          [
+            "",
+            "V7",
+            "More water",
+            "",
+            "V7#2",
+            "No light for 4 days with more water"
+          ],
+          [
+            "",
+            "V8",
+            "Paper towel",
+            "",
+            "V8#2",
+            "No light with more water"
+          ],
+          [
+            "",
+            "V9",
+            "Less seeds",
+            "",
+            "V9#2",
+            "Less seeds with more water"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 8,
+      "text": "Height:\nIn terms of height, v5(No light), v7#2(No light for 4 days with more water), and v8#2(No light with more water) were\nthe tallest, measuring approximately 7 centimeters. All three of these variables were unexposed to light, causing the plant to use\nall its energy to grow taller for the possibility it might encounter a ray of light.\n(batch#2 in order)\n(control height:~3cm)\n(variable 5:~7cm)\nThe pictures helps you visualise the effects on garden cress when it is not exposed to light.\nTaste(spiciness):\nIn terms of taste, no variables tasted noticeably different from the control other than v5(No light), v5#2(Paper towel\nwith more water), v7#2(No light for 4 days with more water), and v8#2(No light with more water) which all had a noticeable\ndrop in its spiciness. All three of these variables were unexposed to light, meaning there was no photosynthesis as indicated by its\nyellow color. Parts of the components (such as vitamin c, carotene, and mustard oil glycolysis) responsible for the garden cress\u2019s\nspicy taste are produced from photosynthesis. That would explain the noticeable drop in the spiciness of these three variables that\nwere unexposed to light. Other variables that have been exposed to stronger light, such as v4(Strong light) did not taste spicier\nthan the control, meaning that the plant likely has a limit of how much light it can absorb.\n(control)\n(variable 4)\n(variable 5)\nAlthough v4(Strong light) received five times more light energy than the control, there is no noticeable change between the two,\nlike how there was no noticeable change in its taste either. In the case of v5(No light), it is completely yellow unlike the control\nwhich is green. Yellow cotyledons are a sign of lack of photosynthesis, which would explain its lack of spiciness.\n8",
+      "char_count": 1787,
+      "image_count": 6,
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "text": "Final plant condition:\nIn terms of the final condition of the plant, most variables seem healthy, except v1(lunar regolith), v2(Half lunar\nregolith), v6(Cold), v8(Paper towel), v1#2(Seeds planted below the surface with more water), v2#2(Seeds planted below the\nsurface in lunar regolith with more water), v4#2(Lunar regolith with more water), v5#2(Paper towel with more water), and\nv7#2(No light for 4 days with more water) which showed symptoms of an unhealthy plant. For v1(lunar regolith), v2(Half lunar\nregolith), v8(Paper towel), v8#2(No light with more water), wilting was the main issue. Although wilting is a sign of lack of\nwater, it does not mean simply requiring more water. It means water should be provided at the right stage, as these variables only\nstarted showing symptoms after day 4 or more. For example, v1#2(Seeds planted below the surface with more water),\nv2#2(Seeds planted below the surface in lunar regolith with more water), and v4#2(Lunar regolith with more water)\u2019s clear\nfailure was the result of drowning the seeds too early before they had a chance to grow when they would have needed that water.\nA possible solution might be increasing the number of sprays by days. For v6(Cold), the temperature was simply low, causing the\nplant\u2019s metabolism to slow down.\nExample of wilting:\nExample of rotting:\nExample of slowed metabolism:\n(variable 5 - batch#2)\n(variable 2 - batch#2)\n(variable 6)\nFinal root condition:\nIn terms of the final root condition of the plant, most variables seem healthy, except v1(lunar regolith), v2(Half lunar\nregolith), v6(Cold), v8(Paper towel), v1#2(Seeds planted below the surface with more water), v2#2(Seeds planted below the\nsurface in lunar regolith with more water), v3#2, v4#2(Lunar regolith with more water), v7#2(No light for 4 days with more\nwater), which showed one or more symptoms of an unhealthy plant. For v1(lunar regolith), v2(Half lunar regolith), and v8(Paper\ntowel), the uneven sprouting time of the seeds prevented some seeds from fully rooting before being dragged up with the rest. To\nsolve this issue, v1#2(Seeds planted below the surface with more water) and v2#2(Seeds planted below the surface in lunar\nregolith with more water) had seeds planted 2millimeters underneath the soil in hopes that the seeds will have time to root fully.\nThis proved unsuccessful; the spray was enough to drown the seeds, causing them to rot. This is the same reason why\nv4#2(Lunar regolith with more water) was unsuccessful. In the case of v6(Cold), the temperature was simply low, causing the\nplant\u2019s metabolism to slow down and leaving many seeds entirely undisturbed.\nExample of healthy roots:\nExample of failed rooting: Example of dormant seeds:\nExample of rotting roots:\n(control - batch#2)\n(variable 5 - batch#2)\n(variable 6)\n(variable 2 - batch#2)\n9",
+      "char_count": 2817,
+      "image_count": 7,
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "text": "Overall:\nOverall, the method used in v1(lunar regolith) is the most successful. Even though it does not produce the most\nprominent mass, highest stems, nor best health condition, It qualifies the two main priorities of nutrition and the lunar to soil\nratio. It produces the same nutritional value as the control through photosynthesis, and the load necessary to carry to the space\nshuttle is 0. However, this method could improve. As mentioned previously, one reason why v1(lunar regolith) does not produce\nas nearly as much mass is due to its wilting. Garden cress is 84% water, meaning most of its mass comes from water. A possible\nsolution might be to increase the number of sprays by days because garden cress requires more water as it grows.\n(variable 1)\nIf I were to have a chance to perform this experiment again, I would include more variables and use a device that can precisely\nmeasure the nutritional value of the plant and a device that can control the ph as well. I would improve my lab conditions and buy\na professional plant light with better pots.\n10",
+      "char_count": 1066,
+      "image_count": 1,
+      "tables": []
+    }
+  ]
+}

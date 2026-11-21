@@ -1,0 +1,551 @@
+{
+  "report_id": "spring21-main-team-flonos-1ce45f",
+  "sha256": "ccafd92ddc0050b1d673469214e236c7a2a0a145c67f9ebfb32544b3f45c7c88",
+  "page_count": 26,
+  "total_chars": 16795,
+  "avg_chars_per_page": 646.0,
+  "total_images": 63,
+  "table_count": 3,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "1 \n \nRole of Pseudomonas putida strain SC7 in Plant Growth and \nDevelopment: Lunar Simulant-Plant Relationship \nBackground: \nLunar exploration has provided information about the mineral composition of the soils of these \nsolar objects. In addition to rocks, they contain large amounts of sand-like soils or regolith. All \nessential minerals for the growth of plants appear to be present in sufficient quantities in lunar \nsimulant probably with the exception of reactive nitrogen. Nitrogen in reactive form (NO3, \nNH4) is one of the essential minerals necessary for almost all plant growth (Stevens et al., \n2011). However organic matter is absent on the moon although it does contain carbon (Palomba \net al., 2011; Leshin et al., 2013). The major source of reactive nitrogen on Earth is the \nmineralisation of organic matter (Stevens et al., 2011), which is absent on the moon. The \nabsence of sufficient reactive nitrogen may be solved by using organic manure and plant \ngrowth-promoting rhizobacteria (PGPR). Organic manure is a natural source of nitrogen (N) \nformation process in the soil. Livestock manure returns essential macroelements including N \n(2.42%), P (1.51%), and K (0.41%), as well as micronutrients such as magnesium, calcium, \nsulfur, and manganese to the soil while maintaining its fertility (Parham et al., 2002; Wang et \nal., 2010). Plant-growth-promoting rhizobacteria (PGPR) are free-living soil microorganisms \nthat inhabit the rhizosphere or plant roots during plant growth and development. PGPR can \npromote plant growth, help prevent pathogen invasion and improve plant adaptability to abiotic \nor biological stresses (Emami et al., 2019). \nIn the present study, we conducted pot experiments to study the effects of nitrogen enriched \nlunar simulant with a selected PGPR strain, Pseudomonas putida strain SC7, on growth of \ntomato (Solanum lycopersicum), sugar beet (Beta vulgaris) and quinoa (Chenopodium quinoa). \nWe preferred tomato because of its nutritional and highest antioxidant activity, sugar beet \nbecause of its high nutritional and energy value and quinoa because of its high protein value. \nExperiment Design: \nWhen we gathered as a group, we decided to design a cabin to grow our plants. While designing \nthe cabin, we aimed to achieve both a suitable environment for plant growth and an original \ndesign by using the materials we already have.",
+      "char_count": 2388,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "text": "2 \n \nEstablishing a Plant Growing Cabinet: \n \nIn the system we have established, our main priority was to provide sufficient light to the plant, \nmoreover, to keep the temperature and humidity of the system stable. As a result of our material \nanalysis, we have seen that glass wool and styrofoam are the best choices to keep the \ntemperature and humidity stable. We used planks to form the frame of the cabin. We covered \nthe outside of the frame with glass wool and styrofoam. Finally, we blanketed the outside with \na greenhouse cover. The ventilation of the system was also important. We left a door that can \nbe opened and closed in order to improve ventilation and reach all the plants in the system. \n \nFor humidification, we placed wet cotton in our system and renovated them regularly. We \nbought and placed digital thermometer and humidistat to measure temperature and moisture of \nour system. For illumination, we used a light source which has 140 red light, 50 flash blue, 10 \nwhite light, and 10 warm light LED. Also, we automatized the light source with Arduino Uno. \nBy this way, our lights were switched on for 18 hours and switched off for 6 hours. The plants \nwere incubated under 4000 lux daylight led bulb, light/dark photoperiod of 16 hr:8 hr, at 26\u00b12 \n\u00b0C and 70% relative humidity for faster and more efficient growing.",
+      "char_count": 1341,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "text": "3 \n \n \nPreparing the Soil and Planting the Seeds: \nIn our study, we used only lunar simulant in one group of pots and mixed lunar simulant and \nfertilizer in other pots. We took the lunar simulant and fertilizer in a 2/1 container and mixed \nuntil it became homogeneous (Lunar simulant: 2, fertilizer: 1). We prepared four pots for each \nof the 3 seeds we chose: Only Lunar Simulant: Seven seeds were planted per pot for the plant \nvariety by placing the lunar simulant until the 120 cm3 pots are completely filled. Lunar \nSimulant + Fertilizer: It was placed in 120 cm3 pots by mixing 2/1 lunar simulant and fertilizer. \nSeven seeds were planted per pot for each plant variety. Lunar Simulant + Bacteria: Seven \nseeds were planted per pot for each plant type by placing the lunar simulant so that the 120 cm3 \npots were filled. 108 cells / ml suspension of P. putida strain SC7 was given with irrigation \nwater. Lunar simulant + Fertilizer + Bacteria: It was placed in 120 cm3 pots by mixing 2/1 \nlunar simulant and fertilizer. Seven seeds were planted per pot for each plant variety. 108 cells \n/ ml suspension of P. putida strain SC7 was given with irrigation water.",
+      "char_count": 1169,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "text": "4 \n \nAfter the seeds had planted, plants which will not have bacterial isolate were watered with 7 \nmL tap water. On the other hand, plants which will have bacterial isolate were watered with \n108 cell/ml of P. putida strain SC7 suspension for 7 mL water. \n \nNote: One-week later planting, there was a quick growing in sugar beet pots. That is why we \nplanted sugar beet in two large pots. \n \nPreparing the Bacterial Water: \n \nWe obtained bacterial isolates we selected from 19 May\u0131s University Faculty of Agriculture. \nThe turbidity of activity of growing the bacterial suspension was adjusted to match the turbidity \nstandard of 0.5 McFarland units prepared by mixing 0.5 ml of 1.75 % (w/v) barium chloride \ndehydrate with 99.5 ml of 1% (v/v) sulphuric acid. Tap water was used in order to adjust the \nconcentration of the bacterial isolate. Then this bacterial mixture was used for irrigation in pots. \nThis process was repeated for each irrigation. \n \n \n \n \n \nBefore the planting pots were placed into the system; The cabin had been kept at room \ntemperature (20-25 \u00b0C) and the humidity had been around %50-60. When we measured the \nsoil`s pH value in the pots, we observed that it was around 6-6.5.",
+      "char_count": 1203,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "text": "5 \n \n \n \n \nHypothesis: \n \nThe hypotheses we put forward as a result of our observations and the data we have obtained \nare as follows: \n \nHypothesis 1 Pseudomonas putida promotes plant growth in lunar soil. \nHypothesis 2 The combination of Pseudomonas putida and fertilizer in the lunar soil \nmakes a synergic effect on plant growth. \nHypothesis 3 The use of farm manure, which is a nitrogen rich fertilizer, in the lunar soil \npromotes plant growth. \n \n \nIndependent Variables and Parameters: \n \nIn our study, we used four different parameters to support our hypotheses. These are fertilizer \nusage, bacteria supplement, fertilizer + bacteria usage, seed variety. \n \nDependent Variables: \n \nPseudomonas putida, which was used in our study, is a bacterium belonging to the \nRhizobacteria type, and it was used, considering that it will help the plant to develop its root \nsystem. In addition, owing to this bacterium and the metabolites secreted by it; absorbing \nessential nutrients was facilitated and, plant growth was increased. \n \n We used the fertilizer to promote the plant to absorb macro nutrients, especially nitrogen, from \nthe fertilizer and encourage its growth.",
+      "char_count": 1175,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Hypothesis 1",
+            "Pseudomonas putida promotes plant growth in lunar soil."
+          ],
+          [
+            "Hypothesis 2",
+            "The combination of Pseudomonas putida and fertilizer in the lunar soil makes a synergic effect on plant growth."
+          ],
+          [
+            "Hypothesis 3",
+            "The use of farm manure, which is a nitrogen rich fertilizer, in the lunar soil promotes plant growth."
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 6,
+      "text": "6 \n \nIn the pots where we used bacteria and fertilizer together, we observed the synergic effects \ncreated by both on plant growth. In addition, since fertilizer will facilitate the survival of the \nbacteria, we have applied both together in order to help the bacteria to get a higher efficiency. \n \nTo observe the effects of all these variables on the foods consumed frequently in daily life, we \nselected three different plant species and applied the variables on each. \nMeasurements: \n \nAfter planting, irrigation was carried out in an equal amount (7 mL) of 10 cc injector to the pots \n5 days a week. For the pots with bacterial water, the bacteria-water mixture is renewed in each \nirrigation. \n \nThe pH measurements of the pots were made every Wednesday and Saturday. In the preplanting \nplanning, what to do in case the pH of the soil is not between 6-6.5 has been investigated and \nprecautions have been taken. pH measurement was made with a pH meter. \nSulphur was used to reduce soil pH. \n \nWeekly height measurements were made for each plant. For making height measurements, one \nplant from each flowerpot was removed with tweezers to not to damage the roots while \nremoving. Plants were cleaned with water and dried with napkins. After doing these steps, we \nput the plants on an A4 paper, measuring the height with a ruler, then photographing the plants \nwith the ruler. Besides, the wet weight of plants was measured weekly with an assay balance \nafter determining the tare of plants. A thermometer and humidistat were placed in our system \nfor controlling the temperature and the humidity in the system. Assays were made daily. \nControls: \nIn our experiment setup, pots were always kept in the same environment. System heat was kept \nat 20-25 \u2103 (room temperature) and the same amounts of water (7 ml) were given to every pot. \nThe humidity value of the environment was stabilized at 50-60% and the pots were left under \nlight as the light was switched on for 18 hours and was switched off for 6 hours. Also, the pH \nvalue of the soil was between 6 and 6.5.",
+      "char_count": 2070,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "text": "7 \n \nResults: \nWhen we had come to the conclusion, no germination was observed in any of the quinoa pots, \nsince successful germinations could be observed in tomato and sugar beet pots. The 6-week \ndevelopment process of tomato and sugar beet seeds are demonstrated in the charts below: \n \n \nTomato \nWeeks \nWater \npH \nHeight \nWet Weight \nOnly Lunar \nSimulant \n(Control) \n1 \n7 ml \n6.2 \n- \n- \n2 \n7 ml \n6.4 \n- \n- \n3 \n10 ml \n6.5 \n2.6 cm \n0.082 gr \n4 \n15 ml \n6.5 \n5.8 cm \n0.112 gr \n5 \n20 ml \n- \n- \n- \nLunar \nSimulant \n+ \nFertilizer \n1 \n7 ml \n6.5 \n5.5 cm \n0.132 gr \n2 \n7 ml \n6.6 \n5.9 cm \n0.153 gr \n3 \n10 ml \n6.5 \n6.2 cm \n0.198 gr \n4 \n15 ml \n6.4 \n6.9 cm \n0.231 gr \n5 \n20 ml \n6.5 \n17.5 cm \n1.042 gr \nLunar \nSimulant \n+ \nBacteria \n1 \n7 ml \n6.1 \n5.9 cm \n0.101 gr \n2 \n7 ml \n6.4 \n6.5 cm \n0.123 gr \n3 \n10 ml \n6.3 \n7 cm \n0.130 gr \n4 \n15 ml \n6.5 \n8 cm \n0.139 gr \n5 \n20 ml \n6.5 \n11.9 cm \n0.406 gr \nLunar \nSimulant \n+ \nFertilizer \n+ \nBacteria \n1 \n7 ml \n6.4 \n3.6 cm \n0.114 gr \n2 \n7 ml \n6.4 \n5.1 cm \n0.156 gr \n3 \n10 ml \n6.5 \n8.3 cm \n0.356 gr \n4 \n15 ml \n6.5 \n16.9 cm \n0.745 gr \n5 \n20 ml \n6.5 \n18.7 cm \n2.036 gr",
+      "char_count": 1090,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Tomato",
+            "Weeks",
+            "Water",
+            "pH",
+            "Height",
+            "Wet Weight"
+          ],
+          [
+            "Only Lunar Simulant (Control)",
+            "1",
+            "7 ml",
+            "6.2",
+            "-",
+            "-"
+          ],
+          [
+            "",
+            "2",
+            "7 ml",
+            "6.4",
+            "-",
+            "-"
+          ],
+          [
+            "",
+            "3",
+            "10 ml",
+            "6.5",
+            "2.6 cm",
+            "0.082 gr"
+          ],
+          [
+            "",
+            "4",
+            "15 ml",
+            "6.5",
+            "5.8 cm",
+            "0.112 gr"
+          ],
+          [
+            "",
+            "5",
+            "20 ml",
+            "-",
+            "-",
+            "-"
+          ],
+          [
+            "Lunar Simulant + Fertilizer",
+            "1",
+            "7 ml",
+            "6.5",
+            "5.5 cm",
+            "0.132 gr"
+          ],
+          [
+            "",
+            "2",
+            "7 ml",
+            "6.6",
+            "5.9 cm",
+            "0.153 gr"
+          ],
+          [
+            "",
+            "3",
+            "10 ml",
+            "6.5",
+            "6.2 cm",
+            "0.198 gr"
+          ],
+          [
+            "",
+            "4",
+            "15 ml",
+            "6.4",
+            "6.9 cm",
+            "0.231 gr"
+          ],
+          [
+            "",
+            "5",
+            "20 ml",
+            "6.5",
+            "17.5 cm",
+            "1.042 gr"
+          ],
+          [
+            "Lunar Simulant + Bacteria",
+            "1",
+            "7 ml",
+            "6.1",
+            "5.9 cm",
+            "0.101 gr"
+          ],
+          [
+            "",
+            "2",
+            "7 ml",
+            "6.4",
+            "6.5 cm",
+            "0.123 gr"
+          ],
+          [
+            "",
+            "3",
+            "10 ml",
+            "6.3",
+            "7 cm",
+            "0.130 gr"
+          ],
+          [
+            "",
+            "4",
+            "15 ml",
+            "6.5",
+            "8 cm",
+            "0.139 gr"
+          ],
+          [
+            "",
+            "5",
+            "20 ml",
+            "6.5",
+            "11.9 cm",
+            "0.406 gr"
+          ],
+          [
+            "Lunar Simulant + Fertilizer + Bacteria",
+            "1",
+            "7 ml",
+            "6.4",
+            "3.6 cm",
+            "0.114 gr"
+          ],
+          [
+            "",
+            "2",
+            "7 ml",
+            "6.4",
+            "5.1 cm",
+            "0.156 gr"
+          ],
+          [
+            "",
+            "3",
+            "10 ml",
+            "6.5",
+            "8.3 cm",
+            "0.356 gr"
+          ],
+          [
+            "",
+            "4",
+            "15 ml",
+            "6.5",
+            "16.9 cm",
+            "0.745 gr"
+          ],
+          [
+            "",
+            "5",
+            "20 ml",
+            "6.5",
+            "18.7 cm",
+            "2.036 gr"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 8,
+      "text": "8 \n \n \n \n \n \n \n \n \n \n \n \nSugar Beet \nWeeks \nWater \npH \nHeight \nWet Weight \nOnly Lunar \nSimulant \n(Control) \n1 \n7 ml \n6.2 \n7.6 cm \n0.127 gr \n2 \n7 ml \n6.4 \n8.1 cm \n0.133 gr \n3 \n10 ml \n6.5 \n8.1 cm \n0.137 gr \n4 \n15 ml \n- \n- \n- \n5 \n20 ml \n- \n- \n- \nLunar \nSimulant \n+ \nFertilizer \n1 \n7 ml \n6.5 \n12 cm \n0.111 gr \n2 \n7 ml \n6.6 \n12.2 cm \n0.124 gr \n3 \n10 ml \n6.5 \n12.2 cm \n0.121 gr \n4 \n15 ml \n- \n- \n- \n5 \n20 ml \n- \n- \n- \nLunar \nSimulant \n+ \nBacteria \n1 \n7 ml \n6.1 \n5.9 cm \n0.102 gr \n2 \n7 ml \n6.4 \n6 cm \n0.110 gr \n3 \n10 ml \n6.3 \n7.9 cm \n0.120 gr \n4 \n15 ml \n6.5 \n8.3 cm \n0.128 gr \n5 \n20 ml \n6.5 \n11.6 cm \n0.320 gr \nLunar \nSimulant \n+ \nFertilizer \n+ \nBacteria \n1 \n7 ml \n6.4 \n9.8 cm \n0.146 gr \n2 \n7 ml \n6.4 \n11.7 cm \n0.165 gr \n3 \n10 ml \n6.5 \n12.9 cm \n0.198 gr \n4 \n15 ml \n6.5 \n13.1 cm \n0.206 gr \n5 \n20 ml \n6.5 \n17.4 cm \n0.415 gr",
+      "char_count": 813,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Sugar Beet",
+            "Weeks",
+            "Water",
+            "pH",
+            "Height",
+            "Wet Weight"
+          ],
+          [
+            "Only Lunar Simulant (Control)",
+            "1",
+            "7 ml",
+            "6.2",
+            "7.6 cm",
+            "0.127 gr"
+          ],
+          [
+            "",
+            "2",
+            "7 ml",
+            "6.4",
+            "8.1 cm",
+            "0.133 gr"
+          ],
+          [
+            "",
+            "3",
+            "10 ml",
+            "6.5",
+            "8.1 cm",
+            "0.137 gr"
+          ],
+          [
+            "",
+            "4",
+            "15 ml",
+            "-",
+            "-",
+            "-"
+          ],
+          [
+            "",
+            "5",
+            "20 ml",
+            "-",
+            "-",
+            "-"
+          ],
+          [
+            "Lunar Simulant + Fertilizer",
+            "1",
+            "7 ml",
+            "6.5",
+            "12 cm",
+            "0.111 gr"
+          ],
+          [
+            "",
+            "2",
+            "7 ml",
+            "6.6",
+            "12.2 cm",
+            "0.124 gr"
+          ],
+          [
+            "",
+            "3",
+            "10 ml",
+            "6.5",
+            "12.2 cm",
+            "0.121 gr"
+          ],
+          [
+            "",
+            "4",
+            "15 ml",
+            "-",
+            "-",
+            "-"
+          ],
+          [
+            "",
+            "5",
+            "20 ml",
+            "-",
+            "-",
+            "-"
+          ],
+          [
+            "Lunar Simulant + Bacteria",
+            "1",
+            "7 ml",
+            "6.1",
+            "5.9 cm",
+            "0.102 gr"
+          ],
+          [
+            "",
+            "2",
+            "7 ml",
+            "6.4",
+            "6 cm",
+            "0.110 gr"
+          ],
+          [
+            "",
+            "3",
+            "10 ml",
+            "6.3",
+            "7.9 cm",
+            "0.120 gr"
+          ],
+          [
+            "",
+            "4",
+            "15 ml",
+            "6.5",
+            "8.3 cm",
+            "0.128 gr"
+          ],
+          [
+            "",
+            "5",
+            "20 ml",
+            "6.5",
+            "11.6 cm",
+            "0.320 gr"
+          ],
+          [
+            "Lunar Simulant + Fertilizer + Bacteria",
+            "1",
+            "7 ml",
+            "6.4",
+            "9.8 cm",
+            "0.146 gr"
+          ],
+          [
+            "",
+            "2",
+            "7 ml",
+            "6.4",
+            "11.7 cm",
+            "0.165 gr"
+          ],
+          [
+            "",
+            "3",
+            "10 ml",
+            "6.5",
+            "12.9 cm",
+            "0.198 gr"
+          ],
+          [
+            "",
+            "4",
+            "15 ml",
+            "6.5",
+            "13.1 cm",
+            "0.206 gr"
+          ],
+          [
+            "",
+            "5",
+            "20 ml",
+            "6.5",
+            "17.4 cm",
+            "0.415 gr"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 9,
+      "text": "9 \n \nThe most efficient development in the pots where tomato seeds were planted was observed in \nthe pots where \" Lunar Simulant + Fertilizer + Bacteria\" were used together. This was followed \nby Lunar Simulant + Bacteria, Lunar Simulant + Fertilizer and Only Lunar Simulant pots. \n \nThe most efficient development in the pots where sugar beet seeds were planted, was observed \nin the pots where \" Lunar Simulant + Fertilizer + Bacteria\" were used together. This was \nfollowed by the Lunar Simulant + Bacteria pot. A development was observed in the pots in \nwhich Lunar Simulant + Fertilizer and Only Lunar Simulant was used until the 3rd week. The \nplants died after the 4th week. \n \nWe have observed that the most efficient growth in tomato and sugar beet seeds is in pots where \nLunar Simulant + Fertilizer + Bacteria are used. Based on all these, it is revealed that the usage \nof bacteria and fertilizers together affects plant growth in a positively way. \n \nSuggestions: \nThe reason for using organic manure and plant growth-promoting rhizobacterium, P. putida \nstrain SC7 in our experiment is that they may possibly compensate for the lack of sufficient \nnitrogen in lunar simulant. According to the literature search that we did, P. putida strain SC7 \nwas a bacteria type that could possibly adapt to lunar simulant. This bacteria isolate, has \npromoted plant growth prominently, compared to the other experimental groups (only lunar \nsimulant, only lunar simulant + fertilizer). Good developments have also been observed in the \npots that has bacteria but no fertilizer in it and, this supported that pseudomonas putida could \nadapt to lunar simulant. According to these results, organic manure can be used to enrich the \nsoils with nitrogen and P. putida strain SC7 can promote plant growth essential for all other \nplants, by mixing them with the soil. \n \nReferences: \nParham, J.A.S.P.; Deng, S.; Raun, W.; Johnson, G., 2002. Long-term cattle manure application \nin soil. Biol. Fertil. Soils, 35, 328\u2013337. 11.",
+      "char_count": 2020,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "text": "10 \n \nWang, W.J.; Zhu Dan, Y.; Wang, H.S., 2010. Effect of different amount of organic fertilizer in \nthe yield of organic vegetables. North Hortic., 17, 29\u201330. \nStevens, C.J., Manning P., van den Berg L.J.L., de Graaf M.C.C., Wamelink G.W.W., \n2011. Ecosystem responses to reduced and oxidized nitrogen inputs in European \nterrestrial habitats. Environmental Pollution 159: 665\u2013676. \nPalomba, E., Zinzi A., Cloutis E.-A., D\u2019Amore M., Grassi D., 2011. Evidence for \nMg-rich carbonates on Mars from a 3.9 lm absorption feature. Icarus 203: \n58\u201365. \nLeshin, L.A., Mahaffy P.R., Webster C.R., Cabane M., Coll P., 2013. Volatile, \nisotope, and organic analysis of Martian fines with the Mars Curiosity Rover. \nScience 341: 1238937-1\u20131238937-9 \nEmami, S., Alikhani, H.A., Pourbabaei, A.A., 2019. Etesami H, Sarmadian F, Motessharezadeh \nB. Effect of rhizospheric and endophytic bacteria with multiple plant growth promoting traits \non wheat growth. Environ Sci Pollut Res., 26(19):19804\u201313. \n \n \nFor Attention of Dear Members of Jury; \nWe started our experiment 1 month later than the other teams, so we observed 6-week growth \n(But we have sent our report at the beginning of sixth week. That\u2019s why we could not put the \nphotos and data of sixth week).",
+      "char_count": 1248,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "text": "11 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nPhotos: \n \n \n \n Week 1 \n \n \n \n First Germination",
+      "char_count": 84,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 12,
+      "text": "12 \n \n \n \nSugar Beet + Bacteria Sugar Beet + Fertilizer + Bacteria \n \n \n Sugar Beet Sugar Beet + Fertilizer \n (only lunar simulant)",
+      "char_count": 131,
+      "image_count": 4,
+      "tables": []
+    },
+    {
+      "page_number": 13,
+      "text": "13 \n \n \n \n \nTomato + Bacteria \n \n \n \n Tomato + Fertilizer + Bacteria \n \n \n \n Tomato + Fertilizer",
+      "char_count": 96,
+      "image_count": 6,
+      "tables": []
+    },
+    {
+      "page_number": 14,
+      "text": "14 \n \n \n \n \n Tomato (only lunar simulant) \n \n \n \n Quinoa + Bacteria \n \n \n \n Quinoa + Fertilizer + Bacteria",
+      "char_count": 106,
+      "image_count": 6,
+      "tables": []
+    },
+    {
+      "page_number": 15,
+      "text": "15 \n \n \n \n \nQuinoa + Fertilizer \n \n \n \n Quinoa (only lunar simulant)",
+      "char_count": 68,
+      "image_count": 4,
+      "tables": []
+    },
+    {
+      "page_number": 16,
+      "text": "16 \n \n Week 2 \n \n \n \n \n Sugar Beet + Fertilizer + Bacteria Sugar Beet + Bacteria \n \n \n \n Sugar Beet + Fertilizer Sugar Beet (only lunar simulant)",
+      "char_count": 145,
+      "image_count": 4,
+      "tables": []
+    },
+    {
+      "page_number": 17,
+      "text": "17 \n \n \n \n \n Tomato Tomato + Bacteria \n (only lunar simulant) \n \n \n \n Tomato + Fertilizer Tomato + Fertilizer + Bacteria",
+      "char_count": 120,
+      "image_count": 4,
+      "tables": []
+    },
+    {
+      "page_number": 18,
+      "text": "18 \n \n \n \n \n Sugar Beet + Bacteria Sugar Beet + Fertilizer + Bacteria",
+      "char_count": 69,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 19,
+      "text": "19 \n \n Week 3 \n \n \n \n Sugar beet + Bacteria Sugar beet + Fertilizer + Bacteria \n \n \n \n Tomato + Fertilizer Tomato \n (only lunar simulant)",
+      "char_count": 137,
+      "image_count": 4,
+      "tables": []
+    },
+    {
+      "page_number": 20,
+      "text": "20 \n \n \n \n Tomato + Bacteria Tomato + Fertilizer + Bacteria \n \n \n Sugar beet + Fertilizer Sugar beet + Fertilizer + Bacteria \n \n \n \n Sugar Beet Sugar Beet + Bacteria \n (only lunar simulant)",
+      "char_count": 189,
+      "image_count": 6,
+      "tables": []
+    },
+    {
+      "page_number": 21,
+      "text": "21 \n \n \n \n \n Week 4 \n \n Tomato Tomato Tomato Tomato \n (only lunar simulant) + + + \n Fertilizer Bacteria Fertilizer \n + \n Bacteria",
+      "char_count": 129,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 22,
+      "text": "22 \n \n \n \n \nTomato + Fertilizer \n \n \n \n \nTomato + Bacteria",
+      "char_count": 58,
+      "image_count": 4,
+      "tables": []
+    },
+    {
+      "page_number": 23,
+      "text": "23 \n \n \n \n \nTomato + Bacteria + Fertilizer \n \n \n \n \n Sugar Beet Sugar Beet Sugar Beet Sugar Beet \n (only lunar simulant) + + + \n Fertilizer Bacteria Fertilizer \n + \n Bacteria",
+      "char_count": 174,
+      "image_count": 3,
+      "tables": []
+    },
+    {
+      "page_number": 24,
+      "text": "24 \n \n \n \n \nSugar Beet + Bacteria + Fertilizer \n \n \n \nSugar Beet + Bacteria",
+      "char_count": 75,
+      "image_count": 4,
+      "tables": []
+    },
+    {
+      "page_number": 25,
+      "text": "25 \n \n Week 5 \n \n \nSugar Beet + Fertilizer + Bacteria \n \n \n \n \nSugar Beet + Bacteria",
+      "char_count": 84,
+      "image_count": 4,
+      "tables": []
+    },
+    {
+      "page_number": 26,
+      "text": "26 \n \n \n \n \n \n \n Tomato Tomato Tomato Tomato \n (only lunar simulant) + + + \n Fertilizer Bacteria Fertilizer \n + \n Bacteria \nVideo Summary Link: \nhttps://youtu.be/X0vKuHloaMc \n \nFor Attention of Dear Members of Jury, \nWe started our experiment 1 month later than the other teams, so we observed 6-week growth \n(But we have sent our report at the beginning of sixth week. That\u2019s why we could not put the \nphotos and data of sixth week). \n The big pots have been added to our experiment in second week, to get more data. \n Our quinoas did not grow, that is why there is no photo belonging to quinoa after first week.",
+      "char_count": 613,
+      "image_count": 1,
+      "tables": []
+    }
+  ]
+}

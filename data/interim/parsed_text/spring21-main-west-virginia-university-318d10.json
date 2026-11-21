@@ -1,0 +1,145 @@
+{
+  "report_id": "spring21-main-west-virginia-university-318d10",
+  "sha256": "555693d846605668d049d05609df0d8eb1a39531f101e71974f412e5e93cff07",
+  "page_count": 15,
+  "total_chars": 10696,
+  "avg_chars_per_page": 713.1,
+  "total_images": 11,
+  "table_count": 1,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "1\nPlant the Moon Challenge\nWest Virginia University\nTeam Members:\nGibney, Colin\nHarlow, Saul\nMirabella, Joshua\nMoats, Zachary\nNeilsen, Lily\nRoth, Claire\nSpector, Samantha\nTrombetta, Anna\nUpperman, Dylan\nAdvisor:\nDr. Charlene Kelly\nWest Virginia University\n28 April 2021",
+      "char_count": 269,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "text": "2\n1. Introduction\nCrop production is reliant on increasing/decreasing temperatures, water availability, soil\nsalinization, and much more. Take these challenges and compare them to growing and harvesting\nplants on the moon. These experimental parameters and results aim to help NASA scientists\nlearn how to properly handle lunar soil. Understanding how to use lunar soil will aid in\nsustainable crop production for future Moon missions. During long-duration human missions\nfood becomes scarce, as transporting extra weight is an arduous journey. Discovering how to\nmanipulate regolith to our advantage will advocate our return to the moon.\nSimilar to Earth and other planets, the Moon is made of rock and metals. The moon's\nouter layer, known as the crust, is covered by lunar soil. This unconsolidated debris is known as\nlunar regolith, a blanket of fine rock particles that vary in depth (around 10-65 feet deep).\nRegolith is loosely compacted rock and dust that sits on top of a layer of bedrock. Geological\nresources from regolith include iron, aluminum, magnesium, calcium, and titanium. However,\nlunar regolith is lacking critical multiple plant-essential nutrients and has very low water-holding\ncapacity. As such, we designed an experiment that addressed these limitations of growing plants\nin lunar regolith, while working within the framework of supplying these parameters with\nminimal inputs. Specifically, we investigated the interactive effect of mycorrhizal fungi\ninoculation with fertilization with bloodmeal. Mycorrhizal fungi are ubiquitous in Earth soil and\nprovide a symbiotic benefit to plants through enhanced nutrient acquisition, expanded root\nsurface area, and exclusion of heavy metals. Bloodmeal, or dried animal blood, is a common",
+      "char_count": 1756,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "text": "3\norganic fertilizer that is used as a source of nitrogen. Additionally, a pine-wood based biochar\nwas added to every experimental unit to aid in water-holding capacity.\n2. Theory\nWe had three questions of interest that could be addressed based on our experimental design:\na.\nWhat is the effect of mycorrhizal fungi on plant growth?\nb. What is the effect of fertilizer (bloodmeal) on plant growth?\nc.\nDoes the effect of the fungi depend on the level of fertilizer? or Does the effect of\nfertilizer depend on the presence of fungi?\nIn order to address these questions the design incorporated mycorrhizal fungi and bloodmeal as\ntreatments. We had a two-fold hypothesis:\na.\nPlants with mycorrhizae will have more root and plant mass.\nb. Plants in regolith will express greater symptoms of nutrient deficiency than those\nin the Earth control soil due to the lack of necessary trace minerals.\n3. Methods and materials\nExolith Lab provided 5 kg of lunar highlands stimulant (11lbs). The experiment was\nconducted at West Virginia University\u2019s Evansdale Greenhouse over ten weeks. We selected to\nperform the experimental design using both the Lunar regolith material and Earth soil for\ncomparison of effects. It was hypothesized that plants growing in lunar regolith will express\ngreater symptoms of nutrient deficiency than those in the Earth control. This is due to the lack of\nnecessary trace minerals within the lunar soil.\nThree seeds of pea plant were sown in each of the treatment pots (4 inch2), which were\nthinned to one seedling after emergence. Pine-wood biochar was added into both mediums (Earth\nsoil and regolith) as a soil ameliorant, aiding in carbon sequestration and soil health benefits,\nparticularly beneficial for promoting water-holding capacity. Plants received either\n+/-mycorrhizal fungi, +/-bloodmeal, both, or neither (control) in a factorial design. To pots with\n+ bloodmeal, we applied 2 g of bloodmeal on the surface of the soil to supply a source of",
+      "char_count": 1972,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "text": "4\nnitrogen. Bloodmeal is a pure source of Nitrogen with an NPK ratio of 12-0-0 and is derived\nfrom bovine blood. To pots with +fungi, we incorporated x mL of fungal inoculant. The\nmycorrhizal fungi used was Rhizophagus irregularis and was provided in generosity by the West\nVirginia University International Culture Collection of Vesicular Arbuscular Mycorrhizal Fungi\n(INVAM). Plants were watered equally every 2-3 days as needed and were grown for 10 weeks.\nAfter 10 weeks growth, we separated shoots from roots. Shoot and root material were\ndried at 105 C for 24 hours and weight was recorded. After the dry aboveground biomass was\nrecorded, the data were analyzed using analysis of variance in SAS-JMP. The treatments were\ntreated first as independent in order to establish significantly different tiers (Table 2), and then\nthey were treated as part of the factorial design that they were primarily intended to be analyzed\nin the framework of in order to determine main effects of the three factors (Figure 1) and\ninteractions between the three factors (Figure 2).\nThe experimental design included plants in lunar regolith as well as earth soil that would\nserve as a control for comparison of plant growth in terrestrial soil vs. lunar regolith. Both the\nearth soil and lunar regolith were given treatments of none, mycorrhizal fungi, bloodmeal, or\nboth fungi and bloodmeal. Biochar was also added to all pots as an additional amendment for\nnutrients and soil structure. It was first sieved to 2 mm and then 10% by volume was added to\neach pot.\nFungi\nBloodmeal\nGroup 1\n+\n+\nGroup 2\n+\n-\nGroup 3\n-\n+\nGroup 4\n-\n-",
+      "char_count": 1612,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "",
+            "Fungi",
+            "Bloodmeal"
+          ],
+          [
+            "Group 1",
+            "+",
+            "+"
+          ],
+          [
+            "Group 2",
+            "+",
+            "-"
+          ],
+          [
+            "Group 3",
+            "-",
+            "+"
+          ],
+          [
+            "Group 4",
+            "-",
+            "-"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 5,
+      "text": "5\nExperimental Design Treatments\n4. Results and analysis\nThe treatment groups will be identified in this section by three letter acronyms, with one\nfor each factor involved in the experiment.The first letter, E or M, will indicate whether the\ntreatment used earth soil or lunar regolith. The second letter, M or X, will indicate whether the\ntreatment received a mycorrhizal inoculation (M) or not . The third letter, B or X, will indicate\nwhether the treatment received blood meal (B) or not (X).\nThere were significant differences between the eight treatment groups (p-value < 0.0001).\nThe eight treatments were separable into four statistically significant tiers of aboveground\nbiomass, with A being the greatest biomass and D being the lowest biomass (Table 2). In the A\ntier were treatments EMB and EXX. The only treatment in tier B was EMX. In the C tier were\ntreatments MMB, MMX, and MXX. The final two treatments in the D tier were EXB and MXB.\nThere were significant main effects from each of the three factors (Earth/Moon,\nmycorrhizae, and blood meal) (Figure 1). In general, plants grown in Earth soil had more\naboveground biomass than plants grown in lunar simulant. Plants grown with a mycorrhizal\ninoculant had more aboveground biomass than plants without the inoculation. Similarly, plants\nwith a blood meal addition had more aboveground biomass than plants without a blood meal\naddition.\nThere were significant, albeit minor, interaction effects for every factor combination\nexcept for Earth/Moon vs. mycorrhizae (Figure 2). In most cases, the presence of two positive\nfactor levels (e.g., Earth and blood meal being present) resulted in a slight increase in",
+      "char_count": 1673,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "text": "6\naboveground biomass. The only remarkable interaction effect was that between mycorrhizae and\nblood meal. When both additives were present, the plants had a positive response. However,\nwhen blood meal was present while mycorrhizae was absent, the plants had a strong negative\nresponse, such that close to 0 grams of aboveground biomass were recorded (Table 1, treatments\nEXB and MXB), because the plants in all replications of both treatments with this combination\ndied shortly after germination).\n5. Discussion and conclusion\nIn the end, several plants had died but interesting results were still obtained, namely that\nboth mycorrhizal fungi and blood meal stimulated growth in lunar regolith, and that water\nlimitation is a large concern in lunar regolith soils. The beauty of science is that failure can be\nviewed not as an encumbrance but a step towards an answer. The plants in Earth soil grew\nnoticeably taller while those in lunar regolith struggled. The lunar plants also demonstrated an\nabated capacity for water retention which proved fatal when water was in short demand.\nFurthermore, the structure of the regolith was not conducive to normal watering procedures. It\neasily gave way and formed deep holes where water went in. For future projects, it might be\nbeneficial to use more of a drip irrigation system.\nSpace exploration is synonymous with reaching out to the unknown and meeting the\nchallenges with gusto. Our team had several such challenges throughout the course of the\nsemester but continued to work diligently to get results. We had several plants die, especially\nwhen the new heat waves of spring set in. Science generally strives to omit as many variables as\npossible. Its reductionist nature doesn\u2019t bode well the fickle nature of human inconsistencies. If\nwe are to put people in space and to work the land of lunar soils we must be ready and willing to",
+      "char_count": 1882,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "text": "7\naccept our shortcomings along with our strengths. Our group is composed of highly inquisitive\nand motivated individuals and each person made their mark on this project. But designing a\nproject necessitates adequate organization of both the experimental elements and the human\nones. Looking forward to future projects it would behoove us to lay out a more exact schedule\nand outline of duties so as to avoid miscommunication and to feel a degree of certainty in one's\nrole. As we look to the horizon of space exploration it will be incumbent upon each individual to\nrecognize what they can and cannot bring to operation. In this realm, the scientific mind thrives\nbecause it is willing to diminish the ego and accept its own limitations and, in doing so, break\npast its limitations. Working on this project has brought a sense of vision that will likely prove\nuseful to those involved but moreover the results of our experiment may, even if in some small\nway, help shape the future success our endeavors here on Earth, in space, and beyond.\n6. Appendix",
+      "char_count": 1053,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "text": "8\nTable 1. Raw data for aboveground biomass\nTable 2. LSMeans Differences Student\u2019s t table, generated using JMP, showing the four\nsignificantly unique tiers",
+      "char_count": 156,
+      "image_count": 3,
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "text": "9\nFigure 1. Plots showing the main effects of the three main factor levels\nFigure 2. Interaction plots for the three factors, Earth/Moon, mycorrhizae, and blood meal",
+      "char_count": 165,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "text": "10\n7. Photos",
+      "char_count": 12,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "text": "11\nMarch 3rd\nLunar Regolith pots positioned on the right with Earth soil to the left.",
+      "char_count": 85,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 12,
+      "text": "12\nMarch 10th",
+      "char_count": 13,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 13,
+      "text": "13\nMarch 17th",
+      "char_count": 13,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 14,
+      "text": "14\nMarch 24th",
+      "char_count": 13,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 15,
+      "text": "15\nApril 1st\nApril 8th",
+      "char_count": 22,
+      "image_count": 1,
+      "tables": []
+    }
+  ]
+}

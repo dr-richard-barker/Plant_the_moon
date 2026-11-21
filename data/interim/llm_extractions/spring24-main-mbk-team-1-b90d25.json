@@ -1,0 +1,77 @@
+{
+  "extraction": {
+    "report_id": "spring24-main-mbk-team-1-b90d25",
+    "extraction_method": "heuristic",
+    "model_name": "table-aware-lexicon-v2",
+    "celestial_body": "lunar",
+    "regolith_simulant": "unspecified",
+    "regolith_simulant_raw": null,
+    "crop_common_name": "cucumber",
+    "crop_scientific_name": "Cucumis sativus",
+    "crop_guild": "fruiting",
+    "experimental_duration_days": null,
+    "total_plants_or_pots": null,
+    "replicates_per_treatment": null,
+    "has_earth_soil_control": true,
+    "has_unamended_regolith_control": false,
+    "statistical_tests_reported": [],
+    "data_availability": "summary_means",
+    "primary_bottlenecks": [
+      "nutrient_deficiency"
+    ],
+    "innovation_tags": [
+      "other"
+    ],
+    "key_hypothesis": "Hypothesis-Experiment Summary (Ruby)",
+    "summary_findings": "Overall, our plants are becoming more strong and durable with",
+    "arms": [
+      {
+        "arm_id": "arm_ctrl_earth",
+        "arm_label": "Earth Soil Control",
+        "is_control": true,
+        "control_type": "earth_soil",
+        "regolith_pct": 0.0,
+        "amendment_category": "earth_soil_control",
+        "amendment_detail": null,
+        "amendment_dose": null,
+        "germination_rate_pct": null,
+        "survival_rate_pct": null,
+        "mean_shoot_height_cm": null,
+        "mean_root_length_cm": null,
+        "mean_fresh_biomass_g": null,
+        "mean_dry_biomass_g": null,
+        "substrate_ph": null,
+        "outcome_vs_regolith_control": "not_reported",
+        "reported_effect_pct": null,
+        "evidence_quote": "This is why we must add other nutrients such as Earth soil and organic potting material.",
+        "page_number": 1
+      },
+      {
+        "arm_id": "arm_trt_1",
+        "arm_label": "Treatment (regolith)",
+        "is_control": false,
+        "control_type": "none",
+        "regolith_pct": null,
+        "amendment_category": "other",
+        "amendment_detail": "regolith",
+        "amendment_dose": null,
+        "germination_rate_pct": null,
+        "survival_rate_pct": null,
+        "mean_shoot_height_cm": null,
+        "mean_root_length_cm": null,
+        "mean_fresh_biomass_g": null,
+        "mean_dry_biomass_g": null,
+        "substrate_ph": null,
+        "outcome_vs_regolith_control": "not_reported",
+        "reported_effect_pct": null,
+        "evidence_quote": "in the moon regolith.",
+        "page_number": 1
+      }
+    ]
+  },
+  "provenance_audit": {
+    "quotes_checked": 2,
+    "quotes_matched": 2,
+    "quote_match_rate": 1.0
+  }
+}

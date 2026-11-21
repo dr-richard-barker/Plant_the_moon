@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this dataset, extraction pipeline, or meta-analysis, please cite it using the metadata below."
+title: "Plant the Moon Challenge Meta-Analysis: FAIR Synthesis of Student Regolith Plant-Growth Reports (2021–2026)"
+type: software
+version: "0.1.0"
+date-released: "2026-11-19"
+license: MIT
+repository-code: "https://github.com/dr-richard-barker/Plant_the_moon"
+url: "https://dr-richard-barker.github.io/Plant_the_moon/"
+authors:
+  - family-names: Barker
+    given-names: Richard J.
+    orcid: "https://orcid.org/0000-0001-5681-9857"
+    affiliation: "Collaborative Science Environment (CoSE)"
+keywords:
+  - astrobotany
+  - lunar regolith
+  - martian regolith
+  - Plant the Moon Challenge
+  - meta-analysis
+  - bioregenerative life support
+  - FAIR data
+  - CoSE
+references:
+  - type: website
+    title: "Plant the Moon Challenge Awards Archive"
+    url: "https://plantthemoon.com/awards-spring26/"
+    authors:
+      - name: "Institute of Competition Sciences"

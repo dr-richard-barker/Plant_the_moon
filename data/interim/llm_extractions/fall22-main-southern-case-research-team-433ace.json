@@ -1,0 +1,99 @@
+{
+  "extraction": {
+    "report_id": "fall22-main-southern-case-research-team-433ace",
+    "extraction_method": "heuristic",
+    "model_name": "table-aware-lexicon-v2",
+    "celestial_body": "lunar",
+    "regolith_simulant": "LHS-1",
+    "regolith_simulant_raw": "Lunar Highland Simulant",
+    "crop_common_name": "collard greens",
+    "crop_scientific_name": "Brassica oleracea",
+    "crop_guild": "mixed",
+    "experimental_duration_days": 10.0,
+    "total_plants_or_pots": null,
+    "replicates_per_treatment": null,
+    "has_earth_soil_control": true,
+    "has_unamended_regolith_control": true,
+    "statistical_tests_reported": [],
+    "data_availability": "summary_means",
+    "primary_bottlenecks": [
+      "germination_failure",
+      "light_or_temperature_stress"
+    ],
+    "innovation_tags": [
+      "coir_peat_perlite_substrate"
+    ],
+    "key_hypothesis": "It was hypothesized that the highest concentrations of Peat Moss would show the greatest",
+    "summary_findings": "The experiment results demonstrate that a mixture of up to 50% lunar regolith with peat",
+    "arms": [
+      {
+        "arm_id": "arm_ctrl_earth",
+        "arm_label": "Earth Soil Control",
+        "is_control": true,
+        "control_type": "earth_soil",
+        "regolith_pct": 0.0,
+        "amendment_category": "earth_soil_control",
+        "amendment_detail": null,
+        "amendment_dose": null,
+        "germination_rate_pct": null,
+        "survival_rate_pct": null,
+        "mean_shoot_height_cm": null,
+        "mean_root_length_cm": null,
+        "mean_fresh_biomass_g": null,
+        "mean_dry_biomass_g": null,
+        "substrate_ph": null,
+        "outcome_vs_regolith_control": "not_reported",
+        "reported_effect_pct": null,
+        "evidence_quote": "moss can provide growth results comparable to that of the earth soil samples for Swiss Chard",
+        "page_number": 12
+      },
+      {
+        "arm_id": "arm_ctrl_regolith",
+        "arm_label": "Unamended Regolith Control",
+        "is_control": true,
+        "control_type": "unamended_regolith",
+        "regolith_pct": 100.0,
+        "amendment_category": "none_control",
+        "amendment_detail": null,
+        "amendment_dose": null,
+        "germination_rate_pct": null,
+        "survival_rate_pct": null,
+        "mean_shoot_height_cm": null,
+        "mean_root_length_cm": null,
+        "mean_fresh_biomass_g": null,
+        "mean_dry_biomass_g": null,
+        "substrate_ph": null,
+        "outcome_vs_regolith_control": "neutral",
+        "reported_effect_pct": null,
+        "evidence_quote": null,
+        "page_number": null
+      },
+      {
+        "arm_id": "arm_trt_1",
+        "arm_label": "Treatment (peat moss)",
+        "is_control": false,
+        "control_type": "none",
+        "regolith_pct": null,
+        "amendment_category": "coir_peat_perlite_substrate",
+        "amendment_detail": "peat moss",
+        "amendment_dose": null,
+        "germination_rate_pct": null,
+        "survival_rate_pct": null,
+        "mean_shoot_height_cm": null,
+        "mean_root_length_cm": null,
+        "mean_fresh_biomass_g": null,
+        "mean_dry_biomass_g": null,
+        "substrate_ph": null,
+        "outcome_vs_regolith_control": "not_reported",
+        "reported_effect_pct": null,
+        "evidence_quote": "implementation of peat moss.",
+        "page_number": 2
+      }
+    ]
+  },
+  "provenance_audit": {
+    "quotes_checked": 2,
+    "quotes_matched": 2,
+    "quote_match_rate": 1.0
+  }
+}

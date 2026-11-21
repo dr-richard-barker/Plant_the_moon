@@ -1,0 +1,981 @@
+{
+  "report_id": "spring26-main-epcc-team-artemis-d0e715",
+  "sha256": "8c5934acd368b6f903aff81fdc5cf4e0c3d55f3f7f27f069069e564ddee8e0ea",
+  "page_count": 37,
+  "total_chars": 46859,
+  "avg_chars_per_page": 1266.5,
+  "total_images": 41,
+  "table_count": 27,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Plant the Moon Challenge: Spring 2026 \nFINAL REPORT \nTeam: Artemis 2 \nTeam ID: 25273 \nTeam Coach: Olienka De La O Fernandez1 \nMembers: Jose Betance, Amanda Imai, Marisol Roby, Naoko Kamo \n1 Department of Physics, El Paso Community College, El Paso, TX, USA \n \nTITLE \n\u201cEvaluation of Banana Peel Nano-Fertilizer for Food Crops in Lunar Regolith \nSimulant during Post-germination Growth and Substrate Nutrient Analysis.\u201d \n \n\uf06e Introduction \nAs space exploration becomes more advanced, scientists have begun exploring how plants \ncould be grown beyond Earth. This is especially important for places like the Moon, where \nfuture missions may rely on being able to grow crops with their given conditions. The \nsurface of the moon is covered in a substance called regolith, which is very different from \nEarth's soil. Regular soil contains organic matter and microorganisms that help support \nplant growth, but regolith does not, making it a much more difficult environment for plants \nto survive in. \nDue to regolith lacking biological components, it also has physical properties that can make \nplant growth more challenging. Its particles are very fine and irregular, which allows them \nto pack closely together. This can limit the ability of a plant's roots to spread and take in \nwater. At the same time, the way regolith holds water is different from soil, which can \ncreate inconsistent growing conditions. Plants grown in regolith often do not grow as well \nas those in normal soil as a result. \nThe way various fertilizers interact under low nutrient conditions is another crucial aspect \nof plant growth research. Plants may rely on organic matter and naturally occurring \nnutrients in ordinary soil systems, but in harsher or artificial environments, external nutrient",
+      "char_count": 1770,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "text": "sources become far more crucial. As a result of this, when regular soil conditions are \nunavailable, researchers frequently investigate alternate fertilizers to evaluate how well \nthey can promote plant health. Gaining insight into how plants react to these types of details \ncan help develop better methods for producing food in settings where conventional \nagriculture is not possible. \n\uf06e Theory \nPlant growth depends on having access to key nutrients, especially nitrogen, phosphorus, \nand potassium. These nutrients support basic functions like leaf development, energy \ntransfer, and overall growth. In normal soil, plants are able to get these nutrients through \norganic matter and natural processes that happen over time. When those processes are \nmissing, plants have to rely much more on whatever nutrients are added from the outside. \nThis becomes more noticeable in something like lunar regolith simulant. Since it does not \ncontain organic matter or living organisms, it does not naturally support nutrient cycling \nthe way soil does. Even if some elements are present, they are not always in forms that \nplants can easily use. As a result, plants growing in this type of environment are more likely \nto experience stress and slower growth. Studies have shown that while plants can survive \nin regolith, they often do not develop as well as they do in regular soil (Paul et al., 2022). \nFertilizer plays a much bigger role when the growing environment is limited like this. \nNutrients such as nitrogen help with leaf and stem growth, phosphorus is important for \nroot development, and potassium helps regulate water and overall plant health. When these \nare added in the right amounts, they can improve how well a plant grows. Still, it is not \njust about how much nutrient is added, but how available it is to the plant. \nThe banana peel nano fertilizer used in this study is based on that idea. Banana peels \ncontain nutrients, especially potassium, and when they are processed into much smaller \nparticles, those nutrients may be easier for plants to absorb. Smaller particles can move \nmore easily through the root system, which may allow plants to take in nutrients more \nefficiently compared to a standard fertilizer. This is one reason why nano fertilizers are \nbeing looked at more closely in plant growth research (Hussein et al., 2019).",
+      "char_count": 2358,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "text": "The type of plant also matters. Tomato plants usually grow faster and require more \nnutrients, especially nitrogen, to support that growth. Basil tends to grow at a slower rate \nand may respond differently when nutrient levels change. For that reason, the two plants \nmay not show the same results even when they are grown under the same conditions. \nThe growing environment also changes how effective a fertilizer can be. Soil is generally \nbetter at holding water and nutrients, which helps plants absorb what they need over time. \nRegolith simulant does not have those same properties, so nutrients may not stay available \nfor as long. Even with that limitation, a fertilizer that improves nutrient uptake could still \nmake a difference in how well plants grow. \nBased on this, it is expected that plants grown in soil will perform better overall than those \ngrown in regolith simulant. It is also expected that the banana peel nano fertilizer will lead \nto better growth compared to the regular fertilizer, since the nutrients may be easier for \nthe plants to absorb. Tomato plants are likely to show a stronger response to these changes \nthan basil since they generally require more nutrients to support their growth. \nTo evaluate this, plant growth can be observed through changes in height, spread, and leaf \ndevelopment. Looking at these factors makes it easier to compare how each plant responds \nunder different conditions and gives a clearer picture of how both the environment and the \nfertilizer affect growth. \n\uf06e Hypotheses \nOur project investigates the growth of tomato and basil plants by comparing experimental \ngroups treated with Banana Peel Nano Fertilizer (BPNF) to control groups without fertilizer, \nusing both regular soil and lunar regolith simulant. If plants are grown with BPNF, then they \nwill exhibit higher concentrations of essential nutrients\u2014specifically nitrogen, potassium, \nand phosphorus\u2014than the plants grown without the nano fertilizer. \nWe expect that our plants grown in regular soil will generally show stronger growth due to \nits natural nutrient content and water retention properties. In contrast, lunar regolith \nsimulant lacks organic matter, has low nutrient availability, and exhibits poor water \nretention, which limits nutrient diffusion and root support. However, the addition of BPNF \nis predicted to significantly improve plant growth in the regolith simulant. In other words, \nthe BNF features will fill in for the factors that the lunar regolith lacks.",
+      "char_count": 2509,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "text": "This is because BPNF enhances diffusion and fluid transport by increasing surface area at \nthe nanoscale, improving water distribution, and helping retain nutrients near plant roots. \nAs a result, the combination of regolith simulant and BPNF may compensate for the soil\u2019s \nphysical and chemical limitations, leading to improved nutrient uptake and overall plant \ndevelopment. The nano fertilizer will provide a greater surface area for nutrients having to \nbe absorbed for the plants and their roots. We are examining this process with the mindset \nof tomato and basil plants in specific conditions different from regular soil to prosper in \nshoot growth and root nutrition. \nThe addition of Banana Peel Nano Fertilizer (BPNF) will improve fluid and nutrient transport \nwithin plant roots. Because lunar regolith environments simulate lower gravity conditions, \nwater and nutrient movement is less efficient compared to Earth soil. The use of \nnanoparticles enhances this process by increasing surface area and improving the \ndissolution and diffusion of essential nutrients. As a result, nutrients can move more \nefficiently through the soil and into the plant roots, supporting better growth despite \nreduced gravitational effects. \n- \nHalternative1: Tomato and basil plants grown in lunar regolith simulant with Banana \nPeel Nano Fertilizer will exhibit increased shoot growth compared to plants grown \nin regolith without fertilizer. \n- \nH01: The addition of Banana Peel Nano Fertilizer to lunar regolith simulant will not \nsignificantly affect the plant\u2019s shoot increase in tomato and basil plants. \n- \nHa2: Banana Peel Nano Fertilizer will enhance diffusion and fluid transport in the \nsoil, resulting in higher concentrations of nitrogen, potassium, and phosphorus in \nthe roots of tomato and basil plants. \n- \nH01: Banana Peel Nano Fertilizer will not significantly affect diffusion, fluid transport, \nor the concentration of nitrogen, potassium, and phosphorus compared to plants \ngrown without fertilizer or in regular soil. \n\uf06e Measurement and Methods \nExperimental Design \nThis study investigates whether the Banana Peel Nano Fertilizer (BNF), which has been \nshown to increase germination percentage, can promote post-germination growth in food \ncrops such as tomato and basil. Two substrates were used: soil and lunar regolith simulant. \nTwo fertilizer treatments were applied: regular fertilizer (RF) and BNF. RF was a customized \nfertilizer prepared with the same concentrations of nitrogen, potassium, and phosphorus \nas BNF, dissolved in laboratory-prepared reverse osmosis water. Each plant was grown in a",
+      "char_count": 2624,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "text": "separate container with a total of 28 plants across 8 treatment groups arranged in a factorial \ndesign. To focus on the post-germination process, germination was conducted outside the \nsubstrates prior to transplanting, as seeds have been confirmed to germinate in lunar \nregolith within two days(NASA, 2025). \nSubstrate \nFertilizer \nCrop \nn \nSoil \nRF \nTomato \n4 \nBasil \n4 \nBNF \nTomato \n4 \nBasil \n4 \nRegolith \nRF \nTomato \n3 \nBasil \n3 \nBNF \nTomato \n3 \nBasil \n3 \nTotal \n28 \n \nVariables \n\u00b7 \nIndependent Variables \nThe independent variables were substrate type (soil and lunar regolith simulant) and \nfertilizer type (RF and BNF). \n\u00b7 \nDependent Variables \nThe dependent variables measured were shoot length (cm), canopy width (cm), and leaf \ncount. \n\u00b7 \nControlled Variables \nThe following variables were kept constant throughout the experiment: volume of fertilizer \napplied, light conditions, temperature, container size, and plant species (tomato and basil). \nEquipment \n\u00b7 \nNPK Nutrients Test Kit \n\u00b7 \nRuler \n\u00b7 \nScale \n\u00b7 \nHigh-speed blender, \n\u00b7 \nheating apparatus",
+      "char_count": 1060,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "",
+            "Substrate",
+            "",
+            "",
+            "Fertilizer",
+            "",
+            "",
+            "Crop",
+            "",
+            "",
+            "n",
+            ""
+          ],
+          [
+            "Soil",
+            "",
+            "",
+            "RF",
+            "",
+            "",
+            "Tomato",
+            "",
+            "",
+            "4",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Basil",
+            "",
+            "",
+            "4",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "BNF",
+            "",
+            "",
+            "Tomato",
+            "",
+            "",
+            "4",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Basil",
+            "",
+            "",
+            "4",
+            "",
+            ""
+          ],
+          [
+            "Regolith",
+            "",
+            "",
+            "RF",
+            "",
+            "",
+            "Tomato",
+            "",
+            "",
+            "3",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Basil",
+            "",
+            "",
+            "3",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "BNF",
+            "",
+            "",
+            "Tomato",
+            "",
+            "",
+            "3",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Basil",
+            "",
+            "",
+            "3",
+            "",
+            ""
+          ],
+          [
+            "",
+            "Total",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "28",
+            "",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 6,
+      "text": "\u00b7 \nvacuum filter. \n\u00b7 \nSpectrophotometer \nGrowth Condition \nFigure 1. An automated irrigation system was set to operate twice daily at 7:30 AM and \n8:30 PM for 10 minutes per cycle. The irrigation water, containing either RF or BNF at the \ndesignated concentrations, circulated through the system and was delivered to each plant \nfrom the bottom of the container. \nFigure 2. An automated red and blue grow lighting system was set to operate on a 12-hour \ncycle(7:00 AM-7:00 PM on, 7:00 PM -7:00 AM off), providing supplemental light in addition \nto natural sunlight. \n \n \n \nFigure 1. Irrigation system (Watering cycle: 7:30 AM and 8:30 PM) \n \n \nFigure 2. Lighting system (7:00 AM-7:00 PM on, 7:00 PM -7:00 AM off)",
+      "char_count": 712,
+      "image_count": 5,
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "text": "Figure 3. Complete experimental setup \n \nExperimental Procedure \n1. Plant preparation \nSeeds were wrapped in a moist paper towel, sealed in a ziplock bag, and left to sprout. \nSprouted seeds were transplanted into the prepared containers after one week. \n2. Substrate preparation \nEach container was lined with a coffee filter to retain moisture and prevent rapid leaching. \nA cotton wick was inserted at the base of each container to maintain consistent moisture \ndistribution throughout the substrate through capillary water movement. \n3. Fertilizer Preparation \nNPK fertilizer \nNPK refers to macronutrients most demanded by plants: nitrogen (N), phosphorus (P), and \npotassium (K). These nutrients are frequently deficient in natural soil, making NPK \nfertilization one of the most common approaches to improving plant growth. Unlike \npotassium, which can be released through mineral weathering, nitrogen and phosphorus \nare not replenished through atmospheric reactions and must therefore be absorbed by \nplants through the roots. Supplementing these nutrients supports plant metabolism and \ncreates conditions conducive to accelerated growth.",
+      "char_count": 1147,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "text": "RF\uff08Regular Fertilizer\uff09 \nThe RF used in this study was a customized laboratory-prepared NPK blended fertilizer, \nformulated by dissolving nitrogen, phosphorus, and potassium at equivalent concentrations \nto BNF, dissolved in reverse osmosis water. \n \nConcentration \n [ppm] \nreverse \nosmosis \nwater[L] \nNitrogen[N] \n19 \n3 \nPotassium[K] \n1.5 \nPhosphorus[P] \n3.5 \n \nBNF (Banana Peel Nano Fertilizer) \nBNF leverages nanotechnology and green chemistry to extract nanoscale(19-55nm) NPK \nelements from banana peel waste. Banana peels account for approximately 18-33% of the \ntotal fruit mass and are widely discarded as solid waste (Hussein et al., 2019). Using BNF \nis an environmentally sustainable alternative to conventional fertilizers. BNF was prepared \nin the laboratory following the protocol described by Hussein et al. (2019). \nFertilizer Application Schedule \nFertilizer was applied weekly from week one to four at a consistent dosage; RF: 45ml and \nBNF 4.83g. As RF and BNF differ in forms, powder and liquid, the amounts applied varied; \nhowever, the concentrations were calculated to be equivalent between the two treatments. \nweek \nTotal Amount of \nRF[ml] \nTotal Amount of \nBNF[g]1 \n1 \n45 \n4.83 \n2 \n90 \n9.67 \n3 \n135 \n14.50 \n4 \n180 \n19.34 \n1BNF was dissolved in 1 L of reverse osmosis water prior to application.",
+      "char_count": 1319,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "",
+            "",
+            "",
+            "Concentration [ppm]",
+            "",
+            "reverse",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "osmosis",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "water[L]",
+            ""
+          ],
+          [
+            "",
+            "Nitrogen[N]",
+            "",
+            "19",
+            "3",
+            "",
+            ""
+          ],
+          [
+            "",
+            "Potassium[K]",
+            "",
+            "1.5",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "Phosphorus[P]",
+            "",
+            "3.5",
+            "",
+            "",
+            ""
+          ]
+        ],
+        [
+          [
+            "Concentration"
+          ],
+          [
+            "[ppm]"
+          ]
+        ],
+        [
+          [
+            "week",
+            "Total Amount of RF[ml]",
+            "Total Amount of BNF[g]1"
+          ],
+          [
+            "1",
+            "45",
+            "4.83"
+          ],
+          [
+            "2",
+            "90",
+            "9.67"
+          ],
+          [
+            "3",
+            "135",
+            "14.50"
+          ],
+          [
+            "4",
+            "180",
+            "19.34"
+          ]
+        ],
+        [
+          [
+            "Total Amount of"
+          ],
+          [
+            "RF[ml]"
+          ]
+        ],
+        [
+          [
+            "Total Amount of"
+          ],
+          [
+            "BNF[g]1"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 9,
+      "text": "4. Measurements \nShoot length was measured weekly for five weeks, starting in the first week after fertilizer \napplication. Canopy width and leaf count were additionally recorded in the final week. \nSubstrate NPK Nutrient concentrations were determined spectrophotometrically at the end \nof the experiment. \n Substrate Nutrient Analysis (NPK Determination) \n \nThe concentrations of nitrogen (N), phosphorus (P), and potassium (K) in the experimental \nsubstrates (Regolith Banana Fertilizer, Soil Banana Fertilizer, Regolith Regular Fertilizer and \nSoil Regular Fertilizer) were quantified via UV\u2013Vis spectrophotometry using a Thermo Fisher \nSpectronic 200 in combination with the LaMotte NPK Test Kit. This analysis was designed \nto evaluate the relative nutrient availability and retention capacity of each substrate under \nidentical experimental conditions. \nCalibration and Standard Preparation \nCalibration curves were established for each analyte prior to sample analysis. Stock \nsolutions (2000 ppm) were prepared using analytical-grade ammonium nitrate (NH\u2084NO\u2083) \nand monobasic potassium phosphate (KH\u2082PO\u2084), providing known concentrations of nitrate \n(NO\u2083\u207b), potassium (K\u207a), and phosphate (PO\u2084\u00b3\u207b). \nSerial dilutions of the stock solutions were performed to generate a set of working standards \nspanning the expected concentration range of the samples. Absorbance measurements of \nthese standards were used to construct calibration curves for each nutrient. Linear \nregression analysis was applied to determine the relationship between absorbance and \nconcentration, ensuring correlation coefficients (R\u00b2) \u2265 0.99 for all analytes. \nSpectrophotometric Determination \nAbsorbance measurements were conducted following the colorimetric protocols specified in \nthe LaMotte test kit. The relationship between absorbance and concentration was \ninterpreted according to the Beer\u2013Lambert law: \nA=\u03b5\u2009b\u2009c \nwhere A is the measured absorbance, \u03b5 is the molar absorptivity, b is the optical path length \nof the cuvette (typically 1 cm), and c is the analyte concentration. Calibration curves were \nused to convert absorbance values into concentrations expressed in ppm.",
+      "char_count": 2159,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "text": "Sample Extraction and Analysis \nSubstrate samples were processed according to the standardized extraction procedures \nprovided by the LaMotte NPK Test Kit. Extracted solutions were filtered as required to \nremove particulates prior to analysis. \nAbsorbance readings were obtained using the Spectronic 200 spectrophotometer at the \nappropriate wavelengths for each analyte, as defined by the colorimetric method. Blank \ncorrections were applied using reagent controls to minimize background interference. \n \nWavelength \n [nm] \nNitrogen[N] \n515 \nPotassium[K] \n770 \nPhosphorus[P] \n 880 \n \nQuality Control and Data Reliability \nTo ensure analytical accuracy and precision, the following quality control measures were \nimplemented: \n\uf0b7 \nCalibration verification using independent standards \n\uf0b7 \nBlank subtraction to correct for reagent and solvent absorbance \n\uf0b7 \nMonitoring of instrument stability and baseline drift \nThe resulting nutrient concentrations represent estimates of bioavailable N, P, and K in each \nsubstrate. These data were used to assess differences in nutrient retention and release \nbehavior between Regolith Banana Fertilizer, Soil Banana Fertilizer, Regolith Regular \nFertilizer and Soil Regular Fertilizer, providing insight into their suitability for plant growth \napplications.",
+      "char_count": 1294,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "",
+            "",
+            "",
+            "",
+            "Wavelength",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "[nm]",
+            ""
+          ],
+          [
+            "",
+            "Nitrogen[N]",
+            "",
+            "515",
+            "",
+            ""
+          ],
+          [
+            "",
+            "Potassium[K]",
+            "",
+            "770",
+            "",
+            ""
+          ],
+          [
+            "",
+            "Phosphorus[P]",
+            "",
+            "880",
+            "",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 11,
+      "text": "Spectronix 200 Thermofisher \n \n5. Statistical Analysis \nStatistical significance of shoot length, canopy width, and leaf count was assessed using \none-way ANOVA followed by Tukey\u2019s HSD post-hoc test, performed in R (version 4.5.3).",
+      "char_count": 231,
+      "image_count": 6,
+      "tables": []
+    },
+    {
+      "page_number": 12,
+      "text": "\uf06e Analysis and Results \nData Analysis \nSignificance testing (ANOVA followed by Tukey's HSD post-hoc test) \nStatistical Analysis \nFor shoot length, consistent results were observed in both tomato and basil, with the largest \naverage mean difference occurred between Soil (BNF) and Regolith (RF). \nFor canopy width, the largest mean difference in basil also occurred between Soil (BNF) \nand Regolith (RF), while in tomato, the largest difference was observed between Soil (RF) \nand Soil (BNF) . A similar pattern was found in leaf count for both species, with the largest \nmean difference occurring between Soil (RF) and Soil (BNF). This observation suggests that \nSoil (BNF) is the most efficient growth-accelerator pair across all measured parameters. \nThis is further supported by the statistical significance of the comparisons involving \nSoil(BNF), which consistently yielded the lowest p-values, indicating that the superior \nperformance of Soil(BNF) was unlikely to be due to chance. \nMeanwhile, Soil (RF) and Regolith (RF) showed the lowest mean growth values across most \nparameters, indicating that laboratory prepared NPK is less effective at promoting nutrient \nuptake. This indicates BNF performs more efficient replenishment in roots. \nOverall, tomato demonstrated substantially greater growth than basil across all measured \nparameters. In addition to higher absolute values, the tomato presented smaller standard \nerrors, which indicates that the tomato has a more reliable, consistent growth pattern than \nbasil throughout the experiment. It is determined that tomato is more compatible with BNF \nthan Basil. \nAcross all results, Regolith (BNF) consistently outperformed Regolith (RF), demonstrating \nthat even nutrient-poor regolith retains the potential for plant growth when supplemented \nwith BNF.",
+      "char_count": 1816,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 13,
+      "text": "Shoot length \n \nTomato Shoot Length \n \n \n \n \nComparison \ndiff \nlwr \nupr \np adj \nSignificance \nregolith_RF \u2212 \nregolith_BNF \n\u22121.5933333 \n\u22123.7127394 \n0.5260727 \n0.2053923 \nmarginally \nsignificant \nsoil_BNF \u2212 \nregolith_BNF \n1.7458333 \n\u22120.2366895 \n3.7283562 \n0.1035938 \nmarginally \nsignificant \nsoil_RF \u2212 \nregolith_BNF \n\u22120.8366667 \n\u22122.8191895 \n1.1458562 \n0.6832794 \nn.s. \nsoil_BNF \u2212 \nregolith_RF \n3.3391667 \n1.3566438 \n5.3216895 \n0.0002022 \nsignificant \nsoil_RF \u2212 \nregolith_RF \n0.7566667 \n\u22121.2258562 \n2.7391895 \n0.7464799 \nn.s. \nsoil_RF \u2212 \nsoil_BNF \n\u22122.5825000 \n\u22124.4179595 \n\u22120.7470405 \n0.0023728 \nsignificant \n \n \n \n \n \n \nBasil Shoot \nLength \n \n \n \n \n \nComparison \ndiff \nlwr \nupr \np adj \nSignificance \nregolith_RF \u2212 \nregolith_BNF \n\u22120.6000000 \n\u22121.4710756 \n0.2710756 \n0.2753268 \nmarginally \nsignificant \nsoil_BNF \u2212 \nregolith_BNF \n0.7 \n\u22120.1148166 \n1.5148166 \n0.1170313 \nmarginally \nsignificant \nsoil_RF \u2212 \nregolith_BNF \n\u22120.1550000 \n\u22120.9698166 \n0.6598166 \n0.958464 \nn.s. \nsoil_BNF \u2212 \nregolith_RF \n1.3 \n0.4851834 \n2.1148166 \n0.0004574 \nsignificant \nsoil_RF \u2212 \nregolith_RF \n0.445 \n\u22120.3698166 \n1.2598166 \n0.4796933 \nn.s.",
+      "char_count": 1108,
+      "image_count": 2,
+      "tables": [
+        [
+          [
+            "",
+            "Comparison",
+            "",
+            "",
+            "diff",
+            "",
+            "",
+            "lwr",
+            "",
+            "",
+            "upr",
+            "",
+            "",
+            "p adj",
+            "",
+            "",
+            "Significance",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "0.2053923",
+            "",
+            "",
+            "",
+            "marginally",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "significant",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "0.1035938",
+            "",
+            "",
+            "",
+            "marginally",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "significant",
+            ""
+          ]
+        ],
+        [
+          [
+            "3.3391667",
+            "1.3566438 5.3216895",
+            "0.0002022",
+            "significant"
+          ]
+        ],
+        [
+          [
+            "0.0023728",
+            "significant"
+          ]
+        ],
+        [
+          [
+            "",
+            "Comparison",
+            "",
+            "",
+            "diff",
+            "",
+            "",
+            "lwr",
+            "",
+            "",
+            "upr",
+            "",
+            "",
+            "p adj",
+            "",
+            "",
+            "Significance",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "0.2753268",
+            "",
+            "",
+            "",
+            "marginally",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "significant",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "0.1170313",
+            "",
+            "",
+            "",
+            "marginally",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "significant",
+            ""
+          ]
+        ],
+        [
+          [
+            "1.3",
+            "0.4851834 2.1148166",
+            "0.0004574",
+            "significant"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 14,
+      "text": "soil_RF \u2212 \nsoil_BNF \n\u22120.8550000 \n\u22121.6093736 \n\u22120.1006264 \n0.0201231 \nsignificant \n \nCanopy Width \n \nTomato Canopy \nWidth \n \n \n \n \n \nComparison \ndiff \nlwr \nupr \np adj \nSignificance \nregolith_RF \u2212 \nregolith_BNF \n\u22121.8666667 \n\u22126.2163820 \n2.4830486 \n0.5758299 \nn.s. \nsoil_BNF \u2212 \nregolith_BNF \n10.8083333 \n6.7395474 \n14.8771193 \n0.0000507 \nsignificant \nsoil_RF \u2212 \nregolith_BNF \n\u22121.8416667 \n\u22125.9104526 \n2.2271193 \n0.5353131 \nn.s. \nsoil_BNF \u2212 \nregolith_RF \n12.675 \n8.6062141 \n16.7437859 \n0.0000123 \nsignificant \nsoil_RF \u2212 \nregolith_RF \n0.025 \n\u22124.0437859 \n4.0937859 \n0.9999974 \nn.s. \nsoil_RF \u2212 soil_BNF \n\u221212.6500000 \n\u221216.4169640 \n\u22128.8830360 \n0.0000062 \nsignificant \n \n \n \n \n \n \nBasil Canopy Width \n \n \n \n \nComparison \ndiff \nlwr \nupr \np adj \nSignificance \nregolith_RF \u2212 \nregolith_BNF \n\u22120.4666667 \n\u22124.4039488 \n3.4706155 \n0.9827538 \nn.s. \nsoil_BNF \u2212 \nregolith_BNF \n1.375 \n\u22122.3079902 \n5.0579902 \n0.6735932 \nn.s. \nsoil_RF \u2212 \nregolith_BNF \n\u22121.1500000 \n\u22124.8329902 \n2.5329902 \n0.7767775 \nn.s.",
+      "char_count": 974,
+      "image_count": 2,
+      "tables": [
+        [
+          [
+            "0.0201231",
+            "significant"
+          ]
+        ],
+        [
+          [
+            "",
+            "Comparison",
+            "",
+            "",
+            "diff",
+            "",
+            "",
+            "lwr",
+            "",
+            "",
+            "upr",
+            "",
+            "",
+            "p adj",
+            "",
+            "",
+            "Significance",
+            ""
+          ]
+        ],
+        [
+          [
+            "0.0000507",
+            "significant"
+          ]
+        ],
+        [
+          [
+            "12.675",
+            "8.6062141 16.7437859",
+            "0.0000123",
+            "significant"
+          ]
+        ],
+        [
+          [
+            "",
+            "0.0000062",
+            "",
+            "",
+            "significant",
+            ""
+          ]
+        ],
+        [
+          [
+            "",
+            "Comparison",
+            "",
+            "",
+            "diff",
+            "",
+            "",
+            "lwr",
+            "",
+            "",
+            "upr",
+            "",
+            "",
+            "p adj",
+            "",
+            "",
+            "Significance",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 15,
+      "text": "soil_BNF \u2212 \nregolith_RF \n1.8416667 \n\u22121.8413243 \n5.5246569 \n0.4567464 \nn.s. \nsoil_RF \u2212 \nregolith_RF \n\u22120.6833333 \n\u22124.3663236 \n2.9996569 \n0.9394788 \nn.s. \nsoil_RF \u2212 soil_BNF \n\u22122.5250000 \n\u22125.9347864 \n0.8847864 \n0.171113 \nmarginally \nsignificant \n \n \nLeaf Count \n \nTomato Leaf \nCount \n \n \n \n \n \nComparison \ndiff \nlwr \nupr \np adj \nSignificance \nregolith_RF \u2212 \nregolith_BNF \n\u22121.0000000 \n\u221211.0934270 \n9.093427 \n0.9897351 \nn.s. \nsoil_BNF \u2212 \nregolith_BNF \n16.2083333 \n6.7667974 \n25.6498693 \n0.0017604 \nsignificant \nsoil_RF \u2212 \nregolith_BNF \n\u22122.4166667 \n\u221211.8582026 \n7.0248693 \n0.8604443 \nn.s. \nsoil_BNF \u2212 \nregolith_RF \n17.2083333 \n7.7667974 \n26.6498693 \n0.0011226 \nsignificant \nsoil_RF \u2212 \nregolith_RF \n\u22121.4166667 \n\u221210.8582026 \n8.0248693 \n0.9662938 \nn.s. \nsoil_RF \u2212 \nsoil_BNF \n\u221218.6250000 \n\u221227.3661640 \n\u22129.8838360 \n0.0003271 \nsignificant",
+      "char_count": 825,
+      "image_count": 2,
+      "tables": [
+        [
+          [
+            "0.171113",
+            "",
+            "marginally",
+            ""
+          ],
+          [
+            "",
+            "",
+            "significant",
+            ""
+          ]
+        ],
+        [
+          [
+            "",
+            "Comparison",
+            "",
+            "",
+            "diff",
+            "",
+            "",
+            "lwr",
+            "",
+            "",
+            "upr",
+            "",
+            "",
+            "p adj",
+            "",
+            "",
+            "Significance",
+            ""
+          ]
+        ],
+        [
+          [
+            "0.0017604",
+            "significant"
+          ]
+        ],
+        [
+          [
+            "0.0011226",
+            "significant"
+          ]
+        ],
+        [
+          [
+            "\u221218.6250000",
+            "\u221227.3661640 \u22129.8838360",
+            "0.0003271",
+            "significant"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 16,
+      "text": "Basil Leaf Count \n \n \n \n \nComparison \ndiff \nlwr \nupr \np adj \nSignificance \nregolith_RF \u2212 \nregolith_BNF \n\u22121.3333333 \n\u22127.4690173 \n4.8023506 \n0.9078998 \nn.s. \nsoil_BNF \u2212 \nregolith_BNF \n0.3333333 \n\u22125.4060733 \n6.07274 \n0.9978713 \nn.s. \nsoil_RF \u2212 \nregolith_BNF \n\u22122.1666667 \n\u22127.9060733 \n3.57274 \n0.6663123 \nn.s. \nsoil_BNF \u2212 \nregolith_RF \n1.6666667 \n\u22124.0727400 \n7.4060733 \n0.810992 \nn.s. \nsoil_RF \u2212 \nregolith_RF \n\u22120.8333333 \n\u22126.5727400 \n4.9060733 \n0.9692661 \nn.s. \nsoil_RF \u2212 \nsoil_BNF \n\u22122.5000000 \n\u22127.8136580 \n2.813658 \n0.5051329 \nn.s.",
+      "char_count": 527,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "",
+            "Comparison",
+            "",
+            "",
+            "diff",
+            "",
+            "",
+            "lwr",
+            "",
+            "",
+            "upr",
+            "",
+            "",
+            "p adj",
+            "",
+            "",
+            "Significance",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 17,
+      "text": "Nutrient Concentrations Across Treatments \nNutrient concentrations of nitrogen (N), phosphorus (P), and potassium (K) were quantified \nfor four treatment groups: Regolith Banana Fertilizer (Reg BF), Soil Banana Fertilizer (Soil \nBF), Regolith Regular Fertilizer (Reg RF), and Soil Regular Fertilizer (Soil RF). \nConcentrations were calculated from spectrophotometric absorbance values using nutrient-\nspecific calibration curves. \n \n \ny = 43.571x + 93.363\nR\u00b2 = 1\n4000.0\n4500.0\n5000.0\n5500.0\n6000.0\n6500.0\n7000.0\n7500.0\n8000.0\n90\n100\n110\n120\n130\n140\n150\n160\n170\n180\nAbsorbance\nConcentration [ppm]\nConcentration vs Absorbance for Potassium, K. \nTURBIDITY \ny = 0.0521x + 0.0282\nR\u00b2 = 1\n-0.3\n-0.2\n-0.1\n0\n0.1\n0.2\n0.3\n-6\n-4\n-2\n0\n2\n4\n6\nAbsorbance\nConcentration [ppm]\nConcentration vs Absorbance for Phosphorus, P \nAbsorbance at l = 770 [nm]",
+      "char_count": 832,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "",
+            "y = 43.571x + 93.363"
+          ],
+          [
+            "",
+            "R\u00b2 = 1"
+          ]
+        ],
+        [
+          [
+            "0.2"
+          ],
+          [
+            "0.1"
+          ],
+          [
+            "0 -4 -2"
+          ],
+          [
+            "-0.1"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 18,
+      "text": "Table 1 summarizes the measured concentrations for nitrate, phosphorus, and potassium \nin each treatment. \nTable 1. Measured nutrient concentrations (ppm) across treatments \nTreatment \nNitrate (ppm) \nPhosphorus (ppm) \nPotassium (ppm) \nSoil + Banana Fertilizer \n32.11 \n0.4184 \n171.48 \nRegolith + Banana Fertilizer \n9.66 \n-5.34 \n152.37 \nSoil + Regular Fertilizer \n18.54 \n4.0653 \n100.54 \nRegolith + Regular Fertilizer \n7.31 \n-3.612 \n96.80 \nEffect of Substrate on Nutrient Availability \nSoil-based treatments exhibited higher nitrate concentrations than regolith-based \ntreatments for both fertilizer types. The highest nitrate concentration was observed in Soil \n+ Banana Fertilizer (32.11 ppm), whereas the lowest was measured in Regolith + \nRegular Fertilizer (7.31 ppm). This pattern suggests that soil provides a more favorable \nmedium for nitrogen retention than regolith. \ny = 0.0383x - 6E-05\nR\u00b2 = 1\n0\n0.2\n0.4\n0.6\n0.8\n1\n1.2\n1.4\n5.00\n10.00\n15.00\n20.00\n25.00\n30.00\n35.00\nAbsorbance\nConcentration [ppm]\nConcentration vs Absorbance for Nitrate, NO3\nAbsorbance at l = 515 [nm]",
+      "char_count": 1074,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "y = 0.0383x -6E-05"
+          ],
+          [
+            "R\u00b2 = 1"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 19,
+      "text": "A similar substrate-related trend was observed for phosphorus, although the regolith \ntreatments yielded negative calculated values. These values are not physically meaningful \nand likely indicate concentrations below the detection limit or the presence of matrix-related \ninterference. \nFor potassium, both soil and regolith treatments amended with banana fertilizer showed \nsubstantially higher concentrations than their regular fertilizer counterparts. The highest \npotassium concentration was measured in Soil + Banana Fertilizer (171.48 ppm), \nfollowed by Regolith + Banana Fertilizer (152.37 ppm). In contrast, Soil + Regular \nFertilizer and Regolith + Regular Fertilizer showed lower potassium concentrations of \n100.54 ppm and 96.80 ppm, respectively. \nEffect of Fertilizer Type \nBanana-derived fertilizer resulted in higher nitrate and potassium concentrations than \nregular fertilizer in both substrates. In soil, nitrate increased from 18.54 ppm with regular \nfertilizer to 32.11 ppm with banana fertilizer, while potassium increased from 100.54 ppm \nto 171.48 ppm. In regolith, nitrate increased from 7.31 ppm to 9.66 ppm, and potassium \nincreased from 96.80 ppm to 152.37 ppm. \nThese results suggest that the banana-based fertilizer may provide a greater supply of \nreadily measurable nitrogen and potassium than the regular fertilizer under the tested \nconditions. \nPhosphorus Measurement Limitations \nPhosphorus measurements showed greater variability than nitrate and potassium. While \npositive phosphorus concentrations were obtained for the soil treatments, the regolith \ntreatments produced negative calculated values. These results likely reflect concentrations \nbelow the calibration range, baseline noise, or matrix interference associated with regolith \nextracts. Therefore, phosphorus data from regolith treatments should be interpreted with \ncaution.",
+      "char_count": 1875,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 20,
+      "text": "\uf06e Discussion and Conclusions \nEnhanced Plant Growth with Banana Fertilizer \nThe results of this study demonstrate that banana fertilizer (BF) promotes enhanced plant \ngrowth compared to regular fertilizer (RF), particularly in soil systems and, to a slighter \nextent, in regolith. This trend is supported by both plant growth observations and \nquantitative nutrient analysis. \nSpecifically, nitrate concentrations were highest in Soil + BF (32.11 ppm) compared to Soil \n+ RF (18.54 ppm), while regolith treatments showed lower but consistent increases with \nBF (9.66 ppm) relative to RF (7.31 ppm). Similarly, potassium concentrations were \nsubstantially higher in BF treatments, reaching 171.48 ppm in soil and 152.37 ppm in \nregolith, compared to 100.54 ppm and 96.80 ppm, respectively, in RF treatments. \nThese results indicate that BF enhances nutrient availability, particularly for nitrogen and \npotassium, which directly influence shoot and leaf development. Although the experimental \nduration was limited to five weeks, the observed differences suggest that BF provides a \nmore effective nutrient delivery mechanism during early plant growth stages. \nMechanisms Behind Banana Fertilizer Performance \nThe superior performance of BF can be attributed to several interacting mechanisms: \n\uf0b7 \nHigh potassium availability: Elevated potassium concentrations (up to 171.48 \nppm) likely contributed to improved plant physiological performance, including \nwater regulation, enzyme activation, and photosynthesis. \n\uf0b7 \nImproved nitrogen availability: Higher nitrate concentrations in BNF treatments \n(up to 32.11 ppm) suggest enhanced nitrogen supply, a critical factor in vegetative \ngrowth. \n\uf0b7 \nSlow-release behavior: Unlike RF, which provides nutrients in highly soluble forms, \nBF likely releases nutrients gradually through organic matter decomposition, \nreducing leaching losses.",
+      "char_count": 1882,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 21,
+      "text": "\uf0b7 \nOrganic matter interactions: Organic compounds in BF may increase water \nretention, enhance microbial activity, and facilitate nutrient stabilization through \norgano-mineral interactions. \nThese combined effects provide a mechanistic explanation for the increased growth \nobserved in BF treatments. \nSubstrate Limitations and Regolith Behavior \nAs hypothesized, soil outperformed regolith in terms of nutrient retention and plant growth. \nThis is reflected in consistently higher nitrate concentrations in soil treatments (32.11 ppm \nvs. 9.66 ppm for BF: 18.54 ppm vs. 7.31 ppm for RF). \nThe lower nutrient concentrations in regolith highlight its limited capacity to retain and \nsupply nutrients, likely due to its lack of organic matter and low cation exchange capacity. \nAdditionally, potassium concentrations, while elevated in BF treatments, remained slightly \nlower in regolith (152.37 ppm) compared to soil (171.48 ppm), further supporting the role \nof substrate structure in nutrient retention. \nDespite these limitations, plant growth was achieved in regolith, demonstrating that it can \nsupport biological systems when supplemented with appropriate fertilizers. \nInteraction Between Fertilizer Type and Substrate \nThe interaction between fertilizer type and substrate is critical in determining nutrient \navailability and plant growth. BF consistently resulted in higher nitrate and potassium \nconcentrations than RF across both substrates. \nA key observation was that in regolith, BF enabled early plant growth where RF did not \nproduce measurable shoot growth during the initial stage of the experiment. This suggests \nthat BF improves early-stage nutrient accessibility, particularly in nutrient-poor substrates. \nHowever, the relative difference between BF and RF was smaller in regolith than in soil, \nindicating that substrate limitations constrain the effectiveness of fertilizer amendments.",
+      "char_count": 1911,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 22,
+      "text": "Crop-Specific Responses \nDifferences in growth between plant species were observed, with tomato plants showing \nsubstantially greater growth than basil under identical experimental conditions. This \nsuggests that plant response to substrate and fertilizer type is species dependent. \nNutrient data support this observation. BF treatments provided higher nitrate (up to 32.11 \nppm in soil and 9.66 ppm in regolith) and potassium concentrations (up to 171.48 ppm in \nsoil and 152.37 ppm in regolith), which are essential for plant growth. The enhanced growth \nof tomato plants may therefore reflect higher nutrient use efficiency (NUE), particularly for \nnitrogen. \nIn contrast, basil exhibited comparatively lower growth, suggesting differences in nutrient \nuptake capacity, metabolic demand, or root system development. These findings emphasize \nthe importance of crop selection for optimizing growth in regolith-based systems. \nPhosphorus Measurement Limitations \nPhosphorus results showed inconsistencies, including negative values in regolith treatments \n(\u22125.34 ppm and \u22123.612 ppm), which are not physically meaningful. These values likely \nindicate concentrations below the detection limit or interference from the regolith matrix. \nIn contrast, soil treatments yielded measurable phosphorus concentrations (0.4184 ppm \nfor BF and 4.0653 ppm for RF), suggesting that phosphorus is more reliably retained and \ndetected in soil systems. \nFuture studies should refine analytical methods to improve phosphorus quantification, \nparticularly in complex substrates such as regolith. \nExperimental Limitations and Future Work \nSeveral limitations should be considered: \n\uf0b7 \nShort experimental duration (five weeks) limits long-term conclusions",
+      "char_count": 1738,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 23,
+      "text": "\uf0b7 \nLack of root system analysis (length, thickness, nutrient uptake efficiency) future \nwork. \n\uf0b7 \nPhosphorus detection limitations in regolith \nFuture work should extend the experimental timeline, include full growth cycles, and \ninvestigate alternative nutrient delivery strategies. \n\uf0a7 Conclusions \nThis study demonstrates that banana-derived fertilizer is an effective organic amendment \nthat enhances plant growth in both soil and regolith systems. Quantitative analysis showed \nthat BF significantly increased nitrate (up to 32.11 ppm) and potassium (up to 171.48 ppm) \nconcentrations compared to regular fertilizer. \nWhile soil remains a more efficient substrate for plant growth, regolith was able to support \nplant development when supplemented with BF. These findings suggest that organic \nfertilizers derived from waste materials, such as banana peels, can improve nutrient \navailability and partially overcome the limitations of nutrient-poor substrates. \nThe results have important implications for sustainable agriculture in extraterrestrial \nenvironments, where in situ resource utilization and waste recycling will be essential. The \nability of BF to enhance nutrient availability and support early plant growth suggests its \npotential application in future space missions, including the Artemis program. \nOverall, this study provides evidence that organic amendments can play a critical role in \nenabling plant growth in regolith-based systems and represents a step toward the \ndevelopment of self-sustaining agricultural systems for space exploration.",
+      "char_count": 1567,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 24,
+      "text": "\uf06e Acknowledgements \nSpecial thank you to the Plant the Moon Challenge and the NASA Space Grant \nConsortium for sponsoring this team\u2019s challenge kit. Additionally, we would like to \nthank the Science Division at El Paso Community College for use of the laboratory \nfacilities, equipment, Makerspace and support. Lastly, we would like to thank the \nBiology, Physics, and Engineering Departments, specifically Dr. Olienka De la O and \nProfessor Ector Martell, for their contributions. \n\uf06e References \nH S Hussein*, H H Shaarawy, Nabila H Hussien and S I Hawash. \nPreparation of nano-fertilizer blend from banana peels. Bulleting of the \nNational Research Centre, 43:26, 2019, https://doi.org/10.1186/s42269-\n019-0058-1 \nNASA. (2025). What is lunar regolith? The Moon's surface explained. NASA \nBiological & Physical Sciences. https://science.nasa.gov/biological-\nphysical/what-is-lunar-regolith/",
+      "char_count": 891,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 25,
+      "text": "\uf06e TEAM Artemis2 \n \n\uf06e APPENDICES(R coding) \nlibrary(ggplot2) \n \n##Reading the CSV file \ndata_t <-read.csv(\"data_t.csv\") \ndata_b <-read.csv(\"data_b.csv\") \n \n##Setting functions for table \n# ---- Tomato---- \nnum_col_tom <-names(data_t)[sapply(data_t,is.numeric)] \nsum_stat_t <- function(x){ \nc( \nmean=mean(x, na.rm= TRUE), \nsd=sd(x, na.rm= TRUE), \nvar=var(x, na.rm= TRUE), \nse= sd(x, na.rm=TRUE)/sqrt(sum(!is.na(x))))}",
+      "char_count": 415,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 26,
+      "text": "sum_vals_t <- aggregate(data_t[,num_col_tom], \nby=list(treatment=data_t$treatment), \nFUN=sum_stat_t) \nsmt <- do.call(data.frame,sum_vals_t) \nwrite.csv(smt, \"smtom.csv\") \n \n#----Basil---- \nnum_col_bas <-names(data_b)[sapply(data_b,is.numeric)] \nsum_stat_p <- function(x){ \nc( \nmean=mean(x, na.rm= TRUE), \nsd=sd(x, na.rm= TRUE), \nvar=var(x, na.rm= TRUE), \nse= sd(x, na.rm=TRUE)/sqrt(sum(!is.na(x))))} \nsum_vals_p <- aggregate(data_b[,num_col_bas], \nby=list(treatment=data_b$treatment), \nFUN=sum_stat_p) \nsmp <- do.call(data.frame,sum_vals_p) \nwrite.csv(smp, \"smbasi.csv\") \n \n##ANOVA and Tukey comparison \n#Shoot_length_cm \naov_shoot_l_t <-aov(shoot_length_cm~ treatment_group, data=data_t) \naov_shlt_hsd_t <-(TukeyHSD(aov_shoot_l_t)) \naov_shlt_hsd_t \n \naov_shoot_l_b <-aov(shoot_length_cm~ treatment_group, data=data_b) \naov_shlt_hsd_b <-(TukeyHSD(aov_shoot_l_b)) \naov_shlt_hsd_b \n \n#canopy_width_cm \naov_canopy_t <- aov(canopy_width_cm ~ treatment_group, data=data_t) \naov_canopy_hsd_t <- TukeyHSD(aov_canopy_t) \naov_canopy_hsd_t \n \naov_canopy_b <- aov(canopy_width_cm ~ treatment_group, data=data_b) \naov_canopy_hsd_b <- TukeyHSD(aov_canopy_b) \naov_canopy_hsd_b \n \n#leaf_count",
+      "char_count": 1176,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 27,
+      "text": "aov_leaf_t <- aov(leaf_count ~ treatment_group, data=data_t) \naov_leaf_hsd_t <- TukeyHSD(aov_leaf_t) \naov_leaf_hsd_t \n \naov_leaf_b <- aov(leaf_count ~ treatment_group, data=data_b) \naov_leaf_hsd_b <- TukeyHSD(aov_leaf_b) \naov_leaf_hsd_b \n \n##Visualization \n# ---- Tomato (tomato) ---- \nplot_tsl <- ggplot(data_t, aes(x=treatment_group, y=shoot_length_cm)) + \n stat_summary(fun=\"mean\", geom=\"col\", fill=\"tomato\") + \n stat_summary(fun.data=mean_se, geom=\"errorbar\", width=0.1) + \n labs(title = \"Tomato\", x = \"Treatment\", y = \"Mean Shoot Length (cm)\") + \n scale_x_discrete( \n limits = c(\"soil_RF\", \"soil_BNF\", \"regolith_RF\", \"regolith_BNF\"), \n labels = c( \n \"regolith_BNF\" = \"Regolith(BNF)\", \n \"regolith_RF\" = \"Regolith(RF)\", \n \"soil_BNF\" = \"Soil(BNF)\", \n \"soil_RF\" = \"Soil(RF)\" \n ))+theme(plot.title = element_text(hjust = 0.5)) \nggsave(\"plot_tsl.png\", plot=plot_tsl, width=1800, height=1200, units=\"px\") \n \nplot_tcw <-ggplot(data_t,aes(x=treatment_group, y=canopy_width_cm)) + \n stat_summary(fun=\"mean\", geom=\"col\",fill=\"tomato\") + \n stat_summary(fun.data=mean_se,geom=\"errorbar\",width=0.1) + \n labs(title = \"Tomato\", x = \"Treatment\", y = \"Mean Canopy Width (cm)\") + \n scale_x_discrete( \n limits = c(\"soil_RF\", \"soil_BNF\", \"regolith_RF\", \"regolith_BNF\"), \n labels = c( \n \"regolith_BNF\" = \"Regolith(BNF)\", \n \"regolith_RF\" = \"Regolith(RF)\", \n \"soil_BNF\" = \"Soil(BNF)\", \n \"soil_RF\" = \"Soil(RF)\" \n ))+theme(plot.title = element_text(hjust = 0.5)) \nggsave(\"plot_tcw.png\",plot=plot_tcw,width=1800,height=1200,units=\"px\") \n \nplot_tlc <-ggplot(data_t,aes(x=treatment_group, y=leaf_count)) + \nstat_summary(fun=\"mean\", geom=\"col\",fill=\"tomato\") +",
+      "char_count": 1635,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 28,
+      "text": "stat_summary(fun.data=mean_se,geom=\"errorbar\",width=0.1) + \nlabs(title = \"Tomato\", x = \"Treatment\", y = \"Mean Leaf Count\") + \nscale_x_discrete( \n limits = c(\"soil_RF\", \"soil_BNF\", \"regolith_RF\", \"regolith_BNF\"), \n labels = c( \n \"regolith_BNF\" = \"Regolith(BNF)\", \n \"regolith_RF\" = \"Regolith(RF)\", \n \"soil_BNF\" = \"Soil(BNF)\", \n \"soil_RF\" = \"Soil(RF)\" \n ))+theme(plot.title = element_text(hjust = 0.5)) \nggsave(\"plot_tlc.png\",plot=plot_tlc,width=1800,height=1200,units=\"px\") \n \n# ---- Basil (darkolivegreen4) ---- \nplot_bsl <-ggplot(data_b,aes(x=treatment_group, y=shoot_length_cm)) + \n stat_summary(fun=\"mean\", geom=\"col\",fill=\"darkolivegreen4\") + \n stat_summary(fun.data=mean_se,geom=\"errorbar\",width=0.1) + \n labs(title = \"Basil\", x = \"Treatment\", y = \"Mean Shoot Length (cm)\") + \n scale_x_discrete( \n limits = c(\"soil_RF\", \"soil_BNF\", \"regolith_RF\", \"regolith_BNF\"), \n labels = c( \n \"regolith_BNF\" = \"Regolith(BNF)\", \n \"regolith_RF\" = \"Regolith(RF)\", \n \"soil_BNF\" = \"Soil(BNF)\", \n \"soil_RF\" = \"Soil(RF)\" \n ))+theme(plot.title = element_text(hjust = 0.5)) \nggsave(\"plot_bsl.png\",plot=plot_bsl,width=1800,height=1200,units=\"px\") \n \nplot_bcw <-ggplot(data_b,aes(x=treatment_group, y=canopy_width_cm)) + \n stat_summary(fun=\"mean\", geom=\"col\",fill=\"darkolivegreen4\") + \n stat_summary(fun.data=mean_se,geom=\"errorbar\",width=0.1) + \n labs(title = \"Basil\", x = \"Treatment\", y = \"Mean Canopy Width (cm)\") + \n scale_x_discrete( \n limits = c(\"soil_RF\", \"soil_BNF\", \"regolith_RF\", \"regolith_BNF\"), \n labels = c( \n \"regolith_BNF\" = \"Regolith(BNF)\", \n \"regolith_RF\" = \"Regolith(RF)\", \n \"soil_BNF\" = \"Soil(BNF)\", \n \"soil_RF\" = \"Soil(RF)\" \n ))+theme(plot.title = element_text(hjust = 0.5)) \nggsave(\"plot_bcw.png\",plot=plot_bcw,width=1800,height=1200,units=\"px\")",
+      "char_count": 1746,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 29,
+      "text": "plot_blc <-ggplot(data_b,aes(x=treatment_group, y=leaf_count)) + \n stat_summary(fun=\"mean\", geom=\"col\",fill=\"darkolivegreen4\") + \n stat_summary(fun.data=mean_se,geom=\"errorbar\",width=0.1) + \n labs(title = \"Basil\", x = \"Treatment\", y = \"Mean Leaf Count\") + \n scale_x_discrete( \n limits = c(\"soil_RF\", \"soil_BNF\", \"regolith_RF\", \"regolith_BNF\"), \n labels = c( \n \"regolith_BNF\" = \"Regolith(BNF)\", \n \"regolith_RF\" = \"Regolith(RF)\", \n \"soil_BNF\" = \"Soil(BNF)\", \n \"soil_RF\" = \"Soil(RF)\" \n ))+theme(plot.title = element_text(hjust = 0.5)) \nggsave(\"plot_blc.png\",plot=plot_blc,width=1800,height=1200,units=\"px\")",
+      "char_count": 603,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 30,
+      "text": "\uf06e Appendix B. Experiment Photos \n \n \nFigure 4. RF preparation",
+      "char_count": 61,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 31,
+      "text": "Figure 5. BNF preparation",
+      "char_count": 25,
+      "image_count": 6,
+      "tables": []
+    },
+    {
+      "page_number": 32,
+      "text": "Figure 6. Initial germination \n \n \nFigure 7. Plant numbering system \n \n \nFigure 8. Photos showing Final Replanting",
+      "char_count": 114,
+      "image_count": 5,
+      "tables": []
+    },
+    {
+      "page_number": 33,
+      "text": "Figure 9. Preparing for the extraction identification of nutrient amount. \n (zeroing spectrophotometer with DI water) \n \n \nNitrogen Potassium Phosphoru \nFigure 10. Nutrient Analysis",
+      "char_count": 181,
+      "image_count": 8,
+      "tables": []
+    },
+    {
+      "page_number": 34,
+      "text": "\uf06e Appendix C. Raw Data \ndate \n(yyyy/mm/dd) \nuid \ntreatment \ngroup \nspecies \nshoot \nlength \n[cm] \ncanopy \nwidth \n[cm] \nleaf \ncount \n2026/03/05 \n1.1.1 \nsoil_RF \nTomato \n3.5 \n \n \n2026/03/05 \n1.1.2 \nsoil_RF \nTomato \n2.4 \n \n \n2026/03/05 \n1.1.3 \nsoil_RF \nTomato \n5 \n \n \n2026/03/05 \n1.1.4 \nsoil_RF \nTomato \n1.8 \n \n \n2026/03/05 \n1.1.5 \nsoil_RF \nBasil \n0.4 \n \n \n2026/03/05 \n1.1.6 \nsoil_RF \nBasil \n0.8 \n \n \n2026/03/05 \n1.1.7 \nsoil_RF \nBasil \n0.5 \n \n \n2026/03/05 \n1.1.8 \nsoil_RF \nBasil \n1 \n \n \n2026/03/05 \n1.2.1 \nsoil_BNF \nTomato \n4.5 \n \n \n2026/03/05 \n1.2.2 \nsoil_BNF \nTomato \n4.5 \n \n \n2026/03/05 \n1.2.3 \nsoil_BNF \nTomato \n4.5 \n \n \n2026/03/05 \n1.2.4 \nsoil_BNF \nTomato \n3.5 \n \n \n2026/03/05 \n1.2.5 \nsoil_BNF \nBasil \n1.8 \n \n \n2026/03/05 \n1.2.6 \nsoil_BNF \nBasil \n1.4 \n \n \n2026/03/05 \n1.2.7 \nsoil_BNF \nBasil \n1.2 \n \n \n2026/03/05 \n1.2.8 \nsoil_BNF \nBasil \n1.5 \n \n \n2026/03/05 \n2.1.1 \nregolith_RF \nTomato \n0 \n \n \n2026/03/05 \n2.1.2 \nregolith_RF \nTomato \n0 \n \n \n2026/03/05 \n2.1.3 \nregolith_RF \nTomato \n0 \n \n \n2026/03/05 \n2.1.4 \nregolith_RF \nBasil \n0 \n \n \n2026/03/05 \n2.1.5 \nregolith_RF \nBasil \n0 \n \n \n2026/03/05 \n2.1.6 \nregolith_RF \nBasil \n0 \n \n \n2026/03/05 \n2.2.1 \nregolith_BNF \nTomato \n3.5 \n \n \n2026/03/05 \n2.2.2 \nregolith_BNF \nTomato \n5 \n \n \n2026/03/05 \n2.2.3 \nregolith_BNF \nTomato \n1.8 \n \n \n2026/03/05 \n2.2.4 \nregolith_BNF \nBasil \n0.9 \n \n \n2026/03/05 \n2.2.5 \nregolith_BNF \nBasil \n0.8 \n \n \n2026/03/05 \n2.2.6 \nregolith_BNF \nBasil \n1.3 \n \n \n2026/03/10 \n1.1.1 \nsoil_RF \nTomato \n5 \n \n \n2026/03/10 \n1.1.2 \nsoil_RF \nTomato \n3.1 \n \n \n2026/03/10 \n1.1.3 \nsoil_RF \nTomato \n5.7 \n \n \n2026/03/10 \n1.1.4 \nsoil_RF \nTomato \n2.7 \n \n \n2026/03/10 \n1.1.5 \nsoil_RF \nBasil \n1.5 \n \n \n2026/03/10 \n1.1.6 \nsoil_RF \nBasil \n1.5 \n \n \n2026/03/10 \n1.1.7 \nsoil_RF \nBasil \n1.5 \n \n \n2026/03/10 \n1.1.8 \nsoil_RF \nBasil \n1.1 \n \n \n2026/03/10 \n1.2.1 \nsoil_BNF \nTomato \n4.4",
+      "char_count": 1815,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 35,
+      "text": "2026/03/10 \n1.2.2 \nsoil_BNF \nTomato \n4.5 \n \n \n2026/03/10 \n1.2.3 \nsoil_BNF \nTomato \n4 \n \n \n2026/03/10 \n1.2.4 \nsoil_BNF \nTomato \n3 \n \n \n2026/03/10 \n1.2.5 \nsoil_BNF \nBasil \n1.8 \n \n \n2026/03/10 \n1.2.6 \nsoil_BNF \nBasil \n1 \n \n \n2026/03/10 \n1.2.7 \nsoil_BNF \nBasil \n0.9 \n \n \n2026/03/10 \n1.2.8 \nsoil_BNF \nBasil \n1.8 \n \n \n2026/03/10 \n2.1.1 \nregolith_RF \nTomato \n4 \n \n \n2026/03/10 \n2.1.2 \nregolith_RF \nTomato \n1.5 \n \n \n2026/03/10 \n2.1.3 \nregolith_RF \nTomato \n4.4 \n \n \n2026/03/10 \n2.1.4 \nregolith_RF \nBasil \n0.3 \n \n \n2026/03/10 \n2.1.5 \nregolith_RF \nBasil \n1 \n \n \n2026/03/10 \n2.1.6 \nregolith_RF \nBasil \n1 \n \n \n2026/03/10 \n2.2.1 \nregolith_BNF \nTomato \n3.5 \n \n \n2026/03/10 \n2.2.2 \nregolith_BNF \nTomato \n4.6 \n \n \n2026/03/10 \n2.2.3 \nregolith_BNF \nTomato \n1.7 \n \n \n2026/03/10 \n2.2.4 \nregolith_BNF \nBasil \n1 \n \n \n2026/03/10 \n2.2.5 \nregolith_BNF \nBasil \n0.6 \n \n \n2026/03/10 \n2.2.6 \nregolith_BNF \nBasil \n1.8 \n \n \n2026/03/26 \n1.1.1 \nsoil_RF \nTomato \n4.3 \n \n \n2026/03/26 \n1.1.2 \nsoil_RF \nTomato \n3.2 \n \n \n2026/03/26 \n1.1.3 \nsoil_RF \nTomato \n4.5 \n \n \n2026/03/26 \n1.1.4 \nsoil_RF \nTomato \n3.4 \n \n \n2026/03/26 \n1.1.5 \nsoil_RF \nBasil \n4 \n \n \n2026/03/26 \n1.1.6 \nsoil_RF \nBasil \n1.3 \n \n \n2026/03/26 \n1.1.7 \nsoil_RF \nBasil \n1 \n \n \n2026/03/26 \n1.1.8 \nsoil_RF \nBasil \n1.5 \n \n \n2026/03/26 \n1.2.1 \nsoil_BNF \nTomato \n7 \n \n \n2026/03/26 \n1.2.2 \nsoil_BNF \nTomato \n7.45 \n \n \n2026/03/26 \n1.2.3 \nsoil_BNF \nTomato \n5.7 \n \n \n2026/03/26 \n1.2.4 \nsoil_BNF \nTomato \n6.3 \n \n \n2026/03/26 \n1.2.5 \nsoil_BNF \nBasil \n3 \n \n \n2026/03/26 \n1.2.6 \nsoil_BNF \nBasil \n1.5 \n \n \n2026/03/26 \n1.2.7 \nsoil_BNF \nBasil \n3.5 \n \n \n2026/03/26 \n1.2.8 \nsoil_BNF \nBasil \n1.5 \n \n \n2026/03/26 \n2.1.1 \nregolith_RF \nTomato \n4 \n \n \n2026/03/26 \n2.1.2 \nregolith_RF \nTomato \n2.6 \n \n \n2026/03/26 \n2.1.3 \nregolith_RF \nTomato \n5 \n \n \n2026/03/26 \n2.1.4 \nregolith_RF \nBasil \n0.3 \n \n \n2026/03/26 \n2.1.5 \nregolith_RF \nBasil \n0.8 \n \n \n2026/03/26 \n2.1.6 \nregolith_RF \nBasil \n1.3",
+      "char_count": 1886,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 36,
+      "text": "2026/03/26 \n2.2.1 \nregolith_BNF \nTomato \n5.5 \n \n \n2026/03/26 \n2.2.2 \nregolith_BNF \nTomato \n6.6 \n \n \n2026/03/26 \n2.2.3 \nregolith_BNF \nTomato \n4.7 \n \n \n2026/03/26 \n2.2.4 \nregolith_BNF \nBasil \n1.4 \n \n \n2026/03/26 \n2.2.5 \nregolith_BNF \nBasil \n1.7 \n \n \n2026/03/26 \n2.2.6 \nregolith_BNF \nBasil \n1.7 \n \n \n2026/04/01 \n1.1.1 \nsoil_RF \nTomato \n5.3 \n \n \n2026/04/01 \n1.1.2 \nsoil_RF \nTomato \n4.2 \n \n \n2026/04/01 \n1.1.3 \nsoil_RF \nTomato \n6.2 \n \n \n2026/04/01 \n1.1.4 \nsoil_RF \nTomato \n4.8 \n \n \n2026/04/01 \n1.1.5 \nsoil_RF \nBasil \n0 \n \n \n2026/04/01 \n1.1.6 \nsoil_RF \nBasil \n2 \n \n \n2026/04/01 \n1.1.7 \nsoil_RF \nBasil \n1.8 \n \n \n2026/04/01 \n1.1.8 \nsoil_RF \nBasil \n1.4 \n \n \n2026/04/01 \n1.2.1 \nsoil_BNF \nTomato \n7.6 \n \n \n2026/04/01 \n1.2.2 \nsoil_BNF \nTomato \n8.9 \n \n \n2026/04/01 \n1.2.3 \nsoil_BNF \nTomato \n8 \n \n \n2026/04/01 \n1.2.4 \nsoil_BNF \nTomato \n8 \n \n \n2026/04/01 \n1.2.5 \nsoil_BNF \nBasil \n3.9 \n \n \n2026/04/01 \n1.2.6 \nsoil_BNF \nBasil \n1.5 \n \n \n2026/04/01 \n1.2.7 \nsoil_BNF \nBasil \n3.7 \n \n \n2026/04/01 \n1.2.8 \nsoil_BNF \nBasil \n1.6 \n \n \n2026/04/01 \n2.1.1 \nregolith_RF \nTomato \n5.9 \n \n \n2026/04/01 \n2.1.2 \nregolith_RF \nTomato \n4.1 \n \n \n2026/04/01 \n2.1.3 \nregolith_RF \nTomato \n6 \n \n \n2026/04/01 \n2.1.4 \nregolith_RF \nBasil \n0.9 \n \n \n2026/04/01 \n2.1.5 \nregolith_RF \nBasil \n1.1 \n \n \n2026/04/01 \n2.1.6 \nregolith_RF \nBasil \n1.3 \n \n \n2026/04/01 \n2.2.1 \nregolith_BNF \nTomato \n6.4 \n \n \n2026/04/01 \n2.2.2 \nregolith_BNF \nTomato \n7.4 \n \n \n2026/04/01 \n2.2.3 \nregolith_BNF \nTomato \n5 \n \n \n2026/04/01 \n2.2.4 \nregolith_BNF \nBasil \n1.3 \n \n \n2026/04/01 \n2.2.5 \nregolith_BNF \nBasil \n1.8 \n \n \n2026/04/01 \n2.2.6 \nregolith_BNF \nBasil \n2.1 \n \n \n2026/04/07 \n1.1.1 \nsoil_RF \nTomato \n5 \n2.5 \n4 \n2026/04/07 \n1.1.2 \nsoil_RF \nTomato \n4.3 \n2.5 \n6 \n2026/04/07 \n1.1.3 \nsoil_RF \nTomato \n6.8 \n4.3 \n7 \n2026/04/07 \n1.1.4 \nsoil_RF \nTomato \n5 \n2.8 \n8 \n2026/04/07 \n1.1.5 \nsoil_RF \nBasil \n0 \n0 \n0 \n2026/04/07 \n1.1.6 \nsoil_RF \nBasil \n1.4 \n0.7 \n2 \n2026/04/07 \n1.1.7 \nsoil_RF \nBasil \n1.7 \n1.7 \n4",
+      "char_count": 1923,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 37,
+      "text": "2026/04/07 \n1.1.8 \nsoil_RF \nBasil \n1.3 \n2.2 \n4 \n2026/04/07 \n1.2.1 \nsoil_BNF \nTomato \n9.8 \n14.8 \n21 \n2026/04/07 \n1.2.2 \nsoil_BNF \nTomato \n11.5 \n18.4 \n21.5 \n2026/04/0 \n1.2.3 \nsoil_BNF \nTomato \n12.5 \n12.1 \n22 \n2026/04/07 \n1.2.4 \nsoil_BNF \nTomato \n12.2 \n17.4 \n35 \n2026/04/07 \n1.2.5 \nsoil_BNF \nBasil \n4 \n5.2 \n4 \n2026/04/07 \n1.2.6 \nsoil_BNF \nBasil \n0 \n0 \n0 \n2026/04/07 \n1.2.7 \nsoil_BNF \nBasil \n5.2 \n5.8 \n8 \n2026/04/07 \n1.2.8 \nsoil_BNF \nBasil \n2 \n3.7 \n8 \n2026/04/07 \n2.1.1 \nregolith_RF \nTomato \n5.2 \n3.5 \n8 \n2026/04/07 \n2.1.2 \nregolith_RF \nTomato \n4.5 \n2.5 \n5 \n2026/04/07 \n2.1.3 \nregolith_RF \nTomato \n6.1 \n3 \n10 \n2026/04/07 \n2.1.4 \nregolith_RF \nBasil \n0.9 \n1.7 \n4 \n2026/04/07 \n2.1.5 \nregolith_RF \nBasil \n2 \n1.8 \n4 \n2026/04/07 \n2.1.6 \nregolith_RF \nBasil \n1.7 \n2 \n2 \n2026/04/07 \n2.2.1 \nregolith_BNF \nTomato \n7.4 \n6.2 \n9 \n2026/04/07 \n2.2.2 \nregolith_BNF \nTomato \n9 \n4.9 \n10 \n2026/04/07 \n2.2.3 \nregolith_BNF \nTomato \n5.1 \n3.5 \n7 \n2026/04/07 \n2.2.4 \nregolith_BNF \nBasil \n1.4 \n1.7 \n4 \n2026/04/07 \n2.2.5 \nregolith_BNF \nBasil \n1.7 \n3.3 \n4 \n2026/04/07 \n2.2.6 \nregolith_BNF \nBasil \n2.1 \n1.9 \n6",
+      "char_count": 1076,
+      "image_count": 0,
+      "tables": []
+    }
+  ]
+}

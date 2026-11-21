@@ -1,0 +1,318 @@
+{
+  "report_id": "spring24-main-wirt-county-high-school-a630d1",
+  "sha256": "967cefa91a9bbadfb6ed86fb19d9b5006a69073d37da8f5b948cf741f22a1812",
+  "page_count": 13,
+  "total_chars": 15775,
+  "avg_chars_per_page": 1213.5,
+  "total_images": 14,
+  "table_count": 4,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PLANT THE MOON CHALLENGE\nFINAL REPORT\nWirt County High School\nTeam Name: Wirt Astro Tigers\n2023-2024",
+      "char_count": 100,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "text": "Introduction\nBackground Information/Planning\nAt the start of brainstorming, our team decided to compile a few leading questions and\nexperiment criteria that would lead the entirety of the experiment. First, we deduced we\nwould need to find a plant that is resistant to change, grows quickly, and acts as a\nnutritious food source. These were the criteria that we chose because we felt that they\nwould help the plant grow and/or bloom within the time frame we were given. After\nsome research, we found a variety of pea called the Organic Patio Pride Pea that would\nmeet the prior criteria well. (See \u201cDependent Variables\u201d for more information on the\nPatio Pride Pea)\nNext, we knew we needed to decide what factors we were going to test and came to the\nconclusion that the main focus of our experiment would be on what soil additives are the\nlightest weight and have the best nutrition for Patio Pride Peas when in collaboration\nwith lunar regolith. All of our soil additive decisions stem from the goal of keeping things\nas lightweight as possible while still being effective in growing healthy peas. (See\n\u201cIndependent Variables\u201d for more information on the chosen soil additives)\nAlongside the soil additives, our team chose a watering and lighting procedure for the\ngrowth of our plants. For the light, we chose to utilize a plant grow light that all of the\nplants would be placed under so that the light was constantly consistent. For our\nwatering procedure, we chose to base our water amount off of the individual plant\u2019s\nmoisture level, rather than giving all plants the same amount. This ensured that we\nwould not end up having some plants with a good amount of water and some plants that\nare waterlogged.\nLastly, we decided what factors we would introduce and measure in order to record the\neffectiveness of our experiment on the Patio Pride Peas. We kept the fertilizer amount,\nlighting amount, and procedures we used to plant, measure and water consistent\nthroughout the experiment. This ensured we were able to isolate the impact of the soil\ncomposition on the dependent variables related to the growth of the plant.\nResearch Question\nHow do the soil additives biochar and perlite affect the growth and development of Patio\nPride Pea plants compared to 100% lunar regolith?\nHypothesis\nIf the soil mixture contains biochar as an additive, then plants will have better growth\nrates.\n1",
+      "char_count": 2390,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "text": "Variables\nIndependent Variables\nThe experiment has two independent variables that will be used to alter the composition\nof the regolith in order to test their effect on plant growth. Our first variable is a soil\nadditive called biochar, which will be tested in experiment two. Biochar will add organic\nmaterial and volume to the regolith. The second independent variable is perlite, which\nwill be tested in experiment one. Perlite will improve aeration and add volume to the\nregolith mixture. These specific additives were chosen due to how their specs compared\nto our other considerations. These specs can be seen by the chart below.\nDependent Variables\nThe experiment\u2019s dependent variable is the size and production of the pea plants. The\ngoal is to determine which soil additive will grow peas most effectively. We will measure\nthe pea plant\u2019s height in millimeters, number of leaflets, number of blooms, and\nnumber of pods(if applicable). At the conclusion of the experiment, we will also measure\nthe fresh and dry weight of each pea plant.\nWe chose to grow the Patio Pride Pea because it reaches maturity within 40 days,\nrequires a small growing area, and provides a nutritious final product that would be\nbeneficial to astronauts aboard the International Space Station. The table below contains\ninformation that helped us come to a conclusion about what plant we were going to\ngrow.\n2\nSoil/Additive\nMoisture Retention\nNutrients\nWeight\nCost\nPeat\nLarge qualities\nNot that much\n4 Quarts\nAppx. $12 per bag\nClay\nHolds water, but shrinks\nif there is an excessive\namount of moisture.\nVery rich\n1 Quarts\n$17.40\nBiochar\n5.28 - 8.96%\ndepends on the nature\nof the feedstock\nmaterials and the\npyrolytic conditions\n5 to 20\nlbs. per\ncubic\nfoot\n$75 / cubic yard.\nFish Bone\nMeal\nNo data found\ncontains a small\namount of organic\nnitrogen\n1 Ibs\n$9.99 ($0.62 per\nounce)\nPerlite\n20 - 50%\nN/A",
+      "char_count": 1877,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Soil/Additive",
+            "MoistureRetention",
+            "Nutrients",
+            "Weight",
+            "Cost"
+          ],
+          [
+            "Peat",
+            "Largequalities",
+            "Notthatmuch",
+            "4Quarts",
+            "Appx.$12perbag"
+          ],
+          [
+            "Clay",
+            "Holdswater,butshrinks ifthereisanexcessive amountofmoisture.",
+            "Veryrich",
+            "1Quarts",
+            "$17.40"
+          ],
+          [
+            "Biochar",
+            "5.28-8.96%",
+            "dependsonthenature ofthefeedstock materialsandthe pyrolyticconditions",
+            "5to20 lbs.per cubic foot",
+            "$75/cubicyard."
+          ],
+          [
+            "FishBone Meal",
+            "Nodatafound",
+            "containsasmall amountoforganic nitrogen",
+            "1Ibs",
+            "$9.99($0.62per ounce)"
+          ],
+          [
+            "Perlite",
+            "20-50%",
+            "N/A",
+            "",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "Control\nIn regards to soil composition, our two control pots will be composed of 100% lunar\nregolith. Other variables that will be added at constant rates throughout the experiment\nwill help provide additional nutrients to the soil and balance the pH value, thus\naddressing some of the problems identified in our research while still allowing our team\nto test the two independent variables.\nThroughout our three test groups, 20 grams of egg shells will be added to each pot to help\nadjust the acidic pH of the lunar regolith. A 2-15-15 liquid fertilizer will be applied every\nother week to the control, experiment one, and experiment two pots at the same rate.\nBecause the lunar regolith contains very little nutrients, the addition of fertilizer at equal\nrates across our control and both experiments will provide vital nutrients to our seeds,\nthus increasing the chances of plant germination and growth, and allowing our team a\nbetter chance to measure plant growth across the entire experimental design.\nProcedures\nPlanting Procedure\n3\nPlant Type\nTime to\nMaturity\nNutrition Value\nWater Requirements\nLight Requirements\nRadishes\n28 days\nCalories - 9\nSodium- 2mg\nOne inch per week/\nsoak the soil\nthoroughly at least\nonce a week\nAt least 6 hours of\ndirect sunlight\nRhubarb\n3-4 years\nCalories- 26\nSodium- 5mg\nContinuous water\n(add when top inch\nof soil is dry)\nAt least 6 hours of\ndirect sunlight\nPatio Pride\nPeas\n4-6\nweeks\n134 Calories\nSodium- 4.8mg\nCalcium- 48mg\nPotassium- 433.6 mg\nOne inch per week\nFull sun\nTurnips\n40-55\ndays\nCalories- 34\nSodium- 82mg\nPotassium- 233 mg\nTotal Carbs- 8g\nOne inch per week\nFull Sun\nOkra\n60-70\ndays\nCalories- 33\nSodium- 7 mg\nTotal Carbs- 7.5g\nDeep soak every\n7-10 days\nFull direct sunlight\nfor a minimum of 6-8\nhours per day",
+      "char_count": 1757,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "PlantType",
+            "Timeto Maturity",
+            "NutritionValue",
+            "WaterRequirements",
+            "LightRequirements"
+          ],
+          [
+            "Radishes",
+            "28days",
+            "Calories-9 Sodium-2mg",
+            "Oneinchperweek/ soakthesoil thoroughlyatleast onceaweek",
+            "Atleast6hoursof directsunlight"
+          ],
+          [
+            "Rhubarb",
+            "3-4years",
+            "Calories-26 Sodium-5mg",
+            "Continuouswater (addwhentopinch ofsoilisdry)",
+            "Atleast6hoursof directsunlight"
+          ],
+          [
+            "PatioPride Peas",
+            "4-6 weeks",
+            "134Calories Sodium-4.8mg Calcium-48mg Potassium-433.6mg",
+            "Oneinchperweek",
+            "Fullsun"
+          ],
+          [
+            "Turnips",
+            "40-55 days",
+            "Calories-34 Sodium-82mg Potassium-233mg TotalCarbs-8g",
+            "Oneinchperweek",
+            "FullSun"
+          ],
+          [
+            "Okra",
+            "60-70 days",
+            "Calories-33 Sodium-7mg TotalCarbs-7.5g",
+            "Deepsoakevery 7-10days",
+            "Fulldirectsunlight foraminimumof6-8 hoursperday"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 5,
+      "text": "Soil compositions will be pre-mixed by measuring the volume of each material. Once the\nsoil compositions are mixed and divided equally between the pots corresponding to our\nexperimental design, we will follow the procedures below:\n1. Moisten soil using 100 ml of water.\n2. Create two indentations 1 inch deep in each pot.\n3. Place one seed in each indentation (two per pot).\n4. Cover lightly with soil.\n5. Add an additional 15 ml of water above the location of the seeds.\n6. Once all pots are planted, they will be placed evenly under the grow light away\nfrom other light sources.\nOne week after germination has occurred, plants will be thinned to one plant per pot.\nNumber of seeds germinating in each pot, along with the days to germination will be\nrecorded in our data.\nWatering Procedure\nAfter the initial moistening of the soil, plants will be checked on Monday, Wednesday,\nand Friday for soil moisture. When soil moisture is below 20% in any group (control,\nexperiment one, or experiment two), 50 ml of water will be added. This protocol will be\nfollowed until germination. From germination until the end of the experiment, each\nplant will be given 100 ml of water twice weekly. The amount of water given may be\nadjusted throughout the experiment as needed based on the soil moisture content. Any\nchanges in procedure will be documented in our final report.\nModifications\nModifications were made to the watering procedure during the experiment. These\nmodifications were attributed to two factors:\n-\nInaccurate readings from the soil moisture probe\n-\nObserved wilting of the plants\nOne week into our experiment, we implemented a more flexible watering system that\nwas based on observed moisture content within each experimental group.\nLight Procedure\nOur only light source will be a plant grow light. We will use a rotating light procedure\nwhere the peas are in full light for 12 hours and in the dark for 12 hours. All of the pots\nwill be put on the same lighting procedure in order to avoid confounding factors. For this\nsame reason, all pots will be rotated weekly under the grow light.\nMeasurement Procedure\n4",
+      "char_count": 2118,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "text": "The plants will be measured every Friday at 9:00 AM to ensure consistency. We will\nmeasure the pea plant\u2019s height in millimeters, number of leaflets, number of blooms,\nand size of pea pods in millimeters. A final measurement of fresh and dry weight will\nalso be recorded for each plant at the conclusion of the experiment.\nTo ensure accuracy in plant growth measurements, our team will use the following\nprotocols:\n-\nPlant Height: Lay one ruler across the top of the planting container. Use another\nruler to measure the height of the plant from the ruler to the last node on the\nplant (location of last leaf that is at least 2 ml in length).\n-\nNumber of leaves - Peas have compound leaves. To ensure the most accuracy,\nstudents will count individual leaflets. Any leaflet greater than 2 ml will be\ncounted.\nAdditional environmental measurements will include soil\u2019s temperature, water amount,\nhumidity, and soil PH. Our tools for measuring will be a PH monitor, a humidity monitor,\na scale, and a ruler. These measurements will help our team consider environmental\nfactors that could affect plant growth that are outside of our independent variables.\nAll measurement data will be recorded in Google Sheets. All recordings will include the\nunit of measurement, team member recording the data, and a date stamp.\nModifications\nDue to school closures, some growth data was collected on Thursday or Monday (see\nTable 1 and Table 2).\nExperimental Design\nOur experiment will consist of three test groups to allow for replication of the test factors\nand provide our team with more confidence in our results (see Figure 1).\nControl (Pots #1 and #2)\n\u25cf\n2 Pots\n\u25cf\n100% Lunar Regolith\n\u25cf\n20 grams of crushed egg shells\n\u25cf\n2-15-15 Bloom Booster fertilizer applied every other week\nExperiment #1 (Pots 3, 4, 5, and 6):\n\u25cf\n4 Pots\n5",
+      "char_count": 1810,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "text": "\u25cf\n60% Lunar Regolith\n\u25cf\n40% Perlite - Independent factor being isolated and tested\n\u25cf\n20 grams of crushed egg shells\n\u25cf\n2-15-15 Bloom Booster fertilizer applied every other week\nExperiment #2 (Posts 7, 8, 9, and 10):\n\u25cf\n4 Pots\n\u25cf\n60% Lunar Regolith\n\u25cf\n40% Biochar - Independent factor being isolated and tested\n\u25cf\n20 grams of crushed egg shells\n\u25cf\n2-15-15 Bloom Booster fertilizer applied every other week\nFigure 1. Experimental design visualized\nExperimental Design Rationale\nThis soil composition experimental design will allow us to isolate the independent factors\nof biochar and perlite.. We decided to use the addition of egg shells in our pots to\naccount for the acidic nature of lunar regolith. We also recognized the need for\nadditional nutrients due to the lack of nutrient availability in the lunar regolith. Because\npeas are legumes, we recognized we did not need to focus our efforts on nitrogen.\nInstead, we chose the 2-15-15 fertilizer to add the macronutrients phosphorus and\npotassium to our soil. Through our research, we identified pH adjustment and lack of\nnutrients as major issues that could impact plant growth. By adding the egg shells and\n6",
+      "char_count": 1156,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "text": "fertilizers at an equal rate throughout the three test groups, we can increase the\npossibility that our plants will grow while being able to isolate the independent variables\nof biochar and perlite.\nResults\nTable 1. Average height of plants in each experimental group (cm) per week\nDate\nExp. 1 Avg. (pot 1&2)\nExp. 2 Avg. (pot 3-6)\nExp. 3 Avg. (pot 7-10)\nDay 0\n0\n0\n0\nFeb 9\n0\n0\n0\nFeb 16\n0\n20.0\n22.5\nFeb 23\n13.5\n34.0\n30.0\nMar 4\n42.5\n38.5\n38.5\nMar 8\n36.0\n43.5\n37.5\nMar 15\n40.5\n46.5\n39.5\nMar 22\n41.5\n55.0\n37.0\nApril 2\n52\n57\n35\nTable 2. Average number of leaflets in each experimental group per week\nDate\nExp. 1 Avg. (pot 1&2)\nExp. 2 Avg. (pot 3-6)\nExp. 3 Avg. (pot 7-10)\nDay 0\n0\n0\n0\nFeb 9\n0\n0\n0\nFeb 16\n0\n0\n0\nFeb 23\n7\n12.25\n11.25\nMar 1\n11.5\n12.75\n15\nMar 8\n14.5\n12.75\n15\nMar 15\n16\n12.75\n13\nMar 22\n13\n15.5\n12\nApril 2\n20\n16.5\n9\n7",
+      "char_count": 820,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Date",
+            "Exp.1Avg.(pot1&2)",
+            "Exp.2Avg.(pot3-6)",
+            "Exp.3Avg.(pot7-10)"
+          ],
+          [
+            "Day0",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "Feb9",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "Feb16",
+            "0",
+            "20.0",
+            "22.5"
+          ],
+          [
+            "Feb23",
+            "13.5",
+            "34.0",
+            "30.0"
+          ],
+          [
+            "Mar4",
+            "42.5",
+            "38.5",
+            "38.5"
+          ],
+          [
+            "Mar8",
+            "36.0",
+            "43.5",
+            "37.5"
+          ],
+          [
+            "Mar15",
+            "40.5",
+            "46.5",
+            "39.5"
+          ],
+          [
+            "Mar22",
+            "41.5",
+            "55.0",
+            "37.0"
+          ],
+          [
+            "April2",
+            "52",
+            "57",
+            "35"
+          ]
+        ],
+        [
+          [
+            "Date",
+            "Exp.1Avg.(pot1&2)",
+            "Exp.2Avg.(pot3-6)",
+            "Exp.3Avg.(pot7-10)"
+          ],
+          [
+            "Day0",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "Feb9",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "Feb16",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "Feb23",
+            "7",
+            "12.25",
+            "11.25"
+          ],
+          [
+            "Mar1",
+            "11.5",
+            "12.75",
+            "15"
+          ],
+          [
+            "Mar8",
+            "14.5",
+            "12.75",
+            "15"
+          ],
+          [
+            "Mar15",
+            "16",
+            "12.75",
+            "13"
+          ],
+          [
+            "Mar22",
+            "13",
+            "15.5",
+            "12"
+          ],
+          [
+            "April2",
+            "20",
+            "16.5",
+            "9"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 9,
+      "text": "Figure 2. Average plant height in centimeters recorded weekly\nFigure 3. Average number of leaflets recorded weekly\n8",
+      "char_count": 116,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "text": "Figure 4. Plant death observed in each experiment\nQualitative Observations\nThroughout this experiment, the team made several qualitative observations related to\nthe success of the plant growth. These observations helped us make informed decisions\nabout modifications to our watering procedure and allowed us to better understand our\nquantitative data. Here are some of the important observations we recorded throughout\nthe experiment:\n-\nThe perlite and biochar were both significantly less dense than the lunar regolith,\nmaking it very difficult to mix the soils together. Upon watering, the soils\nseparated and the biochar and perlite sat on top of the regolith for the remainder\nof the experiment.\n-\nDue to the composition of the biochar and perlite, the seeds and roots were\nmainly contained in the top layer of perlite in experiment two and biochar in\nexperiment three.\n-\nWhen watering, experiment 2 appeared to retain the least amount of water, with\nwater running immediately out of the bottom of the pots. The control group took\nthe longest time to absorb the water.\n-\nThe plants were extremely fragile, easily breaking during the measuring and\nstaking processes. Two plants, number 9 and number 3, both broke during the\nexperiment. Number 3 died as a result and number 9 had stunted growth because\nthe top of the plant was broken.\nDiscussion\nFrom the data we have collected during this project, we have seen growth in multiple\nways. As shown in the data most of our plants grew rapidly. Six out of ten of our plants\ndied (see Figure 3). For plant numbers 1, 3, and 7 the plants were dry when they were\ntaken away from the table. Numbers 5, 8, and 10 died were still slightly moist. The plants\n9",
+      "char_count": 1701,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "text": "that survived had no buds, but they had a large amount of leaves.\nOur quantitative data shows that experiment two had the greatest overall growth,\nfollowed by our control group, and finally experiment three. At the conclusion of the\nexperiment, average plant height in our perlite group was 57 cm, compared to 52\ncentimeters in the control group, and 35 cm in the biochar group.\nIn terms of number of leaflets, results were less clear. At the end of the experiment, our\ncontrol group had the highest average number of leaflets. However, we observed all\nplants that were still living at that point in the experiment looked similar in terms of\nhealth. These results appear to be inconclusive, as there isn\u2019t a clear experimental group\nthat performed better than others.\nConclusion\nOur initial hypothesis was not supported by the results of this experiment. Experiment\nthree, testing the effects of biochar as an additive to lunar regolith, showed the least\namount of growth and leaflets at the end of the experiment. Additionally, 75% of plants\nin experiment three died.\nThe results of the experiment support the use of perlite as an additive to lunar regolith to\nincrease the success of this variety of pea plants. PThe results indicate perlite allows\nhigher moisture retention in lunar soils, allowing for better plant growth.\nRecommendations for Future Research\nBased on our results and research, further investigation into the following areas is\nrecommended: analysis of the impact of fertilizer in 100% lunar regolith soils,\ncost-benefit analysis of soil additives like perlite, the impact of lunar regolith on the\nhardiness and overall growth rate of peas, effective methods for incorporating additives\ninto lunar regolith, and nutritional analysis of peas grown in lunar regolith.\nPictures of Our Experiments\n10",
+      "char_count": 1816,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 12,
+      "text": "February 6th\nFebruary 15th\nFebruary 23rd\n11",
+      "char_count": 43,
+      "image_count": 6,
+      "tables": []
+    },
+    {
+      "page_number": 13,
+      "text": "February 26th\nMarch 15th\nVideo link: https://flip.com/s/Qzqwk2tKzwfz\n12",
+      "char_count": 71,
+      "image_count": 4,
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "report_id": "fall22-junior-gators-b-525038",
+  "sha256": "868f06dd78536a2adf36d1e79bb1e99f1af608c3f371014ac8f1741bdf74b239",
+  "page_count": 4,
+  "total_chars": 2593,
+  "avg_chars_per_page": 648.2,
+  "total_images": 16,
+  "table_count": 1,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Gators B\nTeam 11043\nRiverview Elementary School\n5th Grade\nRiverview, FL\nPlant the Moon Challenge\nWhat soil additive is best for growing \narugula in lunar regolith?\n1. Hypothesis:\nOur team believes pot 2 will grow the tallest arugula because the lunar \nregolith is a fine, powdery substance so the fertilized potting mix will \nhelp provide the essential nutrients arugula needs to grow .\n2. Independent Variables:\n\u2022\n50% lunar simulant / 50% organic potting \nmix\n\u2022\n50% lunar simulant / 50% fertilized potting \nmix\n\u2022\n50% lunar simulant / 50% black Kow \nOrganic Cow Manure\n3. Dependent Variables:\n\u2022\nArugula growth\nOctober 14 growth",
+      "char_count": 627,
+      "image_count": 5,
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "text": "October 27 growth\nHow tall with our arugula grow?",
+      "char_count": 49,
+      "image_count": 5,
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "text": "Date\ntemperature \n7:00am\ntemperature \n3:00pm\n10/4/22\n76\n74\n10/5/22\n76\n74\n10/6/22\n76\n74\n10/7/22\n76\n74\n10/10/22\n80\n75\n10/11/22\n79\n74\n10/12/22\n79\n74\n10/13/22\n79\n74\n10/14/22\n78\n75\n10/17/22\n80\n74\n10/18/22\n79\n74\n10/19/22\n74\n74\n10/20/22\n71\n73\n10/21/22\n72\n78\n10/24/22\n78\n78\n10/25/22\n78\n78\n10/26/22\n77\n74\n10/27/22\n78\n80\n10/28/22\n78\n74\n10/31/22\n79\n75\n11/1/22\n79\n74\n11/2/22\n80\n74\n11/3/22\n79\n75\n11/4/22\n77\n74\n11/7/22\n81\n74\n11/8/22\n78\n78\n11/9/22\n79\n74\n11/14/22\n79\n74\n11/15/22\n78\n74\n11/16/22\n78\n74\n11/17/22\n73\n74\n11/18/22\n71\n72\n11/28/22\n81\n74\nNovember 18\nNovember 18\nNovember 18",
+      "char_count": 564,
+      "image_count": 4,
+      "tables": [
+        [
+          [
+            "Date",
+            "temperature 7:00am",
+            "temperature 3:00pm"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "Controls:\n\u2022\n100% organic potting mix\n\u2022\n100% fertilized potting mix\n\u2022\n100% black Kow Organic Cow Manure\n\u2022\nArugula seeds\n\u2022\n20 ml tap water\nResults: Our hypothesis was that Pot 2 would grow the best because we thought the fertilized potting mix will help \nprovide the essential nutrients since the lunar regolith is a fine powdery substance with not many nutrients for plant life. \nHowever, that was not the case as our pot 2 started to show signs of dying off around the beginning of November in the \nfifth week of growing. It was pot 3 with the organic potting mix that proved to be the most successful. Pot 4 grew along \nin the middle of the cup but didn't ever sprout up through the top of the layer of soil and lunar regolith. Our pots \npersevered through two hurricanes breaks and our grow period would have ended on November 21 but since we had \nthat week off from school, we recorded the data on Friday November 18 and then again after our break on November \n28. The week off school in which our classroom blinds were closed allowing minimal amount of light for the plants \nalong with no water had detrimental effects on the final data collection. One important piece we learned was that the \norganic potting soil proved to grow our arugula more successfully than the fertilized potting soil and the black Kow \nmanure brand.\nNovember 28\nNovember 18",
+      "char_count": 1353,
+      "image_count": 2,
+      "tables": []
+    }
+  ]
+}

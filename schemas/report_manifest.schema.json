@@ -1,0 +1,53 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://dr-richard-barker.github.io/Plant_the_moon/schemas/report_manifest.schema.json",
+  "title": "Plant the Moon Report Manifest",
+  "description": "FAIR provenance manifest for scraped awards metadata and downloaded student PDF reports.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "report_id",
+      "season",
+      "season_slug",
+      "year",
+      "term",
+      "track",
+      "team_name",
+      "award_tier",
+      "source_page_url",
+      "has_pdf"
+    ],
+    "properties": {
+      "report_id": { "type": "string", "minLength": 3 },
+      "season": { "type": "string" },
+      "season_slug": { "type": "string" },
+      "season_order": { "type": "integer", "minimum": 1 },
+      "year": { "type": "integer", "minimum": 2021 },
+      "term": { "type": "string", "enum": ["Spring", "Summer", "Fall"] },
+      "track": { "type": "string", "enum": ["main", "junior"] },
+      "division": { "type": "string" },
+      "award_tier": { "type": "string" },
+      "award_category": { "type": ["string", "null"] },
+      "award_badges": {
+        "type": "array",
+        "items": { "type": "string" }
+      },
+      "team_name": { "type": "string", "minLength": 1 },
+      "project_title": { "type": ["string", "null"] },
+      "location_raw": { "type": ["string", "null"] },
+      "location_city": { "type": ["string", "null"] },
+      "location_state": { "type": ["string", "null"] },
+      "pdf_url": { "type": ["string", "null"] },
+      "thumbnail_url": { "type": ["string", "null"] },
+      "source_page_url": { "type": "string", "format": "uri" },
+      "has_pdf": { "type": "boolean" },
+      "local_pdf_path": { "type": ["string", "null"] },
+      "sha256": { "type": ["string", "null"], "pattern": "^[a-f0-9]{64}$" },
+      "byte_size": { "type": ["integer", "null"], "minimum": 0 },
+      "page_count": { "type": ["integer", "null"], "minimum": 1 },
+      "http_status": { "type": ["integer", "null"] },
+      "fetched_at_utc": { "type": ["string", "null"] }
+    }
+  }
+}

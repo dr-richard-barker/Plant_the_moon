@@ -1,0 +1,79 @@
+{
+  "extraction": {
+    "report_id": "spring23-junior-penguin-power-e7d8b3",
+    "extraction_method": "heuristic",
+    "model_name": "table-aware-lexicon-v2",
+    "celestial_body": "lunar",
+    "regolith_simulant": "LHS-1",
+    "regolith_simulant_raw": "LHS1",
+    "crop_common_name": "green bean",
+    "crop_scientific_name": "Phaseolus vulgaris",
+    "crop_guild": "legume",
+    "experimental_duration_days": 56.0,
+    "total_plants_or_pots": null,
+    "replicates_per_treatment": null,
+    "has_earth_soil_control": true,
+    "has_unamended_regolith_control": false,
+    "statistical_tests_reported": [],
+    "data_availability": "summary_means",
+    "primary_bottlenecks": [
+      "nutrient_deficiency",
+      "heavy_metals_or_salinity",
+      "root_restriction"
+    ],
+    "innovation_tags": [
+      "organic_compost_manure"
+    ],
+    "key_hypothesis": "Our hypothesis that RM provided nutrients such as nitrogen",
+    "summary_findings": "The authors concluded organic matter",
+    "arms": [
+      {
+        "arm_id": "arm_ctrl_earth",
+        "arm_label": "Earth Soil Control",
+        "is_control": true,
+        "control_type": "earth_soil",
+        "regolith_pct": 0.0,
+        "amendment_category": "earth_soil_control",
+        "amendment_detail": null,
+        "amendment_dose": null,
+        "germination_rate_pct": null,
+        "survival_rate_pct": null,
+        "mean_shoot_height_cm": null,
+        "mean_root_length_cm": null,
+        "mean_fresh_biomass_g": null,
+        "mean_dry_biomass_g": null,
+        "substrate_ph": null,
+        "outcome_vs_regolith_control": "not_reported",
+        "reported_effect_pct": null,
+        "evidence_quote": "rock, known as lunar regolith, to determine if plants were able to use it in place of Earth soil.",
+        "page_number": 1
+      },
+      {
+        "arm_id": "arm_trt_1",
+        "arm_label": "Treatment (Manure)",
+        "is_control": false,
+        "control_type": "none",
+        "regolith_pct": null,
+        "amendment_category": "organic_compost_manure",
+        "amendment_detail": "Manure",
+        "amendment_dose": null,
+        "germination_rate_pct": null,
+        "survival_rate_pct": null,
+        "mean_shoot_height_cm": null,
+        "mean_root_length_cm": null,
+        "mean_fresh_biomass_g": null,
+        "mean_dry_biomass_g": null,
+        "substrate_ph": null,
+        "outcome_vs_regolith_control": "improved",
+        "reported_effect_pct": null,
+        "evidence_quote": "Rabbit Manure: a viable candidate for soil enhancement and legume success in",
+        "page_number": 1
+      }
+    ]
+  },
+  "provenance_audit": {
+    "quotes_checked": 2,
+    "quotes_matched": 2,
+    "quote_match_rate": 1.0
+  }
+}

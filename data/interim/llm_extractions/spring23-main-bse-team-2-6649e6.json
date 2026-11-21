@@ -1,0 +1,82 @@
+{
+  "extraction": {
+    "report_id": "spring23-main-bse-team-2-6649e6",
+    "extraction_method": "heuristic",
+    "model_name": "table-aware-lexicon-v2",
+    "celestial_body": "lunar",
+    "regolith_simulant": "LHS-1",
+    "regolith_simulant_raw": "lunar highland simulant",
+    "crop_common_name": "sunflower",
+    "crop_scientific_name": "Helianthus annuus",
+    "crop_guild": "other",
+    "experimental_duration_days": 56.0,
+    "total_plants_or_pots": null,
+    "replicates_per_treatment": null,
+    "has_earth_soil_control": true,
+    "has_unamended_regolith_control": false,
+    "statistical_tests_reported": [
+      "ANOVA"
+    ],
+    "data_availability": "summary_means",
+    "primary_bottlenecks": [
+      "compaction_crusting",
+      "nutrient_deficiency",
+      "light_or_temperature_stress",
+      "root_restriction"
+    ],
+    "innovation_tags": [
+      "microbial_mycorrhizal"
+    ],
+    "key_hypothesis": "We predict the biomass of our samples to increase by different extents depending",
+    "summary_findings": "1989), we came to the conclusion it could serve as a replacement for sand in a loam like soil",
+    "arms": [
+      {
+        "arm_id": "arm_ctrl_earth",
+        "arm_label": "Earth Soil Control",
+        "is_control": true,
+        "control_type": "earth_soil",
+        "regolith_pct": 0.0,
+        "amendment_category": "earth_soil_control",
+        "amendment_detail": null,
+        "amendment_dose": null,
+        "germination_rate_pct": null,
+        "survival_rate_pct": null,
+        "mean_shoot_height_cm": null,
+        "mean_root_length_cm": null,
+        "mean_fresh_biomass_g": null,
+        "mean_dry_biomass_g": null,
+        "substrate_ph": null,
+        "outcome_vs_regolith_control": "not_reported",
+        "reported_effect_pct": null,
+        "evidence_quote": "experiment, we posit that the addition of an earth soil mix will speed up the growth process of",
+        "page_number": 4
+      },
+      {
+        "arm_id": "arm_trt_1",
+        "arm_label": "Treatment (Mycorrhizae)",
+        "is_control": false,
+        "control_type": "none",
+        "regolith_pct": null,
+        "amendment_category": "microbial_mycorrhizal",
+        "amendment_detail": "Mycorrhizae",
+        "amendment_dose": null,
+        "germination_rate_pct": null,
+        "survival_rate_pct": null,
+        "mean_shoot_height_cm": null,
+        "mean_root_length_cm": null,
+        "mean_fresh_biomass_g": null,
+        "mean_dry_biomass_g": null,
+        "substrate_ph": null,
+        "outcome_vs_regolith_control": "not_reported",
+        "reported_effect_pct": null,
+        "evidence_quote": "The soil which was used was ProMix HP Mycorrhizae High",
+        "page_number": 6
+      }
+    ]
+  },
+  "provenance_audit": {
+    "quotes_checked": 2,
+    "quotes_matched": 2,
+    "quote_match_rate": 1.0
+  }
+}

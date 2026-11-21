@@ -1,0 +1,82 @@
+{
+  "extraction": {
+    "report_id": "spring22-main-academies-of-loudoun-a1-006465",
+    "extraction_method": "heuristic",
+    "model_name": "table-aware-lexicon-v2",
+    "celestial_body": "lunar",
+    "regolith_simulant": "unspecified",
+    "regolith_simulant_raw": null,
+    "crop_common_name": "green bean",
+    "crop_scientific_name": "Phaseolus vulgaris",
+    "crop_guild": "legume",
+    "experimental_duration_days": null,
+    "total_plants_or_pots": null,
+    "replicates_per_treatment": null,
+    "has_earth_soil_control": true,
+    "has_unamended_regolith_control": false,
+    "statistical_tests_reported": [
+      "ANOVA",
+      "Chi-square"
+    ],
+    "data_availability": "summary_means",
+    "primary_bottlenecks": [
+      "compaction_crusting",
+      "hydrophobicity_water_retention",
+      "nutrient_deficiency"
+    ],
+    "innovation_tags": [
+      "coir_peat_perlite_substrate"
+    ],
+    "key_hypothesis": "The original hypothesis was that if green beans are grown in lunar regolith enriched with",
+    "summary_findings": "beans and the height and length of the leaves were measured to analyze overall bean growth.",
+    "arms": [
+      {
+        "arm_id": "arm_ctrl_earth",
+        "arm_label": "Earth Soil Control",
+        "is_control": true,
+        "control_type": "earth_soil",
+        "regolith_pct": 0.0,
+        "amendment_category": "earth_soil_control",
+        "amendment_detail": null,
+        "amendment_dose": null,
+        "germination_rate_pct": null,
+        "survival_rate_pct": null,
+        "mean_shoot_height_cm": null,
+        "mean_root_length_cm": null,
+        "mean_fresh_biomass_g": null,
+        "mean_dry_biomass_g": null,
+        "substrate_ph": null,
+        "outcome_vs_regolith_control": "not_reported",
+        "reported_effect_pct": null,
+        "evidence_quote": "investigate the growth of green beans in lunar regolith supplemented with urea and potting soil.",
+        "page_number": 2
+      },
+      {
+        "arm_id": "arm_trt_1",
+        "arm_label": "Treatment (sphagnum)",
+        "is_control": false,
+        "control_type": "none",
+        "regolith_pct": null,
+        "amendment_category": "coir_peat_perlite_substrate",
+        "amendment_detail": "sphagnum",
+        "amendment_dose": null,
+        "germination_rate_pct": null,
+        "survival_rate_pct": null,
+        "mean_shoot_height_cm": null,
+        "mean_root_length_cm": null,
+        "mean_fresh_biomass_g": null,
+        "mean_dry_biomass_g": null,
+        "substrate_ph": null,
+        "outcome_vs_regolith_control": "not_reported",
+        "reported_effect_pct": null,
+        "evidence_quote": "sphagnum peat moss, perlite, fertilizer, and a wetting agent\u2014help the plant grow healthy root",
+        "page_number": 2
+      }
+    ]
+  },
+  "provenance_audit": {
+    "quotes_checked": 2,
+    "quotes_matched": 2,
+    "quote_match_rate": 1.0
+  }
+}

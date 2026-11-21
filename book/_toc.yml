@@ -1,0 +1,19 @@
+format: jb-book
+root: intro
+chapters:
+  - file: manuscript
+    title: "Synthesis Manuscript (PDF Viewer)"
+  - file: explorer
+    title: "187-Report & Trial Explorer"
+  - file: notebooks/01_corpus_eda
+    title: "01 · Corpus Provenance & EDA"
+  - file: notebooks/02_unsupervised_clustering
+    title: "02 · Unsupervised Archetypes"
+  - file: notebooks/03_meta_analysis_ml
+    title: "03 · Meta-Analysis & Predictive ML"
+  - file: notebooks/04_ai_synthesis_gaps
+    title: "04 · Bottlenecks & Research Gaps"
+  - file: methodology
+    title: "FAIR Methodology & Provenance"
+  - file: fair_data
+    title: "FAIR Data, Schemas & Downloads"

@@ -1,0 +1,184 @@
+{
+  "report_id": "spring23-junior-sgms-rad-force-5b6129",
+  "sha256": "36437182fe9e643ab30cdb18ba89ff1a1a4adcf8b9882a0bb1ae631ec53524f8",
+  "page_count": 5,
+  "total_chars": 5076,
+  "avg_chars_per_page": 1015.2,
+  "total_images": 10,
+  "table_count": 5,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Plant the Moon Experimental Design \nTeam Name: SGMS RAD Force \n \nTeam Number: 12617 \nRationale/Background: \nThis project would help NASA with their research on growing food on the Moon. We choose \nradishes because they do not take long to grow and they will spice up the food people eat when \nthey are on the Moon. \nRadishes grow best in light, sandy loams. They prefer well drained soils that are fertile and not \ncompacted. They like temperatures that range from 40 \u2013 50 degrees Fahrenheit, but 60 degrees is \nthe best. \nRadishes are best eaten raw as a condiment or in sandwiches or salads. They can be added to \nsoups. They have few calories and almost no fat. They are a good source of vitamin C. They \ncontain antioxidants as well as calcium and potassium. Radish leaves can be harvested and eaten. \nResearch Question: What helps plants grow in regolith? \nIndependent Variable: The amount of miracle gro seed starter fertilizer mix used. \nDependent Variable: The number and mass of the radishes. \nControlled variables (constants): Size of pots, amount of regolith. \nControl group: The pots without miracle gro. \nHypothesis: If the amount of miracle gro is increased than the radishes will grow bigger. \nPlanting Design \nCrop: Southern Charm Radishes \nExperimental Design Procedures: \n1. Get out all materials \n2. Put together plant stand. \n3. Put on goggles, lab coat, mask, gloves \n4. Label pots with the percentage of each additive. \n5. Get the planting materials ready. \n6. Mix 50% regolith and 50% soil \n 50% regolith, 25% miracle gro, and 25% soil \n 50% regolith, 15% miracle gro, and 35% potting soil. \n7. Put 240 mL of the regolith mixtures in each labeled pot. \n8. Place two radish seeds in the north, south, east, and west of the pot and two in the center. \n9. Sprinkle additional regolith mixture on top to cover seeds. \n10. Place pots on wicking cloth covered trays. \n11. Water the seeds. Record the amount of water. \n11. Place the pots on trays and put them under the grow lights. \n12. Record observations.",
+      "char_count": 2024,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "This project would help NASA with their research on growing food on the Moon. We choose"
+          ],
+          [
+            "radishes because they do not take long to grow and they will spice up the food people eat when"
+          ],
+          [
+            "they are on the Moon."
+          ]
+        ],
+        [
+          [
+            "Radishes grow best in light, sandy loams. They prefer well drained soils that are fertile and not"
+          ],
+          [
+            "compacted. They like temperatures that range from 40 \u2013 50 degrees Fahrenheit, but 60 degrees is"
+          ],
+          [
+            "the best."
+          ]
+        ],
+        [
+          [
+            "Radishes are best eaten raw as a condiment or in sandwiches or salads. They can be added to"
+          ],
+          [
+            "soups. They have few calories and almost no fat. They are a good source of vitamin C. They"
+          ],
+          [
+            "contain antioxidants as well as calcium and potassium. Radish leaves can be harvested and eaten."
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "14. Check the pH. Check weekly. \n15. Observe plants daily and record qualitative observations. \n16. Water plants as needed. \n \nObservations/Results: \nWe watered the radishes with 25 mL of distilled water on school days. We wrote down our \nobservations and measured the plants from the top of the soil to the tip of the tallest leave. \nPot # \nType of addend \nAppearance of Plant \nHeight of \ntallest (cm) \nMass of plants \nby pot (g) \nC-A \n50% Lunar Regolith \n50% Potting soil \nTwo plants grew. Plants looked \ngood. \n \n7 \n \n20 \nC-B \n50% Lunar Regolith \n50% Potting soil \nTwo plants grew. Plants looked \ngood \n \n12 \n \n19 \nC-C \n50% Lunar Regolith \n50% Potting soil \nTwo plants grew. Plants looked \ngood \n \n12 \n \n10 \n \n \n \nTotal Mass \n49 \n1-1 \n50% Lunar Regolith \n35% Potting soil 15% \nmiracle Gro \nAll three plants germinated. This \ngroup had the best leaves. \n \n17 \n \n22 \n1-2 \n50% Lunar Regolith \n35% Potting soil 15% \nmiracle Gro \nAll three plants germinated. \nHealthy \n \n15 \n \n23 \n1-3 \n50% Lunar Regolith \n35% Potting soil 15% \nmiracle Gro \nAll three plants germinated. \nHealthiest leaves of all the plants. \n \n10 \n \n25 \n \n \n \nTotal Mass \n70 \n2-1 \n50% Lunar Regolith \n25% Potting soil 25% \nmiracle Gro \nThey were small but they still grew \nbulb radishes. \n \n16 \n \n14 \n2-2 \n50% Lunar Regolith \n25% Potting soil 25% \nmiracle Gro \nThey all grew and they looked \nhealthy. \n \n11 \n \n20 \n2-3 \n50% Lunar Regolith \n25% Potting soil 25% \nmiracle Gro \nThey were kind of big and looked \nhealthy. \n \n17 \n \n27 \n \n \n \nTotal Mass \n61 \n \nOur results did not support our hypothesis. The radishes that grew with only 15% miracle gro \ngrew the biggest. The radishes with the most miracle gro came in second and the no miracle \ngrow radishes came in last. \nWe were surprised by our results. Radishes even grew in regolith and potting soil. We think this \nwas because the potting soil made the regolith less compact.",
+      "char_count": 1892,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Pot #",
+            "Type of addend",
+            "Appearance of Plant",
+            "Height of tallest (cm)",
+            "Mass of plants by pot (g)"
+          ],
+          [
+            "C-A",
+            "50% Lunar Regolith 50% Potting soil",
+            "Two plants grew. Plants looked good.",
+            "7",
+            "20"
+          ],
+          [
+            "C-B",
+            "50% Lunar Regolith 50% Potting soil",
+            "Two plants grew. Plants looked good",
+            "12",
+            "19"
+          ],
+          [
+            "C-C",
+            "50% Lunar Regolith 50% Potting soil",
+            "Two plants grew. Plants looked good",
+            "12",
+            "10"
+          ],
+          [
+            "",
+            "",
+            "",
+            "Total Mass",
+            "49"
+          ],
+          [
+            "1-1",
+            "50% Lunar Regolith 35% Potting soil 15% miracle Gro",
+            "All three plants germinated. This group had the best leaves.",
+            "17",
+            "22"
+          ],
+          [
+            "1-2",
+            "50% Lunar Regolith 35% Potting soil 15% miracle Gro",
+            "All three plants germinated. Healthy",
+            "15",
+            "23"
+          ],
+          [
+            "1-3",
+            "50% Lunar Regolith 35% Potting soil 15% miracle Gro",
+            "All three plants germinated. Healthiest leaves of all the plants.",
+            "10",
+            "25"
+          ],
+          [
+            "",
+            "",
+            "",
+            "Total Mass",
+            "70"
+          ],
+          [
+            "2-1",
+            "50% Lunar Regolith 25% Potting soil 25% miracle Gro",
+            "They were small but they still grew bulb radishes.",
+            "16",
+            "14"
+          ],
+          [
+            "2-2",
+            "50% Lunar Regolith 25% Potting soil 25% miracle Gro",
+            "They all grew and they looked healthy.",
+            "11",
+            "20"
+          ],
+          [
+            "2-3",
+            "50% Lunar Regolith 25% Potting soil 25% miracle Gro",
+            "They were kind of big and looked healthy.",
+            "17",
+            "27"
+          ],
+          [
+            "",
+            "",
+            "",
+            "Total Mass",
+            "61"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "Some problems we encountered were with the watering. We were not good at taking turns and \nsome of us forgot. We decided that three people would do the watering and it got better. We also \nused a mister to water the radishes because the leaves looked droopy. This made the plants look \nhealthier. \nWe were curious about how the radishes grew. The bulbs mostly sat on top of the potting mixture \nand did not grow under the soil like most root crops. If we were to do this experiment again, we \nwould grow some radishes in only potting soil to see if they grow underground. \nWe concluded that radishes would be a good crop to grow in lunar regolith. They would spice up \nthe food for the astronauts so they would be less bored with the space food they have to eat. \nWe learned how to grow a plants better and have been able to keep everything alive and in good \ncondition. \nBibliography \nUnknown. (2007, August). Radish Growing. Retrieved from dpl.nsw.gov.au \nunknown. (2022, March 24). Retrieved from Britannica: wisconsin.gov/www.britannica.com \nZelman, K. (2014, Feb 25). Nourish. Retrieved from Web MD: webmd.co/diet/features17-\nhealthy-faccts-about-radishes",
+      "char_count": 1160,
+      "image_count": 2,
+      "tables": [
+        [
+          [
+            "We learned how to grow a plants better and have been able to keep everything alive and in good"
+          ],
+          [
+            "condition."
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "",
+      "char_count": 0,
+      "image_count": 5,
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "text": "",
+      "char_count": 0,
+      "image_count": 3,
+      "tables": []
+    }
+  ]
+}

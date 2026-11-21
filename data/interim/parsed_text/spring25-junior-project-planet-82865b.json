@@ -1,0 +1,737 @@
+{
+  "report_id": "spring25-junior-project-planet-82865b",
+  "sha256": "d8e6fc0f9daee93c62b63b3600a0af952befb763d899aa61d79910de6afd8ae7",
+  "page_count": 22,
+  "total_chars": 25746,
+  "avg_chars_per_page": 1170.3,
+  "total_images": 87,
+  "table_count": 6,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Final Report \nSpring 2025 PTMC Jr.\nCoach: Isaac Yoo\nTeam Members: \nEric Jiwon Im, Eli Yoon, Jiyu Ku,\nAntonia Choi, Irene Arin Kim,\nGabe Minjin Kim, Yuna Choi, \nHayden Shin, Hyeon Jun Kwon, \nTeam: Project Planet (19756)\n1",
+      "char_count": 220,
+      "image_count": 4,
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "text": "Project Outline\nOur team wanted to find out what conditions are best for growing plants\nin Mars soil. We tested our plants in different types of:\nLights (blue, white, violet)\nSoil (Mars-Earth mixture, Earth soil only)\nPlants (peas, tomatoes, cucumbers)\n Background and Purpose\n1.\n Humans are facing challenges from climate change, and Mars is being\nconsidered as a possible new home. However, since Martian soil lacks\norganic nutrients, growing food on Mars requires special conditions like\nLED lights, controlled humidity, and nutrient-enriched hydroponic\nsystems. This project explores how different light colors affect plant\ngrowth in Martian-like soil to help future astronauts grow crops.\n 2. Hypothesis\n We hypothesize that under Mars-like soil conditions, plants (peas,\ncucumbers, and tomatoes) will grow best under violet or blue light,\nbecause these wavelengths support photosynthesis better than white\nlight.\n 3. Independent Variables\n The following variables were intentionally manipulated to observe their\neffects on plant growth:\n - Type of light: Blue, White, Violet\n - Type of soil: Mixed soil (60% Martian regolith + 40% Earth soil), \n Earth soil\n - Type of plant: Peas, Tomatoes, Cucumbers\n 4. Dependent Variables\n - Growth of plants (height, health, survival)\n 5. Controlled Variables\n - Amount of water\n - Temperature and humidity\n - Light duration\n - Pot size\n - Seed quantity\n2",
+      "char_count": 1398,
+      "image_count": 3,
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "text": "As the climate crisis accelerates, humanity faces the challenge of\nfinding a new planet to ensure survival. While humans have identified\na potential new home\u2014Mars\u2014the challenge is that we currently lack\nthe ability to grow food there. Martian regolith contains no organic\nmatter or essential nutrients, so controlled environmental conditions,\nsuch as the use of LED lighting, are necessary for plant growth.\n To address this challenge, our team explores how different light\nwavelengths (blue, red, and white) affect the growth of peas,\ncucumbers, and tomatoes in both Earth soil and Martian regolith.\nUnderstanding which light spectrum promotes optimal growth can help\nimprove future agricultural efforts on Mars.\n Previous studies have examined the effects of LED lights on plants.\nFor example, the paper \u201cInfluence of Green, Red and Blue Light\nEmitting Diodes on Multiprotein Complex Proteins and Photosynthetic\nActivity under Different Light Intensities in Lettuce Leaves (Lactuca\nsativa L.)\u201d by Sowbiya Muneer, Eun Jeong Kim, Jeong Suck Park, and\nJeong Hyun Lee investigates how different LED colors affect \u2018lettuce\u2019. \nAlthough previous studies have explored the impact of LED light on \nlettuce, little is known about how common crops like peas, cucumbers,\nand tomatoes respond to these light wavelengths in \u2018Martian regolith\u2019.\n Understanding how plants grow under various light sources in\nMartian regolith is essential for developing sustainable food production\nfor future Mars missions\u2014or eventual human settlement.\n This experiment focuses on testing three types of LED light\u2014blue,\nred, and white\u2014to analyze their effects on the growth of peas,\ncucumbers, and tomatoes in a soil mixture composed of 60% Martian\nregolith and 40% Earth soil. Although scientists have shown that red\nand blue light promote plant growth, their effects in Martian regolith\nhave not been fully tested. Therefore, it is important to examine how\ndifferent plants respond to these specific conditions. \nIntroduction\n3",
+      "char_count": 1998,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "text": "Methods\nBackground Information\n 1. Photosynthesis\n Photosynthesis is the process by which plants produce their own\nsustenance from light, water, and carbon dioxide. Light is extremely\ncrucial in this process, but not all colors of light influence plants in the\nsame way. Plants mostly use red and blue light to flourish. Blue light\nencourages plants to grow robust leaves and sturdy stems, but red light\nis more necessary for flowering and fruiting. Green light is primarily\nreflected by plants (which is why they appear green) and has little\neffect on growth. Different colored LED lights can influence how quickly\na plant grows and when it begins to blossom. This is why, even on Earth,\nscientists and farmers occasionally utilize special colored lights in\ngreenhouses to increase plant productivity. \n2. Environmental Conditions on Mars\n Growing plants on Mars is difficult since the environment is so\ndifferent from Earth. For starters, because Mars lies further from the\nSun, it receives far less sunlight, almost half that of Earth. This means\nthat the light is dimmer, and plants may not receive enough energy to\nthrive unless we utilise artificial lighting. Mars also has a relatively\nthin atmosphere, which influences the sort of sunlight that reaches the\nsurface. Because the air is too thin to carry much heat or moisture, we\nwould need to construct a controlled interior habitat for the plants,\nincluding temperature, humidity, and air pressure. \n Mars' soil is dry and dusty. It contains iron, which gives it a reddish\ncolour, as well as compounds known as perchlorates, which are toxic to\nplants. The dirt is also more acidic than Earth's soil and lacks nutrients\nthat plants require. To cultivate plants on Mars, we'd need to treat or\nmix the soil and provide additional nutrients and water. \n4",
+      "char_count": 1809,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "text": "3. Plant Growth Conditions\nGreen Peas\n Green peas are cool-weather plants that dislike excessive heat. They grow best\nat temperatures ranging from 10\u00b0C to 24\u00b0C. They require moist soil for\ngermination, but not so much water that the seeds decompose. Peas prefer\nwell-drained soil that is neutral to slightly acidic (a pH of 6.0 to 7.5 is ideal).\nThey do not require high levels of humidity, but they do require regular\nwatering. Green peas prefer full sunlight. They can still grow in low-light\ncircumstances, although at a slower rate. This makes them a good test plant for\nMartian conditions with low light levels. \nTomatoes\n Tomatoes grow best in temperatures ranging from 21\u00b0C to 29\u00b0C and require at\nleast 6-8 hours of sunlight each day. The seeds require warm, moist soil to\ngerminate. Tomatoes also prefer somewhat acidic soil with a pH of 6.0 to 6.8.\nThey grow best in well-aerated, rich soil that retains moisture while also\ndraining properly. Tomatoes prefer medium humidity and avoid moist leaves,\nwhich can lead to disease. Because they are light-loving plants, cultivating\nthem in low-light environments, such as on Mars, may be challenging unless\nadditional light is provided by LEDs. \nCucumbers\n Cucumbers are tropical plants, which prefer warm temperatures and high\nhumidity. The ideal growth temperature ranges between 21\u00b0C to 30\u00b0C. Cucumber\nseeds require warm, moist soil to germinate well. The ideal soil for cucumbers\nis loose, nutrient-rich, and slightly acidic to neutral (pH 6.0 to 7.0). These\nplants likewise enjoy sunlight and require approximately 8 hours of light per\nday to thrive well. Cucumbers may become weak or develop slowly in low-light\ncircumstances, thus they would surely benefit from artificial illumination in a\nMartian habitat. They also require plenty of water, but unlike most plants, they\ndo not want their roots to be submerged in water for too long. \n5",
+      "char_count": 1897,
+      "image_count": 3,
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "text": "Experiment Setup\n1. Variables\n This experiment tests how different LED light colors affect the growth\nof green peas, tomatoes, and cucumbers. Each plant is grown under one\nof the three light conditions: white (full-spectrum), blue, and violet (a\nred:blue mix at 4:1). The lights are on a timer so that they are only on for\n13 hours per day and the intensity is kept the same regardless of the\ncolor.\n Plants are grown in a soil mix of 60% simulated Martian soil and 40%\nEarth soil, and for cucumbers and tomatoes, also in a 100% Earth soil (as\nthe control). There are two pots for each variable combinations in\nMartian soil, and one pot for Earth soil, so there are 24 pots in total: 3\nlights (blue, white, violet) \u00d7 8 pots (2 peas, 3 cucumbers & 3 tomatoes: 2\nmixed, and 1 earth soil).\n Each pot is labeled with a code showing the plant type, light type, and\nsoil. The first letter indicates the plant (P = pea, T = tomato, C =\ncucumber), the second letter shows the light (W = white, B = blue, R =\nviolet/red-blue), and the third part shows the soil (1 or 2 = Martian mix,\nE = Earth soil). For example, PB1 is a pea under blue light in Martian\nsoil, and TRE is a tomato under violet light in Earth soil.\n2. Growing Conditions\n The pots are placed at our studio, on different shelves for each color\nof lights. To ensure no extra light interferes with the experiment, each\nrack is covered with a blackout curtain. The average temperature and\nhumidity at the studio throughout the experiment were 24.3\u00b0C and 21%,\nrespectively.\n The plants are watered every 2-3 days, 50 mL for each pot. Watering\nis skipped if the top soil is too moist, to prevent overwatering.\n6",
+      "char_count": 1662,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "text": "Experiment period: February 4 - April 3, 2025 (Approximately 2 months)\nObserved our plants 17 times.\nMeasured: height, humidity, temperature, pH, moisture, and light\nSoil Types: Mars-Earth mixed soil, Earth soil\nPlant Types: Peas, Tomatoes, Cucumbers\nLight Types: Blue light, White light, Violet=Red&Blue (4:1) light\nWe used 24 pots in total with different combinations:\n3 lights (blue, white, violet) \u00d7 8 pots (2 peas, 3 cucumbers & 3 tomatoes:\n2 mixed, and 1 earth soil).\n3. Data Collection\n During the Period of the experiment (February 4 - April 3, 2025), we\nmeasured the humidity, temperature, pH, moist, light, and plant height\nevery week at 2:20pm. For the moisture, light, and soil pH, the soil\nmaster is used. A hygrometer called HTC-1 is placed on each rack that\ndisplays the time, temperature, and relative humidity.\n We also installed indoor cameras to monitor the plants even when we\nare not at the studio.\nExperiment Summary\n7",
+      "char_count": 940,
+      "image_count": 5,
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "text": "Potting the Plants\n First, we prepared our soil by\ncreating a mixture (60% Martian &\n40% Earth) on a green Tarp. We\nalso mixed up our soil with an\nample amount of water.\n Second, we prepared 18 pots to\ngrow the plants (tomato, pea,\ncucumber) in. \n Third, we prepared the LED\nlights (blue, white, violet) as our\nindependent variables are the\ncolor of the lights. \n Fourth, we planted 3 seeds per\npot at a depth of 1 cm. \n Fifth, we labeled the plants. \n Sixth, we watered the plants\nuntil it was wet enough.\n Seventh, we put the pots under\nthe LED lights.\nWatering and Measuring\n We watered the plants every\n2~3 days, 50ml each. \n We measured the humidity,\ntemperature, pH, moist, light, and\nheight every week at 2:20pm. \nExperiment Process\n8",
+      "char_count": 741,
+      "image_count": 5,
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "text": "Monitoring and Control\n We added a camera to see how much or how the plants are growing\neven when we are not in project planet studio. \n In order to ensure lights were the independent variables we covered\nour plants with a black cloth. We only provided the lights (blue, white,\nviolet) for 13 hours a day. Then we had the lights off for 11 hours a day\nfor the plants to rest.\n We added 6 more pots (2 pots per type of plant) in 100% Earth soil to\nsee the difference as some plants were not doing well. \nExperiment Setup Summary\n We grew peas, tomatoes, and cucumbers under blue, white, and\nviolet LED lights. For all setups, we used a 3:2 mixture of Martian\nregolith and Earth soil. Additionally, we planted tomatoes and\ncucumbers in two pots each using only Earth soil. To ensure that the\nplants received light solely from the LEDs, we covered the sunlight\nwith a black curtain. We also recorded plant growth using a camera.\n9",
+      "char_count": 927,
+      "image_count": 3,
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "text": "Pea\n Mixed Soil\nBlue light\nWhite light\n Violet light\nDate\nPot 1\nPot 2\nPot 1\nPot 2\nPot 1\nPot 2\n2/4\n0cm\n0cm\n0cm\n0cm\n0cm\n0cm\n2/13\nSprout\u2605\n0cm\n0cm\n0cm\n0cm\n0cm\n2/15\n 2cm \n0cm\n0cm\n0cm\nSprout\u2605\nSprout\u2605\n2/19\n8cm\u2191\n0cm\n0cm\n0cm\n4.3cm\n3.8cm\n2/20\n10.1cm\n0cm\n0cm\n0cm\n5.6cm\n4.5cm\n2/22\n12cm\n0cm\n0cm\n0cm\n8cm\n7cm\n2/26\n 18cm\u2191\n0cm\n0cm\n0cm\n13cm\n13cm\n3/4\n19cm\n0cm\n0cm\n0cm\n13.8cm\n15cm\n3/6 \n19cm\n0cm\n0cm\n0cm\n14cm\n17cm\n3/8\n19cm\n0cm\n0cm\n0cm\n14.1cm\n17.5cm\n3/11\n19cm\n0cm\n0cm\n0cm\n14.1cm\n19cm\n3/25\n19cm\n0cm\n0cm\n0cm\n13cm \u25bc\n23cm \u2191\n3/29\n19cm\n0cm\n0cm\n0cm\n7cm \u25bc\n23cm\n4/3\n19cm\n0cm\n0cm\n0cm\n7cm\n24cm\n Pea plants results:\nPot 1 on blue light sprouted first on February 13 and grew faster.\nPot 2 on violet light started slower a but grew the tallest in the end\nat 24cm on mixed soil.\nWhite light: Didn't grow well.\nResults\n10",
+      "char_count": 784,
+      "image_count": 2,
+      "tables": [
+        [
+          [
+            "Pea",
+            "Mixed Soil",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "Blue light",
+            "",
+            "White light",
+            "",
+            "Violet light",
+            ""
+          ],
+          [
+            "Date",
+            "Pot 1",
+            "Pot 2",
+            "Pot 1",
+            "Pot 2",
+            "Pot 1",
+            "Pot 2"
+          ],
+          [
+            "2/4",
+            "0cm",
+            "0cm",
+            "0cm",
+            "0cm",
+            "0cm",
+            "0cm"
+          ],
+          [
+            "2/13",
+            "Sprout \u2605",
+            "0cm",
+            "0cm",
+            "0cm",
+            "0cm",
+            "0cm"
+          ],
+          [
+            "2/15",
+            "2cm",
+            "0cm",
+            "0cm",
+            "0cm",
+            "Sprout \u2605",
+            "Sprout \u2605"
+          ],
+          [
+            "2/19",
+            "8cm \u2191",
+            "0cm",
+            "0cm",
+            "0cm",
+            "4.3cm",
+            "3.8cm"
+          ],
+          [
+            "2/20",
+            "10.1cm",
+            "0cm",
+            "0cm",
+            "0cm",
+            "5.6cm",
+            "4.5cm"
+          ],
+          [
+            "2/22",
+            "12cm",
+            "0cm",
+            "0cm",
+            "0cm",
+            "8cm",
+            "7cm"
+          ],
+          [
+            "2/26",
+            "18cm \u2191",
+            "0cm",
+            "0cm",
+            "0cm",
+            "13cm",
+            "13cm"
+          ],
+          [
+            "3/4",
+            "19cm",
+            "0cm",
+            "0cm",
+            "0cm",
+            "13.8cm",
+            "15cm"
+          ],
+          [
+            "3/6",
+            "19cm",
+            "0cm",
+            "0cm",
+            "0cm",
+            "14cm",
+            "17cm"
+          ],
+          [
+            "3/8",
+            "19cm",
+            "0cm",
+            "0cm",
+            "0cm",
+            "14.1cm",
+            "17.5cm"
+          ],
+          [
+            "3/11",
+            "19cm",
+            "0cm",
+            "0cm",
+            "0cm",
+            "14.1cm",
+            "19cm"
+          ],
+          [
+            "3/25",
+            "19cm",
+            "0cm",
+            "0cm",
+            "0cm",
+            "13cm \u25bc",
+            "23cm \u2191"
+          ],
+          [
+            "3/29",
+            "19cm",
+            "0cm",
+            "0cm",
+            "0cm",
+            "7cm \u25bc",
+            "23cm"
+          ],
+          [
+            "4/3",
+            "19cm",
+            "0cm",
+            "0cm",
+            "0cm",
+            "7cm",
+            "24cm"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 11,
+      "text": "PB1\nPR1\nPR2\n11\n Pea plants results",
+      "char_count": 34,
+      "image_count": 17,
+      "tables": []
+    },
+    {
+      "page_number": 12,
+      "text": "Tomato\nMixed Soil\nEarth Soil\nBlue light\nWhite light\nViolet light\nBlue \nlight\u3000\nWhite\nlight\nViolet\nlight\u3000\nDate\nPot 1\nPot 2\nPot 1\nPot 2\nPot 1\nPot 2\n2/4\n0cm\n0cm\n0cm\n0cm\n0cm\n0cm\n0cm\n0cm\n0cm\n2/26\n0cm\n0cm\nSprout\u2605Sprout\u2605Sprout\u2605\n0cm\n0cm\n0cm\n0cm\n3/4\n0cm\n0cm\n0.2cm\n1.3cm\n0.5cm\n0cm\n0cm\n0cm\n0cm\n3/6\n0cm\n0cm\n0.4cm\n1.3cm\n0.7cm\n0cm\n0.5cm\n2cm\n2cm\n3/8\n0cm\n0cm\n0.3cm\n1.3cm\n0.5cm\n0cm\n2cm\n2.3cm\n2.8cm\n3/11\n0cm\n0cm\n1.5cm\n0.4cm\n0cm\u25bc\n0cm\n3cm\n3cm\n4cm\n3/25\n0cm\n0cm\n0.8cm\n0cm\u25bc\n0cm\n0cm\n4.5cm\n4.5cm\n6.5cm\n3/29\n0cm\n0cm\n0cm\u25bc\n0cm\n0cm\n0cm\n6cm\n5cm\n7cm\n4/3\n0cm\n0cm\n0cm\n0cm\n0cm\n0cm\n6cm\n5cm\n7cm\n Tomato plants results:\nMost tomatoes didn't grow well.\nThe tallest plant was on the violet light in the Earth soil: 7 cm\nTomatoes seemed to prefer Earth soil over mixed soil, but liked white\nlight the best in mixed soil.\nNo tomatoes in mixed soil grew under the blue light.\n12",
+      "char_count": 835,
+      "image_count": 2,
+      "tables": [
+        [
+          [
+            "Tomato",
+            "Mixed Soil",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Earth Soil",
+            "",
+            ""
+          ],
+          [
+            "",
+            "Blue light",
+            "",
+            "White light",
+            "",
+            "Violet light",
+            "",
+            "Blue light",
+            "White light",
+            "Violet light"
+          ],
+          [
+            "Date",
+            "Pot 1",
+            "Pot 2",
+            "Pot 1",
+            "Pot 2",
+            "Pot 1",
+            "Pot 2",
+            "",
+            "",
+            ""
+          ],
+          [
+            "2/4",
+            "0cm",
+            "0cm",
+            "0cm",
+            "0cm",
+            "0cm",
+            "0cm",
+            "0cm",
+            "0cm",
+            "0cm"
+          ],
+          [
+            "2/26",
+            "0cm",
+            "0cm",
+            "Sprout \u2605",
+            "Sprout \u2605",
+            "Sprout \u2605",
+            "0cm",
+            "0cm",
+            "0cm",
+            "0cm"
+          ],
+          [
+            "3/4",
+            "0cm",
+            "0cm",
+            "0.2cm",
+            "1.3cm",
+            "0.5cm",
+            "0cm",
+            "0cm",
+            "0cm",
+            "0cm"
+          ],
+          [
+            "3/6",
+            "0cm",
+            "0cm",
+            "0.4cm",
+            "1.3cm",
+            "0.7cm",
+            "0cm",
+            "0.5cm",
+            "2cm",
+            "2cm"
+          ],
+          [
+            "3/8",
+            "0cm",
+            "0cm",
+            "0.3cm",
+            "1.3cm",
+            "0.5cm",
+            "0cm",
+            "2cm",
+            "2.3cm",
+            "2.8cm"
+          ],
+          [
+            "3/11",
+            "0cm",
+            "0cm",
+            "1.5cm",
+            "0.4cm",
+            "0cm\u25bc",
+            "0cm",
+            "3cm",
+            "3cm",
+            "4cm"
+          ],
+          [
+            "3/25",
+            "0cm",
+            "0cm",
+            "0.8cm",
+            "0cm\u25bc",
+            "0cm",
+            "0cm",
+            "4.5cm",
+            "4.5cm",
+            "6.5cm"
+          ],
+          [
+            "3/29",
+            "0cm",
+            "0cm",
+            "0cm\u25bc",
+            "0cm",
+            "0cm",
+            "0cm",
+            "6cm",
+            "5cm",
+            "7cm"
+          ],
+          [
+            "4/3",
+            "0cm",
+            "0cm",
+            "0cm",
+            "0cm",
+            "0cm",
+            "0cm",
+            "6cm",
+            "5cm",
+            "7cm"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 13,
+      "text": "TR1\nTW1\nTW2\nTWE\nTRE\nTBE\n13\n Tomato plants results:",
+      "char_count": 50,
+      "image_count": 9,
+      "tables": []
+    },
+    {
+      "page_number": 14,
+      "text": "Cucumber\nMixed Soil\nEarth Soil\nBlue light\nWhite light\nViolet light\nBlue light\nWhite light Violet light\u3000\nDate\nPot 1\nPot 2\nPot 1\nPot 2\nPot 1\nPot 2\n2/4\n0cm\n0cm\n0cm\n0cm\n0cm\n0cm\n0cm\n0cm\n0cm\n2/26\n0cm\n0cm\n0cm\n0cm\n0cm\n0cm\n0cm\n0cm\n0cm\n3/4\n0cm\n0cm\n0cm\n0cm\n0cm\n0cm\nSprout\u2605\nSprout\u2605\nSprout\u2605\n3/6\n0cm\n0cm\n0cm\n0cm\n0cm\n0cm\n3.5cm\n0.8cm\n2cm\n3/8\n0cm\n0cm\n0cm\n0cm\n0cm\n0cm\n5.7cm\n1.8cm\n5.7cm\u2191\n3/11\n0cm\n0cm\n0cm\n0cm\n0cm\n0cm\n9cm\n1.9cm\n9cm\n3/25\n0cm\n0cm\n0cm\n0cm\n0cm\n0cm\n11cm\n14.5cm\u2191\n15cm\u2191\n3/29\n0cm\n0cm\n0cm\n0cm\n0cm\n0cm\n11cm\n15cm\n15cm\n4/3\n0cm\n0cm\n0cm\n0cm\n0cm\n0cm\n13cm\n14cm\n15cm\n Cucumber plants results:\nThe tallest plant in the violet light in the earth soil: 15 cm\nThe second best was in white light, in the earth soil: 14 cm\nCucumbers in mixed soil didn't grow at all regardless of light colors,\nbut grew better in Earth soil.\nCWE\nCBE\nCRE\n14",
+      "char_count": 813,
+      "image_count": 7,
+      "tables": [
+        [
+          [
+            "Cucumber",
+            "Mixed Soil",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Earth Soil",
+            "",
+            ""
+          ],
+          [
+            "",
+            "Blue light",
+            "",
+            "White light",
+            "",
+            "Violet light",
+            "",
+            "Blue light",
+            "White light",
+            "Violet light"
+          ],
+          [
+            "Date",
+            "Pot 1",
+            "Pot 2",
+            "Pot 1",
+            "Pot 2",
+            "Pot 1",
+            "Pot 2",
+            "",
+            "",
+            ""
+          ],
+          [
+            "2/4",
+            "0cm",
+            "0cm",
+            "0cm",
+            "0cm",
+            "0cm",
+            "0cm",
+            "0cm",
+            "0cm",
+            "0cm"
+          ],
+          [
+            "2/26",
+            "0cm",
+            "0cm",
+            "0cm",
+            "0cm",
+            "0cm",
+            "0cm",
+            "0cm",
+            "0cm",
+            "0cm"
+          ],
+          [
+            "3/4",
+            "0cm",
+            "0cm",
+            "0cm",
+            "0cm",
+            "0cm",
+            "0cm",
+            "Sprout \u2605",
+            "Sprout \u2605",
+            "Sprout \u2605"
+          ],
+          [
+            "3/6",
+            "0cm",
+            "0cm",
+            "0cm",
+            "0cm",
+            "0cm",
+            "0cm",
+            "3.5cm",
+            "0.8cm",
+            "2cm"
+          ],
+          [
+            "3/8",
+            "0cm",
+            "0cm",
+            "0cm",
+            "0cm",
+            "0cm",
+            "0cm",
+            "5.7cm",
+            "1.8cm",
+            "5.7cm\u2191"
+          ],
+          [
+            "3/11",
+            "0cm",
+            "0cm",
+            "0cm",
+            "0cm",
+            "0cm",
+            "0cm",
+            "9cm",
+            "1.9cm",
+            "9cm"
+          ],
+          [
+            "3/25",
+            "0cm",
+            "0cm",
+            "0cm",
+            "0cm",
+            "0cm",
+            "0cm",
+            "11cm",
+            "14.5cm\u2191",
+            "15cm\u2191"
+          ],
+          [
+            "3/29",
+            "0cm",
+            "0cm",
+            "0cm",
+            "0cm",
+            "0cm",
+            "0cm",
+            "11cm",
+            "15cm",
+            "15cm"
+          ],
+          [
+            "4/3",
+            "0cm",
+            "0cm",
+            "0cm",
+            "0cm",
+            "0cm",
+            "0cm",
+            "13cm",
+            "14cm",
+            "15cm"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 15,
+      "text": "PB1\nPR1\nPR2\nCRE\nTRE\nCWE\nFirst Sprout\nWhat this shows:\nThe colored lines show how tall different plants grew over time.\nLook at the pink solid line (PR2) - this pea plant under violet light\ngrew the tallest!\nThe blue solid line (PB1) grew quickly at first.\nMars Soil Plant Growth Experiment: Main Growth Pot Comparision\n2/4\n2/15\n2/26\n3/6\n3/11\n3/25\n3/29\n4/3\n0\n5\n10\n15\n20\n25\nHeight of plant(cm)\nPeas: Performed best under violet light in mixed soil (PR2)\nreaching 24cm, and also grew well under blue light in mixed\nsoil (PB1) reaching 19cm.\nTomatoes: Showed the best growth under violet light in Earth\nsoil (TWE), reaching 7.0 cm.\nCucumbers: Grew best under violet light in Earth soil (CRE)\nreaching 15cm, and also performed relatively well under white\nlight in Earth soil (CWE) reaching 14cm.\nThese results demonstrate that different plants have specific\npreferences for light and soil conditions when grown in Mars-\nlike environments. This information could be valuable for\nfuture Mars colonization efforts and space farming initiatives.\n15",
+      "char_count": 1039,
+      "image_count": 2,
+      "tables": [
+        [
+          [
+            "PB1 PR1",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "PB1 PR1",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "PR2 CRE TRE",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "CWE First Spro",
+            "CWE First Spro",
+            "",
+            "",
+            "ut",
+            "",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 16,
+      "text": "What this shows:\nEach bar shows how tall a plant grew by the end of our experiment\nTallest plant: PR2 (peas, violet light in mixed soil) 24cm\nSecond tallest: PB1 (peas, blue light in mixed soil) 19cm\nThird tallest: CRE (cucumbers, violet light in Earth soil) 15cm\nCWE (cucumbers, white light in Earth soil) reached 14cm\nCBE (cucumbers, blue light in Earth soil) reached 13cm\nResults Summary:\nTallest growth: PR2 (Violet light, Mixed soil, Peas) - 24cm\nFastest initial growth: PB1 (Blue light, Mixed soil, Peas)\nMost consistent growth: CRE (Violet light, Earth soil, Cucumbers)\nGrowth failures: Multiple plants, especially tomatoes under blue\nlight in mixed soil.\nPB1\nCBE\nTBE\nTW1\nCWE\nTWE\nPR1\nPR2\nCRE\nTRE\n0\n5\n10\n15\n20\n25\nWe put the height of\nthe plants that grew\nMars Soil Plant Growth Experiment: All pots final height\nWhat we discovered:\nPeas are the easiest to grow on Mars (given the conditions we have\nobserved), Tomatoes and Cucumbers in mixed soil under any of the\nlights were unable to grow. Special accommodations will be needed to\nimprove their overall growth.\nLight color makes a big difference for plant growth.\n16",
+      "char_count": 1124,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 17,
+      "text": "Date\nEvent\nDetails\n2/8\npH drop\npH level fell to 3.5 (very acidic)\n2/13\n2/15\nFirst sprouts\nSprouts appeared in PB1 and PR1\n2/20\nLight intensity increase\nLight intensity increased from 100 to 200\n2/22\nTemperature peak\nTemperature rose to 29.3\u00b0C\n(highest during experiment)\n3/6\nMost plants germinated\n4 out of 8 tracked plants have already\nsprouted and begin to grow.\n3/25\nCBE & CRE maximum growth\nBoth plants reached 15cm height\nKey Environmental Changes\nLight Type\nSoil Type\nSuccess Rate\nAverage Final Height\nBlue\nMixed\n0.25\n5.5cm\nBlue\nEarth\n0.5\n11.0cm\nWhite\nMixed\n0.33\n6.0cm\nWhite\nEarth\n0.5\n5.0cm\nViolet\nMixed\n0.4\n10.3cm\nViolet\nEarth\n0.75\n11.0cm\nGrowth Success Rate by Condition\nKey Observations\nWhat we learned about growing conditions:\npH changes: When pH dropped to 3.5 (very acidic) on February 8,\nplants didn't sprout\nTemperature: Plants grew best between 24-27\u00b0C\nLight intensity: Increasing light for white light group helped\ntomatoes grow in the mixed soil.\nBest soil: Mixed soil was better for peas than tomatoes and\ncucumbers\n17",
+      "char_count": 1037,
+      "image_count": 2,
+      "tables": [
+        [
+          [
+            "Date",
+            "Event",
+            "Details"
+          ],
+          [
+            "2/8",
+            "pH drop",
+            "pH level fell to 3.5 (very acidic)"
+          ],
+          [
+            "2/13 2/15",
+            "First sprouts",
+            "Sprouts appeared in PB1 and PR1"
+          ],
+          [
+            "2/20",
+            "Light intensity increase",
+            "Light intensity increased from 100 to 200"
+          ],
+          [
+            "2/22",
+            "Temperature peak",
+            "Temperature rose to 29.3\u00b0C (highest during experiment)"
+          ],
+          [
+            "3/6",
+            "Most plants germinated",
+            "4 out of 8 tracked plants have already sprouted and begin to grow."
+          ],
+          [
+            "3/25",
+            "CBE & CRE maximum growth",
+            "Both plants reached 15cm height"
+          ]
+        ],
+        [
+          [
+            "Light Type",
+            "Soil Type",
+            "Success Rate",
+            "Average Final Height"
+          ],
+          [
+            "Blue",
+            "Mixed",
+            "0.25",
+            "5.5cm"
+          ],
+          [
+            "Blue",
+            "Earth",
+            "0.5",
+            "11.0cm"
+          ],
+          [
+            "White",
+            "Mixed",
+            "0.33",
+            "6.0cm"
+          ],
+          [
+            "White",
+            "Earth",
+            "0.5",
+            "5.0cm"
+          ],
+          [
+            "Violet",
+            "Mixed",
+            "0.4",
+            "10.3cm"
+          ],
+          [
+            "Violet",
+            "Earth",
+            "0.75",
+            "11.0cm"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 18,
+      "text": "In general, tomatoes, cucumbers, and peas did not grow well under\nwhite light. This is likely because plants preferentially absorb red and\nblue light wavelengths. White light contains a broad spectrum of\nwavelengths, but not always in the optimal ratios for plant growth,\nmaking it less effective for growing crops.\n Blue light had varying effects on plant growth depending on the\nsoil type. Cucumbers grew well in Earth soil but failed to grow in the\n60% Martian regolith mixture. This suggests that Martian regolith may\ncontain chemicals that inhibit cucumber growth. Additionally,\ntomatoes were unable to thrive in the regolith mixture, likely for\nsimilar reasons. However, in Earth soil, they grew naturally well, as\nthey did under the other light conditions. Lastly, peas grew well\nunder blue light. One key reason for this is that blue light promotes\nstrong, sturdy growth, resulting in shorter and thicker plants.\n Violet light provided the most favorable conditions for both peas\nand cucumbers. However, cucumbers only grew well in Earth soil,\nindicating that Martian regolith was still unsuitable for them under\nviolet light. Violet light supports photosynthesis by aiding chlorophyll\nabsorption and promotes stem and leaf development (cell expansion),\nas well as regulating flowering and fruit production.\n Overall, red or blue light is best for plant growth in Martian\nregolith, as both wavelengths play essential roles. Red light\n(approximately 660 nm) is the most effective for photosynthesis and\nflowering. Since the goal of this project is to explore ways to grow food\non Mars, red light appears to be the most suitable option for\ncultivating crops. Meanwhile, blue light (around 450 nm) helps control\nplant structure and enhances resilience. White light, on the other\nhand, is less efficient and not ideal for plant development.\nDiscussions\n18",
+      "char_count": 1859,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 19,
+      "text": "Moreover, this experiment aligns with PTMC\u2019s goal of exploring\nagricultural methods that can thrive in a Martian environment. By\nunderstanding how different light wavelengths affect plant growth in\nMartian regolith simulant, this research contributes valuable knowledge\nfor the development of future Martian farming systems.\n As outlined in the research objectives, this study is designed to help\nfuture farmers determine the most effective light conditions for\ngrowing crops in Martian regolith mixed with Earth soil. This research\nwill help prepare future astronauts for sustainable farming on Mars.\n Therefore, peas could serve as a primary food source when humans\neventually settle on Mars and begin planting crops to start a new\ncivilization. Astronauts and future settlers may rely on crops like peas\nto build a sustainable community, especially if climate change on Earth\nbecomes too difficult to manage. Our team aims to contribute to a better\nfuture by supporting a world in which the next civilization can thrive.\nFuture Consideration\n Our experiment was successful for peas grown under blue and violet\nlight, as they grew well. However, we encountered a problem: rotten soil.\nWe observed that most of the plants had fungus growing all over the soil,\nand in some cases, even on the stems. Because of this, our team decided\nto improve this part of the experiment. We thought that adjusting the\namount of water, humidity, and temperature could help solve the issue.\n To begin with, humidity in the environment may have affected the\nplants. When the humidity is low (dry air), plants lose water quickly\nthrough their leaves, which can cause them to wilt. On the other hand,\nwhen the humidity is high, plants retain more water and stay hydrated. \n19",
+      "char_count": 1755,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 20,
+      "text": "However, excessive humidity can also encourage the growth of mold\nand fungi, potentially leading to rot. These conditions may have\nnegatively affected our experiment. When we examined the surface of\nthe soil and the plants, we observed a significant amount of fungus and\nmold. It is likely that this was caused by too much water and high\nhumidity levels.\n Secondly, we considered how temperature might have affected plant\ngrowth. We asked ourselves, \u201cWhat could we do to help the plants grow\nbetter?\u201d According to our experiment records, the average temperature\nwas 22.8\u00b0C. However, each plant species has its own ideal temperature\nrange. Based on our research, peas grow best at around 10\u00b0C, tomatoes at\n18\u00b0C, and cucumbers at 21\u00b0C. From this information, we realized that it\nwould be better to grow each type of plant in a different location, where\nwe could control the temperature to better suit their individual needs.\n Lastly, our experiment may have been affected by either a lack of\nwater or too much water. We gave each plant 50 ml of water every two\ndays. If we had adjusted the water levels, the outcome of the experiment\nmight have been different. Too little water can cause wilting, browning\nof leaves, and eventually plant death. On the other hand, overwatering\ncan also cause wilting, yellowing, and death. If we had provided just the\nright amount of water, the plants might have grown even better.\nThe best humidity for each plant\n-Tomatoes:60~85%\n-Cucumbers:50~70%\n-Peas:50~70% \nThe best water amount for each plants\n-Tomatoes: 50 ml each day\n-Cucumbers:1~1.5 inches per week\n-Peas: 50 ml every three days\nThe best temperature for each plants\n-Tomatoes: 18 celcius\n-Cucumbers: 21 celcius\n-Peas: 10 celcius\n20",
+      "char_count": 1724,
+      "image_count": 3,
+      "tables": []
+    },
+    {
+      "page_number": 21,
+      "text": "To conclude, the best plants to try with Martian simulant was peas.\nThey're hardy and healthy under violet light, and grow quickly under blue\nlight. We recommend you to use white or violet light for tomatoes.\nSurprisingly, tomatoes do not grow at all under blue light. According to our\nexperiment, cucumbers do not grow in Martian simulant regardless of light\ncolors. It is important to keep the pH between 5-7, so it is not too acidic.\nAlso, we have to keep the temperature around 24\u00b0C to 27\u00b0C. So, we hope that\nwe can observe these factors and improve our experiment next time.\nWhich conditions worked best:\nBest light for peas: Violet light (PR2: 24 cm)\nBest light for tomatoes: Violet light (TRE: 7 cm)\nBest light for cucumbers: Violet light (CRE: 15 cm)\nBest plant type for Mixed soil (60:40): Peas (PB1 : 19cm,\nPR2 : 24cm)\nConclusion\n We conducted an experiment to study how different light colors affect\nplant growth. The plants grew best under violet light and showed the\nleast growth under white light. There\u2019s a reason why plants did not\ngrow well under white light: plants primarily absorb red and blue\nwavelengths for photosynthesis, but not white light. Since white light\ncontains a mix of all colors, much of it goes unused and is essentially\nwasted from the plant\u2019s perspective.\n Our team kept a record of the plants\u2019 growth. Among the three types\nof plants, peas grew the best. This is because peas are known to grow\nwell under LED lights, which mimic the sun\u2019s spectrum and provide the\nessential wavelengths for photosynthesis. This outcome was unexpected,\nas we originally predicted that cucumbers would grow the best. \n21",
+      "char_count": 1640,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 22,
+      "text": "We assumed the amount of water (about 17 millimeters) would suit\ncucumbers well, but it didn\u2019t. We watered the plants with about 50\nmilliliters every two days and exposed them to light for 13 hours each\nday to simulate natural conditions. Our soil mixture was 60% Martian\nregolith and 40% Earth soil, with an additional setup using 100% Earth\nsoil to help us better observe the differences in plant growth.\n Our main success in this project was the growth of peas, which\nreached up to 24 centimeters under red light with a violet hue. However,\nour biggest challenge was that the other plants\u2014cucumbers and\ntomatoes\u2014did not grow as well. This was especially surprising for\ncucumbers, which we expected to perform the best. The cucumbers\ndidn\u2019t grow at all, and the tomatoes grew only about 3 centimeters.\nAdditionally, we discovered mold on the soil and some parts of the\nplants, likely caused by poor air circulation. Mold can damage leaves,\nstems, and roots, ultimately affecting plant growth. This showed us that\nair flow is another important factor to consider during experiments.\n Overall, we achieved a lot through this experiment, but the results\ncould have been improved if we had observed and controlled\ntemperature, humidity, and water levels more carefully. In our next\nexperiment, we hope to focus more closely on these three factors.\nAdditionally, we could improve our data collection by tracking plant\ngrowth more frequently and scientifically.\n22",
+      "char_count": 1460,
+      "image_count": 6,
+      "tables": []
+    }
+  ]
+}

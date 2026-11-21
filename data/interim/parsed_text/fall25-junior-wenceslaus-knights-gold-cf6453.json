@@ -1,0 +1,185 @@
+{
+  "report_id": "fall25-junior-wenceslaus-knights-gold-cf6453",
+  "sha256": "0e8c08ef53bec7ea19d8a4839031c6fe85dd8605a548e30e5d83fa8867f37e00",
+  "page_count": 8,
+  "total_chars": 8501,
+  "avg_chars_per_page": 1062.6,
+  "total_images": 14,
+  "table_count": 3,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Plant the Moon Challenge Jr: Fall 2025 \nTeam: Wenceslaus Knights Gold Admin: Renee Hanson \n Crop: Romain Lettuce Team ID: 23592 \n \nIndependent Variables (what we change) \n\u25cf\u200b Composition: \n\u25cb\u200b 100% Earth soil (control) + 2 worms \n\u25cb\u200b 100% Moon regolith simulant (control) + 2 worms \n\u25cb\u200b 50% Regolith / 40% Earth soil / 10% Banana peel + 2 worms \n\u25cb\u200b 50% Regolith / 40% Earth Soil / 5% Banana Peel / 5% egg shell + 2 worms \n\u25cb\u200b 50% Regolith / 50% Earth soil + 2 worms \nAmendments- Banana peel, Egg Shells, Earth Worms, Aquaponics water \nDependent Variables (what we measure) \n\u25cf\u200b Germination Day 7= 75%; Day 10= 75%8 \n\u25cf\u200b 4 Days to first emergence \n\u25cf\u200b At day 7 and day 10 75% of seeds had successful germination \n\u25cf\u200b Plant height (cm) weekly \n\u25cf\u200b Plant vigor/greenness rating (1\u20135 scale) weekly \n\u25cf\u200b Final fresh mass (g) at harvest \n\u25cf\u200b pH weekly (goal 6.0\u20137.0) \nControls / Constants \n\u25cf\u200b Lighting: Full spectrum, 12 h ON / 12 h OFF \n\u25cf\u200b Temperature: 70\u00b0F in the grow tent. We used a grow tent for the entire process so we \nwould have a better chance at controlling the environment. If it was too hot we could \nopen a vent to cool off the temperature. It also helped us control the humidity. \n\u25cf\u200b Humidity: \u226550% with humidity. We filled a tin pan with water to increase humidity as \nneeded, \n\u25cf\u200b Irrigation: Aquaponics water (same source for all pots) 60 ml per pot 2 times a week \n\u25cf\u200b Pot size: Identical, with drainage \n\u25cf\u200b Seeding: 3 romaine lettuce seeds per pot, same depth (\u00bc in) \n\u25cf\u200b Placement: Rotate positions weekly",
+      "char_count": 1505,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Plant the Moon Challenge Jr: Fall 2025"
+          ],
+          [
+            "Team: Wenceslaus Knights Gold Admin: Renee Hanson"
+          ],
+          [
+            "Crop: Romain Lettuce Team ID: 23592"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "Hypotheses- \nH1: Banana peel (B-Mix) will improve lettuce growth compared to RB-Mix because it provides \npotassium and phosphorus. \nB-Mix1 1.5g + 6.2g B-Mix2 = 7.7g fresh mass RB-Mix1 5.9g + RB-Mix2 2.4g = 10.1g fresh mass \nRB-Mix is Earth soil mixed with regolith. Regolith has minerals but plants can\u2019t use them \nbecause the minerals are trapped in the regolith. We thought adding banana peel would release \nphosphorus and potassium from the regolith and help the plant grow better because it has more \nnutrients. The banana peel did not help the lettuce grow better than the Earth soil regolith mix. \nWe were not correct on Hypothesis 1. \n \n \n \n \n \n \n \nH2: Earth soil control (CE) will outperform regolith control (CR). \n(CE1)4.9g + (CE2 (harvested wk6)) 8.9g + (CE (wk8)) 2.3g = 16.1g fresh mass \n CR1 0.0g + CR2 0.2g = 0.2g fresh mass \nControl Earth total fresh mass was 16.1g and Control Regolith total fresh mass was 0.2g. The \nCE outperformed CR by 15.9g. We were correct on Hypothesis 2.",
+      "char_count": 996,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "text": "H3: Blends (RB-Mix, BE-Mix & B-Mix) will grow better than pure regolith and may be close to \nearth soil performance. \nCR total fresh mass = 0.2g CE total fresh mass = 16.9 g \nRB-Mix total fresh mass = 10.1g BE-Mix total fresh mass = 19.6 \nB-Mix total fresh mass = 7.7g \nThe Blends average fresh mass is 12.4g which is higher than the total fresh mass of CR \nwhich is 0.2g. The Blends outperformed the CR and one blend outperformed CE. BE-Mix \ntotal fresh mass is 19.6 which is higher than CE total fresh mass of 16.9. BE-Mix is \n2.7grams heavier than CE. We were correct on Hypothesis 3.",
+      "char_count": 587,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "text": "Protocols- \nDay 0 \u2013 Setup \nLabel Experimental Pots Total = 10 pots \nGroup \nAmendment \nPots \nPurpose \nCE \n100% Earth soil \n2 \nEarth control \nCR \n100% Regolith simulant \n2 \nRegolith control \nB-Mix \n \n \nBE-Mix \n50% Regolith / 40% Earth / 10% Banana \nPeel \n \nBE-mix 50% regolith 5% banana 5%egg \n2 \n \n \n2 \nTest banana peel \neffect \nTest Banana peel + \negg shell effect \nRB-Mix \n50% Regolith / 50% Earth \n2 \nBlend control \nPrepare each mix. \n1.\u200b For B-Mix, chop banana peel in tiny pieces (~10% volume) and mix into top 2\u20133 cm of \nsoil. Sow 3 romaine seeds per pot at \u00bc inches. \n2.\u200b Water with aquaponics water source 60 mm each pot. \n3.\u200b Place all pots in a grow tent at 70\u00b0F, 12/12 light, Humidity at 50% or higher. \nDays 1\u201310 \u2013 Germination \n\u25cf\u200b Sowing date September 29, 2025 \n\u25cf\u200b Germination day 7 - 75%. Day 10 75% \n\u25cf\u200b heating mat during the germination process on day 2 \n\u25cf\u200b Added 2 Earth worms to each pot on 10-10-25 \nWeeks 2\u20135 \u2013 Growth \n\u25cf\u200b Thin to 1 healthiest seedling per pot after 2\u20133 true leaves. \n\u25cf\u200b Added sticks to keep leaves up \n\u25cf\u200b Added hay to keep leaves off soil regolith mix \n\u25cf\u200b We added vinegar in small containers with holes in the top to capture gnats that \nappeared weak 3 \n\u25cf\u200b Fan on day 1 of week 4 to simulate wind movement because the leaves were looking \nlike they were droopy and starting to get brown spots \nWeek 6 \u2013 Recorded height, leaf count, vigor, fresh mass (g), pH and observations.",
+      "char_count": 1412,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "text": "Week 7 - Recorded height, leaf count, vigor, fresh mass (g), pH and observations. We picked \nCE2 because we thought 100% Earth soil had the best nutrients and best chance to grow after \nthe harvest. CE2 produced 8.9g of fresh mass. \nWeek 8 \n\u25cf\u200b Record final height, leaf count, vigor, fresh mass (g). \n \nPot \nID \nFinal \nheig\nht \nmm \nFinal \nLeaf \ncount \nFresh \nmass \n(g) \nFinal \nPH \nFinal \nVigor \nObservations: 3 dead worms, 17 worms + 1 baby \nworm. All worms accounted for. \nCE-\n1 \n37.3 \n6 \n4.9 \n6.5 \n2 \n \n3 worms and 1 baby worm, one leaf light green \nCE-\n2 \n16.2 \n7 \n11.2 \n7.5 \n1 \n \n7 worms, harvested week six = 8.9g fresh mass, \nregrew 7 leaves in 10 days harvested 2.3g fresh \nmass \n \nCR-\n1 \n8.9 \n0 \n0.2 \n6.5 \n3 \n \nZero worm, leggy, no true leaves \nCR-\n2 \n37.0 \n0 \n0 \n6.5 \n5 \nzero worms, tiny stem light green in color \n \nRB \nmix-\n1 \n25.5 \n7 \n5.9 \n7.5 \n1 \nzero worms, green and healthy",
+      "char_count": 889,
+      "image_count": 5,
+      "tables": [
+        [
+          [
+            "Pot ID",
+            "Final heig ht mm",
+            "Final Leaf count",
+            "Fresh mass (g)",
+            "Final PH",
+            "Final Vigor",
+            "Observations: 3 dead worms, 17 worms + 1 baby worm. All worms accounted for."
+          ],
+          [
+            "CE- 1",
+            "37.3",
+            "6",
+            "4.9",
+            "6.5",
+            "2",
+            "3 worms and 1 baby worm, one leaf light green"
+          ],
+          [
+            "CE- 2",
+            "16.2",
+            "7",
+            "11.2",
+            "7.5",
+            "1",
+            "7 worms, harvested week six = 8.9g fresh mass, regrew 7 leaves in 10 days harvested 2.3g fresh mass"
+          ],
+          [
+            "CR- 1",
+            "8.9",
+            "0",
+            "0.2",
+            "6.5",
+            "3",
+            "Zero worm, leggy, no true leaves"
+          ],
+          [
+            "CR- 2",
+            "37.0",
+            "0",
+            "0",
+            "6.5",
+            "5",
+            "zero worms, tiny stem light green in color"
+          ],
+          [
+            "RB mix- 1",
+            "25.5",
+            "7",
+            "5.9",
+            "7.5",
+            "1",
+            "zero worms, green and healthy"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 6,
+      "text": "RB \nmix-\n2 \n60.5 \n4 \n2.4 \n7.5 \n2 \n \n3 worms, brown spots on 2 leaves \nB \nmix-\n1 \n14.7 \n5 \n1.5 \n6.5 \n2 \n \n2 worms brown spots on one leaf, one broken leaf \nB \nmix-\n2 \n28.6 \n4 \n6.2 \n6.5 \n2 \n \n1big fat juicy worm and brown spots on one leaf \nBE \nmix-\n1 \n70 \n6 \n7.6 \n6.5 \n3 \n \n1 worm and brown spots on 4 leaves, light green \nBE \nmix-\n2 \n80 \n9 \n12.0 \n8 \n1 \n \n3 worms, dark green firm leaves \nSPECIES: Romain Lettuce \n \nMission Patch: updated with team member names",
+      "char_count": 460,
+      "image_count": 6,
+      "tables": [
+        [
+          [
+            "RB mix- 2",
+            "60.5",
+            "4",
+            "2.4",
+            "7.5",
+            "2",
+            "3 worms, brown spots on 2 leaves"
+          ],
+          [
+            "B mix- 1",
+            "14.7",
+            "5",
+            "1.5",
+            "6.5",
+            "2",
+            "2 worms brown spots on one leaf, one broken leaf"
+          ],
+          [
+            "B mix- 2",
+            "28.6",
+            "4",
+            "6.2",
+            "6.5",
+            "2",
+            "1big fat juicy worm and brown spots on one leaf"
+          ],
+          [
+            "BE mix- 1",
+            "70",
+            "6",
+            "7.6",
+            "6.5",
+            "3",
+            "1 worm and brown spots on 4 leaves, light green"
+          ],
+          [
+            "BE mix- 2",
+            "80",
+            "9",
+            "12.0",
+            "8",
+            "1",
+            "3 worms, dark green firm leaves"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 7,
+      "text": "What we would do differently: \n1.\u200b We forgot to list the BE-Mix with a label in our initial design report so we added it to all \ndata collection sheets and to the final report. \n2.\u200b We should have washed the egg shells with warm water before adding them to the mix. \nThe raw egg white may have contaminated the plant and caused the brown spots in \nweeks 4-8. \n3.\u200b The ID \u201cRB\u201d is confusing because it makes us think it is only Regolith & Banana mix and \nit is Regolith and Earth. We should have labeled it RE for Regolith & Earth mix. \n4.\u200b Lower our temperature to 65 degrees Fahrenheit to produce crisp lettuce that is not bitter \n \nSuccesses: \n75% of our pots germinated by day 10. \n \nWeek 4 our plants are growing at the perfect rate. They look healthy and have a perfect PH. \nThey are green and have many leaves. \n \nWatering 2 times a week with 60 ml of aquaponics water is keeping them in good health. \n \nWe have been able to keep the temperature at 70 degrees without much effort. \n \nWe got faster at checking pH so we were no longer late for the next class. \n \nWe learned to work together and listen to each other. \n \nWe learned how to use a digital caliper to measure stem height and we learned that mm are \nvery small. \n \nWe learned how to measure mass and what mass is. \n \nChallenges: \nTwo of our plants grew mushrooms/fungi by week 3. We removed the mushrooms and they \nhave not grown back. \nThe plants that germinated in the regolith control pots have since died. \n \nWe added a fan to imitate the wind so the lettuce will grow to its fullest. Our school lost power in \nweek 4. We did not notice the fan turned off for 4 days. We did notice more brown spots on \nseveral plants. We did some research and found that either they have a fungus or they need \nmovement from the wind. We checked the fan and noticed it was off. \n \nIt is hard to write down the correct data in the correct spot every time so we added a second \nperson watching and making sure we do it right.",
+      "char_count": 1976,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "text": "The humidity gets too high and too low. We have to open vents or add a shallow pan of water to \nfix the humidity and we do not have access to the grow tent 24 hours a day 7 days a week. \n \nSometimes we want to go to recess instead of checking pH or measuring growth. \nIt is difficult to get to school early to monitor the plants and collect data when you do not drive or \nlive. So the students who live close enough to walk to school were assigned the before school \njobs just in case the students who needed rides could not make it. \n \nWe broke several leaves while collecting data. We decided we were going too fast and had to \nslow down so we did not break any more leaves.",
+      "char_count": 676,
+      "image_count": 0,
+      "tables": []
+    }
+  ]
+}

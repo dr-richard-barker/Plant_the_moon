@@ -1,0 +1,99 @@
+{
+  "extraction": {
+    "report_id": "fall22-junior-team-tigernauts-ef9788",
+    "extraction_method": "heuristic",
+    "model_name": "table-aware-lexicon-v2",
+    "celestial_body": "lunar",
+    "regolith_simulant": "unspecified",
+    "regolith_simulant_raw": null,
+    "crop_common_name": "radish",
+    "crop_scientific_name": "Raphanus sativus",
+    "crop_guild": "mixed",
+    "experimental_duration_days": null,
+    "total_plants_or_pots": null,
+    "replicates_per_treatment": null,
+    "has_earth_soil_control": true,
+    "has_unamended_regolith_control": true,
+    "statistical_tests_reported": [],
+    "data_availability": "summary_means",
+    "primary_bottlenecks": [
+      "nutrient_deficiency",
+      "germination_failure"
+    ],
+    "innovation_tags": [
+      "synthetic_fertilizer_hydroponic"
+    ],
+    "key_hypothesis": "Our hypothesis was partially correct because our control pot with 100% Earth soil grew",
+    "summary_findings": "In conclusion we set out to determine whether or not we could grow crops in lunar regolith.",
+    "arms": [
+      {
+        "arm_id": "arm_ctrl_earth",
+        "arm_label": "Earth Soil Control",
+        "is_control": true,
+        "control_type": "earth_soil",
+        "regolith_pct": 0.0,
+        "amendment_category": "earth_soil_control",
+        "amendment_detail": null,
+        "amendment_dose": null,
+        "germination_rate_pct": null,
+        "survival_rate_pct": null,
+        "mean_shoot_height_cm": null,
+        "mean_root_length_cm": null,
+        "mean_fresh_biomass_g": null,
+        "mean_dry_biomass_g": null,
+        "substrate_ph": null,
+        "outcome_vs_regolith_control": "not_reported",
+        "reported_effect_pct": null,
+        "evidence_quote": "Our first parameter is whether or not the amount of Earth soil mixed with Regolith will",
+        "page_number": 1
+      },
+      {
+        "arm_id": "arm_ctrl_regolith",
+        "arm_label": "Unamended Regolith Control",
+        "is_control": true,
+        "control_type": "unamended_regolith",
+        "regolith_pct": 100.0,
+        "amendment_category": "none_control",
+        "amendment_detail": null,
+        "amendment_dose": null,
+        "germination_rate_pct": null,
+        "survival_rate_pct": null,
+        "mean_shoot_height_cm": null,
+        "mean_root_length_cm": null,
+        "mean_fresh_biomass_g": null,
+        "mean_dry_biomass_g": null,
+        "substrate_ph": null,
+        "outcome_vs_regolith_control": "neutral",
+        "reported_effect_pct": null,
+        "evidence_quote": "we believe that the chances of us having any growth in 100% regolith are slim;",
+        "page_number": 1
+      },
+      {
+        "arm_id": "arm_trt_1",
+        "arm_label": "Treatment (Miracle Gro)",
+        "is_control": false,
+        "control_type": "none",
+        "regolith_pct": null,
+        "amendment_category": "synthetic_fertilizer_hydroponic",
+        "amendment_detail": "Miracle Gro",
+        "amendment_dose": null,
+        "germination_rate_pct": null,
+        "survival_rate_pct": null,
+        "mean_shoot_height_cm": null,
+        "mean_root_length_cm": null,
+        "mean_fresh_biomass_g": null,
+        "mean_dry_biomass_g": null,
+        "substrate_ph": null,
+        "outcome_vs_regolith_control": "not_reported",
+        "reported_effect_pct": null,
+        "evidence_quote": "then decreased the amount of Miracle Gro Potting Mix Earth soil by \u00bc for",
+        "page_number": 1
+      }
+    ]
+  },
+  "provenance_audit": {
+    "quotes_checked": 3,
+    "quotes_matched": 3,
+    "quote_match_rate": 1.0
+  }
+}

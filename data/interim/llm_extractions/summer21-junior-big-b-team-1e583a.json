@@ -1,0 +1,77 @@
+{
+  "extraction": {
+    "report_id": "summer21-junior-big-b-team-1e583a",
+    "extraction_method": "heuristic",
+    "model_name": "table-aware-lexicon-v2",
+    "celestial_body": "lunar",
+    "regolith_simulant": "LHS-1",
+    "regolith_simulant_raw": "LHS-1",
+    "crop_common_name": "spinach",
+    "crop_scientific_name": "Spinacia oleracea",
+    "crop_guild": "leafy_green",
+    "experimental_duration_days": 15.0,
+    "total_plants_or_pots": null,
+    "replicates_per_treatment": null,
+    "has_earth_soil_control": true,
+    "has_unamended_regolith_control": false,
+    "statistical_tests_reported": [],
+    "data_availability": "summary_means",
+    "primary_bottlenecks": [
+      "compaction_crusting"
+    ],
+    "innovation_tags": [
+      "other"
+    ],
+    "key_hypothesis": null,
+    "summary_findings": "Big B Team (Summer 2021) investigated spinach in lunar regolith.",
+    "arms": [
+      {
+        "arm_id": "arm_ctrl_earth",
+        "arm_label": "Earth Soil Control",
+        "is_control": true,
+        "control_type": "earth_soil",
+        "regolith_pct": 0.0,
+        "amendment_category": "earth_soil_control",
+        "amendment_detail": null,
+        "amendment_dose": null,
+        "germination_rate_pct": null,
+        "survival_rate_pct": null,
+        "mean_shoot_height_cm": null,
+        "mean_root_length_cm": null,
+        "mean_fresh_biomass_g": null,
+        "mean_dry_biomass_g": null,
+        "substrate_ph": null,
+        "outcome_vs_regolith_control": "not_reported",
+        "reported_effect_pct": null,
+        "evidence_quote": null,
+        "page_number": null
+      },
+      {
+        "arm_id": "arm_trt_1",
+        "arm_label": "Treatment (regolith)",
+        "is_control": false,
+        "control_type": "none",
+        "regolith_pct": null,
+        "amendment_category": "other",
+        "amendment_detail": "regolith",
+        "amendment_dose": null,
+        "germination_rate_pct": null,
+        "survival_rate_pct": null,
+        "mean_shoot_height_cm": null,
+        "mean_root_length_cm": null,
+        "mean_fresh_biomass_g": null,
+        "mean_dry_biomass_g": null,
+        "substrate_ph": null,
+        "outcome_vs_regolith_control": "not_reported",
+        "reported_effect_pct": null,
+        "evidence_quote": "Planting spinach on lunar regolith",
+        "page_number": 1
+      }
+    ]
+  },
+  "provenance_audit": {
+    "quotes_checked": 1,
+    "quotes_matched": 1,
+    "quote_match_rate": 1.0
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "extraction": {
+    "report_id": "spring23-main-eagles-fly-high-07b32e",
+    "extraction_method": "heuristic",
+    "model_name": "table-aware-lexicon-v2",
+    "celestial_body": "lunar",
+    "regolith_simulant": "unspecified",
+    "regolith_simulant_raw": null,
+    "crop_common_name": "radish",
+    "crop_scientific_name": "Raphanus sativus",
+    "crop_guild": "mixed",
+    "experimental_duration_days": 56.0,
+    "total_plants_or_pots": null,
+    "replicates_per_treatment": null,
+    "has_earth_soil_control": true,
+    "has_unamended_regolith_control": false,
+    "statistical_tests_reported": [],
+    "data_availability": "summary_means",
+    "primary_bottlenecks": [
+      "alkaline_ph",
+      "nutrient_deficiency",
+      "light_or_temperature_stress"
+    ],
+    "innovation_tags": [
+      "microbial_mycorrhizal"
+    ],
+    "key_hypothesis": "For this reason, we decided to test our hypothesis.",
+    "summary_findings": "Analysis of results and conclusion:",
+    "arms": [
+      {
+        "arm_id": "arm_ctrl_earth",
+        "arm_label": "Earth Soil Control",
+        "is_control": true,
+        "control_type": "earth_soil",
+        "regolith_pct": 0.0,
+        "amendment_category": "earth_soil_control",
+        "amendment_detail": null,
+        "amendment_dose": null,
+        "germination_rate_pct": null,
+        "survival_rate_pct": null,
+        "mean_shoot_height_cm": null,
+        "mean_root_length_cm": null,
+        "mean_fresh_biomass_g": null,
+        "mean_dry_biomass_g": null,
+        "substrate_ph": null,
+        "outcome_vs_regolith_control": "not_reported",
+        "reported_effect_pct": null,
+        "evidence_quote": "Regolith, ProMix (Potting Soil), Milogranite, Magnesium nitrate, Florikan 18 6 8, Graduated",
+        "page_number": 2
+      },
+      {
+        "arm_id": "arm_trt_1",
+        "arm_label": "Treatment (mycorrhizae)",
+        "is_control": false,
+        "control_type": "none",
+        "regolith_pct": null,
+        "amendment_category": "microbial_mycorrhizal",
+        "amendment_detail": "mycorrhizae",
+        "amendment_dose": null,
+        "germination_rate_pct": null,
+        "survival_rate_pct": null,
+        "mean_shoot_height_cm": null,
+        "mean_root_length_cm": null,
+        "mean_fresh_biomass_g": null,
+        "mean_dry_biomass_g": null,
+        "substrate_ph": null,
+        "outcome_vs_regolith_control": "not_reported",
+        "reported_effect_pct": null,
+        "evidence_quote": "symbiotic relationships such as mycorrhizae.",
+        "page_number": 1
+      }
+    ]
+  },
+  "provenance_audit": {
+    "quotes_checked": 2,
+    "quotes_matched": 2,
+    "quote_match_rate": 1.0
+  }
+}

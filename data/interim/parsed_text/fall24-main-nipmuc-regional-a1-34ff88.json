@@ -1,0 +1,117 @@
+{
+  "report_id": "fall24-main-nipmuc-regional-a1-34ff88",
+  "sha256": "a0d6165b2bf7ec7d83b20e3576c182f4871ded063f955e23313c5f9e73234498",
+  "page_count": 15,
+  "total_chars": 17315,
+  "avg_chars_per_page": 1154.3,
+  "total_images": 8,
+  "table_count": 0,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Lunar Soil Plant Growth With The Aid Of Inoculant\n2024 Plant The Moon Challenge\nTeam Members: Luke Calabrese (Sophomore) and Liam Flanagan (Sophomore)\nAbstract\nFor the Fall 2024 Plant The Moon Challenge, we investigated the growth of Round Black Spanish\nradishes in lunar regolith simulant amended with varying proportions of worm castings and peat moss.\nThe experiment tested three treatment levels (38%, 28.5%, and 19% soil amendments) plus a control\nusing pure simulant, with two replicates per treatment except for the control. All plants received an\ninoculant (UltraBio by HardyGro) at twice the recommended concentration. Plants in the 38% amendment\ngroup (Trial 1) showed the strongest growth, with heights reaching approximately 10-12 cm, while the\ncontrol plant failed to thrive beyond initial germination. The 28.5% and 19% amendment groups showed\nintermediate success, though one 28.5% sample failed to germinate. Unexpectedly, all surviving plants\ndemonstrated some growth despite the challenging substrate, suggesting the inoculant played a crucial\nrole in plant survival. Post-experiment soil analysis revealed distinct layering of components, potentially\naffecting nutrient availability. Our findings suggest that while higher proportions of organic amendments\nimprove radish growth in lunar simulant, the bacterial inoculant may be crucial for even minimal plant\nsurvival in lunar regolith conditions.\nTeam Roles\nThe size of the team prevented defined roles from taking shape. Both team members did\neverything throughout the experiment. However, some things were more often handled by one member\nthan the other. Liam Flanagan almost always handled watering, and Luke Calabrese took height data, for\nexample.\nBackground\nThis experiment was conducted as part of the Fall 2024 Plant the Moon Challenge, a scientific\ncompetition where teams from high schools across the USA competed to create the best substance to be\nadded to lunar simulant soil to facilitate plant growth. When we were presented with the challenge, our\nteacher gave us a SchoolAI advisor who instructed us to give pertinent information. We utilized it to\ndecide what our approach to the challenge would be, such as types of plants to consider and substances\nto add to the regolith to improve the health of the plants.\nPlant Selection\nOur first plan was to utilize potatoes, as they have a large amount of natural aluminum resistance\nand work well with many kinds of helpful bacteria. However, potatoes take a space of about 20 cm\u00b2 to\ngrow properly, and our space per plant was limited to about 9 cm\u00b2. Furthermore, potatoes take 80 to 100\ndays to grow, and our growth period was limited to 8 weeks.\nTherefore, we changed our plan to utilize radishes. Radishes also benefit from many kinds of\nhelpful bacteria, but they only take about 30 to 40 days to grow and thrive in the small space we had.\nWhen it came to choosing our species, we had the privilege of communicating with Jessica Atkin, a NASA\nintern who performed a similar experiment earlier in 2024 with chickpeas. While our first instinct was to",
+      "char_count": 3083,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "text": "choose a radish species that grew quickly and required few nutrients, Ms. Atkin suggested that we\nchoose a species with high metal resistance, particularly aluminum, due to the high volume of metals in\nlunar soil. Taking this advice, we found a species with a very interesting trait. According to our research,\nthe Round Black Spanish radish shows a slight increase in growth speed in high aluminum environments\n(Kurina).\nSoil Considerations\nWhen deciding on what substances should comprise our additive, we first examined the major\nconcerns with growing plants in lunar regolith and came up with methods of addressing them. The first\nmajor concern was the lack of nutrients in the soil. Our solution was vermicompost, a highly nutritious\nsubstance, which made up the majority of our additives. The second major concern was pH. Plants grow\nbest in acidic environments, but the lunar regolith is slightly basic. Our solution to this problem was peat\nmoss, a plant substance that lowers the pH of the soil as it decomposes. The final major obstacle was the\ndrainage of the lunar soil. The lunar regolith has no substances in it to give it water retention, causing\nwater to drain to the bottom of the pot, where the plant's roots can't reach it. We first planned to include\nwater retention beads in the soil. However, when we consulted with Ms. Atkins, she informed us that peat\nmoss is an excellent retainer of water, and reminded us that radishes prefer sandy soils anyway, so we\nscrapped the inclusion of water retention beads.\nGrowth Enhancement\nThe final component of the plan was the inoculant, which is helpful bacteria added to the soil to\npromote plant growth. For this, we utilized a product called UltraBio by HardyGro, an additive to water\nthat contains many useful nutrients, bacteria, and fungi. We added the substance to our water at twice the\nrecommended amount, as suggested by Ms. Atkins.\nInoculant Ingredients:\nOrganic Nitrogen\nContaining 18 Amino Acids and Peptides\nHumic Acid.........................27%\nFulvic Acid.........................11%\nDerived from Leonardite\nEndomycorrhizal Fungi:\nGlomus Mossae, 1,133 propagules per lb\nGlomus Intraradices 1,133 propagules per lb\nGlomus Fasciculatum 1,133 propagules per lb\nGlomus Clarium 565 propagules per lb\nGlomus Monosporum 565 propagules per lb\nMicroaggregatrim 565 propagules per lb\nEctomycorrhizal Fungi:\nRhizopogon Tinctorius 11,250 spores per gram\nRhizopogon Villosulles 625 spores per gram\nRhizopogon Luteolus 625 spores per gram\nRhizopogon Amyylopogon 625 spores per gram",
+      "char_count": 2545,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "text": "Rhizopogon Fulvigleba 625 spores per gram\nRhizbial Microorganisms:\nBacillus Subtilis 12,500,000 CFU per gram\nBacillus Licheniformis 12,500,000 CFU per gram\nBacillus Firmus 12,500,000 CFU per gram\nBacillus Megaterium 12,500,000 CFU per gram\nBacillus Pumulis 12,500,000 CFU per gram\nBacillus Amyloliquefaciens 12,500,000 CFU per gram\nBacillus Coagulans 12,500,000 CFU per gram\nPeanibacillus Polymyxa 12,500,000 CFU per gram\nPaenibacillus Durum 12,500,000 CFU per gram\nPseudomonas Putida 2,500,000 CFU per gram\nPseudomonas Fluorescens 2,500,000 CFU per gram\nStreptomyces Lydicus 2,500,000 CFU per gram\nStreptomyces Griseus 2,500,000 CFU per gram\nTrichoderma Reesei 2,500,000 CFU per gram\nTrichoderma Harzianum 2,500,000 CFU per gram\nProblem Definition\nThe core problem that underpins the experiment is that plants have difficulty growing on the moon\ndue to the gravity, sunlight, soil, and atmosphere. This experiment, however, focused on the soil concern.\nThere were many time and resource constraints placed upon us, such as an eight week growth period\nand growth space of only about 0.5 liters per plant. Additionally, there were 5 other groups performing\ntheir own experiments utilizing the same area, so the plants grown in this experiment were not centered\nunder the light. Furthermore, due to the nature of the experiment being conducted at school, the watering\nschedule was occasionally off base due to the lack of the necessary class. The requirements were loose,\nbut our personal goal was for at least one of the plants to survive and grow healthy over the growth\nperiod, proving the effectiveness of their method. Overall, the experiment was more a test of the inoculant\nthan the soil additive, giving it a unique position among the similar experiments conducted as part of the\nchallenge, which is more focused on the soil. They Were Planted on October 10, 2024.\nExperimental Design\nHypothesis: Plants grown in lunar simulant soil with higher proportions of organic additives will\ndemonstrate better growth and health outcomes compared to those with lower proportions of additives.\nSafety Protocols: Due to hazardous materials used in this experiment, the following safety measures\nwere used:\n\u25cf\nMasks and goggles when handling lunar simulant to prevent respiratory issues and eye irritation",
+      "char_count": 2298,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "text": "\u25cf\nProtective gloves when working with the inoculant due to potentially pathogenic bacteria\n\u25cf\nAll soil mixing and planting was done in a well-ventilated area\n\u25cf\nStandard laboratory safety equipment (goggles, gloves) Utilized while planting\nGrowth Success Metrics:\n\u25cf\nPrimary Metrics:\n\u25cb\nPlant height: continued growth\n\u25cb\nSurvival rate through entire growth period\n\u25cb\nSuccessful germination within 5-7 days\n\u25cf\nHealth Indicators:\n\u25cb\nStem strength (ability to stand upright)\n\u25cb\nRoot development at experiment conclusion\nVariables:\n\u25cf\nIndependent Variable: Proportion of soil additives in lunar simulant (38%, 28.5%, 19%, 0%)\n\u25cf\nDependent Variables:\n\u25cb\nPlant height\n\u25cb\nSoil moisture content\n\u25cf\nControl Variables:\n\u25cb\nLight exposure (12-hour cycles)\n\u25cb\nWater volume (20 mL per plant)\n\u25cb\nWatering schedule (Monday/Thursday)\n\u25cb\nInoculant concentration\n\u25cb\nTemperature\n\u25cb\nGrowth period duration\nTreatment Groups:\n1. High Amendment (Trial 1): 38% additive\n\u25cb\n120 mL worm castings\n\u25cb\n32 mL peat moss\n\u25cb\nTwo replicates\n2. Medium Amendment (Trial 2): 28.5% additive\n\u25cb\n90 mL worm castings\n\u25cb\n24 mL peat moss\n\u25cb\nTwo replicates\n3. Low Amendment (Trial 3): 19% additive\n\u25cb\n60 mL worm castings\n\u25cb\n16 mL peat moss\n\u25cb\nTwo replicates\n4. Control: 0% additive\n\u25cb\nPure lunar simulant\n\u25cb\nOne replicate",
+      "char_count": 1245,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "text": "Sampling and Measurement Plan:\n\u25cf\nMeasurements taken as often as possible\n\u25cf\nWatered twice a week (tuesday and friday)\n\u25cf\nHeights measured from soil surface to tallest point\n\u25cf\nSoil moisture readings taken before watering\n\u25cf\nPhoto documentation when measured\nExperimental Timeline (8 weeks total):\nWeek 1:\n\u25cf\nDay 1: Planting\n\u25cf\nDays 5-7: Expected germination\nWeek 2:\n\u25cf\nPlant thinning at end of week\n\u25cf\nBegin regular height measurements\nWeeks 3-7:\n\u25cf\nContinue regular measurements\nWeek 8:\n\u25cf\nFinal measurements\n\u25cf\nRoot system examination\n\u25cf\nSoil composition analysis\nExpected Outcomes:\n\u25cf\nControl plant not expected to survive beyond germination\n\u25cf\nLow amendment plants are predicted to show minimal growth\n\u25cf\nHigher amendment groups are expected to show proportionally better growth\nResults and Analysis\nGrowth Metrics\nInitial Germination Results:\n\u25cf\nGermination occurred within the expected 5-7 day window for all treatments except one Trial 2\n(28.5% additive) sample which failed to germinate\n\u25cf\nControl plant and trial 3-2 successfully germinated but survived only briefly\n\u25cf\nAll other plants germinated successfully",
+      "char_count": 1101,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "text": "Plant Heights:\nRaw Data\n\u25cf\nTrial 1 (38% additive) showed the strongest growth, reaching 10-12 cm at the experiment\nconclusion\n\u25cf\nTrial 2 (28.5% additive) achieved intermediate heights of 7-9 cm\n\u25cf\nTrial 3 (19% additive) showed variable results:\n\u25cb\nTrial 3-1 maintained growth\n\u25cb\nTrial 3-2 performed as expected with minimal growth before dying\n\u25cf\nControl plant survived only through the initial growth phase\nPlant Health Assessment\nLeaf Development:\n\u25cf\nSurviving plants developed true leaves beyond cotyledons\n\u25cf\nPlant slanting occurred consistently across treatments due to light seeking behavior\n\u25cf\nHeight measurements were affected by plant slanting, requiring final measurements with manual\nstraightening\nSoil Composition Effects:",
+      "char_count": 725,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "text": "\u25cf\nPost-experiment soil analysis revealed distinct layering:\n\u25cb\nBottom layer: Worm castings\n\u25cb\nMiddle layer: Peat moss\n\u25cb\nTop layer: Lunar simulant\n\u25cf\nThis layering may have affected nutrient distribution and root development\nSoil Moisture Analysis\nRaw Data\nMoisture Patterns:\n\u25cf\nSoil moisture levels fluctuated between 10-75% across all treatments\n\u25cf\nLarge spikes in readings (reaching 75%) likely due to either hardware malfunction or user error\n\u25cf\nNo clear correlation between soil moisture levels and plant health or growth\n\u25cf\nAll treatments showed similar moisture retention patterns despite different amendment ratios\nVisual Documentation\nGrowth Progression (Figures 1-2):\n\u25cf\nFigure 1: Plant Heights Over Time\n\u25cb\nShows variable growth patterns across treatments",
+      "char_count": 756,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "text": "\u25cb\nDemonstrates decline in measured heights due to plant slanting\n\u25cb\nFinal height increase reflects straightened measurement technique\n\u25cf\nFigure 2: Soil Moisture Levels\n\u25cb\nIllustrates moisture fluctuations across treatments\n\u25cb\nShows measurement anomalies requiring further investigation\nProgress Photos:\nFull Experimental Setup",
+      "char_count": 322,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "text": "10/17: pre-thinning",
+      "char_count": 19,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "text": "10/22",
+      "char_count": 5,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "text": "10/30",
+      "char_count": 5,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 12,
+      "text": "11/12",
+      "char_count": 5,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 13,
+      "text": "12/5/24\nKey Findings:\nTreatment Effectiveness:\n\u25cf\nHigher amendment percentages (38%) consistently produced better growth outcomes\n\u25cf\nInoculants appeared crucial for plant survival, even enabling brief control plant survival\n\u25cf\nPhysical positioning relative to light source significantly impacted plant performance\n\u25cf\nSoil component separation may have influenced nutrient availability\nExperimental Limitations:\n\u25cf\nHeight measurements were complicated by plant slanting behavior\n\u25cf\nSoil moisture sensor readings showed unexplained variations\n\u25cf\nLight position variations created uncontrolled variables\n\u25cf\nRegular access limitations affected measurement consistency",
+      "char_count": 655,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 14,
+      "text": "Discussion\nHypothesis Evaluation\nOur hypothesis that higher proportions of soil amendments would lead to better plant growth was\nlargely supported by the experimental results. Plants in Trial 1 (38% amendments) showed the strongest\ngrowth and survival rates as predicted. However, we observed some unexpected deviations, particularly\nthe failure of one Trial 2 sample to germinate despite its moderate amendment level, and the surprising\ninitial success of the control plant which we had predicted would not germinate at all.\nKey Findings and Interpretations\nSoil Amendment Effects\nThe 38% amendment group demonstrated superior growth, suggesting this ratio may approach\noptimal conditions for radish growth in lunar simulant. Post-experiment soil analysis revealed distinct\nlayering of components (worm castings, peat moss, lunar simulant), indicating either soil settling during\ngrowth or insufficient initial mixing. The layering effect may have created nutrient gradients affecting root\ndevelopment and nutrient access. Plant success generally correlated with amendment percentage,\nsupporting the value of organic additions to lunar regolith.\nInoculant Impact\nThe survival of all plants, including brief control plant growth, suggests the inoculant played a\ncrucial role in plant viability. The UltraBio bacterial supplement may have enhanced nutrient availability\neven in low-amendment conditions. The double-strength inoculant application likely contributed to\nbetter-than-expected survival rates. Results suggest biological amendments might be as important as\nphysical soil amendments.\nEnvironmental Factors\nPlant positioning relative to light source significantly affected growth patterns. Trial 1-1's higher\nsuccess despite suboptimal light positioning suggests other factors may have compensated.\nLight-seeking behavior caused plant slanting, complicating height measurements. Shared growing space\nwith other experiments created unavoidable variations in light exposure.\nExperimental Limitations\nTechnical Constraints\nLimited growing space (0.5 liters per plant) may have restricted root development. Shared light\nsource created uneven growth conditions. Soil moisture sensor readings showed unexplained spikes,\nsuggesting potential measurement issues. The eight-week growth period prevented observation of full\nplant maturity.\nProcedural Challenges\nSchool schedule affected consistent maintenance and observation. Soil component separation",
+      "char_count": 2450,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 15,
+      "text": "indicated potential mixing methodology issues. Plant slanting required modified measurement techniques.\nRegular access limitations impacted measurement consistency.\nFuture Research Directions\nDirect comparison of inoculated versus non-inoculated samples would help isolate bacterial\neffects. Alternative soil mixing methods should be investigated to prevent component separation. Testing\ndifferent plant species under similar conditions could yield valuable comparative data. Extended growth\nperiods would allow observation of full plant development. Examination of root development patterns in\nlayered soil conditions could provide insights into nutrient uptake mechanisms.\nBroader Implications\nWhile this experiment focused on lunar agriculture conditions, several key findings have broader\napplications. The critical role of bacterial inoculants in challenging growth conditions highlights the\nimportance of microbial communities in agriculture. The separation of soil components demonstrates the\nneed for careful consideration of soil structure in amended growing media. The success of Round Black\nSpanish radishes suggests their potential for growth in mineral-rich environments. Overall, these results\ncontribute to the growing body of knowledge about lunar agriculture while highlighting the importance of\nboth physical and biological soil amendments in extreme growing conditions.\nProgress photos\nWorks Cited\nKurina, AB. \u201cGenetic diversity of VIR Raphanus sativus L. collections on aluminum tolerance.\u201d PubMed\nCentral, 24 October 2020, https://pmc.ncbi.nlm.nih.gov/articles/PMC7716579/. Accessed 12\nSeptember 2024.\nWeimer, A., et al. \u201cIndustrial biotechnology of Pseudomonas putida: advances and prospects.\u201d Springer,\nSpringer, 13 August 2020, https://link.springer.com/article/10.1007/s00253-020-10811-9#citeas.\nAccessed 15 September 2024.\nXin, Yao, et al. \u201cTrichoderma and its role in biological control of plant fungal and nematode disease.\u201d\nFrontiers in Microbiology, vol. 14, 2023. National Library of Medicine,\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC10189891/. Accessed September 2024.",
+      "char_count": 2101,
+      "image_count": 0,
+      "tables": []
+    }
+  ]
+}

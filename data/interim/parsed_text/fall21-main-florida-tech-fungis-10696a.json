@@ -1,0 +1,849 @@
+{
+  "report_id": "fall21-main-florida-tech-fungis-10696a",
+  "sha256": "d2d0dd73bcadcd24b52097e512a1422456a7d79ee63b69ea565dc24a8f40b2c8",
+  "page_count": 17,
+  "total_chars": 13219,
+  "avg_chars_per_page": 777.6,
+  "total_images": 44,
+  "table_count": 9,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Incorporating Edible Decomposers into Sustainable Bioregenerative Life Support Systems for a\nMartian Colony\nTeam Name: Florida Tech Fungi\u2019s\nTeam Number: 8628\nChallenge Category: Undergraduate Division\nParticipants: Caitlyn Hubric, Lea Adepoju, Ruth Nichols, Cailtin Rosinus, Makesi Pantor,\nAllison Meyer, Joselyn Al-Najim, Frances Edmonson, Francesca Afruni, Vittorio Ferrucho, Elise\nSeaward",
+      "char_count": 391,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "text": "I.\nIntroduction\nEstablishing a bioregenerative life support (BRLS) system with supplemental food\nproduction is key to sustainable space colonization efforts at sites too remote for easy resupply\nfrom Earth. In-Situ Resource Utilization (ISRU) practices leverage existing resources such as\nregolith to support BRLS systems, further reducing a future colony\u2019s dependency on Earth for\nvital goods. Decomposers are organisms capable of breaking down organic material making\nnutrients available for reuse by other organisms. We propose that involving edible decomposers\ninto BRLS systems is an efficient method of recycling valuable organic and inorganic wastes for\na colony\u2019s ecosystem, while also introducing a supplemental nutrient source for colonists. As\ndecomposers with edible species, fungi are prime candidates for this study. They are resilient,\nlack dependency on water, and are adaptable in growth, whereas vegetative feedstock requires\nextensive care. Additionally, certain fungi have potential medicinal properties, such as lowering\nblood cholesterol and inhibiting tumor growth (\u201cOyster Mushroom\u201d, 2020). Pleurotus ostreatus\nis a prime choice for Regolith-based growth due to its ability to thrive in multiple environments.\nII.\nTheory\nUnder the original hypothesis, the mycelium would no longer be supported by the\nsubstrate regolith mixture around the 400-600 gram range of added regolith, primarily due to the\nregolith\u2019s majority mass. Pleurotus ostreatus, the primary specimen in the experiment, is a rather\nresilient mushroom. These mushrooms are easy to grow and do not require strict environmental\nconditions. Additionally, it has a shorter growth time than other mushroom types, which is\nbeneficial for this experiment (Tesfaw et al., 1970). As resilient as it may be, though, the biology\nof the mushroom is not suited for the harsh and unforgiving substrate that it was exposed to. In a\nseparate experiment determined to examine the effects of Pleurotus ostreatus production with\nvarious substrates (wheat straw, leaves, saw-dust), sawdust produced the highest yield of\nmushrooms compared to all other substrates and is \u201crecommended as [the] best substrate for\nOyster mushroom cultivation\u201d (Shah et al., 2004). The optimal temperature for growth of both\nmycelium and Pleurotus ostreatus is 28 \u2103 (Hoa et al., 2015), while the optimal humidity is a\nrange of 80-90% (Cikarge et al., 2018). It has been shown previously that a range of crops can be\ngrown in simulated regolith with added organic matter, producing fruit and seeds (Wamelink et\nal., 2019).",
+      "char_count": 2568,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "text": "III.\nMeasurement Methods\n1. Planting Method\nSubstrate was mixed to homogeneity in a ratio of 25:10:8:1 and was composed of\nmedium to coarse saw-dust, medium-sized wood chips, hay straw, and calcium sulfate,\nrespectively. Water was then mixed into the substrate up to approximately 60% of the\nsubstrate weight. The substrate mixture was then divided into 10 identical bags. A\nspecific amount of Martian Regolith was added to each of the 10 bags, with the exception\nof the control bag. Each bag was then inoculated with the fungi spores.\n2. Growth Setup\nBags were placed in two separate environmental chambers (Low Temperature\nIlluminated Incubator 818). Each chamber stored five bags. The temperature and\nhumidity of each chamber were recorded daily. During the mycelium spawn phase, the\nchamber temperature was set to 24\u00b0C for the duration of the spawn growth with limited\ncontact to light. Once the mycelium reached its primordial phase, the chamber\ntemperature was then set to 13\u00b0C until the end of the growth period.\n3. pH Measurement\npH levels were initially taken with litmus paper strips in the first three\nmeasurements. A pH probe was used for the remaining six measurements. Approximately\n5 grams of the substrate was extracted from each bag, ground via mortar and pestle, and\ncombined with 10 mL of distilled water in an Erlenmeyer flask. All samples were shaken\nsimultaneously for 1 minute four times with 5-minute rests in between shakes. The\nsamples then sat for 30 minutes and were tested for pH.\n4. Photo Recording\nPhotos of every bag in their respective incubator placement were taken daily. For\nevery bag, a simple photo with standard lighting was taken, as well as a photo with a red\nlight shined over the bag. Additionally, any growth or points of interest on the bags were\nalso photographed. This method was combined with the previously described data\nnotebook to maximize the efficiency of data collection.",
+      "char_count": 1926,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "text": "IV.\nAnalysis & Results\n1. pH Trend\nIn the initial three testing series, pH measurements were acquired by using litmus\nstrips. By using these paper strips, pH was determined by color association between the\ncolor change as a result of the liquid sample coming into contact with the paper and a\ncolor coded pH chart. Through this method, the overall trend across all bags displays a\ncurved slope-like decline as seen in Graphs 5-14. After week 3, a pH probe was used\n(Vernier LabQuest Data Collection Handheld and Vernier pH Sensor pH-bta) which gave\na clearer trend. From this, we can see a gradual decline in pH levels ranging from the\n200-800 gram bags, however, the control, 100 gram, and 900 gram have opposite\nbehaviors displaying an increase in their pH trend.\n2. Temperature Trend vs Mycelium Growth\nFor nearly the first 50 days, chamber temperatures were kept at approximately\n22\u00b0C. During this period, the mycelium went through underwhelming growth as seen in\nAppendix B in the day 1 and day 23 figures for all bags. On day 49, after decreasing\ntemperatures to approximately 13\u00b0C, the mycelium grew at a faster rate than the previous\ntemperature setting and began to produce fruiting bodies around day 51.\n3. Humidity Trend vs Mycelium Growth\nHumidity was maintained by placing two 500 mL beakers, unsealed, in each\nincubator as a source. From the initial day to around day 16, both incubators display an\naverage trend humidity of about 33% as seen in Graph 3 and Graph 4 which seem to gain\na dramatic oscillating trend up to day 49. Afterwards, in correlation to temperature\nchange, the average trend seemed to stabilize at around 38% when fruiting bodies were\nobserved.\n4. MGS-1 Simulant Addition vs Mycelium Growth\nGrowth bags that were able to produce a fruiting body were ones that had 500\ngrams and 700 grams of added MGS-1 simulant (Appendix B) with the 700 gram bag\nproducing the highest amount of fruiting bodies.",
+      "char_count": 1930,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "text": "Figures #1& 2: Temperature vs. Day Incubator 1 & 2\nFigures #3 & 4: Humidity vs. Day Incubator 1 & 2\nFigures #5 & 6: pH vs Week Control Bag & pH vs Week 100 Bag",
+      "char_count": 159,
+      "image_count": 6,
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "text": "Figures #7 & 8: pH vs Week 200 Bag & pH vs Week 300 Bag\nFigures #9 & 10: pH vs Week 400 Bag & pH vs Week 500 Bag\nFigures #11 & 12: pH vs Week 600 Bag & pH vs Week 700 Bag",
+      "char_count": 170,
+      "image_count": 6,
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "text": "Figures #13 & 14: pH vs Week 800 Bag & pH vs Week 900 Bag\nFor a complete collection of daily photos not included in Appendix B, see the following link.\nhttps://drive.google.com/drive/folders/1IyRz2zDcToweEWuyhDLkIzuLK6Z_jTyI?usp=sharing\nFor a complete collection of video updates of each bag, see the following link.\nhttps://drive.google.com/drive/folders/1iYPtdPzx4Oy-bREBA74AnycI_SNQcgWP?usp=sharing\nV.\nDiscussion and Conclusion\n1. Feasibility of P. ostreatus Growth in Mars Regolith Simulant\nThis experiment showed that the mycelium is able to grow in the presence of up\nto 800 g of added regolith, or roughly 60% of content by mass. Our results nullified our\nprevious hypothesis that the mycelium would no longer be supported by the substrate\nregolith mixture around the 400-600 gram range of added regolith. Our results suggest\nthat the bags with 500 g and 700 g added regolith, or 51% content by mass and 57%\ncontent by mass respectively, were the optimal amounts of added regolith for the\nmycelium to still produce fruiting bodies. With the data collected from this growth\nperiod, we aim to find the optimal ratio of organic to inorganic waste that aids in the\ndecomposition process for the next season of the competition.\n2. pH Levels vs Mycelium Growth\nA trend was noticed between pH levels and mycelium growth in the bags. The\nbags that were able to produce the beginning of fruiting bodies were the bags that became\nmost acidic. The acidity of these bags indicate that the substrate is decomposing properly.\nThis information will be useful in improving our next experiment as we can use the pH",
+      "char_count": 1604,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "text": "levels to determine when the fungi have started decomposing and to time the temperature\ndecrease.\n3. Obstacles and Errors\nThroughout the experiment, the growth of the specimen was slower than\nexpected, resulting in a lack of visual data during the growth period. This blunder could\nbe the consequence of a delay in temperature decrease due to waiting for a higher\nmycelium presence. With the concern of external obstacles, mold appeared in various\nbags, along with ice being discovered in the chambers (possibly as a result of the cooling\nsystem). There were also holes in the bags from the hay puncturing through that could\nhave had many unknown effects. Lastly, samples were taken from the bags weekly in\norder to test the pH, which could have potentially disturbed the growth of the\nmushrooms, despite best efforts not to.\nVI.\nReferences\nCikarge, G. P., & Arifin, F. (2018). Oyster Mushrooms Humidity Control Based On\nFuzzy Logic By Using Arduino ATMega238 Microcontroller. Journal of Physics:\nConference Series. https://doi.org/10.1088/1742-6596/1140/1/012002\nHoa, H. T., & Wang, C. L. (2015). The Effects of Temperature and Nutritional Conditions\non Mycelium Growth of Two Oyster Mushrooms (Pleurotus ostreatus and Pleurotus\ncystidiosus). Mycobiology, 43(1), 14\u201323.\nMemorial Sloan Kettering Cancer Center. (2020). Oyster Mushroom.\nhttps://www.mskcc.org/cancer-care/integrative-medicine/herbs/oyster-mushroom\nShah, Z. A., Ashraf, M., & Ishtiaq, M. (2004). Comparative study on cultivation and\nyield performance of Oyster Mushroom (pleurotus ostreatus) on different substrates\n(wheat straw, leaves, saw dust). Pakistan Journal of Nutrition, 3(3), 158\u2013160.\nhttps://doi.org/10.3923/pjn.2004.158.160\nStamets, P. (2000). Growing gourmet and medicinal mushrooms (3rd ed.). Ten Speed\nPress.",
+      "char_count": 1787,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "text": "Tesfaw, A., Tadesse, A., & Kiros, G. (1970). Optimization of oyster (Pleurotus ostreatus)\nmushroom cultivation using locally available substrates and materials in Debre\nBerhan, Ethiopia. Journal of Applied Biology and Biotechnology, 3(1), 015-020.\nWamelink, G., Frissel, J., Krijnen, W. & Verwoert, M. (2019). Crop growth and viability\nof seeds on Mars and Moon soil simulants. Open Agriculture, 4(1), 509-516.\nhttps://doi.org/10.1515/opag-2019-0051",
+      "char_count": 449,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "text": "VII.\nAppendix A: Data Tables\nTable #1: pH Measurements by Week\nBag\nweek 1\nweek 2\nweek 3\nweek 4\nweek 5\nweek 6\nweek 7\nweek 8\nweek 9\nControl\n6\n5\n6.8\n5.25\n5.35\n5.68\n6.35\n6.5\n6.24\n100\n8\n6.5\n6.9\n5.36\n5.77\n6.2\n6.32\n6.42\n6.22\n200\n6\n7.5\n6.7\n5.37\n6.88\n6.66\n6.72\n6.64\n6.48\n300\n8.5\n7\n6.5\n5.48\n7.25\n7.14\n6.77\n6.57\n6\n400\n7\n7.5\n6.5\n5.17\n7.6\n5.68\n5.6\n5.65\n5.48\n500\n8\n6.8\n6.5\n5.63\n7.42\n5.79\n6.09\n6.64\n5.94\n600\n6.5\n7.5\n6.7\n5.47\n7.68\n6.92\n6.93\n7.1\n7.07\n700\n7\n7\n6.9\n5.35\n7.38\n6.95\n5.74\n6.23\n5.87\n800\n7.5\n6.8\n6.7\n5.85\n7.88\n7.77\n7.72\n7.02\n6.87\n900\n7\n7.8\n6.9\n5.92\n7.83\n7.62\n7.6\n7\n7.61\nTable #2: Daily Temperature and Humidity Incubator 1 & 2\nIncubator 1\nIncubator 2\nDay\nTemp (\u00baC)\nHumidity (%)\nDay\nTemp (\u00baC)\nHumidity (%)\n1\n24\n24\n1\n24\n33\n2\n22\n21\n2\n24\n23\n3\n22\n39\n3\n24\n38\n4\n22\n31\n4\n24\n28\n5\n22\n27\n5\n24\n21\n6\n23\n28\n6\n24\n25\n7\n24\n26\n7\n22\n28\n8\n22\n30\n8\n24\n28\n9\n23\n22\n9\n24\n26\n10\n22\n38\n10\n24\n34\n11\n22\n23\n11\n24\n23\n12\n22\n35\n12\n24\n23\n13\n22\n25\n13\n24\n62\n14\n22\n24\n14\n24\n23\n15\n22\n26\n15\n24\n23\n16\n22\n25\n16\n24\n21\n17\n22\n41\n17\n24\n49",
+      "char_count": 984,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Bag",
+            "week 1",
+            "week 2",
+            "week 3",
+            "week 4",
+            "week 5",
+            "week 6",
+            "week 7",
+            "week 8",
+            "week 9"
+          ],
+          [
+            "Control",
+            "6",
+            "5",
+            "6.8",
+            "5.25",
+            "5.35",
+            "5.68",
+            "6.35",
+            "6.5",
+            "6.24"
+          ],
+          [
+            "100",
+            "8",
+            "6.5",
+            "6.9",
+            "5.36",
+            "5.77",
+            "6.2",
+            "6.32",
+            "6.42",
+            "6.22"
+          ],
+          [
+            "200",
+            "6",
+            "7.5",
+            "6.7",
+            "5.37",
+            "6.88",
+            "6.66",
+            "6.72",
+            "6.64",
+            "6.48"
+          ],
+          [
+            "300",
+            "8.5",
+            "7",
+            "6.5",
+            "5.48",
+            "7.25",
+            "7.14",
+            "6.77",
+            "6.57",
+            "6"
+          ],
+          [
+            "400",
+            "7",
+            "7.5",
+            "6.5",
+            "5.17",
+            "7.6",
+            "5.68",
+            "5.6",
+            "5.65",
+            "5.48"
+          ],
+          [
+            "500",
+            "8",
+            "6.8",
+            "6.5",
+            "5.63",
+            "7.42",
+            "5.79",
+            "6.09",
+            "6.64",
+            "5.94"
+          ],
+          [
+            "600",
+            "6.5",
+            "7.5",
+            "6.7",
+            "5.47",
+            "7.68",
+            "6.92",
+            "6.93",
+            "7.1",
+            "7.07"
+          ],
+          [
+            "700",
+            "7",
+            "7",
+            "6.9",
+            "5.35",
+            "7.38",
+            "6.95",
+            "5.74",
+            "6.23",
+            "5.87"
+          ],
+          [
+            "800",
+            "7.5",
+            "6.8",
+            "6.7",
+            "5.85",
+            "7.88",
+            "7.77",
+            "7.72",
+            "7.02",
+            "6.87"
+          ],
+          [
+            "900",
+            "7",
+            "7.8",
+            "6.9",
+            "5.92",
+            "7.83",
+            "7.62",
+            "7.6",
+            "7",
+            "7.61"
+          ]
+        ],
+        [
+          [
+            "Day",
+            "Temp (\u00baC)",
+            "Humidity (%)",
+            "Day",
+            "Temp (\u00baC)",
+            "Humidity (%)"
+          ],
+          [
+            "1",
+            "24",
+            "24",
+            "1",
+            "24",
+            "33"
+          ],
+          [
+            "2",
+            "22",
+            "21",
+            "2",
+            "24",
+            "23"
+          ],
+          [
+            "3",
+            "22",
+            "39",
+            "3",
+            "24",
+            "38"
+          ],
+          [
+            "4",
+            "22",
+            "31",
+            "4",
+            "24",
+            "28"
+          ],
+          [
+            "5",
+            "22",
+            "27",
+            "5",
+            "24",
+            "21"
+          ],
+          [
+            "6",
+            "23",
+            "28",
+            "6",
+            "24",
+            "25"
+          ],
+          [
+            "7",
+            "24",
+            "26",
+            "7",
+            "22",
+            "28"
+          ],
+          [
+            "8",
+            "22",
+            "30",
+            "8",
+            "24",
+            "28"
+          ],
+          [
+            "9",
+            "23",
+            "22",
+            "9",
+            "24",
+            "26"
+          ],
+          [
+            "10",
+            "22",
+            "38",
+            "10",
+            "24",
+            "34"
+          ],
+          [
+            "11",
+            "22",
+            "23",
+            "11",
+            "24",
+            "23"
+          ],
+          [
+            "12",
+            "22",
+            "35",
+            "12",
+            "24",
+            "23"
+          ],
+          [
+            "13",
+            "22",
+            "25",
+            "13",
+            "24",
+            "62"
+          ],
+          [
+            "14",
+            "22",
+            "24",
+            "14",
+            "24",
+            "23"
+          ],
+          [
+            "15",
+            "22",
+            "26",
+            "15",
+            "24",
+            "23"
+          ],
+          [
+            "16",
+            "22",
+            "25",
+            "16",
+            "24",
+            "21"
+          ],
+          [
+            "17",
+            "22",
+            "41",
+            "17",
+            "24",
+            "49"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 11,
+      "text": "18\n23\n27\n18\n24\n51\n19\n22\n57\n19\n24\n51\n20\n22\n28\n20\n24\n30\n21\n22\n50\n21\n24\n53\n22\n22\n26\n22\n24\n55\n23\n22\n29\n23\n24\n50\n24\n22\n26\n24\n23\n51\n25\n22\n26\n25\n24\n35\n26\n22\n25\n26\n24\n30\n27\n22\n58\n27\n24\n53\n28\n22\n58\n28\n24\n48\n29\n22\n28\n29\n24\n25\n30\n22\n28\n30\n24\n54\n31\n23\n27\n31\n24\n53\n32\n22\n29\n32\n24\n50\n33\n22\n26\n33\n24\n52\n34\n22\n34\n34\n24\n23\n35\n22\n59\n35\n24\n50\n36\n22\n55\n36\n24\n53\n37\n22\n52\n37\n24\n51\n38\n22\n58\n38\n24\n25\n39\n23\n53\n39\n24\n54\n40\n22\n53\n40\n24\n53\n41\n22\n32\n41\n24\n52\n42\n22\n39\n42\n24\n53\n43\n22\n26\n43\n24\n52\n44\n22\n56\n44\n24\n52\n45\n22\n22\n45\n24\n53\n46\n22\n58\n46\n24\n25\n47\n22\n59\n47\n24\n51\n48\n22\n58\n48\n24\n53\n49\n13\n28\n49\n14\n36\n50\n13\n35\n50\n14\n30\n51\n13\n31\n51\n15\n37\n52\n16\n42\n52\n14\n32",
+      "char_count": 629,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "18",
+            "23",
+            "27",
+            "18",
+            "24",
+            "51"
+          ],
+          [
+            "19",
+            "22",
+            "57",
+            "19",
+            "24",
+            "51"
+          ],
+          [
+            "20",
+            "22",
+            "28",
+            "20",
+            "24",
+            "30"
+          ],
+          [
+            "21",
+            "22",
+            "50",
+            "21",
+            "24",
+            "53"
+          ],
+          [
+            "22",
+            "22",
+            "26",
+            "22",
+            "24",
+            "55"
+          ],
+          [
+            "23",
+            "22",
+            "29",
+            "23",
+            "24",
+            "50"
+          ],
+          [
+            "24",
+            "22",
+            "26",
+            "24",
+            "23",
+            "51"
+          ],
+          [
+            "25",
+            "22",
+            "26",
+            "25",
+            "24",
+            "35"
+          ],
+          [
+            "26",
+            "22",
+            "25",
+            "26",
+            "24",
+            "30"
+          ],
+          [
+            "27",
+            "22",
+            "58",
+            "27",
+            "24",
+            "53"
+          ],
+          [
+            "28",
+            "22",
+            "58",
+            "28",
+            "24",
+            "48"
+          ],
+          [
+            "29",
+            "22",
+            "28",
+            "29",
+            "24",
+            "25"
+          ],
+          [
+            "30",
+            "22",
+            "28",
+            "30",
+            "24",
+            "54"
+          ],
+          [
+            "31",
+            "23",
+            "27",
+            "31",
+            "24",
+            "53"
+          ],
+          [
+            "32",
+            "22",
+            "29",
+            "32",
+            "24",
+            "50"
+          ],
+          [
+            "33",
+            "22",
+            "26",
+            "33",
+            "24",
+            "52"
+          ],
+          [
+            "34",
+            "22",
+            "34",
+            "34",
+            "24",
+            "23"
+          ],
+          [
+            "35",
+            "22",
+            "59",
+            "35",
+            "24",
+            "50"
+          ],
+          [
+            "36",
+            "22",
+            "55",
+            "36",
+            "24",
+            "53"
+          ],
+          [
+            "37",
+            "22",
+            "52",
+            "37",
+            "24",
+            "51"
+          ],
+          [
+            "38",
+            "22",
+            "58",
+            "38",
+            "24",
+            "25"
+          ],
+          [
+            "39",
+            "23",
+            "53",
+            "39",
+            "24",
+            "54"
+          ],
+          [
+            "40",
+            "22",
+            "53",
+            "40",
+            "24",
+            "53"
+          ],
+          [
+            "41",
+            "22",
+            "32",
+            "41",
+            "24",
+            "52"
+          ],
+          [
+            "42",
+            "22",
+            "39",
+            "42",
+            "24",
+            "53"
+          ],
+          [
+            "43",
+            "22",
+            "26",
+            "43",
+            "24",
+            "52"
+          ],
+          [
+            "44",
+            "22",
+            "56",
+            "44",
+            "24",
+            "52"
+          ],
+          [
+            "45",
+            "22",
+            "22",
+            "45",
+            "24",
+            "53"
+          ],
+          [
+            "46",
+            "22",
+            "58",
+            "46",
+            "24",
+            "25"
+          ],
+          [
+            "47",
+            "22",
+            "59",
+            "47",
+            "24",
+            "51"
+          ],
+          [
+            "48",
+            "22",
+            "58",
+            "48",
+            "24",
+            "53"
+          ],
+          [
+            "49",
+            "13",
+            "28",
+            "49",
+            "14",
+            "36"
+          ],
+          [
+            "50",
+            "13",
+            "35",
+            "50",
+            "14",
+            "30"
+          ],
+          [
+            "51",
+            "13",
+            "31",
+            "51",
+            "15",
+            "37"
+          ],
+          [
+            "52",
+            "16",
+            "42",
+            "52",
+            "14",
+            "32"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 12,
+      "text": "53\n12\n34\n53\n14\n35\n54\n12\n55\n54\n14\n31\n55\n12\n34\n55\n14\n35\n56\n13\n34\n56\n14\n35\n57\n13\n33\n57\n14\n35\n58\n14\n40\n58\n17\n45\nTable #3: Water Added to Inside of Bags\nBag\nWater Used (mL)\nControl\n435\n100\n495\n200\n555\n300\n625\n400\n675\n500\n745\n600\n805\n700\n855\n800\n925\n900\n975\nTotal water:\n7090\nTable #4: Water Used for Humidity for Each Incubator\nIncubator\nWater Used (mL)\n1\n1615\n2\n1515\nTotal:\n3130\nTable #5: Total Water Used Duration Experiment\nTotal Water Used (mL):\n10,220\nTable #6: Total Substrate Material Masses Used\nMaterial\nAmount (g)\nSawdust\n298.25\nWoodchips\n119.3\nStraw\n95.44\nGypsum\n11.93",
+      "char_count": 574,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "53",
+            "12",
+            "34",
+            "53",
+            "14",
+            "35"
+          ],
+          [
+            "54",
+            "12",
+            "55",
+            "54",
+            "14",
+            "31"
+          ],
+          [
+            "55",
+            "12",
+            "34",
+            "55",
+            "14",
+            "35"
+          ],
+          [
+            "56",
+            "13",
+            "34",
+            "56",
+            "14",
+            "35"
+          ],
+          [
+            "57",
+            "13",
+            "33",
+            "57",
+            "14",
+            "35"
+          ],
+          [
+            "58",
+            "14",
+            "40",
+            "58",
+            "17",
+            "45"
+          ]
+        ],
+        [
+          [
+            "Bag",
+            "Water Used (mL)"
+          ],
+          [
+            "Control",
+            "435"
+          ],
+          [
+            "100",
+            "495"
+          ],
+          [
+            "200",
+            "555"
+          ],
+          [
+            "300",
+            "625"
+          ],
+          [
+            "400",
+            "675"
+          ],
+          [
+            "500",
+            "745"
+          ],
+          [
+            "600",
+            "805"
+          ],
+          [
+            "700",
+            "855"
+          ],
+          [
+            "800",
+            "925"
+          ],
+          [
+            "900",
+            "975"
+          ],
+          [
+            "Total water:",
+            "7090"
+          ]
+        ],
+        [
+          [
+            "Incubator",
+            "Water Used (mL)"
+          ],
+          [
+            "1",
+            "1615"
+          ],
+          [
+            "2",
+            "1515"
+          ],
+          [
+            "Total:",
+            "3130"
+          ]
+        ],
+        [
+          [
+            "Total Water Used (mL):",
+            "10,220"
+          ]
+        ],
+        [
+          [
+            "Material",
+            "Amount (g)"
+          ],
+          [
+            "Sawdust",
+            "298.25"
+          ],
+          [
+            "Woodchips",
+            "119.3"
+          ],
+          [
+            "Straw",
+            "95.44"
+          ],
+          [
+            "Gypsum",
+            "11.93"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 13,
+      "text": "Total Mass:\n524.92\nVIII.\nAppendix B: Visual Data",
+      "char_count": 48,
+      "image_count": 6,
+      "tables": [
+        [
+          [
+            "Total Mass:",
+            "524.92"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 14,
+      "text": "",
+      "char_count": 0,
+      "image_count": 6,
+      "tables": []
+    },
+    {
+      "page_number": 15,
+      "text": "",
+      "char_count": 0,
+      "image_count": 6,
+      "tables": []
+    },
+    {
+      "page_number": 16,
+      "text": "",
+      "char_count": 0,
+      "image_count": 6,
+      "tables": []
+    },
+    {
+      "page_number": 17,
+      "text": "",
+      "char_count": 0,
+      "image_count": 6,
+      "tables": []
+    }
+  ]
+}

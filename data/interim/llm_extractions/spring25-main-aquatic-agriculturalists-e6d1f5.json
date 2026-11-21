@@ -1,0 +1,79 @@
+{
+  "extraction": {
+    "report_id": "spring25-main-aquatic-agriculturalists-e6d1f5",
+    "extraction_method": "heuristic",
+    "model_name": "table-aware-lexicon-v2",
+    "celestial_body": "lunar",
+    "regolith_simulant": "unspecified",
+    "regolith_simulant_raw": null,
+    "crop_common_name": "sunflower",
+    "crop_scientific_name": "Helianthus annuus",
+    "crop_guild": "other",
+    "experimental_duration_days": 56.0,
+    "total_plants_or_pots": null,
+    "replicates_per_treatment": null,
+    "has_earth_soil_control": false,
+    "has_unamended_regolith_control": true,
+    "statistical_tests_reported": [],
+    "data_availability": "summary_means",
+    "primary_bottlenecks": [
+      "alkaline_ph",
+      "nutrient_deficiency",
+      "light_or_temperature_stress"
+    ],
+    "innovation_tags": [
+      "other"
+    ],
+    "key_hypothesis": "Research Question and Hypothesis",
+    "summary_findings": "Discussion & Conclusions",
+    "arms": [
+      {
+        "arm_id": "arm_ctrl_regolith",
+        "arm_label": "Unamended Regolith Control",
+        "is_control": true,
+        "control_type": "unamended_regolith",
+        "regolith_pct": 100.0,
+        "amendment_category": "none_control",
+        "amendment_detail": null,
+        "amendment_dose": null,
+        "germination_rate_pct": null,
+        "survival_rate_pct": null,
+        "mean_shoot_height_cm": null,
+        "mean_root_length_cm": null,
+        "mean_fresh_biomass_g": null,
+        "mean_dry_biomass_g": null,
+        "substrate_ph": null,
+        "outcome_vs_regolith_control": "neutral",
+        "reported_effect_pct": null,
+        "evidence_quote": null,
+        "page_number": null
+      },
+      {
+        "arm_id": "arm_trt_1",
+        "arm_label": "Treatment (regolith)",
+        "is_control": false,
+        "control_type": "none",
+        "regolith_pct": null,
+        "amendment_category": "other",
+        "amendment_detail": "regolith",
+        "amendment_dose": null,
+        "germination_rate_pct": null,
+        "survival_rate_pct": null,
+        "mean_shoot_height_cm": null,
+        "mean_root_length_cm": null,
+        "mean_fresh_biomass_g": null,
+        "mean_dry_biomass_g": null,
+        "substrate_ph": null,
+        "outcome_vs_regolith_control": "improved",
+        "reported_effect_pct": null,
+        "evidence_quote": "PTM Final Paper - How well will Water Lilies (Nymphaea tuberosa) grow in lunar regolith?",
+        "page_number": 1
+      }
+    ]
+  },
+  "provenance_audit": {
+    "quotes_checked": 1,
+    "quotes_matched": 1,
+    "quote_match_rate": 1.0
+  }
+}

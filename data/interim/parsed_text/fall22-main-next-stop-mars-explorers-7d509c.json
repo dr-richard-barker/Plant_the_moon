@@ -1,0 +1,688 @@
+{
+  "report_id": "fall22-main-next-stop-mars-explorers-7d509c",
+  "sha256": "def9b568f68c45e7f1f0932cd8fe50c5a9725504e6a5f42ae431e16009b84ed3",
+  "page_count": 21,
+  "total_chars": 36332,
+  "avg_chars_per_page": 1730.1,
+  "total_images": 20,
+  "table_count": 20,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Next Stop Mars Explorers: Charlotte Gannon, Isabella Leao, Katie May, and Robin Murphy\nTeam ID 11290\nMars Regolith Project - Testing Mars Global Simulant MGS-1 Enhancements including a Novel Water/Nutrient\nDelivery System for Growing Crops for a Mission to Mars\nAbstract\nFinding a way to grow crops in Mars Regolith is important in terms of sustaining future life on Mars. It is hypothesized\nthat enhancing Mars Regolith with a polyacrylamide superabsorbent polymer (PAM SAP) and organic nutrients will\nenable crops to grow more successfully. The experiment covered three planting stages. In stage I, triplicate planting of\neight radish seeds were grown in seven different groups. Two control groups with Earth soil (C1) and Mars Regolith (C2),\nand five Mars Regolith experimental variable groups with enhancements: fertilizer (V1), organic nutrients (V2), PAM\nSAP (V3), fertilizer PAM SAP (V4), and organic nutrient PAM SAP (V5). Stage II kept all groups constant while adding\n25% volume of matured compost to enhance growth. In planting stage III, arugula, radish, chard, lettuce, and kale were\ngrown in the most successful variable from Stage II (V5). The most significant finding in this study was that V5, PAM\nSAP enhanced with organic nutrients, produced the most radish plants compared to other groups. While the V5 plants did\nnot have the greatest average height at 2.8 cm compared to V3 at 3.7 cm, it had the most plants grown in total (12), 42%\nmore than the Earth soil control. In stage III, the radish plants experienced the most growth (8 plants), 37.5% more than\nthe next successful crop, arugula. The implications of this study include the development of a novel nutrient and water\ndelivery system for a reliable food source to help sustain life on Mars.\nIntroduction\nAim: The goal of this study is to determine which enhancements regarding water/nutrient delivery systems can improve\nand maximize the quality and quantity of a radish crop grown in Mars Regolith, to have the same or better quality as a\ncrop grown in Earth Soil. Specifically, the ultimate goal is to determine the effectiveness of a superabsorbent\npolyacrylamide polymer, SAP PAM, absorbed with different substances as a water and nutrient delivery system for the\nMars Regolith to help crops, such as radishes, grow. The novel nutrients to be tested include fruit peels and fruit peel\nextract.\nWhy Mars? Mars is an important planet to focus on because of its resources. There is liquid water underground on Mars,\nso if one could drill into the ground, there could be life in the water, which would allow us to find more about the\nbiochemical structure of life beyond Earth. This is important in discovering more about the ways in which we can sustain\nlife on Mars, however, for the purposes of our experiment, this is valuable as the water available in the core of Mars can\nbe extremely useful to the growth of crops in Mars Regolith.\nHypothesis/Driving Research Question: It is hypothesized that the superabsorbent polyacrylamide polymer (SAP PAM),\nwhich holds and releases water over time, will aid in the water distribution to the Regolith over the growth period and\ntherefore will enhance growth. The water delivery from the SAP PAM will be improved by the high content of salts\npresent in the Mars Regolith, as salt helps in water release from the SAP PAM. Furthermore, using dried fruit peels and\nfruit peel extract with a high nutrient density will provide a natural and sustainable source of nutrients for the crops, and\nthose plants will grow as much or better as the ones with traditional chemical fertilizer. The ultimate goal would be to\ngrow crops that produce nutrient rich crops that may also be recycled into the Regolith.\nReview of Literature\nBefore missions studying if human life can survive on Mars, scientists developed artificial soil mixtures that mimic\nmaterials found on Mars and evaluated them to see how fertile the soil could be (Flurry, et al., 2020). The scientists used\ndata taken from NASA\u2019s surface samples to develop the stimulants. They made sure to use materials such as mixtures of\nsoil, clay minerals, and salts that are similar to what you would find if you were to take a sample from Mars\u2019 surface.\nAlthough Mars has the majority of plant essential nutrients, like nitrogen and potassium, the plants are unable to just pull\nit out of the soil. Furthermore, the nutrients could either be in very low quantities or high concentrations, both of which\n1",
+      "char_count": 4472,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Finding a way to grow crops in Mars Regolith is important in terms of sustaining future life on Mars. It is hypothesized"
+          ],
+          [
+            "that enhancing Mars Regolith with a polyacrylamide superabsorbent polymer (PAM SAP) and organic nutrients will"
+          ],
+          [
+            "enable crops to grow more successfully. The experiment covered three planting stages. In stage I, triplicate planting of"
+          ],
+          [
+            "eight radish seeds were grown in seven different groups. Two control groups with Earth soil (C1) and Mars Regolith (C2)"
+          ],
+          [
+            "and five Mars Regolith experimental variable groups with enhancements: fertilizer (V1), organic nutrients (V2), PAM"
+          ],
+          [
+            "SAP (V3), fertilizer PAM SAP (V4), and organic nutrient PAM SAP (V5). Stage II kept all groups constant while adding"
+          ],
+          [
+            "25% volume of matured compost to enhance growth. In planting stage III, arugula, radish, chard, lettuce, and kale were"
+          ],
+          [
+            "grown in the most successful variable from Stage II (V5). The most significant finding in this study was that V5, PAM"
+          ],
+          [
+            "SAP enhanced with organic nutrients, produced the most radish plants compared to other groups. While the V5 plants did"
+          ],
+          [
+            "not have the greatest average height at 2.8 cm compared to V3 at 3.7 cm, it had the most plants grown in total (12), 42%"
+          ],
+          [
+            "more than the Earth soil control. In stage III, the radish plants experienced the most growth (8 plants), 37.5% more than"
+          ],
+          [
+            "the next successful crop, arugula. The implications of this study include the development of a novel nutrient and water"
+          ],
+          [
+            "delivery system for a reliable food source to help sustain life on Mars."
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "harms the plant. Some mixtures they have come across so far include rinsing the soil or adding bacteria or fungi to it, as\nthey tend to support plants in stressful conditions.\nThere have been many studies in which scientists have attempted to grow crops usings Mars simulant soil. The first\nlarge-scale controlled experiment to determine the possibility of growing plants in Mars and moon soil simulants\nconveyed the fact that plants can grow on Mars and moon soil simulants for 50 days without the addition of extra nutrients\n(Wamelink, et al., 2014). Growth on the Mars simulant was better than both the moon and the control soils. Specifically,\nthe crops tomato, wheat, and cress, and the green manure species field mustard performed particularly well in the\nexperiment. Thus, the results show that Mars soil simulants have the potential to grow successful crops, yet there are still\nquestions about simulants' water carrying capacity and other physical properties. This demonstrates the need for additional\nresearch.\nIn another crop study, a group of undergraduate students and researchers attempted to see which types of crops would be\nable to grow in Mars Stimulant soil for future Mars colonists (Cartier et al., 2018). They grew each crop in the stimulant\nsoil but also in Mars level light conditions, thereby creating a more Mars-like environment. The scientists found that kale,\nsweet potatoes, and certain lettuces grew very easily, even tasting no different than if they were grown on Earth. The\ndifferences in stimulant soil compared to Earth is that it had double the iron oxides as Earth soil, and also the Earth soil is\nmuch more organic.\nIn a similar study, researchers tested ten different seeds growing in lunar and martian regolith simulant soil in order to\ndetermine which crops would have the most success growing on the Moon and Mars (Wamelink, et al., 2019). In order to\ntest whether crops can grow or not, which would be much healthier compared to current foods provided for astronauts,\nanalyzed the control group of Earth soil, and the experimental groups of Mars and Moon simulant soil. After planting ten\ndifferent crops of garden cress, rocket, tomato, radish, rye, quinoa, spinach, chives, pea and leek, scientists discovered that\nevery plant except spinach was able to grow, and the addition of organic matter from their previous harvest enhanced this\ngrowth. Radish, rye and cress were most successful. Ultimately, this article helped our project in determining which kind\nof seeds would be best to try to plant in our own Mars Regolith, and points to organic biomass\u2019s usability to enrich plant\ndevelopment.\nAnother team of scientists tested the ability of crops to grow in Mars-like soil (Romero et al., 2020). Their \u201csimulant\u201d soil\nused to complete the study was made up of different rock particles mixed in proportions that match a rover's analyses of\ntypical Martian soil. In an attempt to improve the crops, the team tried to infuse the Mars soil with nitrogen-rich human\nurine. Tomatoes, garlic, spinach, basil, kale, lettuce, rocket, onion and radishes were crops that were successful, despite\nthe fact that the quality of harvests varied. In contrast, however, potatoes struggled as they prefer a much more loose soil.\nOverall, the team of researchers found that the key to success with farming on Mars may be to grow lower yield crops.\nEnhancing Mars soil has been a goal of scientists as well. It was determined that a biofertilizer made from Alfalfa plants\nand desalinated briny water using marine cyanobacterium Synechococcus sp can be used to enhance Mars soil\n(Kasiviswanathan et al., 2022). Mars soil is low in nutrient content and high in salinity which hinders its ability to hold\nwater for growing food crops. Its soil is also full of sulfates and perchlorates, which are detrimental to plant growth.\nTherefore, scientists discovered that these factors can be mitigated by using alfalfa plants that could grow in bare basaltic\nregolith simulant soil. After treating the soil with 100 mg of powdered Alfalfa plants and watering the plants with\ndesalinated water (filtered using porous basaltic type volcanic rocks), scientists evaluated the growth production of\nturnips, radish, and lettuce plants. Ultimately, they found that this combination was most effective in producing crops.\nRationale:\nMartian Global Simulant Regolith, MGS-1, is low in nutrient content, yet high in salinity, including a large amount of\nsulfates and perchlorates. Both of these factors contribute to the detrimental effects that Mars Regolith has on plant\ngrowth, and hinders its ability to hold water. Therefore, in order to mitigate these effects, superabsorbent polymer (SAP)\nbeads made of crosslinked polyacrylamide (PAM) that are able to hold water and slowly release it throughout the soil will\nbe tested. A novel nutrient enhancement consisting of fruit peels, that will allow crops to robustly continue their stages of\ndevelopment, will also be tested.\n2",
+      "char_count": 4988,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "text": "Both Banana and orange peels add nutrients and nitrogen to the soil as they decompose. In particular, banana peels are\neffective as a natural fertilizer, they rot quickly once buried where they release a rich amount of important nutrients like\npotassium, calcium, sulfur, phosphorus, magnesium, and sodium. Orange peels contain d-Limonene, which is a natural\nchemical that can keep away harmful bugs or aphids. Since Mars has been shown to have insectsthis may be an important\nfeature (Romoser, 2019). Orange peels are also high in nitrogen, sulfur, magnesium, calcium and other nutrients that can\ngive plants the nutrients they need to grow. Both banana and orange peels would therefore be effective for enhancing the\ngrowth of crops. In terms of our crop choice, the radish is a fast growing and nutritious root crop. Nutritional benefits\ninclude high fiber, calcium, and potassium. Radishes are also rich in Vitamins E, A, C, and B6. Furthermore, they are fast\ngrowing and ready to eat in as little as 4 weeks. They also do not require as much water as some other plants in order to\ngrow.\nMethods\nI.\nPhase I Variables and Control:\nIndependent variable - Mars Regolith enhancements (nutrient sources and water/nutrient delivery method)\nDependent variable - crop growth (number of plants germinating in each pot, how fast and how tall)\nControl Group for Phase I\n- Earth soil without enhancements (water only)\n-Mars Regolith without enhancements (water only)\nVariable Group 1 for Phase I - Mars Regolith with fertilizer (variable 1)\n- Mars Regolith with fruit peel (variable 2)\nVariable Group 2 for Phase I - Mars Regolith with water PAM SAP delivery system (variable 3)\n- Mars Regolith with fertilizer PAM SAP delivery system (variable 4)\n- Mars Regolith with fruit peel extract PAM SAP delivery system (variable 5)\nNote: Variable Group 1 will also serve as a control for Group 2, to determine the effectiveness of the novel water/nutrient\ndelivery system.\nControlled variables (what will be held constant) for Phase I: planting location, amount of light; amount and type of\nMars simulant Regolith; size and type of planting container (peat boxes and planting boxes); amount of water for all\nplants; amount of the PAM SAP delivery method for Group 2.\nNote:\nFor Phase II, the same variables in Phase 1 were tested, except with a 75/25 volume percent Mars Regolith/compost base\ninstead of just Mars Regolith alone. Only radishes were again planted.\nFor Phase III, variable 5 (the most successful Mars Regolith enhanced variable from Part II) was used for 5 different\ncrops, including radishes. Since we wanted to test other crop growth compared to radishes, a crop we knew grew\nsuccessfully in variable 5, radishes were considered the control, or standard for comparison.\n3",
+      "char_count": 2772,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "text": "II. Experimental Design and Procedures\n\u25cf\nFigure 1a. Lighthouse Used for Phases I and II, from Carolina Biological, Item Number #159004\nhttps://www.carolina.com/wisconsin-fast-plants-supplies/plant-light-house-with-lightbulbs/15900\n4.pr?question=greenhouse\n\u25a0\nThe lighthouse has a light height that adjusts for all stages of the plant\u2019s life cycle. The\ninside is lined with reflective material, which provides more uniform growth for plants.\nThe dimensions of the lighthouse are 24\" H x 19\" W x 18\" D, and it uses two 15-W LED\nhigh intensity bulbs with a color temperature of 5,000 K.\n\u25cf\nFigure 1b. Sacred Heart Greenwich Greenhouse used for Phase III\nhttps://outdoorpersonia.com/recent-projects/custom-12x30-greenhouse-for-sacred-heart-school-i\nn-greenwich-ct\n\u25cf\nFigure 2a. A sample of the PAM SAP, made by adding 225 ml of deionized water to 30 ml of PAM SAP beads.\n4",
+      "char_count": 865,
+      "image_count": 3,
+      "tables": [
+        [
+          [
+            "https://outdoorpersonia.com/recent-projects/custom-12x30-greenhouse-for-sacred-heart-school-i"
+          ],
+          [
+            "n-greenwich-ct"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 5,
+      "text": "\u25cf\nFigure 2b. Dehydrated and ground fruit peels shown below, made with 3 banana peels and 2 orange peels, dried\nfor 12 hours in a desiccator and ground at high speed for 60 seconds. Fruit peel extract in PAM SAP was made by\nsoaking 75 ml of peels in 225 ml of water, straining after 24 hours, and then soaking this solution in 30 ml of\nPAM SAP beads.\n\u25cf\nSchedule:\n\u25cb\nOverall Growth period will be from 9/26-11/18\n\u25cb\nPreliminary gathering and setup of materials occurred during the week of 9/19:\n\u25a0\nDehydrating and grinding fruit peels\n\u25a0\nPutting water, fertilizer, and fruit peels into PAM SAP\n\u25cb\nPlanting for Phase I occurred during the week of 9/26\n\u25a0\nTo monitor growth, the group worked during class, which meets approximately every\nother day, to measure the number of plants in each pot and height of each plant\n(centimeters) in both our lab notebook and shared google doc.\n\u25a0\nMeasurements were made throughout all three phases until the end of the grow period on\n11/18.\n\u25a0\nWatering occurred daily, at first 30 ml per day per pot, increased after week 1 to 60 ml\nper day per pot after the Mars Regolith pots appeared too dry in week 1.\n\u25cf\nPlanting Design, Phase I:\n\u25cb\n8 radish seeds were used per triplicate planting for each control and variable.\n\u25cb\nControls and Variables for Phase 1:\n\u25a0\nControl Group.\n\u25cb\nEarth soil with water (control 1)\n\u25a0\n60 mL Earth soil in each pot\n\u25cb\nMars Regolith with water (control 2)\n\u25a0\n60 mL Mars Regolith in each pot\n*Variable Group I. Mars MGS-1 Regolith Simulant with enhancements\n\u25cb\nMars Regolith with fertilizer (variable 1)\n\u25a0\n60 mL Mars Regolith; 15 mL fertilizer solution, made according\nto directions on Miracle Gro bottle (20 drops per 946 ml water)\n\u25cb\nMars Regolith with fruit peel (variable 2)\n\u25a0\n45 mL Mars Regolith; 15 mL fruit peel (solid) for total of 60 ml\nsoil\n5",
+      "char_count": 1793,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "text": "*Variable Group II. Mars MGS-1 Regolith Simulant with enhancements using a novel delivery system\n\u25cb\nMars Regolith with water PAM SAP delivery system (variable 3)\n\u25a0\n45 mL Mars Regolith; 15 mL PAM SAP with water for total of 60\nml soil\n\u25cb\nMars Regolith with fertilizer SAP PAM delivery system (variable 4)\n\u25a0\n45 mL Mars Regolith; 15 mL PAM SAP with fertilizer solution\nfor total of 60 ml soil\n\u25cb\nMars Regolith with fruit peel extract PAM SAP delivery system (variable\n5)\n\u25a0\n45 mL Mars Regolith; 15 mL PAM SAM with fruit peel extract\nfor total of 60 ml soil\nNote: For Phase II, the same variables in Phase 1 were tested, except with a 75/25 volume percent Mars/compost base\ninstead of just Mars Regolith alone. Only radishes were again planted.\nFor Phase III, variable 5 (the most successful Mars Regolith enhanced variable) was used for 5 different crops: radishes,\narugula, kale, lettuce, and chard.\n\u25cf\nBefore the growth period, nutrient levels for the compost were measured.\n\u25cb\nNutrient levels for the compost were measured using RapidTest Soil Nutrient Test Kit.\n\u25cb\nPlanting Design, Phase II.\n\u25a0\nAll soil enhancements and variables kept the same as Phase I\n\u25a0\nChange in soil base composition: 75% by volume Mars soil and 25% matured compost\nsoil\n\u25a0\nControl Group\n\u25cf\nEarth soil and compost* with water (control 1)\n\u25cf\nMars Regolith and compost with water (control 2)\n\u25cf\nVariable Group I. Mars MGS-1 Regolith Simulant with enhancements (and controls)\n\u25cf\nMars Regolith and compost with fertilizer (variable 1)\n\u25cf\nMars Regolith and compost with fruit peel (variable 2)\n\u25a0\nVariable Group II. Mars MGS-1 Regolith Simulant with enhancements using a novel\ndelivery system\n\u25cf\nMars Regolith and compost with water PAM SAP delivery system (variable 3)\n\u25cf\nMars Regolith and compost with fertilizer PAM SAP delivery system (variable 4)\n\u25cf\nMars Regolith and compost with fruit peel extract PAM SAP delivery system\n(variable 5)\n\u25cb\nPlanting Design, Phase III.\n\u25a0\nTesting Mars Regolith and compost with fruit peel extract PAM SAP delivery system\n(variable 5) with varied plant types.\n\u25cf\nSoil base composition: 75% by volume Mars soil and 25% matured compost soil\n\u25cf\nPlant types: radish, arugula, chard, lettuce, kale\n\u25cf\nControl is the radish plants since we knew it experienced successful growth in\nPhase II, and other plant crops were being compared to it.\n*Information on compost used: The compost was obtained from the school\u2019s compost bin. It consists of greens: fruits and\nvegetables, coffee grounds, and other meatless scraps from the school\u2019s dining halls. The other components of the compost\nare browns: dead leaves, shredded tree branches, twigs, mulch. The final ingredient is water. These items are separated\ninto three separate bins, one containing the greens, one containing the browns, and the third one containing the\ncombination of the two. The ratio of the compost is 30 parts brown to 1 part green by weight. The compost is then mixed\n6",
+      "char_count": 2912,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "text": "with an auger every two weeks. Finally, it is mixed in with other compost and soil and left to degrade for about two years.\nThe compost we used was two-year old school-generated nutrient-rich (in terms of potassium and nitrogen) compost.\nWhen testing nutrient levels using a soil test kit, the nitrogen was adequate, potassium was sufficient, and phosphorus was\ndeficient.\n\u25cf\nRecordkeeping: To keep accurate records, we will maintain a detailed lab notebook and also document\nresults in our online shared Google document.\n\u25cf\nSafety and COVID-19: At school we are using masks, gloves and goggles while handling the Mars soil,\nwhich corresponds to safety protocols. If there is a COVID-19 disruption, we will have remote cameras on\nour plants to document and record growth.\n\u25cf\nTables outlining the specific grow pot setup (including controls):\nTable 1. Experimental Design for Phase I:\nWITHOUT PAM SAP\nPOLYMER BEADS\nSoil composition\n8 seeds/pot in triplicate for\na total of 24 seeds per\ncontrol and variable\nControl 1\nEarth soil\nRadish\nControl 2\nMars Regolith\nRadish\nExperimental Variable 1\nMars Regolith with fertilizer\nRadish\nExperimental Variable 2\nMars Regolith with fruit peel\nRadish\nWITH PAM SAP\nPOLYMER BEADS\nSoil composition/Pot\n8 seeds/pot in\ntriplicate for a total\nof 24 seeds per\nvariable\nExperimental Variable 3\nMars Regolith with water SAP PAM beads\nRadish\nExperimental Variable 4\nMars Regolith with fertilizer SAP PAM beads\nRadish\nExperimental Variable 5\nMars Regolith with fruit peel SAP PAM beads\nRadish\nTable 2. Experimental Design for Phase II:\nWITHOUT PAM SAP\nPOLYMER BEADS\nSoil composition\n8 seeds/pot in triplicate for\na total of 24 seeds per\ncontrol and variable\nControl 1\nEarth/Compost mix (75/25)\nRadish\nControl 2\nMars Regolith/Compost (75/25)\nRadish\nExperimental Variable 1\nMars Regolith/Compost with fertilizer\nRadish\nExperimental Variable 2\nMars Regolith/Compost with fruit peel\nRadish\n7",
+      "char_count": 1909,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "WITHOUT PAM SAP POLYMER BEADS",
+            "Soil composition",
+            "8 seeds/pot in triplicate for a total of 24 seeds per control and variable"
+          ],
+          [
+            "Control 1",
+            "Earth soil",
+            "Radish"
+          ],
+          [
+            "Control 2",
+            "Mars Regolith",
+            "Radish"
+          ],
+          [
+            "Experimental Variable 1",
+            "Mars Regolith with fertilizer",
+            "Radish"
+          ],
+          [
+            "Experimental Variable 2",
+            "Mars Regolith with fruit peel",
+            "Radish"
+          ]
+        ],
+        [
+          [
+            "WITH PAM SAP POLYMER BEADS",
+            "Soil composition/Pot",
+            "8 seeds/pot in triplicate for a total of 24 seeds per variable"
+          ],
+          [
+            "Experimental Variable 3",
+            "Mars Regolith with water SAP PAM beads",
+            "Radish"
+          ],
+          [
+            "Experimental Variable 4",
+            "Mars Regolith with fertilizer SAP PAM beads",
+            "Radish"
+          ],
+          [
+            "Experimental Variable 5",
+            "Mars Regolith with fruit peel SAP PAM beads",
+            "Radish"
+          ]
+        ],
+        [
+          [
+            "WITHOUT PAM SAP POLYMER BEADS",
+            "Soil composition",
+            "8 seeds/pot in triplicate for a total of 24 seeds per control and variable"
+          ],
+          [
+            "Control 1",
+            "Earth/Compost mix (75/25)",
+            "Radish"
+          ],
+          [
+            "Control 2",
+            "Mars Regolith/Compost (75/25)",
+            "Radish"
+          ],
+          [
+            "Experimental Variable 1",
+            "Mars Regolith/Compost with fertilizer",
+            "Radish"
+          ],
+          [
+            "Experimental Variable 2",
+            "Mars Regolith/Compost with fruit peel",
+            "Radish"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 8,
+      "text": "WITH PAM SAP\nPOLYMER BEADS\nSoil composition/Pot\n8 seeds/pot in\ntriplicate for a\ntotal of 24\nseeds per\nvariable\nExperimental Variable 3\nMars Regolith/Compost with water SAP PAM beads\nRadish\nExperimental Variable 4\nMars Regolith/Compost with fertilizer SAP PAM\nbeads\nRadish\nExperimental Variable 5\nMars Regolith/Compost with fruit peel SAP PAM\nbeads\nRadish\nExperimental Design for Phase 3: In Greenhouse on School Campus, to determine how other crops compare to\nradish growth\nTable 3. Experimental Design for Phase III:\nPlant Type\nNumber of Seeds\nper pot, duplicate\npots for each\ncontrol and\nvariable\nSoil Type:\nRadish (Control)\n25\nPAM SAP with\nfruit peel extract\nArugula\n25\nPAM SAP with\nfruit peel extract\nKale\n25\nPAM SAP with\nfruit peel extract\nChard\n25\nPAM SAP with\nfruit peel extract\nLettuce\n25\nPAM SAP with\nfruit peel extract\n8",
+      "char_count": 830,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "WITH PAM SAP POLYMER BEADS",
+            "Soil composition/Pot",
+            "8 seeds/pot in triplicate for a total of 24 seeds per variable"
+          ],
+          [
+            "Experimental Variable 3",
+            "Mars Regolith/Compost with water SAP PAM beads",
+            "Radish"
+          ],
+          [
+            "Experimental Variable 4",
+            "Mars Regolith/Compost with fertilizer SAP PAM beads",
+            "Radish"
+          ],
+          [
+            "Experimental Variable 5",
+            "Mars Regolith/Compost with fruit peel SAP PAM beads",
+            "Radish"
+          ]
+        ],
+        [
+          [
+            "Experimental Design for Phase 3: In Greenhouse on School Campus, to determine how other crops compare to"
+          ],
+          [
+            "radish growth"
+          ]
+        ],
+        [
+          [
+            "Plant Type",
+            "Number of Seeds per pot, duplicate pots for each control and variable",
+            "Soil Type:"
+          ],
+          [
+            "Radish (Control)",
+            "25",
+            "PAM SAP with fruit peel extract"
+          ],
+          [
+            "Arugula",
+            "25",
+            "PAM SAP with fruit peel extract"
+          ],
+          [
+            "Kale",
+            "25",
+            "PAM SAP with fruit peel extract"
+          ],
+          [
+            "Chard",
+            "25",
+            "PAM SAP with fruit peel extract"
+          ],
+          [
+            "Lettuce",
+            "25",
+            "PAM SAP with fruit peel extract"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 9,
+      "text": "Results\nPlanting Data, Phase I\nStarting Date: 9/28/2022\nFigure 3. Phase I photos taken after 1 week on October 4 (controls C1 and C2 on left and variables V1 - V5 on\nright). After 1 week, there were 3 plants in the Earth soil control, average height of 1.75 cm (photo on left). There was no\ngrowth in any of the 5 experimental variables (photo on right), even after 2 weeks.\nPlanting Data, Phase II\nStarting Date: 10/20/2022\nData at end of Week 1: October 20-27 (Data taken: October 27, 2022)\nTable 4. Experimental Data for Phase II End of Week 1:\nTemperature\n67.5 F\n19.7 C\nHumidity\n61%\nVariable\nNumber of plants\nAverage height (cm)\nEarth - C1\n20\n2.15\nMars - C2\n4\n1.63\nMars - V1\n1\n0.1\nMars - V2\n1\n0.2\nMars - V3\n3\n1.67\n9",
+      "char_count": 719,
+      "image_count": 2,
+      "tables": [
+        [
+          [
+            "Results"
+          ],
+          [
+            "Planting Data, Phase I"
+          ]
+        ],
+        [
+          [
+            "Temperature",
+            "67.5 F",
+            "19.7 C"
+          ],
+          [
+            "Humidity",
+            "61%",
+            ""
+          ]
+        ],
+        [
+          [
+            "Variable",
+            "Number of plants",
+            "Average height (cm)"
+          ],
+          [
+            "Earth - C1",
+            "20",
+            "2.15"
+          ],
+          [
+            "Mars - C2",
+            "4",
+            "1.63"
+          ],
+          [
+            "Mars - V1",
+            "1",
+            "0.1"
+          ],
+          [
+            "Mars - V2",
+            "1",
+            "0.2"
+          ],
+          [
+            "Mars - V3",
+            "3",
+            "1.67"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 10,
+      "text": "Mars - V4\n5\n1.24\nMars - V5\n12\n1.35\nFigure 4. Plant height and number of plants for Phase II at the end of one week. Compared to the experimental\ngroups, V5 with fruit peel PAM SAP, had the best plant growth in terms of number at 12 plants.\n10",
+      "char_count": 242,
+      "image_count": 1,
+      "tables": [
+        [
+          [
+            "Mars - V4",
+            "5",
+            "1.24"
+          ],
+          [
+            "Mars - V5",
+            "12",
+            "1.35"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 11,
+      "text": "Figure 5. Phase II photo taken on October 27, after 7 days. On the right, the second row down is the Earth control\ngroup and has the most growth overall. V5 with fruit peel PAM SAP, which is the second column of plants to the left, has\ngrown the most compared to other experimentals.\nPhase II Data At end of week 2 - October 27 - November 3 (Data taken: November 3)\nTable 5 Experimental Data for Phase II End of Week 2:\nTemperature\n82.1 F\n27.83 C\nHumidity\n36 %\nVariable\nNumber of plants\nAverage height (cm)\nEarth - C1\n7*\n7\nMars - C2\n2\n2\nMars - V1\n-\n-\nMars - V2\n-\n-\nMars - V3\n3.7\n3\nMars - V4\n2.5\n1\nMars - V5\n2.8\n12\n*13 Earth control plants died from week 1 to week 2\n11",
+      "char_count": 668,
+      "image_count": 1,
+      "tables": [
+        [
+          [
+            "Temperature",
+            "82.1 F",
+            "27.83 C"
+          ],
+          [
+            "Humidity",
+            "36 %",
+            ""
+          ]
+        ],
+        [
+          [
+            "Variable",
+            "Number of plants",
+            "Average height (cm)"
+          ],
+          [
+            "Earth - C1",
+            "7*",
+            "7"
+          ],
+          [
+            "Mars - C2",
+            "2",
+            "2"
+          ],
+          [
+            "Mars - V1",
+            "-",
+            "-"
+          ],
+          [
+            "Mars - V2",
+            "-",
+            "-"
+          ],
+          [
+            "Mars - V3",
+            "3.7",
+            "3"
+          ],
+          [
+            "Mars - V4",
+            "2.5",
+            "1"
+          ],
+          [
+            "Mars - V5",
+            "2.8",
+            "12"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 12,
+      "text": "Figure 6. Plant height and number of plants for Phase II at the end of two weeks. Compared to the experimental\ngroups, V5 with fruit peel SAP PAM, had the best plant growth.\nV5 \u2192\nFigure 7. Phase II photo taken on November 1, after 1.5 weeks. V5, the Mars/compost variable with fruit peel\nPAM SAP is in the back row on the left, as indicated by the arrow. V5 had the best growth of all the variables.\n12",
+      "char_count": 402,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 13,
+      "text": "Data for Phase II at end of week 3: November 3 - 9 (Data taken on November 9)\nTable 6. Experimental Data for Phase II End of Week 3:\nTemperature\n79.1 F\n26.17 C\nHumidity\n33%\nVariable\nNumber of plants\nAverage height (cm)\nEarth - C1\n-\n-\nMars - C2\n-\n-\nMars - V1\n-\n-\nMars - V2\n-\n-\nMars - V3\n-\n-\nMars - V4\n-\n-\nMars - V5\n3\n3.0\nFigure 8. Plant height and number of plants for Phase II at the end of three weeks. The only viable radish plants\nwere from Variable 5, the PAM SAP with fruit peel extract. Most plants had died off - only V5 remains.\n13",
+      "char_count": 539,
+      "image_count": 1,
+      "tables": [
+        [
+          [
+            "Temperature",
+            "79.1 F",
+            "26.17 C"
+          ],
+          [
+            "Humidity",
+            "33%",
+            ""
+          ]
+        ],
+        [
+          [
+            "Variable",
+            "Number of plants",
+            "Average height (cm)"
+          ],
+          [
+            "Earth - C1",
+            "-",
+            "-"
+          ],
+          [
+            "Mars - C2",
+            "-",
+            "-"
+          ],
+          [
+            "Mars - V1",
+            "-",
+            "-"
+          ],
+          [
+            "Mars - V2",
+            "-",
+            "-"
+          ],
+          [
+            "Mars - V3",
+            "-",
+            "-"
+          ],
+          [
+            "Mars - V4",
+            "-",
+            "-"
+          ],
+          [
+            "Mars - V5",
+            "3",
+            "3.0"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 14,
+      "text": "Planting Data, Phase III\nStarting Date: 11/4/2022\nData at end of Week 1 - November 4-11 (Data taken on November 11)\nTable 8. Experimental Data for Phase III End of Week 1:\nPlant Type\nSoil Type:\nNumber of Plants\nGrowing\nAverage Height (cm)\nRadish\nPAM SAP with\nfruit peel extract\n4\n0.75\nArugula\nPAM SAP with\nfruit peel extract\n2\n0.5\nKale\nPAM SAP with\nfruit peel extract\n-\n-\nChard\nPAM SAP with\nfruit peel extract\n-\n-\nLettuce\nPAM SAP with\nfruit peel extract\n-\n-\nFigure 9. Plant height and number of plants for Phase III at the end of one week. The radishes grew the best with arugula\nas the second crop to grow in the PAM SAP with fruit peel extract.\n14",
+      "char_count": 649,
+      "image_count": 1,
+      "tables": [
+        [
+          [
+            "Plant Type",
+            "Soil Type:",
+            "Number of Plants Growing",
+            "Average Height (cm)"
+          ],
+          [
+            "Radish",
+            "PAM SAP with fruit peel extract",
+            "4",
+            "0.75"
+          ],
+          [
+            "Arugula",
+            "PAM SAP with fruit peel extract",
+            "2",
+            "0.5"
+          ],
+          [
+            "Kale",
+            "PAM SAP with fruit peel extract",
+            "-",
+            "-"
+          ],
+          [
+            "Chard",
+            "PAM SAP with fruit peel extract",
+            "-",
+            "-"
+          ],
+          [
+            "Lettuce",
+            "PAM SAP with fruit peel extract",
+            "-",
+            "-"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 15,
+      "text": "Figure 10 - Phase III. Multiple crops were grown in the greenhouse on campus in the best soil variable from Phase II\n(V5). The soil used was Mars/Compost 75/25 mix with PAM SAP and fruit peel extract. Photo above taken on 11/4/22.\nRadish\nChard\nKale\nLettuce\nArugula\nFigure 11 - Phase III. After 1 week, out of the 5 crops, radishes on the far left, grew best in the Mars/Compost 75/25 mix\nwith PAM SAP and fruit peel extract. Arugula, far right, was next in terms of success. Photo taken on November 11, at\nthe end of Week 1.\n15",
+      "char_count": 527,
+      "image_count": 6,
+      "tables": []
+    },
+    {
+      "page_number": 16,
+      "text": "Figure 12. Phase III plant growth in PAM SAP with fruit extract at the end of the growth period on November 18, after 2\nweeks since planting. Radishes, far left, had the greatest number of plants and the best growth overall.\nPhase III Data at end of Week 2, November 11-18 (Data taken on November 18)\nTable 9. Experimental Data for Phase III at End of Week 2:\nPlant Type\nSoil Type:\nNumber of Plants\nAverage Height (cm)\nRadish\nPAM SAP with\nfruit peel extract\n8\n3.0\nArugula\nPAM SAP with\nfruit peel extract\n5\n0.5\nKale\nPAM SAP with\nfruit peel extract\n-\n-\nChard\nPAM SAP with\nfruit peel extract\n4\n1.0\nLettuce\nPAM SAP with\nfruit peel extract\n2\n0.5\n16",
+      "char_count": 643,
+      "image_count": 1,
+      "tables": [
+        [
+          [
+            "Plant Type",
+            "Soil Type:",
+            "Number of Plants",
+            "Average Height (cm)"
+          ],
+          [
+            "Radish",
+            "PAM SAP with fruit peel extract",
+            "8",
+            "3.0"
+          ],
+          [
+            "Arugula",
+            "PAM SAP with fruit peel extract",
+            "5",
+            "0.5"
+          ],
+          [
+            "Kale",
+            "PAM SAP with fruit peel extract",
+            "-",
+            "-"
+          ],
+          [
+            "Chard",
+            "PAM SAP with fruit peel extract",
+            "4",
+            "1.0"
+          ],
+          [
+            "Lettuce",
+            "PAM SAP with fruit peel extract",
+            "2",
+            "0.5"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 17,
+      "text": "Figure 13. Plant height and number of plants for Phase III at the end of week 2 on 11/18. Radishes grew best, with\narugula being the second best crop to grow in the PAM SAP with fruit peel extract.\nDiscussion for Phase I\nIn our first experimental attempt (Phase I) of planting radish seeds, our independent variables, including Mars Regolith\nenhancements such as fertilizer, fruit peels, and PAM SAP as a delivery system, were used to affect and improve plant\ngrowth. After 2 weeks, since we only had growth in the Earth soil control group (Figure 3), we attempted a second\nexperimental design (Phase II) using a new 75/25 percent by volume soil base of Mars soil and matured compost. All\nother soil enhancement variables were kept the same. Throughout Phase II, we continued to use radish seeds to grow. In\nPhase III, we took the most successful soil mix, the Mars/compost mix with PAM SAP with fruit peel extract and planted\ndifferent crops to see which would be the most successful. Radishes grew the most, thereby confirming our initial choice\nof the radish crop.\nA challenge we faced, therefore, over the course of Phase I was that our initial radish plants in the Mars Regolith control,\nor any of the Mars Regolith enhancements, were not sprouting. Although our seeds in the Earth soil began to sprout, we\ndid not see growth in our other pots (Figure 3). We believe that this problem was due to the fact that the Mars soil\nappeared significantly drier and more compacted than the Earth soil. Therefore, we increased the amount of water from 30\nml to 60 ml per pot per day to ensure they received the moisture they needed to grow. Since this did not improve growth in\nweek 2, we decided we needed to make a change and thus, we began Phase II by adding two-year old school compost to\nthe Mars Regolith, keeping all other conditions from Phase I the same. This change led to growth within several days.\n17",
+      "char_count": 1908,
+      "image_count": 1,
+      "tables": [
+        [
+          [
+            "Discussion for Phase I"
+          ],
+          [
+            "In our first experimental attempt (Phase I) of planting radish seeds, our independent variables, including Mars Regolith"
+          ],
+          [
+            "enhancements such as fertilizer, fruit peels, and PAM SAP as a delivery system, were used to affect and improve plant"
+          ],
+          [
+            "growth. After 2 weeks, since we only had growth in the Earth soil control group (Figure 3), we attempted a second"
+          ],
+          [
+            "experimental design (Phase II) using a new 75/25 percent by volume soil base of Mars soil and matured compost. All"
+          ],
+          [
+            "other soil enhancement variables were kept the same. Throughout Phase II, we continued to use radish seeds to grow. In"
+          ],
+          [
+            "Phase III, we took the most successful soil mix, the Mars/compost mix with PAM SAP with fruit peel extract and planted"
+          ],
+          [
+            "different crops to see which would be the most successful. Radishes grew the most, thereby confirming our initial choice"
+          ],
+          [
+            "of the radish crop."
+          ],
+          [
+            "A challenge we faced, therefore, over the course of Phase I was that our initial radish plants in the Mars Regolith control,"
+          ],
+          [
+            "or any of the Mars Regolith enhancements, were not sprouting. Although our seeds in the Earth soil began to sprout, we"
+          ],
+          [
+            "did not see growth in our other pots (Figure 3). We believe that this problem was due to the fact that the Mars soil"
+          ],
+          [
+            "appeared significantly drier and more compacted than the Earth soil. Therefore, we increased the amount of water from 30"
+          ],
+          [
+            "ml to 60 ml per pot per day to ensure they received the moisture they needed to grow. Since this did not improve growth in"
+          ],
+          [
+            "week 2, we decided we needed to make a change and thus, we began Phase II by adding two-year old school compost to"
+          ],
+          [
+            "the Mars Regolith, keeping all other conditions from Phase I the same. This change led to growth within several days."
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 18,
+      "text": "The compost helped to add the necessary nutrients and reduced the compacted nature of the Mars Regolith. The new mix\nwas 75/25 percent Mars Regolith/compost by volume.\nTo summarize, our plants in Phase I had a difficult time growing. Some plants, particularly those grown in Earth soil, were\nable to sprout a little, showing signs of greenery. However, we witnessed no growth in the plants grown in Mars Regolith,\neven with enhancements. We considered using a different greenhouse system for planting if we were to repeat this\nexperiment because we hypothesized that the artificial light from our current setup was too powerful and generated too\nmuch heat. In the next round of planting (Phase II), we added compost to the Mars Regolith to enhance it. It worked well,\nproducing growth in some of the variables, especially the one with fruit peel extract in PAM SAP. We were very\nencouraged by these results. In the last Phase of planting (Phase III), we did end up using the on-campus greenhouse to\nproduce optimum results.\nDiscussion for Phase II, Week 1\nPhase II involved using an enhanced Mars Regolith base. As previously mentioned, we created a 75/25 percent by volume\nMars Regolith/compost mix. At the end of week one in Phase II (see Figure 4), not including the Earth soil, we found that\nthere was the most growth in Variable 5: the Mars Regolith/compost mix with fruit peel extract in polyacrylamide super\nabsorbent polymer (PAM SAP). This was an important finding and a trend that lasted throughout Phase II of the study. It\nis interesting to note that compared to the similar variable of fruit peel without the PAM SAP (V2), there was significantly\nmore growth with the PAM SAP (V5). For example, the average growth with fruit peel extract alone without PAM SAP\n(V2) was 0.2 cm and the average growth in the fruit peel in PAM SAP variable (V5) was 1.35 cm, representing a 575 %\nincrease in plant height. The number of plants in fruit peel alone without PAM SAP was 1 and the number for fruit peel\nwith PAM SAP was 12, representing a 1100% increase in the number of plants.\nIt was realized that we need to retest some of our variables since the Mars/compost control alone (C2) had more growth in\ncomparison to Mars/compost with fertilizer (V1) and with fruit peels (V2) (Figure 4). We would expect the Mars/compost\nsoil mix with fruit peels (V2) and the Mars/compost soil mix with fertilizer (V1) to have more plant germination and\ngrowth than the Mars/compost control (C2), but it had less. Specifically, V2 had 0.2 cm growth and V1 had 0.1 cm\ngrowth, while C2 had 1.63 cm growth (see Figure 4). This data was inconsistent with what was expected, and requires\nfurther investigation.\nDiscussion for Phase II, Weeks 2 and 3\nAt the end of week two, the most growth occurred in Variable 5 again, with 12 plants and an average plant height of 2.8\ncm (see Figure 6). Most significantly, while the average height of plants in V5 and the average height of plants in the\nEarth Soil Control Group (C1) remained the same, the number of plants in V5 exceeded the number of plants in C1 by 5\nplants.\nThe plants in V1 and V2 at the end of 2 weeks were severely wilted. Therefore, they were non-viable and were not\nrecorded in the data table (see Figure 6). Additionally, although V1 with fertilizer had seemed to be a promising solution\nfor the Mars Regolith initially in week 1 of Phase II, as shown in Figure 4, over time the plants in V5 with PAM SAP and\nfruit peel extract had more long-term efficacy (see Figures 6 and 8). While the fertilizer and fruit peel extract variables do\naffect plant growth early on with immediate bursts of nutrients, the PAM SAP allows for a gradual release of nutrients,\nwhich is more sustainable for the plants in the long term. All in all, V5 with PAM SAP demonstrated the best results. At\nthe end of week 3 in the Phase II planting session, V5 was the only viable option (see Figure 8).\n18",
+      "char_count": 3923,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "The compost helped to add the necessary nutrients and reduced the compacted nature of the Mars Regolith. The new mix"
+          ],
+          [
+            "was 75/25 percent Mars Regolith/compost by volume."
+          ],
+          [
+            "To summarize, our plants in Phase I had a difficult time growing. Some plants, particularly those grown in Earth soil, were"
+          ],
+          [
+            "able to sprout a little, showing signs of greenery. However, we witnessed no growth in the plants grown in Mars Regolith,"
+          ],
+          [
+            "even with enhancements. We considered using a different greenhouse system for planting if we were to repeat this"
+          ],
+          [
+            "experiment because we hypothesized that the artificial light from our current setup was too powerful and generated too"
+          ],
+          [
+            "much heat. In the next round of planting (Phase II), we added compost to the Mars Regolith to enhance it. It worked well,"
+          ],
+          [
+            "producing growth in some of the variables, especially the one with fruit peel extract in PAM SAP. We were very"
+          ],
+          [
+            "encouraged by these results. In the last Phase of planting (Phase III), we did end up using the on-campus greenhouse to"
+          ],
+          [
+            "produce optimum results."
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 19,
+      "text": "Discussion for Phase III\nIn the final phase of the experiment, we wanted to see which crop grew the best in the most successful variable\nof PAM SAP with fruit peel extract (V5). Therefore, we planted radishes, arugula, kale, chard, and lettuce in\nthis V5 variable soil mix. At the end of two weeks, we found that radishes had both the greatest number of\nplants grown at 8 plants, representing 37.5 % more than the next successful crop, arugula (see Figure 13). The\nradish plants also had the highest average plant height at 3 cm.\nConclusions\nOur main plan was to use Mars Regolith enhanced with a Polyacrylamide Super Absorbent Polymer or PAM\nSAP to deliver water or water with nutrients over time to the radish plants. This polymer can readily absorb\nwater and nutrients and then release them slowly over time. Originally, we thought that using just The PAM\nSAP in the Mars Regolith to deliver water and nutrients would stimulate plant growth, however, we found that\nthis method was unsuccessful when using Mars Regolith alone, and we needed to supplement the Mars Regolith\nfirst. We needed to create a new Mars base soil, and then try our enhancements. Thus, we used our school\u2019s\ncompost, that comes from the student and faculty dining rooms, and combined it with the Mars Regolith to\ncreate a base that was 75% Mars Regolith and 25% compost, by volume. After testing different combinations of\nour new Mars mix with fertilizer, fruit peels, and PAM SAP, we found that after two weeks of plant growth, the\nmost successful combination was the fruit peel extract in the PAM SAP delivery system. The radishes\nflourished with this enhancement. We found that while it did not have the highest average height, PAM SAP\nwith fruit peel extract had 12 plants grown total after 2 weeks, which is the largest amount of plants grown. In\nterms of plant height, the PAM SAP with fruit peel had an average growth of 2.8 cm and the PAM SAP alone\nhad an average height of 3.7 cm. For this project we feel the success of the Mars soil mix with fruit peel PAM\nSAP at 12 plants after 2 weeks of growth is of utmost importance. This number of plants was 42% more than\nthe Earth control. Our goal is to help enhance the soil to grow the greatest possible number of plants, so this\ncombination is the most useful for the purposes of our experiment, and for a mission to Mars. In the final phase\nof the experiment, we wanted to see which crop grew the best in the most successful soil of PAM SAP with fruit\npeel extract. So we planted radishes, arugula, kale, chard, and lettuce in this soil mix. At the end of two weeks,\nwe found that radishes had both the greatest number of plants grown at 8, representing 37.5 % more than the\nnext successful crop, arugula, and also had the highest average plant height at 3 cm. For Future research, we\nwould like to do a longer-term crop study. Radishes were the most successful of the 5 crops planted in Phase III,\nbut this was within the Plant Mars Challenge time frame. Therefore, a longer term study is warranted.\nAdditional future questions include the feasibility of getting nutrient-rich compost transported to Mars, or\nwhether condensed nutrients would be a better solution, and if you can create compost out of the food waste\nproduced during space exploration. Advice we would give to future participants is to not get discouraged if you\ndo not see growth right away. It took us two weeks and a change in our methods to see growth, so it is important\nto remember that successful planting takes research, patience, and time.\n19",
+      "char_count": 3550,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 20,
+      "text": "References:\nCartier, K. M.S. (2018, January 12). Tests Indicate Which Edible Plants Could Thrive on Mars. EOS. Retrieved\nOctober 24, 2022, from https://eos.org/articles/tests-indicate-which-edible-plants-could-thrive-on-mars\n\u201cCustom 12x30 Greenhouse for Sacred Heart School in Greenwich, CT.\u201d Custom 12x30 Greenhouse for Sacred\nHeart School in Greenwich, CT | Baystate Outdoor Personia,\nhttps://outdoorpersonia.com/recent-projects/custom-12x30-greenhouse-for-sacred-heart-school-in-greenwich-ct.\nFlurry, A. (2020, October 27). Geologists dig into question of Martian soil fertility. UGA Today. Retrieved\nOctober 25, 2022, from https://news.uga.edu/geologists-study-martian-soil-fertility/\nKasiviswanathan P, Swanner ED, Halverson LJ, Vijayapalani P (2022) Farming on Mars: Treatment of basaltic\nregolith soil and briny water simulants sustains plant growth. PLoS ONE 17(8): e0272209.\nhttps://doi.org/10.1371/journal. Pone.0272209\n\u201cPlant Light House\u00ae with Light Bulbs.\u201d Carolina.com,\nhttps://www.carolina.com/wisconsin-fast-plants-supplies/plant-light-house-with-lightbulbs/159004.pr?question\n=greenhouse. Accessed 19 September 2022.\nRomero, J. (2020, October 17). Turning the Red Planet green: How we'll grow crops on Mars. Science Focus.\nRetrieved October 25, 2022, from\nhttps://www.sciencefocus.com/space/turning-the-red-planet-green-how-well-grow-crops-on-mars/\nRomoser, W. (2019, November 21). NASA Photos Show Insect- and Reptile-Like Life Forms on Mars,\nEntomologist Says. Sci News. Retrieved October 28, 2022, from\nhttps://www.sci.news/space/insect-reptile-like-life-forms-mars-07830.html\nWamelink, G., Frissel, J., Krijnen, W. & Verwoert, M. (2019). Crop growth and viability of seeds on Mars and\nMoon soil simulants. Open Agriculture, 4(1), 509-516. https://doi.org/10.1515/opag-2019-0051\n20",
+      "char_count": 1800,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 21,
+      "text": "Wamelink GWW, Frissel JY, Krijnen WHJ, Verwoert MR, Goedhart PW (2014) Can Plants Grow on Mars and\nthe Moon: A Growth Experiment on Mars and Moon Soil Simulants. PLoS ONE 9(8): e103138.\ndoi:10.1371/journal.pone.0103138\n21",
+      "char_count": 221,
+      "image_count": 0,
+      "tables": []
+    }
+  ]
+}

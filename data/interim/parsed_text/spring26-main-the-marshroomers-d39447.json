@@ -1,0 +1,878 @@
+{
+  "report_id": "spring26-main-the-marshroomers-d39447",
+  "sha256": "af39e32e56c45049db0dc530865df66eee7e0eaab54a35b60f672010361e522c",
+  "page_count": 20,
+  "total_chars": 29222,
+  "avg_chars_per_page": 1461.1,
+  "total_images": 14,
+  "table_count": 9,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Page 1 \n \nCultivation of Pleurotus ostreatus in Martian Regolith Simulant \n(MGS-1) for Dual-Purpose Food and Construction Applications \n \nPlant The Moon Challenges: Plant Mars | Spring 2026 | Undergraduate & Professional Division \n \nTeam Members from left to right: \nAddison Necciai, Reese Laushot, Helen Navach, David Kimberly, Carolyn Conrad \n \nTeam Marshroom | Team #25205 \nUniversity of Central Florida | Orlando, FL",
+      "char_count": 420,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "text": "Page 2 \n \nAbstract \nEstablishing sustainable food production and construction material systems on Mars represents \none of the most critical challenges for long-duration space exploration. This study investigated the \nfeasibility of cultivating Pleurotus ostreatus (oyster mushrooms) across nine substrate formulations \ncontaining varying ratios of Martian regolith simulant (MGS-1), powdered straw or sawdust, \nwheat bran, and gypsum, with the dual goal of producing edible fruiting bodies and structural \nmycelium-based composites (myco-bricks). Substrates were inoculated with P. ostreatus spawn \ncultivated on Uncle Ben's rice bags and monitored over an 8-week period for colonization \nprogression, fruiting body formation, and brick consolidation. Environmental conditions were \ntracked using Inkbird hygrometers and ranged from 18.0\u201322.5\u00b0C with relative humidity between \n66\u201396%. Mycelial colonization was observed in several batches, particularly those with higher \norganic content, but growth stalled within 2\u20133 weeks in all substrates. No fruiting bodies or \nstructurally consolidated bricks were produced. The control substrate (90% MGS-1) showed the \nweakest colonization. Contamination from a competing mold species, inconsistent watering, lack \nof HEPA filtration, and uncontrolled airflow in the atrium incubation environment are identified \nas the primary constraints on fungal development. These findings contribute to the growing body \nof literature on fungal cultivation in regolith-based systems and highlight the critical importance \nof environmental control for mycelium-based ISRU applications on Mars.",
+      "char_count": 1623,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "text": "Page 3 \n \nIntroduction & Theory \nIntroduction \nLong-duration space missions face strict mass, volume, and resource constraints, making in-situ \nresource utilization (ISRU) essential for sustainable extraterrestrial living. Every kilogram \nlaunched into space increases mission cost and complexity, and every additional item introduces \nnew variables and potential points of failure. For future Martian habitats, systems that serve \nmultiple functions\u2014such as producing food while also generating construction materials\u2014are \nespecially valuable. \nFungi, particularly oyster mushrooms (Pleurotus ostreatus), present a promising avenue for \nmultifunctional ISRU systems. Oyster mushrooms can convert low-value organic substrates into \nedible fruiting bodies while simultaneously producing mycelium, a dense fibrous network capable \nof forming lightweight, insulating, and biodegradable structural materials (Islam et al., 2017). \nMycelium-based composites have been studied for their mechanical strength, adaptability, and \npotential as sustainable building materials. \nFresh food also plays a critical psychological and nutritional role in isolated environments. Studies \nshow that access to fresh produce improves well-being and morale during spaceflight and military \nmissions (Trovato et al., 2025). Mushrooms are particularly suitable for space agriculture due to \ntheir compact growth requirements, rapid life cycle, and ability to grow on recycled substrates \n(Cotter, 2014). \nThis experiment explores whether P. ostreatus can be cultivated in Martian regolith simulant \n(MGS-1) supplemented with organic materials to produce both edible mushrooms and structural \nmycelium bricks. Understanding fungal growth behavior in regolith-based substrates is a key step \ntoward developing integrated food-and-material systems for future Martian settlements. Notably, \na parallel study by Chavez et al. (2025) in the same Plant the Moon Challenge season also explored \nP. ostreatus in MGS-1, finding that sealed, high-humidity environments facilitated more robust \nmycelial colonization than open pot-based substrates\u2014a finding that aligns closely with the \nconstraints encountered in our own study.",
+      "char_count": 2193,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "text": "Page 4 \n \nTheory: The key consideration in this experimental design was the composition of the soil, which \nonce colonized could hypothetically be concretized. Given previous experimental success with \ngrowing Pleurotus ostreatus to flush in Exo-Regolith simulant, by past Plant the Moon teams, the \nprocedure was designed specifically to experiment with creating growth medium recipe conducive \nto creating a structurally sound myco-concrete. Definitionally, some concrete is the mixture of a \ncementing medium with a fine aggregate, (Neville, 2010) usually silicates which also comprises \n46% of MGS-1 Global Version. (Long-Fox, 2023) Myco-concrete, lacking a traditional cementing \nmedium, instead binds the aggregate matrix in a dense mycelium network. Through the \ncolonization of lignocellulosic aggregate components, in this case saw dust or straw dust, Pleurotus \nostreatus will in theory extend a network of hyphae between the aggregates, compacting the \nsmaller substrate particulates. (Zhang, 2025) Saw dust and straw dust, both being common \nlignocellulosic substrates for P. ostreatus cultivation, exist as independent variable \ngroupings. These groupings test efficiency in growth rate, as well as composite strength in the \nmatrix, as each has a unique particulate size, mass, and density, which could affect the structural \nintegrity \nof \nthe \nconcrete. \nThey \nalso \nmay \nalter \nthe \nfruiting \ngroup\u2019s \nrate \nof \nmaturation. Once Pleurotus ostreatus fully colonizes its aggregate matrix, the fungus begins the \nproduction of its fruiting bodies, which results ultimately in considerable fungal die back. Such \nan event is not preferable and as such fruiting must be prevented, by way of heating and trying the \nnewly formed \u2018composite myco-cement\u2019 mixture into a solid non-living structure. Fungal concrete \nusing P. ostreatus is already common in engineering experimentation as a more sustainable \nalternative to semi-permanent building materials, however changing the aggregate base from a \nterrestrial silicate mixture to one of Martian origin is still a new and widely unexplored \nventure. Consideration should be made regarding the biological interactions between components \nfound in Martian regolith that P. ostreatus would find unfamiliar in its usual life cycle, as they may \nlead to variation in growth compared to terrestrial myco-concrete recipes. \n \nThe importance in testing both the growth of these fungi into edible fruit as well as into a structural \ncomposite, returns to the core principle of ISRU, which is limiting payload weight on rockets. In \nthis case, should the fungus be capable of both fruiting and composing a structure it may then be \npossible to reuse once or twice spent mycelium post fruiting as the basis for growing concrete.",
+      "char_count": 2777,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "text": "Page 5 \n \nHypothesis \nResearch Question: Can Pleurotus ostreatus be successfully cultivated in substrate formulations \ncontaining Martian regolith simulant (MGS-1) and lignocellulosic organic matter to produce both \nedible fruiting bodies and structurally consolidated mycelium-based composites (myco-bricks) \nsuitable for in-situ resource utilization (ISRU) on Mars? \n \nHypothesis: When cultivated in optimized substrates composed of powdered straw or sawdust, \nnutritional supplements, and Martian regolith simulant, Pleurotus ostreatus will exhibit enhanced \nmycelial development and produce fruiting bodies suitable for consumption. The resulting \nmycelium will bind the substrate into a solid composite capable of functioning as ISRU myco-\nconcrete. \n \nThe scientific basis for this hypothesis rests on four key areas of research: \n \n1. Fungal Growth Requirements: Oyster mushrooms require a carbon-rich substrate (straw, \nsawdust), nitrogen supplementation (wheat bran), minerals such as calcium sulfate \n(gypsum), and adequate moisture and oxygen. Previous studies show that substrate \ncomposition significantly affects colonization speed and yield (Z.A.S. et al., 2004; \nMoonmoon et al., 2010). \n2. Role of Gypsum and Supplements: Gypsum has been shown to improve fungal growth and \nfruiting by enhancing substrate structure and mineral availability (Li et al., 2022). \n3. Mycelium as a Structural Material: Mycelium forms a dense, interwoven network of \nhyphae that can bind particulate materials into lightweight composites with measurable \ncompressive strength (Islam et al., 2017). When grown in molds, this network can create \n\"myco-bricks\" suitable for construction. \n4. Relevance to Martian ISRU: Using Martian regolith as a bulk substrate reduces the need \nto transport building materials from Earth. If fungi can grow in regolith-based mixtures, \nthey could simultaneously support food production, waste recycling, and construction of \nhabitat components.",
+      "char_count": 1972,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "text": "Page 6 \n \nExperimental Variables \n \nIndependent Variables \nIndependent variables are the factors deliberately manipulated across experimental batches to evaluate their \neffect on fungal growth and composite formation. \n1. Type of lignocellulosic substrate: Powdered strawdust versus fine sawdust was used as the \nprimary carbon source across the eight experimental batches (Batches 1\u20134 used strawdust; Batches \n5\u20138 used sawdust). These two materials differ in particulate size, density, and lignocellulosic \ncomposition, potentially affecting both colonization rate and myco-brick structural integrity. \n2. Proportion of MGS-1 Martian regolith simulant: The percentage of MGS-1 in each batch was \nvaried across four levels: 50%, 55%, 60%, and 65% (with the balance made up by the \nlignocellulosic source). The control batch contained 90% MGS-1 with no lignocellulosic \ncomponent. This gradient was designed to determine the maximum regolith concentration at which \nP. ostreatus can still colonize and potentially form a structural composite. \n \nDependent Variables \nDependent variables are the measurable outcomes observed in response to the manipulated independent \nvariables. \n1. Mycelial colonization rate and extent: The speed and completeness of white mycelial thread \ngrowth through each substrate batch, assessed qualitatively (none, light, moderate, heavy) through \nweekly visual inspection and photographic documentation. \n2. Fruiting body formation: The presence, number, and size of primordia and mature Pleurotus \nostreatus fruiting bodies produced in the fruiting bag format across all nine substrate batches. \n3. Myco-brick structural consolidation: The degree to which the inoculated substrate in brick molds \n(10 \u00d7 1.25 \u00d7 1.25 inches) consolidated into a self-supporting solid composite, assessed by handling \nand visual inspection at the end of the 8-week period. \n \nControlled Variables \nControlled variables are factors held constant across all batches to ensure that observed differences in \noutcomes are attributable to the independent variables rather than extraneous influences.",
+      "char_count": 2101,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "text": "Page 7 \n \n1. Fungal species: Pleurotus ostreatus (oyster mushroom) was used as the sole inoculum species \nacross all nine batches, ensuring that any differences in colonization are due to substrate \ncomposition rather than species variation. \n2. Spawn source and inoculation method: All nine batches were inoculated from the same four \nUncle Ben\u2019s ready-to-eat rice bag spawns, ensuring a consistent and genetically identical inoculum \nwas distributed evenly across all substrates. \n3. Supplemental components (wheat bran and gypsum): All experimental batches (excluding the \ncontrol) contained a fixed 5% wheat bran (nitrogen supplement) and 5% food-grade gypsum \n(calcium sulfate), ensuring that nutritional supplementation was equivalent across all batches. \n4. Incubation environment and duration: All batches were incubated in the same engineering \natrium location using two identical covered containers monitored with Inkbird digital \nhygrometer/thermometers. The experimental period was fixed at 8 weeks for all batches, with \nenvironmental monitoring conducted from March 9\u201329, 2025. \n5. Substrate format (brick molds and fruiting bags): Each of the nine substrate batches was \nsimultaneously prepared in two formats: a 10 \u00d7 1.25 \u00d7 1.25-inch brick mold for structural composite \nassessment and a fruiting bag in a 3D-printed 3 \u00d7 3 \u00d7 3-inch box for mushroom production \nassessment. This dual format was kept consistent across all batches. \n6. MGS-1 source and preparation: All batches used Martian regolith simulant sourced from the \nsame Plant the Moon Challenge kit supply to ensure consistent mineral composition (MGS-1 \nGlobal Version) across the experiment. \n \nMeasurement Methods \n \nExperimental Design Overview \nThe experiment tested nine substrate formulations containing varying ratios of Martian regolith simulant \n(MGS-1), gypsum, wheat bran, and either powdered straw or sawdust. Each substrate was inoculated with \nP. ostreatus mycelium and monitored for colonization, fruiting, and structural formation over an 8-week \nperiod (March 9 \u2013 March 29, 2025 for environmental monitoring; inoculation began approximately 6 weeks \nprior).",
+      "char_count": 2151,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "text": "Page 8 \n \nSubstrate Formulations \nA total of nine batches were prepared with the following compositions: \n \nBatch \nRegolith (%) \nGypsum \n(%) \nWheat Bran \n(%) \nLignocellulosic \nSource (%) \n1 \n50 \n5 \n5 \n40% strawdust \n2 \n55 \n5 \n5 \n35% strawdust \n3 \n60 \n5 \n5 \n30% strawdust \n4 \n65 \n5 \n5 \n25% strawdust \n5 \n50 \n5 \n5 \n40% sawdust \n6 \n55 \n5 \n5 \n35% sawdust \n7 \n60 \n5 \n5 \n30% sawdust \n8 \n65 \n5 \n5 \n25% sawdust \nControl \n90 \n5 \n5 \n0% (none) \nTable 1. Substrate formulations tested across nine experimental batches. All components were mixed thoroughly to \nensure even nutrient distribution. \n \nSpawn Preparation \nInitial Attempt (Discarded): Ten wheat-bran bags were inoculated with P. ostreatus spores but developed \nmold contamination and were entirely discarded prior to substrate inoculation. \nSuccessful Spawn: Four Uncle Ben's ready rice bags were subsequently inoculated with P. ostreatus spores \nand successfully colonized. These colonized rice bags served as the primary inoculation source for all nine \nsubstrate batches.",
+      "char_count": 1023,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Batch",
+            "",
+            "",
+            "Regolith (%)",
+            "",
+            "",
+            "Gypsum (%)",
+            "",
+            "",
+            "Wheat Bran (%)",
+            "",
+            "",
+            "",
+            "Lignocellulosic",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Source (%)",
+            ""
+          ],
+          [
+            "",
+            "1",
+            "",
+            "",
+            "50",
+            "",
+            "",
+            "5",
+            "",
+            "",
+            "5",
+            "",
+            "",
+            "40% strawdust",
+            ""
+          ],
+          [
+            "",
+            "2",
+            "",
+            "",
+            "55",
+            "",
+            "",
+            "5",
+            "",
+            "",
+            "5",
+            "",
+            "",
+            "35% strawdust",
+            ""
+          ],
+          [
+            "",
+            "3",
+            "",
+            "",
+            "60",
+            "",
+            "",
+            "5",
+            "",
+            "",
+            "5",
+            "",
+            "",
+            "30% strawdust",
+            ""
+          ],
+          [
+            "",
+            "4",
+            "",
+            "",
+            "65",
+            "",
+            "",
+            "5",
+            "",
+            "",
+            "5",
+            "",
+            "",
+            "25% strawdust",
+            ""
+          ],
+          [
+            "",
+            "5",
+            "",
+            "",
+            "50",
+            "",
+            "",
+            "5",
+            "",
+            "",
+            "5",
+            "",
+            "",
+            "40% sawdust",
+            ""
+          ],
+          [
+            "",
+            "6",
+            "",
+            "",
+            "55",
+            "",
+            "",
+            "5",
+            "",
+            "",
+            "5",
+            "",
+            "",
+            "35% sawdust",
+            ""
+          ],
+          [
+            "",
+            "7",
+            "",
+            "",
+            "60",
+            "",
+            "",
+            "5",
+            "",
+            "",
+            "5",
+            "",
+            "",
+            "30% sawdust",
+            ""
+          ],
+          [
+            "",
+            "8",
+            "",
+            "",
+            "65",
+            "",
+            "",
+            "5",
+            "",
+            "",
+            "5",
+            "",
+            "",
+            "25% sawdust",
+            ""
+          ],
+          [
+            "",
+            "Control",
+            "",
+            "",
+            "90",
+            "",
+            "",
+            "5",
+            "",
+            "",
+            "5",
+            "",
+            "",
+            "0% (none)",
+            ""
+          ]
+        ],
+        [
+          [
+            "Gypsum"
+          ],
+          [
+            "(%)"
+          ]
+        ],
+        [
+          [
+            "Wheat Bran"
+          ],
+          [
+            "(%)"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 9,
+      "text": "Page 9 \n \nInoculation Procedure \nRice spawns were broken apart and mixed evenly into each substrate batch. Substrates were then placed \ninto two formats: nine brick molds (10 \u00d7 1.25 \u00d7 1.25 inches) intended for myco-brick formation, and nine \nfruiting bags inserted in a 3 x 3 x 3 inches 3D printed boxes intended for mushroom production. All \nsamples were distributed across two incubation containers and placed in an atrium environment. \n \nEnvironmental Conditions and Monitoring \nEnvironmental conditions were monitored using two Inkbird digital hygrometer/thermometers, one placed \nin each incubation container. Temperature and relative humidity readings were recorded approximately \nevery 1\u20132 days from March 9 to March 29, 2025. Figures 2a and 2b below summarize the recorded \nenvironmental data: \n \nFigure 2a. Temperature recorded in both incubation containers (March 9\u201329, 2025). Solid lines = daily maximum; \ndashed lines = daily minimum. Shaded band = optimal growth range (18\u201324\u00b0C). Optimal conditions for P. ostreatus \nmycelial growth are generally 18\u201324\u00b0C and 80\u201395% relative humidity (Cotter, 2014).",
+      "char_count": 1112,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "text": "Page 10 \n \n \nFigure 2b. Relative humidity in both incubation containers (March 9\u201329, 2025). Solid lines = daily high; dashed \nlines = daily low. Green shaded band = optimal RH range for P. ostreatus colonization (80\u201395%, Cotter, 2014). \n \nConstraints on environmental control were significant. The experiment was conducted in an engineering \natrium with uncontrolled airflow. A still-air box was introduced partway through the experiment to reduce \ncontamination risk but did not fully eliminate it. Temperature and humidity fluctuated considerably, \nparticularly in Container 2 during Week 4 where minimums dropped to 15\u00b0C and 67% RH\u2014conditions \nbelow the threshold for optimal mycelial activity. Watering was inconsistent throughout the experiment. No \nHEPA filtration or sterile laboratory equipment was available. \n \nMeasurement Techniques \nDue to the absence of fruiting bodies and incomplete colonization, quantitative yield data could not be \ncollected. The following qualitative and observational methods were employed: \n\u2022 \nQualitative colonization scoring via visual inspection (none, light, moderate, heavy) \n\u2022 \nPhotographic documentation of substrate, hygrometer readings, and environmental setup \n\u2022 \nDaily and weekly observation logs of mycelial progression and contamination \n\u2022 \nStructural integrity assessment of brick molds for early consolidation",
+      "char_count": 1362,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "text": "Page 11 \n \nAnalysis & Results \n \nColonization Outcomes \nMycelial colonization was observed in several batches during the first 1\u20132 weeks of incubation, with the \nmost visible growth appearing in substrates containing higher proportions of organic material (Batches 1 \nand 5, with 40% straw/sawdust respectively). However, growth stalled or reversed in all batches within 2\u2013\n3 weeks. No primordia or fruiting bodies were observed in any substrate at any point during the 8-week \nexperiment. No substrate achieved the degree of full colonization required for myco-brick consolidation4 \n \nBatch \nLignocellulosic \nSource \nInitial \nColonization \nFinal \nColonization \nFruiting \nBrick \nFormation \n1 \n40% Strawdust \nModerate \nStalled \nNone \nNone \n2 \n35% Strawdust \nLight\u2013moderate \nStalled \nNone \nNone \n3 \n30% Strawdust \nLight \nStalled \nNone \nNone \n4 \n25% Strawdust \nLight \nStalled \nNone \nNone \n5 \n40% Sawdust \nModerate \nStalled \nNone \nNone \n6 \n35% Sawdust \nLight\u2013moderate \nStalled \nNone \nNone \n7 \n30% Sawdust \nLight \nStalled \nNone \nNone \n8 \n25% Sawdust \nLight \nStalled \nNone \nNone \nControl \nNone \nMinimal \nNone \nNone \nNone \nTable 3. Colonization outcomes across all nine substrate batches. Initial colonization reflects observations during \nWeeks 1\u20132; final colonization reflects the state at Week 8.",
+      "char_count": 1292,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Batch",
+            "",
+            "",
+            "",
+            "Lignocellulosic",
+            "",
+            "Initial Colonization",
+            "",
+            "",
+            "Final Colonization",
+            "",
+            "",
+            "Fruiting",
+            "",
+            "",
+            "Brick Formation",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "Source",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "1",
+            "",
+            "",
+            "40% Strawdust",
+            "",
+            "",
+            "Moderate",
+            "",
+            "",
+            "Stalled",
+            "",
+            "",
+            "None",
+            "",
+            "",
+            "None",
+            ""
+          ],
+          [
+            "",
+            "2",
+            "",
+            "",
+            "35% Strawdust",
+            "",
+            "",
+            "Light\u2013moderate",
+            "",
+            "",
+            "Stalled",
+            "",
+            "",
+            "None",
+            "",
+            "",
+            "None",
+            ""
+          ],
+          [
+            "",
+            "3",
+            "",
+            "",
+            "30% Strawdust",
+            "",
+            "",
+            "Light",
+            "",
+            "",
+            "Stalled",
+            "",
+            "",
+            "None",
+            "",
+            "",
+            "None",
+            ""
+          ],
+          [
+            "",
+            "4",
+            "",
+            "",
+            "25% Strawdust",
+            "",
+            "",
+            "Light",
+            "",
+            "",
+            "Stalled",
+            "",
+            "",
+            "None",
+            "",
+            "",
+            "None",
+            ""
+          ],
+          [
+            "",
+            "5",
+            "",
+            "",
+            "40% Sawdust",
+            "",
+            "",
+            "Moderate",
+            "",
+            "",
+            "Stalled",
+            "",
+            "",
+            "None",
+            "",
+            "",
+            "None",
+            ""
+          ],
+          [
+            "",
+            "6",
+            "",
+            "",
+            "35% Sawdust",
+            "",
+            "",
+            "Light\u2013moderate",
+            "",
+            "",
+            "Stalled",
+            "",
+            "",
+            "None",
+            "",
+            "",
+            "None",
+            ""
+          ],
+          [
+            "",
+            "7",
+            "",
+            "",
+            "30% Sawdust",
+            "",
+            "",
+            "Light",
+            "",
+            "",
+            "Stalled",
+            "",
+            "",
+            "None",
+            "",
+            "",
+            "None",
+            ""
+          ],
+          [
+            "",
+            "8",
+            "",
+            "",
+            "25% Sawdust",
+            "",
+            "",
+            "Light",
+            "",
+            "",
+            "Stalled",
+            "",
+            "",
+            "None",
+            "",
+            "",
+            "None",
+            ""
+          ],
+          [
+            "",
+            "Control",
+            "",
+            "",
+            "None",
+            "",
+            "",
+            "Minimal",
+            "",
+            "",
+            "None",
+            "",
+            "",
+            "None",
+            "",
+            "",
+            "None",
+            ""
+          ]
+        ],
+        [
+          [
+            "Initial"
+          ],
+          [
+            "Colonization"
+          ]
+        ],
+        [
+          [
+            "Final"
+          ],
+          [
+            "Colonization"
+          ]
+        ],
+        [
+          [
+            "Brick"
+          ],
+          [
+            "Formation"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 12,
+      "text": "Page 12 \n \n \nFigure 1. Spawn colonization increased slowly during the first two weeks after inoculation. Rapid expansion began \naround February 20 as the mycelium established itself within the substrate. \n \nContamination \nThe first round of spawn preparation (wheat-bran bags) was lost entirely to mold contamination before any \nsubstrate inoculation occurred. Subsequent batches inoculated with the rice-bag spawn showed no \nmacroscopically visible mold; however, the stalling and dieback of mycelium in all batches suggests the \nlikely presence of microbial competition at a level not detectable by visual inspection alone. \n \nEnvironmental Data Summary \nTemperature across both containers remained within the acceptable range for P. ostreatus growth (18\u201324\u00b0C) \nfor most of the experiment. However, relative humidity was highly inconsistent. Container 2 showed a \nmarked decline in humidity during Week 4, reaching minimums of 15\u00b0C and 67% RH, which falls below \nthe threshold for sustained mycelial activity. Container 1 maintained more consistent humidity (78\u201396%) \nbut experienced its own periods of lower readings (67\u201375% in mid-experiment). The ideal humidity for P. \nostreatus colonization is 80\u201395% (Cotter, 2014), which was achieved only intermittently in both containers.",
+      "char_count": 1282,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 13,
+      "text": "Page 13 \n \nOverall Result \nThe primary hypothesis\u2014that P. ostreatus cultivated in MGS-1-based substrates supplemented with organic \nmaterials would produce fruiting bodies and consolidate into myco-bricks\u2014could not be confirmed or \nrejected due to incomplete colonization and absence of fruiting. The experiment yielded important negative \ndata regarding the constraints of non-sterile, non-climate-controlled environments on fungal cultivation in \nregolith-based substrates. \nDiscussion & Conclusions \nThe results of this study, while not achieving the desired outcome of fruiting body or myco-brick \nproduction, provide meaningful insights into the challenges of cultivating P. ostreatus in Martian regolith \nsimulant under resource-limited conditions. The experiment serves as an important exploratory data point \nin a field where negative results are underreported but equally valuable. \n \nThe most significant limiting factor was the lack of environmental control. Oyster mushroom cultivation is \nhighly sensitive to humidity fluctuations and airborne contamination. In professional mycology settings, \nHEPA-filtered clean rooms and humidity-controlled fruiting chambers are standard practice. Our atrium-\nbased setup, while innovative in its use of two separate incubation containers and hygrometer monitoring, \ncould not replicate these conditions. The recorded humidity data clearly shows periods where both \ncontainers fell below the 80% threshold critical for sustained mycelial growth\u2014particularly Container 2 \nduring the final week, where minimums reached 67% RH and 15\u00b0C. \n \nThe initial contamination of the wheat-bran spawn also set the experiment back significantly. The successful \npivot to Uncle Ben's rice bags\u2014a well-documented low-tech spawn cultivation method in the hobby \nmycology community\u2014demonstrated adaptability, but the delay likely reduced the window for full \nsubstrate colonization within the 8-week period. \n \nInconsistent watering represents another critical variable. Fungal mycelium requires consistent substrate \nmoisture (field capacity ~60\u201370%) to colonize effectively. Without automated or precision watering, \nmoisture levels almost certainly fluctuated in ways not captured by surface hygrometer readings, \ncontributing to mycelial dieback in later weeks.",
+      "char_count": 2297,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 14,
+      "text": "Page 14 \n \n \nThese findings align closely with the parallel study by Chavez et al. (2025), who also cultivated P. ostreatus \nin MGS-1 during the same Plant the Moon Challenge season. That team similarly encountered mold \ncontamination that outcompeted their target fungi, and found that only their sealed bag environment\u2014\nwhere humidity was maintained by the mycelium's own respiration\u2014produced robust colonization. Their \nopen pot-based specimens, analogous to our setup, showed slower and more inconsistent progression. This \nconvergence of results across two independent studies using similar organisms and substrates strongly \nsuggests that environmental sealing and humidity control are non-negotiable prerequisites for successful \nfungal ISRU systems. \n \nThe control batch (90% MGS-1, no organic carbon source) performed worst, as expected. MGS-1 alone \nprovides no bioavailable carbon or nitrogen for fungal metabolism, confirming that organic \nsupplementation is essential\u2014a finding consistent with the broader Plant the Moon Challenge literature \n(Chavez et al., 2025; Duri et al., 2020). \n \nFuture iterations of this experiment should prioritize: (1) a sealed, humidity-controlled fruiting chamber \nmaintaining 85\u201395% RH consistently; (2) HEPA filtration or at minimum a laminar flow hood for all \ninoculation procedures; (3) automated or precision watering protocols; (4) extended colonization periods \nof 10\u201312 weeks before fruiting induction; and (5) the inclusion of P. ostreatus spawn specifically cultivated \non straw rather than rice, as straw more closely resembles the carbon structure of the organic substrates \nused. Additionally, future studies should explore the potential of fully sealed bag cultures within the \nsubstrate molds themselves, combining the sealed humidity advantage observed by Chavez et al. (2025) \nwith the brick-formation goal of our own study. \n \nDespite the absence of fruiting bodies or myco-bricks, this experiment makes a genuine contribution to the \nliterature on fungal ISRU for Mars. It documents a set of environmental conditions under which P. ostreatus \ncannot be reliably cultivated in MGS-1-based substrates, narrows the design space for future experiments, \nand provides the first multi-batch regolith ratio comparison (50\u201365% MGS-1 vs. organic content) in a non-\nsterile setting. As one of very few teams in the Plant the Moon Challenge to pursue a dual food-and-material \nsystem through a single organism.",
+      "char_count": 2463,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 15,
+      "text": "Page 15 \n \nAppendices \n \nAppendix A: Environmental Monitoring Data \nThe following table presents all recorded temperature and relative humidity readings from both incubation \ncontainers over the monitoring period (approximately March 9\u201329, 2025). \n \nDate \nContainer 1 Temp \n(\u00b0C) \nContainer 1 \nRH (%) \nContainer 2 Temp \n(\u00b0C) \nContainer 2 \nRH (%) \nMar 9 (start) \n69.2\u00b0F / ~20.6\u00b0C \n70% (max 87%) \n69.2\u00b0F / ~20.6\u00b0C \n66% (min) \nMar 10 \n71\u00b0F max / \n~22.2\u00b0C \n95\u201396% \n71\u00b0F max / \n~22.2\u00b0C \n92\u201393% \nMar 15\u201316 \nmax 22.4 / min \n18.0 \n67\u201375% \nmax 22.3 / min \n21.9 \n92\u201394% \nMar 22 \nmax 22.3 / min \n20.3 \n81\u201394% \nmax 22.5 / min \n21.0 \n70\u201380% \nMar 29 (end) \nmax 21.6 / min \n18.0 \n78\u201388% \nmax 20.0 / min \n15.0 \n67\u201371% \n \nAppendix B: Substrate Preparation Notes \nAll substrate components were weighed and mixed by hand. Mixing was performed thoroughly to ensure \neven distribution of nutrients. MGS-1 Martian regolith simulant was provided by the Plant the Moon \nChallenge kit. Wheat bran (nitrogen supplement) and food-grade gypsum (calcium sulfate) were sourced \ncommercially. Powdered straw and fine sawdust were sourced locally and ground to a fine consistency \nbefore mixing. Substrate batches were prepared simultaneously and inoculated within 24 hours of \npreparation.",
+      "char_count": 1257,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Date",
+            "",
+            "",
+            "",
+            "Container 1 Temp",
+            "",
+            "",
+            "Container 1",
+            "",
+            "",
+            "Container 2 Temp",
+            "",
+            "",
+            "Container 2",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "(\u00b0C)",
+            "",
+            "",
+            "RH (%)",
+            "",
+            "",
+            "(\u00b0C)",
+            "",
+            "",
+            "RH (%)",
+            ""
+          ],
+          [
+            "",
+            "Mar 9 (start)",
+            "",
+            "",
+            "69.2\u00b0F / ~20.6\u00b0C",
+            "",
+            "",
+            "70% (max 87%)",
+            "",
+            "",
+            "69.2\u00b0F / ~20.6\u00b0C",
+            "",
+            "",
+            "66% (min)",
+            ""
+          ],
+          [
+            "Mar 10",
+            "",
+            "",
+            "",
+            "71\u00b0F max /",
+            "",
+            "95\u201396%",
+            "",
+            "",
+            "",
+            "71\u00b0F max /",
+            "",
+            "92\u201393%",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "~22.2\u00b0C",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "~22.2\u00b0C",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Mar 15\u201316",
+            "",
+            "",
+            "",
+            "max 22.4 / min",
+            "",
+            "67\u201375%",
+            "",
+            "",
+            "",
+            "max 22.3 / min",
+            "",
+            "92\u201394%",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "18.0",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "21.9",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Mar 22",
+            "",
+            "",
+            "",
+            "max 22.3 / min",
+            "",
+            "81\u201394%",
+            "",
+            "",
+            "",
+            "max 22.5 / min",
+            "",
+            "70\u201380%",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "20.3",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "21.0",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Mar 29 (end)",
+            "",
+            "",
+            "",
+            "max 21.6 / min",
+            "",
+            "78\u201388%",
+            "",
+            "",
+            "",
+            "max 20.0 / min",
+            "",
+            "67\u201371%",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "18.0",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "15.0",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 16,
+      "text": "Page 16 \n \nAppendix C: Spawn Preparation Notes \nFirst spawn attempt: ten wheat-bran bags were inoculated with P. ostreatus spores under non-sterile \nconditions using a still-air box. All ten bags developed green/black mold contamination within seven days \nand were discarded. \n \nSecond spawn attempt: four Uncle Ben's ready-to-eat rice bags were inoculated with P. ostreatus spores. \nRice bags were sanitized externally with isopropyl alcohol prior to inoculation. All four bags showed \nsuccessful white mycelial colonization within 10\u201314 days and were used as the inoculation source for all \nnine substrate batches. \n \nAppendix D: Observation Log Summary \nWeek \nObservation \nWeek 1 \nRice spawn and what bran bags inoculated. Light white mycelial threads visible in \nBatches few batches by end of week. \nWeek 2 \nColonization progressing in higher-organic batches (1, 2, 5, 6). Humidity inconsistent. \nWeek 3 \nGrowth slowing across all batches. First signs of dieback in a few batches. Some signs \nof contamination are visible in wheat bran bags. \nWeek 4 \nSignificant slowdown. Rice bags maintain partial colonization. Ready to be transferred \ninto substrates. \nWeeks 5\u20138 \nNo new growth. No fruiting bodies or brick consolidation in any batch. Experiment \nconcluded.",
+      "char_count": 1265,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "",
+            "Week",
+            "",
+            "",
+            "Observation",
+            ""
+          ],
+          [
+            "Week 1",
+            "",
+            "",
+            "",
+            "Rice spawn and what bran bags inoculated. Light white mycelial threads visible in",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "Batches few batches by end of week.",
+            ""
+          ],
+          [
+            "",
+            "Week 2",
+            "",
+            "",
+            "Colonization progressing in higher-organic batches (1, 2, 5, 6). Humidity inconsistent.",
+            ""
+          ],
+          [
+            "Week 3",
+            "",
+            "",
+            "",
+            "Growth slowing across all batches. First signs of dieback in a few batches. Some signs",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "of contamination are visible in wheat bran bags.",
+            ""
+          ],
+          [
+            "Week 4",
+            "",
+            "",
+            "",
+            "Significant slowdown. Rice bags maintain partial colonization. Ready to be transferred",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "into substrates.",
+            ""
+          ],
+          [
+            "Weeks 5\u20138",
+            "",
+            "",
+            "",
+            "No new growth. No fruiting bodies or brick consolidation in any batch. Experiment",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "concluded.",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 17,
+      "text": "Page 17 \n \nAppendix E: Photos \n \n \nInoculated Uncle Bens rice \n \n \n \nInoculated Wheat Bran bags \n \n \n \nSpawn growth of Rice bags \n \n \n \nSpawn growth of Wheat Bran bags \n \nContamination of the Wheat Bran bags",
+      "char_count": 207,
+      "image_count": 5,
+      "tables": []
+    },
+    {
+      "page_number": 18,
+      "text": "Page 18 \n \n \n \nPowdered straw and sawdust \n \n \n \nPrepping substrate bags \n \nSubstrate mixture in sterile bags (batch 5) \n \n \nSterile watering of bricks with a syringe (30 mm) \nHumidity and temperature tracking",
+      "char_count": 209,
+      "image_count": 5,
+      "tables": []
+    },
+    {
+      "page_number": 19,
+      "text": "Page 19 \n \nReferences \nChavez, G., Gary, P., & Sanchez, G. (2025). Integrating meta-analytic insights for Martian mycology: \nGrowth of Pleurotus ostreatus in regolith-based substrates. Institute of Competition Sciences: Plant the \nMoon Challenge. \n \nCotter, T. (2014). Organic mushroom farming and mycoremediation. Chelsea Green Publishing. \n \nDuri, L. G., El-Nakhel, C., Caporale, A. G., Ciriello, M., Graziani, G., Pannico, A., De Pascale, S., & \nRouphael, Y. (2020). Mars regolith simulant ameliorated by compost as in situ cultivation substrate \nimproves lettuce growth and nutritional aspects. Plants, 9(5), 628. https://doi.org/10.3390/plants9050628 \n \nIslam, M. R., Tudryn, G., Bucinell, R., Schadler, L., & Picu, R. C. (2017). Morphology and mechanics of \nfungal mycelium. Scientific Reports, 7, 13070. https://doi.org/10.1038/s41598-017-13295-2 \n \nLi, Y., Hu, J., & Mei, Y. (2022). Effect of gypsum on the growth and fruiting of oyster mushrooms (Pleurotus \nostreatus). Journal of Fungi, 8(4), 412. \n \nLong-Fox, J. M., & Britt, D. T. (2023). Characterization of planetary regolith simulants for the \nresearch and development of Space Resource Technologies. Frontiers in Space Technologies, 4. \n \nMoonmoon, M., Uddin, M. N., Ahmed, S., Shelly, N. J., & Khan, M. A. (2010). Influence of different levels \nof sawdust of jackfruit, oak and rubber wood on the growth and yield of shiitake mushroom. Saudi Journal \nof Biological Sciences, 17(2), 125\u2013129. \n \nNeville, A. M., & Brooks, J. J. (2010). Concrete Technology. Prentice Hall.",
+      "char_count": 1536,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 20,
+      "text": "Page 20 \n \nTrovato, G., Scarpa, M., & Catalano, M. (2025). Psychological benefits of plant cultivation in isolated \nenvironments: Implications for long-duration spaceflight. Acta Astronautica, 218, 45\u201353. \n \nZ.A.S., Ghazifard, A., Mirshokraie, S. A., & Zadeh, H. H. (2004). The effect of supplemented wheat straw \non biological efficiency and mushroom size of Pleurotus florida. Iranian Journal of Plant Pathology, 40(1\u2013\n2), 1\u20138. \n \nZhang, Q., Nagy, B., Tarantino, A., & El Mountassir, G. (2025). Experimental investigation of \nthe influence of the growth of saprotrophic fungi (Pleurotus ostreatus) on the aggregate stability \nof a silty sand. E3S Web of Conferences, 642, 05007.",
+      "char_count": 680,
+      "image_count": 0,
+      "tables": []
+    }
+  ]
+}

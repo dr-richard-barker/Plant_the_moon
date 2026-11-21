@@ -1,0 +1,54 @@
+{
+  "report_id": "spring22-junior-colegio-retamar-74b044",
+  "sha256": "d606149e34261c82d7d826ecf6af8fc66d8ef4a6c19b4cfb558dd61546e8143f",
+  "page_count": 6,
+  "total_chars": 7257,
+  "avg_chars_per_page": 1209.5,
+  "total_images": 25,
+  "table_count": 0,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Plant Mars Challenge \n \nHow does the rotation of plants affect the statoliths in \ngravity sensing cells and what percentage of coconut \nfiber versus regolith optimizes growth? \nTeam Name: Colegio Retamar \nTeam number: 9200 (Elementary) \nMadrid, Spain \n\u00a8Alone we can do so little, together we can do so much\u00a8- Hellen Keller \nHypothesis \nWe are very interested in seeing what will happen if we periodically rotate the plants and \nbelieve that this effect will cause the plant to be disoriented, feeling a lesser impact of gravity \nand simulating growth in 0 or, at least, less gravitational pull. \nFurthermore, we believe that the plants with a higher percentage of regolith will show more \ngrowth than the plants with higher percentage of coconut fiber. We believe this due to the fact \nthat regolith has been made with the intention of providing nutrition for plants on a trip to Mars. \nFinally, we think that plants will grow best in the control experiment, being the 0\u00ba inclination \nset up. We think this because less inclination would provide the plants with constant gravitation \npull from the same direction.",
+      "char_count": 1113,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "text": "2 \nIndependent Variables \nWe have set up 4 different growing stations with varying inclinations at which 2 pots will rest \nand be rotated every 2 hours (a total of 8 pots): O\u00ba inclination, 15\u00ba inclination, 30\u00ba inclination, \n45\u00ba inclination. \nEach station had pots with 2 different amounts of regolith and coconut fiber in each. Pot 1 had \n50% regolith and 50% coconut fiber, Pot 2 had 75% regolith and 25% coconut fiber. All pots \nare filled with the growing mediums as well as an added fertilizer in the form of pills, which \nwere added once at the beginning of the experiment. \nAll growing stations are equipped with special growing lights which are turned on for 8 hours \neach day. \nWe water the plants with 60ml of water, twice per day. \nDependent Variables \nThe effect of inclination of each plant and the difference in growth between the pots with 50% \nregolith versus the ones planted with 75% regolith. \nThe number of leaves that grow in each pot as well and the size of each of the plants that get \nsuccessfully cultivated is a special job for the team to measure periodically as seen in the \nfollowing chart. \nAside from the number of leaves, students measured (in cm) the growth of the plants in order to \ncalculate the average daily growth of each of the plants in each of the pots. \n \n\u00a8To plant is to believe in tomorrow\u00a8- Audrey Hepburn",
+      "char_count": 1350,
+      "image_count": 3,
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "text": "3 \nMeasurements \nThe Ph maintained a constant level of 6 throughout the growth period, without any noticeable \nvariation. \nMeasurements of plant growth have taken place daily; the following table represents the final \ngrowth for each of the pots in the different inclinations. \n \nSubsequently, the team has broken down the information into average and daily numbers in \norder to deeply analyze the results of our experiments. \nEach pot of 50% and 50% regolith and coconut fiber has 120ml of each, regolith, and coconut \nfiber. However, pots of 75% regolith and 25% of coconut fiber have 180ml and 60ml. The \naverage growth of 75% and 25% is 1.375cm but the average of 50% and 50% is 1.7cm. \nIn 0\u00ba, 50% and 50% grows 0.204cm per /day and has grown 1.5cm. In 75% and 25% grows \n0.0202cm per / day and has grown 1.3cm. The average of the box is 1.4cm. \nIn 15%, 50% and 50% grows 0.0107cm per / day and has grown 1cm. And 75% and 25% \ngrows 0.001cm per / day and has grown 0.1cm. The average of the box is 1.4cm. \nIn 30\u00ba, 50% and 50% grows 0.05cm per / day and has grown 2.9cm. And 75% and 25% grows \n0.01cm per / day and has grown 1cm. The average of the box is 1.95cm. \nIn 45\u00ba, 50% and 50% grows 0.02cm per /day and has grown 1.4cm. In 75% and 25% grows \n0.05cm per / day and has grown 3.1cm. The average of the box is 2.25cm.",
+      "char_count": 1324,
+      "image_count": 17,
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "text": "4 \n \n \n \n \n \n \n \n \n \n0%\n20%\n40%\n60%\n80%\nJanuary February march\napril\n0%\n20%\n40%\n60%\n80%\nJanuary\nFebruary\nMarch\nApril\n0%\n20%\n40%\n60%\n80%\n100%\nJanuary February March\nApril\n0%\n20%\n40%\n60%\n80%\nJanuary February\nMarch\nApril\nThis chart represents the growth progress of the \n0\u00ba inclination station throughout the grow period. \nThis chart represents the growth progress of the \n15\u00ba inclination station throughout the grow period. \nThis chart represents the growth progress of the \n45\u00ba inclination station throughout the grow \nperiod. \nThis chart represents the growth progress of the 30\u00ba \ninclination station throughout the grow period.",
+      "char_count": 628,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "text": "5 \nControl \nThe control plants are those plants which we have planted in the 0 inclination pots, maintaining \nthe same initial parameters as the other growth: \n\u2022 1 pot with 50% regolith, 50% coconut fiber \n\u2022 1 pot with 75% regolith, 25% coconut fiber \n\u2022 1 grow light \n\u2022 0\u00ba inclination \nResults \nCONCLUSIONS \nOur conclusions in the Plant Mars Challenge are: \nLIGHT: as the inclination increases the plant grows more, perhaps due to the fact that light \ndoesn\u2019t hit the plants directly. \n0\u00ba inclination: these plants just grow a little because the plant was getting the light directly so \nthat was bad. We moved the pots away from the light a bit and results improve slightly. \n15\u00ba inclination: this plant grew much better because it was a little bit inclined, so the light \ndidn\u2019t hit it directly to the plant so it grew a little more than 0\u00ba inclination. \n30\u00ba inclination: this plant is more inclined. The plant has grown very good, and it is in a good \nstate. \n45\u00ba inclination: it has grown the best of all of our plants because the light does not hit directly \n(the same as 30\u00ba inclination) to the plant so that was good. \nAMOUNT OF REGOLITH AND COCONUT FIBER \n-The two best pots that have grown are from 45\u00ba inclination. One is 50% regolith and 50% \ncoconut fiber and the other is 75% regolith and 25% coconut fiber. \n-Of these two pots the best that has grown is 50% regolith and 50% coconut fiber. \n \nIn conclusion, we found that coconut fiber offered great nutrition to the plants and contradicted \nour hypothesis. Although some pots varied in growth at different time as shown in the graphs, \nwe found that coconut fiber can be a great supplement for growth within our parameters.",
+      "char_count": 1687,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "text": "6 \nWe understand that many factors may have played a part in the problems that we had throughout \nthe grow periods, but we are confident in the fact that inclination, rotation, and nutritional values \ncan be of great benefit to the missions that embark towards Mars in the future. \n \n \nWe would like to thank all the teachers and students of the primary 5 year group, without \ntheir help and support, we wouldn\u2019t have had the opportunity to learn so much. \nThe following link leads to a Scratch application that we have developed for the purpose \nof inviting everyone to learn more about our work: \nhttps://scratch.mit.edu/projects/658316738 \n \nTeam members: \nPablo Rodas Chiclana \nLuis de Parias P\u00e9rez- And\u00fajar \nGonzalo Gonz\u00e1lez Pelayo \n\u00c1lvaro Esteban Nogales \nPablo Oliete Miranda \nGonzalo Dantart Guti\u00e9rrez \nRodrigo P\u00e9rez \u00c1lvarez \nManuel Aparicio Artalejo \nLeopoldo Olea Ruiz-Belloso \nI\u00f1igo Pascual D\u00edaz \nSupport Team: \n\u00c1lvaro Azcue Garc\u00eda \nAlejo Miras Moraleda \nI\u00f1aki Gonz\u00e1lez Tinoco \nJaime Mu\u00f1oz Ricord \nAntonio G\u00e1lvez Jim\u00e9nez Castellanos \n\u00c1lvaro G\u00f3mez Garc\u00eda \nJuan Bosco Borrero Pitarque \nLuis de Villanueva Gallardo \n \nCoach: Mr. Javier Falc\u00f3n D\u00edaz",
+      "char_count": 1155,
+      "image_count": 1,
+      "tables": []
+    }
+  ]
+}

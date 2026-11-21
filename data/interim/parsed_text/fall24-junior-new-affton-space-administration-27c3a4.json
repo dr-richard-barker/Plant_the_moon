@@ -1,0 +1,150 @@
+{
+  "report_id": "fall24-junior-new-affton-space-administration-27c3a4",
+  "sha256": "c1decca76fa8a0659a4d715e1a1ad83f449d6bf5c50b0e4293335edc75a7b7d1",
+  "page_count": 9,
+  "total_chars": 1411,
+  "avg_chars_per_page": 156.8,
+  "total_images": 14,
+  "table_count": 1,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Plant the Moon Challenge Junior \nFinal Project Report \nTeam: New Affton Space Administration (NASA) \n1st & 2nd Grade Gifted Students \n \nIndependent Variable \n \n \nDependent Variable \n \n \nControls/Constants",
+      "char_count": 204,
+      "image_count": 3,
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "text": "Hypothesis \n \n \n \nBackground/Reasoning",
+      "char_count": 38,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "text": "Experimental Rationale",
+      "char_count": 22,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "text": "Grow Pot Setup \n \nSoil \nComposition \nAmendments \nCrop \nPot 1 (control) \n100% Earth soil \nN/A \nParis market \ncarrots \nPot 2 (control) \n100% Earth soil \nN/A \nParis market \ncarrots \nPot 3 \n100% lunar \nregolith \nnone \nParis market \ncarrots \nPot 4 \n100% lunar \nregolith \nnone \nParis market \ncarrots \nPot 5 \n50% lunar \nregolith + 25% \nEarth soil+ 25% \nworm castings \nEarth soil + worm \ncastings \nParis market \ncarrots \nPot 6 \n50% lunar \nregolith + 25% \nEarth soil+ 25% \nworm castings \nEarth soil + worm \ncastings \nParis market \ncarrots \nPot 7 \n75% lunar regolith \n+ 25% Earth soil \nEarth soil \nParis market \ncarrots \nPot 8 \n75% lunar regolith \n+ 25% Earth soil \nEarth soil \nParis market \ncarrots \nPot 9 \n50% lunar \nregolith + 25% \nEarth soil + 25% \nsand \nEarth soil + sand \nParis market \ncarrots \nPot 10 \n50% lunar \nregolith + 25% \nEarth soil + 25% \nsand \nEarth soil + sand \nParis market \ncarrots",
+      "char_count": 890,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Grow Pot Setup",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "Soil Composition",
+            "Amendments",
+            "Crop"
+          ],
+          [
+            "Pot 1 (control)",
+            "100% Earth soil",
+            "N/A",
+            "Paris market carrots"
+          ],
+          [
+            "Pot 2 (control)",
+            "100% Earth soil",
+            "N/A",
+            "Paris market carrots"
+          ],
+          [
+            "Pot 3",
+            "100% lunar regolith",
+            "none",
+            "Paris market carrots"
+          ],
+          [
+            "Pot 4",
+            "100% lunar regolith",
+            "none",
+            "Paris market carrots"
+          ],
+          [
+            "Pot 5",
+            "50% lunar regolith + 25% Earth soil+ 25% worm castings",
+            "Earth soil + worm castings",
+            "Paris market carrots"
+          ],
+          [
+            "Pot 6",
+            "50% lunar regolith + 25% Earth soil+ 25% worm castings",
+            "Earth soil + worm castings",
+            "Paris market carrots"
+          ],
+          [
+            "Pot 7",
+            "75% lunar regolith + 25% Earth soil",
+            "Earth soil",
+            "Paris market carrots"
+          ],
+          [
+            "Pot 8",
+            "75% lunar regolith + 25% Earth soil",
+            "Earth soil",
+            "Paris market carrots"
+          ],
+          [
+            "Pot 9",
+            "50% lunar regolith + 25% Earth soil + 25% sand",
+            "Earth soil + sand",
+            "Paris market carrots"
+          ],
+          [
+            "Pot 10",
+            "50% lunar regolith + 25% Earth soil + 25% sand",
+            "Earth soil + sand",
+            "Paris market carrots"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 5,
+      "text": "Procedures",
+      "char_count": 10,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "text": "Data Collection",
+      "char_count": 15,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "text": "*Note: The carrot plants were too light to weigh on their own, so we weighed the \ncombined plants from both pots with the same amendments and recorded those \nmeasurements. \n \nObservations",
+      "char_count": 187,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "text": "Analysis \n \n \nFuture Considerations",
+      "char_count": 35,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "text": "Conclusion",
+      "char_count": 10,
+      "image_count": 1,
+      "tables": []
+    }
+  ]
+}

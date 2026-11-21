@@ -1,0 +1,494 @@
+{
+  "report_id": "spring23-main-the-williams-family-adc068",
+  "sha256": "5c2800f2d1af62a92a15231d76ca4b622620d6d7e6a8af328947742f121d6e3a",
+  "page_count": 20,
+  "total_chars": 36108,
+  "avg_chars_per_page": 1805.4,
+  "total_images": 80,
+  "table_count": 10,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Bush Beans Grow, Flower, and Begin Fruit Production in Washed LHS-1 \nSupplemented With Less Than 10% Organic Matter \n \n \n \nPlant The Moon Challenge Spring 2023 \n \n \n \nTeam #: \n \n \n13135 \nTeam Name: \n \nThe Williams Family \nTeam Coach: \n \nKathryn Williams \nChallenge: \n \n \nPlant the Moon \nChallenge Division: \nProfessional \nLocation: \n \n \nOur Family Home, St. Louis, Missouri, USA \n \n \nPrimary Investigators: \nKathryn M. Williams (Stay-At-Home-Parent, PhD in Evolution) \nand William C. Reed (Grandfather, Retired Electrical Engineer) \n \nResearch Assistants: \nSebastian Williams (Age 9) and Alexander Williams (Age 9) \n \n \nABSTRACT \n \n \nReturning to the Moon and undertaking long-duration human exploration on the Moon \nare primary goals of NASA\u2019s Artemis Program. To sustain extended human exploration on the \nMoon, we must learn to grow crops using in situ resources. Some crops have already been grown \nin lunar regolith simulants, but more research is needed to determine the most efficient way to \nproduce plants in such a harsh environment. Growing crops in lunar regolith simulants, such as \nLHS-1, requires overcoming multiple chemical and physical challenges, including the absence of \nessential elements like Nitrogen, Sulfur and Chlorine, toxic concentrations of elements such as \nCalcium, very high pH, and poor drainage qualities. Many prior studies have sought to overcome \nthese challenges by using large quantities of organic matter (50%), which does not directly \naddress the toxicity caused by high calcium. To expand our knowledge of growing crops on the \nMoon, we chose to study Bush Bean growth in LHS-1. Through our research, we aimed (1) to \ngrow Bush Bean plants that produced fruit, (2) use less organic matter and amendments than \nprevious research, and (3) demonstrate the efficacy of in situ resources, such as biosolids, on \ncrop production. Two innovative features of our approach are (1) washing LHS-1 with distilled \nwater to reduce toxic concentrations of Ca before using it as a growth substrate, and (2) the \ndesign and implementation of a Soil Atmosphere Circulation System to enhance drainage and \nmaintain the soil atmosphere. We show that Bush Beans can germinate, grow, flower, and begin \nto produce fruit in LHS-1 amended with less than 10% organic matter after 44 days of growth. \nWe believe this growth reflects the value of washing the LHS-1 prior to using it as a growth \nsubstrate and of maintaining the soil atmosphere.",
+      "char_count": 2463,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "text": "2 \nINTRODUCTION \n \n \nReturning to the Moon and establishing a human presence on the Moon is a primary goal \nof NASA\u2019s Artemis program. Essential to any long-duration human presence on the Moon is a \nreliable food source. It currently costs approximately $100,000 to send each pound of material to \nand from the Moon (Jones 2022). Given that cost, it is imperative to limit the amount of material \nsent between the Moon and Earth. In May 2022, Paul et al. (2022) grew the model plant \nArabidopsis thaliana in lunar regolith obtained from the Apollo missions to the Moon, \ndemonstrating the potential for growing crops via in situ resource utilization (ISRU). \nMultiple crops have already been grown in lunar regolith simulant. Previous studies have \ngrown tomato, cress, radish, rye, rocket, quinoa, and peas (Wamelink et al. 2019, Wamelink et \nal. 2014). Consistent with the growth experiments in actual lunar regolith (Paul et al. 2022), \nplants grown in lunar regolith simulant tend to exhibit reduced growth, flowering and fruiting \ncompared to controls. The ability to grow crops on the Moon in sufficient varieties and quantities \nto support human health remains largely unknown. Much more research is needed for crop \nproduction on the Moon via ISRU to become a reality. \n \nGrowing crops successfully in lunar regolith simulant presents multiple challenges \nrelated to its chemical and physical composition. Chemically, lunar regolith simulants, such as \nLHS-1, contain insufficient amounts of some elements and excessive quantities of other elements \nfor crops. Plant growth requires at least 16 essential elements obtained from soil (Taiz & Zeiger \n2002). Some of these elements, including Nitrogen (N), Sulfur (S), and Chlorine (Cl), are \ncompletely absent from LHS-1 (Exolith Labs, 2022). Conversely, elements such as Calcium (Ca) \nare present in detrimental amounts. LHS-1 contains 9.36% Ca in the form of calcium oxide \n(Exolith Labs, 2022), which is more than 4X the Ca needs for most plants (Kelling & Schulte \n2004, Broadly et al. 2003). Excess Ca leads to toxicity by increasing pH and inhibiting nutrient \nuptake by plants (White & Broadly, 2003). LHS-1 also contains sodium (Na) in the form of \nNa2O, which can contribute to salt stress (Doungous et al. 2022; Shi et al. 2017). Physically, \nLHS-1 contains particulates that are prone to forming agglutinates. These agglutinates decrease \nthe movement of water and gases in the soil atmosphere, which can inhibit plant growth. \nCollectively, the chemical and physical properties of LHS-1 make using it as a primary substrate \nfor growing crops a formidable challenge. \n \nMost recent attempts to grow crops in LHS-1 have relied on large quantities of organic \nmatter (50%), including peat moss, Earth soil, sawdust, worm castings, and compost, as well as \nfertilizers such as Miracle Grow, ammonium sulfate, urine, and biosolids (PTMC Spring 2021 \u2013 \nFall 2022). The primary impact of these amendments is to increase nutrient concentration in \nLHS-1 and improve soil tilth. However, nutrient uptake by plants also depends on the pH of the \nsubstrate. LHS-1 has a pH of 8 \u2013 9, which is far too alkaline for most crops to adequately uptake \nnutrients, even if they are available. Large quantities of organic matter can alter the pH of \nsubstrates containing LHS-1, but even a 50:50 mix of LHS-1 to organic matter will not eliminate \ntoxicity caused by Ca. If most crops grow best with approximately 2% Ca, then the Ca content of \nLHS-1 will need to be reduced by at least 75%. To mitigate discrepancies between the growth \nrequirements of plants and the inherent properties of LHS-1, successful crop production requires \nthe addition of multiple nutrients, development of the soil atmosphere, and reduction of \ninhibitory chemical concentrations. \n \nTo advance our knowledge of crop production on the Moon, we chose to participate in \nthe Plant The Moon Challenge and study Bush Bean growth in LHS-1. We chose Bush Beans",
+      "char_count": 3983,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "text": "3 \nbecause according to the Old Farmer\u2019s Almanac, a trusted source for gardening advice since \n1792, they are \u201ceasy to grow\u2014even in limited space\u2014and incredibly productive!\u201d (Old Farmer\u2019s \nAlmanac, 2023). Also, Bush Beans are nutritionally beneficial for humans, self-pollinating, and \nwe have previous experience growing this crop successfully in our home garden. The guiding \nprinciple we used to tackle this challenge was that matter cannot be created nor destroyed. We \nbelieve that ISRU on the Moon should be maximized and the amount of materials transported \nfrom Earth to the Moon should be minimized. Our objectives for the PTMC Spring 2023 were \n(1) to grow Bush Bean plants that produced fruit in LHS-1, (2) use less organic matter and \namendments than previous research, and (3) demonstrate the efficacy of in situ resources, such as \nbiosolids, on crop production. \n \nIn this study, we show that Bush Beans can germinate, grow, flower, and begin to \nproduce fruit in LHS-1 amended with less than 10% organic matter (Figure 1). Two innovative \nfeatures of our approach are (1) washing LHS-1 with distilled water to reduce Ca before using it \nas a growth substrate, and (2) the design and implementation of a Soil Atmosphere Circulation \nSystem to enhance drainage and maintain the soil atmosphere. We had two hypotheses: (1) \nWashing LHS-1 with distilled water would reduce its Ca content, and (2) that the more biosolids \nadded to a growth substrate, the greater the plant growth and crop yield. To test our first \nhypotheses, we assessed the pH of LHS-1 before and after washing. The pH of LHS-1 went from \n8 \u2013 9 down to 7 \u2013 8 after washing, which is consistent with a reduction in Ca. To test our second \nhypothesis, we observed the growth of green beans in LHS-1 supplemented with 0, 3.5, 7, 10.5, \nand 14 grams (g) of biosolids. Growth varied across pots but did not correlate with the amount of \nbiosolids. The major finding of our study was the flowering a fruit formation of Bush Beans \ngrown in LHS-1 supplemented with less than 10% organic matter. All our Bush Bean plants \nwere still alive at 46 days of growth. We believe this growth reflects the value of washing the \nLHS-1 prior to using it as a growth substrate and of maintaining the soil atmosphere.",
+      "char_count": 2277,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "text": "4 \nFigure 1. Bush Beans can flower and produce fruit in LHS-1 amended with less than 10% \norganic matter. Bush bean plants grown in LHS-1 (A, C) or Topsoil (B, D), without biosolids \n(Top Row) or with 14 g biosolids (Bottom Row) after 46 days. Plants grown in LHS-1 survive to \nproduce flowers (A and B) and fruits (only A). However, they are much small and less \nproductive than plants grown in Topsoil (C and D). Plants grown in both LHS-1 and Topsoil \nexhibited some chlorosis. However, only plants grown in LHS-1 exhibited senescence. \n \n \n \n \n \n \n \n \n \n \n \n LHS-1 \n \n \n \n \n Topsoil \n \n \n \n \n \nFruit \n0 g Biosolids \n14 g Biosolids \nA \nB \nC \nD \nFlowers",
+      "char_count": 655,
+      "image_count": 6,
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "text": "5 \nMETHODS \n \nNovel Lunar Regolith Wash Method \n \nLHS-1 contains 9.36% calcium (Ca), which is more the 4X the amount recommended for \ngrowing Bush Beans (Kelling & Schulte (2004)). For plants to grow well, this toxic \nconcentration of Ca must be reduced. Given that Ca is soluble in water, we reasoned that we \ncould remove excess Ca from LHS-1 by first washing it with copious amounts of water. To \nremove Ca from LHS-1, we mixed 5 kg of dry LHS-1 containing 468 g of Ca with 16 L of \ndistilled water. We then used a ladle to remove 12 L of the resulting solution, or an etimated 351 \ng of Ca. Assuming the calcium dissolved readily in the distilled water, the remaining regolith \ncontained approximately 114 g, or about 2%, Ca. During this process, we also removed other \nwater-soluble elements, including Sodium (Na), Potassium (K), and Magnesium (Mg), as well as \nclay particles that were held in suspension. \nAfter this wash process, the LHS-1 resembled very wet mud with far too much water for \nplanting. To remove most of the remaining water, we heated the LHS-1 on a camp stove and \nallowed the water to evaporate into the outdoor air. Due to challenges we encountered attempting \nthis novel approach in a home setting, e.g., all of the containers we used were thrifted from \nGoodwill and one of them broke during heating, a small amount of LHS-1 was lost. After \nwashing and evaporating most of the remaining water, we ended up with 5,210 g of LHS-1 with \n19% water content (approximately 4,220 g dry weight). \n \nAmendments and Fertilizer \nLHS-1 lacks multiple elements essential for plant growth, including N, S, and Cl. \nAdditionally, the washing treatment we used to remove excess Ca, likely also removed other \nwater-soluble elements essential for plant growth, including K and Mg. While many prior studies \nhave amended LHS-1 with 50% organic matter to alleviate some of these nutritional deficiencies, \nreduce pH, and improve soil tilth (PTMC Spring 2021 \u2013 Fall 2022), one of our objectives was to \nreduce the amount of organic matter added to the LHS-1 via ISRU. \nTo determine the amount of organic matter that could potentially be available in situ on \nthe Moon, we developed the Three Season Compost Model (Figure 2). Based on this model, we \nused 18 g of organic matter representing three prior growing seasons in each pot. Since Spring \n2023 is our first time participating in the PTMC Challenge, we did not have any organic matter \nfrom prior growing seasons. To mimic organic matter from three prior growing seasons, we used \nTimothy Hay for minus 1 season, Composted Leaves for minus 2 seasons, and Peat Moss for \nminus 3 seasons. These materials represent organic matter in various stages of decay and would \nideally be acquired from crops grown entirely on the Moon.",
+      "char_count": 2791,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "text": "6 \nFIGURE 2. Three Season Compost Model. In this model we assume each plant possesses 30 g \nof organic matter and that 40% of this organic matter comprise fruit that will be consumed by \nspace explorers or used for seeds. The remaining 60% of organic matter comprises roots and \nshoots that can be composted. In this model each plant yields 18 g of compostable material per \nseason. Given that this is our first season in the PTMC, we chose three different types of organic \nmatter to represent compost from three prior seasons, including Timothy Hay (minus 1 season), \nComposted Leaves (minus 2 seasons), and Peat Moss (minus 3 seasons). \n \n \n \n \n \n \n \nAlthough amending LHS-1 with organic matter from 3 prior growing seasons will \nprovide some nutrients and improve soil tilth, it will not provide sufficient nutrition for robust \nplant growth and food production. First, nutrients lost from human consumption of fruit must \nalso be replaced. To estimate the amount of biosolids that could be reclaimed as fertilizer on the \nMoon, we developed a Biosolid Reclamation Model (Figure 3). Using this model, we estimated \nthat the maximum amount of biosolids that could be obtained in situ was 14 g per plant per \ngrowing season. We wanted to observe whether different amounts of biosolids impacted plant \ngrowth, so each pot received 0, 3.5, 7, 10.5, or 14 g of biosolids (sourced from St. Joseph, \nMissouri Water Protection Agency). \n \n \n \n60% \n40% \n-3 Seasons \nPeat moss \n-2 Seasons \nComposted Leaves \nDecay \nCurrent Season \n-1 Season \nTimothy Hay",
+      "char_count": 1547,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "text": "7 \nFigure 3. Biosolid Reclamation Model. In this model we estimate the maximum amount of \nbiosolids available per year per plant as a function of the amount of beans consumed and \nconverted in biosolids each year, and the number of plants required for food and seeds. If the \nnutrition of each person depends on 14 bush bean plants per year, and each person converts the \nBush Beans they consume into 195 g of biosolids, then each plants can be fertilized with a \nmaximum of 14 g of biosolids per year. \n \n \n\ud835\udc35\ud835\udc56\ud835\udc5c\ud835\udc60\ud835\udc5c\ud835\udc59\ud835\udc56\ud835\udc51\ud835\udc60 (\ud835\udc54) \ud835\udc5d\ud835\udc5f\ud835\udc5c\ud835\udc51\ud835\udc62\ud835\udc50\ud835\udc52\ud835\udc51 \ud835\udc5d\ud835\udc52\ud835\udc5f \ud835\udc5d\ud835\udc52\ud835\udc5f\ud835\udc60\ud835\udc5c\ud835\udc5b \ud835\udc52\ud835\udc4e\ud835\udc50\u210e \ud835\udc66\ud835\udc52\ud835\udc4e\ud835\udc5f= 195 \ud835\udc54 \n \n= 100 \ud835\udc54 \ud835\udc35\ud835\udc62\ud835\udc60\u210e \ud835\udc35\ud835\udc52\ud835\udc4e\ud835\udc5b\n\ud835\udc46\ud835\udc52\ud835\udc5f\ud835\udc63\ud835\udc56\ud835\udc5b\ud835\udc54\n\ud835\udc6526 \ud835\udc46\ud835\udc52\ud835\udc5f\ud835\udc63\ud835\udc56\ud835\udc5b\ud835\udc54\ud835\udc60\n\ud835\udc4c\ud835\udc52\ud835\udc4e\ud835\udc5f\n\ud835\udc65 10% \ud835\udc51. \ud835\udc64\ud835\udc61. (\ud835\udc54)\ud835\udc65 75% (\ud835\udc5f\ud835\udc52\ud835\udc50\ud835\udc5c\ud835\udc63\ud835\udc52\ud835\udc66 \ud835\udc50\ud835\udc5c\ud835\udc52\ud835\udc53\ud835\udc53\ud835\udc56\ud835\udc50\ud835\udc56\ud835\udc52\ud835\udc5b\ud835\udc61) \n \n \n \n\ud835\udc35\ud835\udc62\ud835\udc60\u210e \ud835\udc35\ud835\udc52\ud835\udc4e\ud835\udc5b \ud835\udc5d\ud835\udc59\ud835\udc4e\ud835\udc5b\ud835\udc61\ud835\udc60 \ud835\udc5b\ud835\udc52\ud835\udc52\ud835\udc51\ud835\udc52\ud835\udc51 \ud835\udc5d\ud835\udc52\ud835\udc5f \ud835\udc5d\ud835\udc52\ud835\udc5f\ud835\udc60\ud835\udc5c\ud835\udc5b \ud835\udc52\ud835\udc4e\ud835\udc50\u210e \ud835\udc66\ud835\udc52\ud835\udc4e\ud835\udc5f= 14 \ud835\udc5d\ud835\udc59\ud835\udc4e\ud835\udc5b\ud835\udc61\ud835\udc60 \n \n \u00bb F2,600 \ud835\udc54 \ud835\udc35\ud835\udc62\ud835\udc60\u210e \ud835\udc35\ud835\udc52\ud835\udc4e\ud835\udc5b\ud835\udc60 \ud835\udc5d\ud835\udc52\ud835\udc5f \ud835\udc5d\ud835\udc52\ud835\udc5f\ud835\udc60\ud835\udc5c\ud835\udc5b \ud835\udc5d\ud835\udc52\ud835\udc5f \ud835\udc66\ud835\udc52\ud835\udc4e\ud835\udc5f\n226.8 \ud835\udc54 \ud835\udc35\ud835\udc62\ud835\udc60\u210e \ud835\udc35\ud835\udc52\ud835\udc4e\ud835\udc5b\ud835\udc60 \ud835\udc5d\ud835\udc52\ud835\udc5f \ud835\udc5d\ud835\udc59\ud835\udc4e\ud835\udc5b\ud835\udc61\nI + 2.5 \ud835\udc43\ud835\udc59\ud835\udc4e\ud835\udc5b\ud835\udc61\ud835\udc60 \ud835\udc53\ud835\udc5c\ud835\udc5f \ud835\udc60\ud835\udc52\ud835\udc52\ud835\udc51\ud835\udc60 \ud835\udc4e\ud835\udc5b\ud835\udc51 \ud835\udc59\ud835\udc5c\ud835\udc60\ud835\udc60 \n \n \n \n\ud835\udc40\ud835\udc4e\ud835\udc65\ud835\udc56\ud835\udc5a\ud835\udc62\ud835\udc5a \ud835\udc4e\ud835\udc5a\ud835\udc5c\ud835\udc62\ud835\udc5b\ud835\udc61 \ud835\udc5c\ud835\udc53 \ud835\udc4f\ud835\udc56\ud835\udc5c\ud835\udc60\ud835\udc5c\ud835\udc59\ud835\udc56\ud835\udc51\ud835\udc60 (\ud835\udc54) \ud835\udc4e\ud835\udc63\ud835\udc4e\ud835\udc56\ud835\udc59\ud835\udc4e\ud835\udc4f\ud835\udc59\ud835\udc52 \ud835\udc5d\ud835\udc52\ud835\udc5f \ud835\udc66\ud835\udc52\ud835\udc4e\ud835\udc5f \ud835\udc5d\ud835\udc52\ud835\udc5f \ud835\udc5d\ud835\udc59\ud835\udc4e\ud835\udc5b\ud835\udc61= 18 \ud835\udc54 \n \n \n= \ud835\udc35\ud835\udc62\ud835\udc60\u210e \ud835\udc35\ud835\udc52\ud835\udc4e\ud835\udc5b \ud835\udc5d\ud835\udc59\ud835\udc4e\ud835\udc5b\ud835\udc61\ud835\udc60 \ud835\udc5b\ud835\udc52\ud835\udc52\ud835\udc51\ud835\udc52\ud835\udc51 \ud835\udc5d\ud835\udc52\ud835\udc5f \ud835\udc5d\ud835\udc52\ud835\udc5f\ud835\udc60\ud835\udc5c\ud835\udc5b \ud835\udc52\ud835\udc4e\ud835\udc50\u210e \ud835\udc66\ud835\udc52\ud835\udc4e\ud835\udc5f\n\ud835\udc35\ud835\udc56\ud835\udc5c\ud835\udc60\ud835\udc5c\ud835\udc59\ud835\udc56\ud835\udc51\ud835\udc60 \ud835\udc5d\ud835\udc5f\ud835\udc5c\ud835\udc51\ud835\udc62\ud835\udc50\ud835\udc52\ud835\udc51 \ud835\udc5d\ud835\udc52\ud835\udc5f \ud835\udc5d\ud835\udc52\ud835\udc5f\ud835\udc60\ud835\udc5c\ud835\udc5b \ud835\udc52\ud835\udc4e\ud835\udc50\u210e \ud835\udc66\ud835\udc52\ud835\udc4e\ud835\udc5f\n \n \n= 14 \ud835\udc5d\ud835\udc59\ud835\udc4e\ud835\udc5b\ud835\udc61\ud835\udc60\n195 \ud835\udc54\n \n \n \nEven with the addition of organic matter representing and biosolids, more fertilization \nwas necessary to compensate for nutrients lost to seed production and to account for other known \ndeficiencies in LHS-1. Additional amendments and fertilizers added to each pot included: 21 g \nKelp Meal (Neptune\u2019s Harvest Kelp Meal, Ocean Crest Seafoods, Gloucester, MA), 0.17 g of \n21% Ammonium Sulfate (Hi-Yield) , 0.13 g of 18% Super Phosphate (Hi-Yield), and 0.09 g of \n60% Potash (Hi-Yield). Kelp meal contains Cl, which is essential for plant growth, as well as \ncobalt, which facilitates nodule formation and nitrogen-fixation by bacteria in symbiotic \nrelationship with legumes such as Bush Beans. The total amount of organic matter, including \nTimothy Hay, Composted Leaves, Peat Moss and Kelp Meal, added to each pot was 75 g, or \n8.8% for the pots with LHS-1 and 7.5% for the pots with Topsoil (LHS-1 pots received a \nsomewhat greater fraction of organic matter because some LHS-1 was lots during the wash \ntreatment). Ammonium Sulfate, Super Phosphate, and Potash were applied to pots at planting \ntime and after the development of first true leaves according to recommendations by the \nUniversity of Wisconsin Extension. For an overview of the additions and subtractions we made \nto the LHS-1 before plants, see Table 1.",
+      "char_count": 2338,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "text": "8 \nTable 1. List of all additions and subtractions made to LHS-1 before planting. \n \nEarth Pots \nE-0 \nE-3.5 \nE-7 \nE-10.5 \nE-14 \nUnits \n \nBiosolids \n0 \n3.5 \n7 \n10.5 \n14 \nGrams Independent \nVariable \nSaphgnum Peat \nMoss \n18 \n18 \n18 \n18 \n18 \nGrams \n \nComposted Leaf \nMulch \n18 \n18 \n18 \n18 \n18 \nGrams \n \nTimothy Hay \n18 \n18 \n18 \n18 \n18 \nGrams \n \nKelp Meal \n21 \n21 \n21 \n21 \n21 \nGrams \n \n21% Ammonium \nSulfate \n0.17 \n0.17 \n0.17 \n0.17 \n0.17 \nGrams \n \n18% Super \nPhosphate \n0.13 \n0.13 \n0.13 \n0.13 \n0.13 \nGrams \n \n60% Potash \n0.09 \n0.09 \n0.09 \n0.09 \n0.09 \nGrams \n \nAce Hardware Top \nSoil \n1000 \n1000 \n1000 \n1000 \n1000 \nGrams \n \n \n \n \n \n \n \n \n \nMoon Pots \nM-0 \nM-3.5 \nM-7 \nM-10.5 \nM-14 \nUnits \n \nBiosolids \n0 \n3.5 \n7 \n10.5 \n14 \nGrams Independent \nVariable \nSaphgnum Peat \nMoss \n18 \n18 \n18 \n18 \n18 \nGrams \n \nComposted Leaf \nMulch \n18 \n18 \n18 \n18 \n18 \nGrams \n \nTimothy Hay \n18 \n18 \n18 \n18 \n18 \nGrams \n \nKelp Meal \n21 \n21 \n21 \n21 \n21 \nGrams \n \n21% Ammonium \nSulfate \n0.17 \n0.17 \n0.17 \n0.17 \n0.17 \nGrams \n \n18% Super \nPhosphate \n0.13 \n0.13 \n0.13 \n0.13 \n0.13 \nGrams \n \nof 60% Potash \n0.09 \n0.09 \n0.09 \n0.09 \n0.09 \nGrams \n \nLHS-1 Lunar \nRegolith \n1000 \n1000 \n1000 \n1000 \n1000 \nGrams \n \nCalcium Oxide \nMinus 96 Minus 96 Minus 96 Minus 96 Minus 96 Grams \n \nSodium Oxide \nMinus \n21.75 \nMinus \n21.75 \nMinus \n21.75 \nMinus \n21.75 \nMinus \n21.75 \nGrams \n \nPotassium Oxide \nMinus \n3.75 \nMinus \n3.75 \nMinus \n3.75 \nMinus \n3.75 \nMinus \n3.75 \nGrams \n \nMagnesium Oxide \nMinus 12 Minus 12 Minus 12 Minus 12 Minus 12 Grams \n \nClay \nMinus \n22.5 \nMinus \n22.5 \nMinus \n22.5 \nMinus \n22.5 \nMinus \n22.5 \nGrams",
+      "char_count": 1570,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Earth Pots",
+            "E-0",
+            "E-3.5",
+            "E-7",
+            "E-10.5",
+            "E-14",
+            "Units",
+            ""
+          ],
+          [
+            "Biosolids",
+            "0",
+            "3.5",
+            "7",
+            "10.5",
+            "14",
+            "Grams",
+            "Independent Variable"
+          ],
+          [
+            "Saphgnum Peat Moss",
+            "18",
+            "18",
+            "18",
+            "18",
+            "18",
+            "Grams",
+            ""
+          ],
+          [
+            "Composted Leaf Mulch",
+            "18",
+            "18",
+            "18",
+            "18",
+            "18",
+            "Grams",
+            ""
+          ],
+          [
+            "Timothy Hay",
+            "18",
+            "18",
+            "18",
+            "18",
+            "18",
+            "Grams",
+            ""
+          ],
+          [
+            "Kelp Meal",
+            "21",
+            "21",
+            "21",
+            "21",
+            "21",
+            "Grams",
+            ""
+          ],
+          [
+            "21% Ammonium Sulfate",
+            "0.17",
+            "0.17",
+            "0.17",
+            "0.17",
+            "0.17",
+            "Grams",
+            ""
+          ],
+          [
+            "18% Super Phosphate",
+            "0.13",
+            "0.13",
+            "0.13",
+            "0.13",
+            "0.13",
+            "Grams",
+            ""
+          ],
+          [
+            "60% Potash",
+            "0.09",
+            "0.09",
+            "0.09",
+            "0.09",
+            "0.09",
+            "Grams",
+            ""
+          ],
+          [
+            "Ace Hardware Top Soil",
+            "1000",
+            "1000",
+            "1000",
+            "1000",
+            "1000",
+            "Grams",
+            ""
+          ],
+          [
+            "Moon Pots",
+            "M-0",
+            "M-3.5",
+            "M-7",
+            "M-10.5",
+            "M-14",
+            "Units",
+            ""
+          ],
+          [
+            "Biosolids",
+            "0",
+            "3.5",
+            "7",
+            "10.5",
+            "14",
+            "Grams",
+            "Independent Variable"
+          ],
+          [
+            "Saphgnum Peat Moss",
+            "18",
+            "18",
+            "18",
+            "18",
+            "18",
+            "Grams",
+            ""
+          ],
+          [
+            "Composted Leaf Mulch",
+            "18",
+            "18",
+            "18",
+            "18",
+            "18",
+            "Grams",
+            ""
+          ],
+          [
+            "Timothy Hay",
+            "18",
+            "18",
+            "18",
+            "18",
+            "18",
+            "Grams",
+            ""
+          ],
+          [
+            "Kelp Meal",
+            "21",
+            "21",
+            "21",
+            "21",
+            "21",
+            "Grams",
+            ""
+          ],
+          [
+            "21% Ammonium Sulfate",
+            "0.17",
+            "0.17",
+            "0.17",
+            "0.17",
+            "0.17",
+            "Grams",
+            ""
+          ],
+          [
+            "18% Super Phosphate",
+            "0.13",
+            "0.13",
+            "0.13",
+            "0.13",
+            "0.13",
+            "Grams",
+            ""
+          ],
+          [
+            "of 60% Potash",
+            "0.09",
+            "0.09",
+            "0.09",
+            "0.09",
+            "0.09",
+            "Grams",
+            ""
+          ],
+          [
+            "LHS-1 Lunar Regolith",
+            "1000",
+            "1000",
+            "1000",
+            "1000",
+            "1000",
+            "Grams",
+            ""
+          ],
+          [
+            "Calcium Oxide",
+            "Minus 96",
+            "Minus 96",
+            "Minus 96",
+            "Minus 96",
+            "Minus 96",
+            "Grams",
+            ""
+          ],
+          [
+            "Sodium Oxide",
+            "Minus 21.75",
+            "Minus 21.75",
+            "Minus 21.75",
+            "Minus 21.75",
+            "Minus 21.75",
+            "Grams",
+            ""
+          ],
+          [
+            "Potassium Oxide",
+            "Minus 3.75",
+            "Minus 3.75",
+            "Minus 3.75",
+            "Minus 3.75",
+            "Minus 3.75",
+            "Grams",
+            ""
+          ],
+          [
+            "Magnesium Oxide",
+            "Minus 12",
+            "Minus 12",
+            "Minus 12",
+            "Minus 12",
+            "Minus 12",
+            "Grams",
+            ""
+          ],
+          [
+            "Clay",
+            "Minus 22.5",
+            "Minus 22.5",
+            "Minus 22.5",
+            "Minus 22.5",
+            "Minus 22.5",
+            "Grams",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 9,
+      "text": "9 \nMidway through the growth experiment most plants in both LHS-1 and Topsoil began \nexhibiting signs of chlorosis. We suspect this stress was caused by our watering method in the \nfirst portion of our experiment. To help mitigate this problem, we applied two doses of chelated \nliquid iron applied according to manufacturer instructions (ferti-lome Chelated Liquid Iron and \nOther Micronutrients, Bonham, TX). \n \nSeeds and Planting \n \nBlue Lake 274 Bush Beans were grown in either 844 g of LHS-1 or 1,000 g of Topsoil in \n8-inch round plastic pots amended with 75 g of organic matter plus fertilizer as described above. \nWe had initially intended to use equal amount of LHS-1 and Topsoil. However, a small amount \nof LHS-1 was lost during the washing process (see above) and all other components had already \nbeen measured and mixed by that time. The total amount of organic matter used in each pot was \n8.8% for the pots with LHS-1 and 7.5% for the pots with Topsoil. \nEach pot was sown with three seeds approximately 1 inch below the surface of the soil. \nSeeds were sprinkled with \u00bc teaspoon of granular Nitrogen-fixing bacteria (Nature\u2019s Aid 1x108 \nviable cells per g of Bradyrhizobium sp., Rhizobium leguminosarum and R. phaseoli). Following \ngermination, seeds were thinned to 1 plant per pot. \n \nNovel Soil Atmosphere Circulation System \nThe physical properties of LHS-1 inhibit the flow of water away from plant roots. \nAdditionally, low gravity on the Moon will exacerbate the poor drainage qualities of lunar \nregolith. Without sufficient drainage, growth substrates become waterlogged, reducing gas \nexchange between roots and the soil atmosphere. To grow crops on the Moon, terraforming \nendeavors must ensure (1) adequate water drainage, (2) soil surface air flow, and (3) subsurface \nair flow. In the absences of these elements, plants cannot thrive. \nFor our experiment, we engineered a Soil Atmosphere Circulation System comprised of \n(1) our Low Gravity Drainage Enhancement System (LGDES), (2) an 18-inch diameter pedestal \nfan, and (3) our Subsurface Atmosphere Ventilation System (Figure 4). First, to facilitate \nadequate water drainage in LHS-1 and on the Moon, our LGDES was comprised of a filter, \ncollection reservoir, and vacuum connected via tubing. Following watering, excess water was \nremoved from each pot via suction created by 2.5 gallon 2-HP shopvac (Craftsman). Water from \neach pot was collected in a corresponding reservoir. Second, to ensure air flow on the soil \nsurface, we positioned an 18-inch diameter pedestal fan (Lasko) on one side of the grow room, \n12 inches above the soil surface. Third, to promote subsurface air flow, we installed our Soil \nAtmosphere Ventilation System (SAVS). The SAVS consists of a 4\u201d square, 12 volt computer \nfan (Wathai), bespoke pressure collator, and tubing that connects each collection reservoir used \nin the LGDES to the computer fan. The objective of SAVS was to create equal and subtle air \nflow from above the soil surface, down through the soil, and away from plant roots. In our \napproach, air flow from the SAVS was vented into the grow room. The goal of our Soil \nAtmosphere Circulation System was to overcome the poor drainage qualities inherent to LHS-1 \nand potentially identify a way to mitigate drainage problems inherent to crop production in low-\ngravity environments.",
+      "char_count": 3363,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "text": "10 \nFIGURE 4. Novel Soil Atmosphere Circulation System. (A) Low Gravity Drainage \nEnhancement System (LGDES), (B) 18-inch diameter pedestal fan, (C) Subsurface Atmosphere \nVentilation System (SAVS) before installation, and (D) SAVS after installation. \n \n \n \n \n \n \n \n \nA \nB \nC \nD",
+      "char_count": 279,
+      "image_count": 7,
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "text": "11 \nWatering \n \nAll pots were watered with 100 \u2013 400 ml of distilled water every 1 to 4 days. The amount \nof water varied over the course of the experiment. Initially, we sought to keep the growth \nsubstrate continually moist to prompt seed germination. As roots developed, we began to allow \nthe topmost surface of the soil to dry between waterings. Following each watering, we extracted \nexcess water from each pot using the shopvac attached to the LGDES for 10 \u2013 20 seconds for \npots containing Topsoil and 20 \u2013 30 seconds for pots containing LHS-1 (the two substrates \nexhibited different rates of water drainage). The amount of water we collected varied from 0 to \nupwards of 300 ml of water, depending on how moist the soil was prior to watering and how \nmuch water was added. \nMidway through the experiment we began using a combination of re-claimed water and \ndistilled water. For the first part of the experiment, we combined the extracted water from each \npot into a large storage container. Initially, we hesitated re-using this water due to concern about \nit containing dissolved sodium (Na), which is detrimental for plant growth. Following a note \nmade by Dr. Robert Heinse during the March 22, 2023 Q&A Session about the loss of nutrients \ninto the extracted water and apparent nutrient deficiencies beginning at around 24 days of \ngrowth, we opted to begin re-using water extracted during subsequent waterings. We chose not \nto re-use the extracted water we had collected and combined during the first part of the \nexperiment for two reasons: (1) we did not know how many nutrients were in the solution, and \n(2) the solution had started to grow algae. Although Na in the collected water may not be ideal \nfor plant growth, we agree with Dr. Heinse\u2019s recommendation to re-use extracted water to retain \nnutrients. Regrettably, we believe we may have lost an unknown, but likely helpful amount of \nnutrients in the first part of our experiment. \n \nLighting and Temperature \nWe used a Spider Farm SF4000 LED Grow Light to expose plants to alternating \nlight/dark periods ranging from approximately 14 hours 30 minutes of light to 15 hours 30 \nminutes of light. The duration of the light period was increased every 7 \u2013 10 days according to \nthe daylength in Wisconsin during green bean growing season. Wisconsin produces the most \ngreen beans of any state in the USA, and thus represents ideal growing conditions for this crop \nplant. The intensity of the light was increased depending on the growth stage of the plants \n(germination, leaf growth and flowering), according to manufacturer recommendations. Plants \nwere grown in the basement of our family home with ambient temperatures ranging from 64 to \n67\u00b0F. \n \n \nRESULTS \n \nNovel Lunar Regolith Wash Method \n \nWashing LHS-1 with distilled water decreases its pH (Figure 5). Prior to washing, the pH \nof LHS-1 was 8 \u2013 9. To remove water soluble molecules from LHS-1, we mixed dry LHS-1 with \ncopious amounts of distilled water. We then removed 75% of the resulting water with dissolved \nmolecules (Moon Milk), before evaporating most of the remaining water from the LHS-1. The \nstarting pH of the distilled water was 7, and the pH of the Moon Milk was 8 \u2013 9. This difference \nin pH is consistent with the dissolution of cations from LHS-1 into the distilled water upon \nmixing. The pH of LHS-1 after washing was 7 \u2013 8, which indicates an approximately 10-fold",
+      "char_count": 3425,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 12,
+      "text": "12 \ndecrease in pH relative to unwashed LHS-1. This decrease is consistent with the removal of \ncations, such as Ca+, from LHS-1. Notably, the pH of our Topsoil control was also 7 \u2013 8. \n \nIn addition to removing soluble ions during our Lunar Regolith Wash, we also removed \nclay-like particles that remained in suspension. We estimate that we removed 112.5 g of clay-like \nparticles from the 5 kg of LHS-1 we had available for our experiment. These clay-like particles \ncontribute to agglutinates in LHS-1. Removing a fraction of these particles likely also reduced \ncompaction the LHS-1 during plant growth. \n \nFigure 5. Novel Lunar Regolith Wash Method reduced the pH of LHS-1 from 8 \u2013 9 to 7 \u2013 8, \nwhich is the same as Topsoil. Shown in the images are (A) pH of LHS-1 before washing, (B) \npH of distilled water, (C) pH of Moon Milk, (D) pH of LHS-1 after washing, (E) pH of LHS-1 at \nplanting, and (F) pH of Topsoil at planting. \n \n \n \n \n \n \n \n \n \nNovel Soil Atmosphere Circulation System \n \nThe LGEDS effectively removes water from pots (Figure 6). After each watering, excess \nwater was extracted from each pot using the LGEDS. Prior to using the system, water tended to \npool on top of LHS-1, although it drained readily through the Topsoil. Using the LGEDS \nfacilitated the movement of water through the substrate and out of the bottom of the pot. The \namount of water collected varied from 0 \u2013 300 ml, depending on the moisture content of the \nsubstrate prior and the amount of water added. The amount of time it took to remove excess \nwater varied between pots with LHS-1 and Topsoil. Water was extracted more quickly from pots \ncontaining Topsoil (10 \u2013 20 seconds of suction) compared to pots containing LHS-1 (20 \u2013 30 \nseconds of suction). Notably, the color of the extracted water difference between the two \nsubstrates as well, with the LHS-1 extracts tending to be much darker. The precise reason for this \nA \nB \nC \nD \nE \nF",
+      "char_count": 1937,
+      "image_count": 6,
+      "tables": []
+    },
+    {
+      "page_number": 13,
+      "text": "13 \ndifference remains uncertain, but it is a bit surprising since the LHS-1 is so much lighter in color \nthan Topsoil. \n \nFigure 6. Low Drainage Enhancement System (LGDES) effectively removes excess water \nfrom pots. Show is (Top Row) LHS-1 band (Bottom Row) Topsoil before and after extracting \nand collecting excess water. \n \n \n \n \n \n \n \n \n \n \n \nExcept during watering and active use of the LGEDS, the room fan and SAVS operated \nalmost continuously. It took us several days post-planting to install the room fan, and several \nmore days to finish the installation of the SAVS. Although we were unable to directly measure \nthe impact of these units on the soil surface and subsurface, several observations are consistent \nwith their efficacy. First, prior to using the room fan we observed mold growth on the surface of \nthe substrate in each pot (data not shown). Once we installed the room fan, the mold diminished, \nsuggesting that the room fan helped to evaporate moisture on the substrate surface. Next, after \ninstalling the SAVS, air vented continuously from the computer fan and emitted a mineral-like \nsmell. The substrate also seemed less prone to compaction. Together, these observations suggest \nthat the Soil Atmosphere Circulation System helped to enhance air flow above and within the \nsubstrates.",
+      "char_count": 1314,
+      "image_count": 6,
+      "tables": []
+    },
+    {
+      "page_number": 14,
+      "text": "14 \nPlant Growth \n \nSeeds germinated in all pots of both LHS-1 and Topsoil. The number of days until \ngermination, which we defined by the emergence of the first true leaves, was 10 to 12 days for \nLHS-1, and 9 to 16 days for Topsoil. The average number of days to germination was 11 for \nseeds sown in LHS-1 and10.3 days for seeds sown in Topsoil (data not shown). Within 12 days \nof planting, most pots had at least one seed that fully germinated. \n \nFor the first 24 days of growth, the most notable difference between plants grown in \nLHS-1 and Topsoil was leaf color (Figure 7). Plants grown in LHS-1 were medium- to deep-\ngreen while plants grown in Topsoil were yellow-green to medium-green. This color difference \npersisted until about day 22 to 25. By 25 days of growth, variation between the plants became \nmore apparent. For example, by Day 25 the plant grown in LHS-1 supplemented with 3.5 g of \nbiosolids had small, curled leaves that were yellow with dark pigmentation. Meanwhile, plants \ngrown in LHS-1 supplemented with 0 and 14 g of biosolid remained deep-green. We suspect that \nsome of this variance is due to chance, but it could also be related to variation in the rates of the \ndevelopment between the plants. In other words, faster growing plants may exhibit signs of stress \nearlier because their nutritional demands increase faster. Plants grown in Topsoil also exhibited \nsigns of stress (yellowing leaves),but were more consistent in their appearance overall. \n \nFigure 7. Leaf color varied between plants grown in LHS-1 and Topsoil after 25 days of growth. \nPlants grown in LHS-1 tended to emerge medium- to dark-green, but they gradually showed \nsigns of stress as they matured (yellowing, curling, dark pigmentation). Plants grown in Topsoil \ntended to emerge bright green but gradually developed chlorosis as they matured. \n \n \n \n \n \n \n \n \n \n \n \n \n \nLHS-1 \nTopsoil \n0 \n3.5 \n14 \nBiosolids (g)",
+      "char_count": 1922,
+      "image_count": 8,
+      "tables": []
+    },
+    {
+      "page_number": 15,
+      "text": "15 \n \nWhile we anticipated that plants grown in LHS-1 were likely show signs of stress, we \nwere surprised that all the plants grown in Topsoil also showed signs of stress. In particular, the \nleaves of plants grown in Topsoil were large, but yellow with dark venation (chlorosis). This \nobservation suggested a nutrient deficiency. Up until midway through the grow period we did \nnot re-use water extracted via the LGDES following watering. Given that nearly all amendments \nand fertilizers were applied in the first 14 days of growth, we suspect we inadvertently extracted \nmany of the nutrients we had added along with the water. To address this possibility, we decided \nto treat all plants for chlorosis with chelated liquid iron and to begin re-using water we extracted \nvia the LGDES during watering. \n \n By Day 45 all plants in both LHS-1 and Topsoil remained alive (Figure 8). Following \nthe treatment with chelated liquid iron, plants in both substrates show signs of improved growth. \nDevelopment progressed for all plants and all new leaves were medium-green rather than yellow \n(personal observations). However, as time progressed, the greening was only sustained by the \nplants grown in Topsoil. Eventually, the leaves on plants grown in LHS-1 began to senesce and \ngradually fall off the plants. \n \nFigure 8. Growth of Bush Bean plants in LHS-1 and Topsoil supplemented with 0, 3.5, 7, \n10.5, or 14 grams (g) of biosolids. \n \n Day 12 \n \n \n Day 25 \n \n \n Day 45 \n \n \n \n \n \n \n \n \n \n \n \n \n \nLHS-1 + 0 g biosolids \nLHS-1 + 3.5 g biosolids",
+      "char_count": 1547,
+      "image_count": 8,
+      "tables": []
+    },
+    {
+      "page_number": 16,
+      "text": "16 \nFigure 8. Growth of Bush Bean plants in LHS-1 and Topsoil supplemented with 0, 3.5, 7, \n10.5, or 14 grams (g) of biosolids. \n \n Day 12 \n \n \n Day 25 \n \n \n Day 45 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nLHS-1 + 10.5 biosolids \nLHS-1 + 7 g biosolids \nLHS-1 + 14 biosolids",
+      "char_count": 277,
+      "image_count": 12,
+      "tables": []
+    },
+    {
+      "page_number": 17,
+      "text": "17 \nFigure 8. Growth of Bush Bean plants in LHS-1 and Topsoil supplemented with 0, 3.5, 7, \n10.5, or 14 grams (g) of biosolids. \n \n Day 12 \n \n \n Day 25 \n \n \n Day 45 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nTopsoil + 0 g biosolids \nTopsoil + 3.5 g biosolids \nTopsoil + 7 g biosolids",
+      "char_count": 279,
+      "image_count": 12,
+      "tables": []
+    },
+    {
+      "page_number": 18,
+      "text": "18 \nFigure 8. Growth of Bush Bean plants in LHS-1 and Topsoil supplemented with 0, 3.5, 7, \n10.5, or 14 grams (g) of biosolids. \n \n Day 12 \n \n \n Day 25 \n \n \n Day 45 \n \n \n \n \n \n \n \n \n \n \n \n \n \nOur most notable growth result was the formation of flowers on two plants grown in \nLHS-1, and fruit on one plant grown in LHS-1 (Figure 1). Given the numerous challenges to \ngrowing plants in LHS-1, that this is our first attempt at ever growing plants in this substrate, and \nthat we used less than 10% organic matter in our approach, we are very excited by this result! \nCompared to plants grown in LHS-1, plants grown Topsoil controls tended to be much large, and \nexhibited numerous flowers and fruits. \n \n \nCONCLUSIONS \n \nParticipating in the Plant The Moon Challenge Spring 2023 has been awesome! Our \nfamily team, including three generations, worked together to learn about the challenges of space \nexploration and crop production in the wild environments that exist beyond our Earth. As \nparticipants in this challenge, we felt like trailblazers trying to find a way to grow plants in a \ntotally new and different way. Lunar regolith possesses numerous challenges for plants adapted \nTopsoil + 14 g biosolids \nTopsoil + 10.5 g biosolids",
+      "char_count": 1237,
+      "image_count": 8,
+      "tables": []
+    },
+    {
+      "page_number": 19,
+      "text": "19 \nto growing in Earth soil. The innovative contributions of our work include the washing method \nwe used to prepare the lunar regolith simulant for growing plants and the design of a new \ndrainage and ventilation system to maintain the soil atmosphere. As a family we overcame \nmultiple challenges to advanced our knowledge, and we hope that the findings of our research \nhelps pave the way for future explorers. \n \n \nACKNOWLEDGEMENTS \n \n \nWe would like to thank the Missouri Space Consortium for providing funding to support \nour participation in the PTMC for Spring 2023. We would also like to thank Billy Nolan from St. \nJoseph, Missouri Water Protection Agency for providing biosolids. \n \n \nREFERENCES \n \nBroadley M. R., Bowen H. C., Cotterill H. L., Hammond J. P., Meacham M. C., Mead A., et al. \n(2003). Variation in the shoot calcium content of angiosperms. J. Exp. Bot. 54 1431\u20131446. \n10.1093/jxb/erg143 \n \nDoungous, O., Al-Khayri, J. M., & Kouassi, M. K. (2022). \u201cSodium Toxicity: Should NaOH Be \nSubstituted by KOH in Plant Tissue Culture?\u201d Frontiers in plant science, 13, 829768. \nhttps://doi.org/10.3389/fpls.2022.829768 \n \nExolith Labs. (2022). \u201cLHS-1nLunar Highlands Simulant, Fact Sheet.\u201d \nhttps://exolithsimulants.com/collections/regolith-simulants/products/lhs-1-lunar-highlands-\nsimulant. \n \nJones, Rebecca. (2022) \u201cAdvanced materials for mission to the moon \u2013 and beyond.\u201d VCU \nNews. https://news.vcu.edu/article/2022/03/advanced-materials-for-missions-to-the-moon--\nandand-beyond \n \nKelling, K. A., & Schulte, E. E., (2004). \u201cA2523 Understanding Plant Nutrients: Soil and \nApplied Calcium.\u201d University of Wisconsin Extension. \n \nOld Farmer\u2019s Almanac. (2023). \u201cPlanting, Growing, and Harvesting Pole and Bush Beans.\u201d \nhttps://www.almanac.com/plant/beans \n \nPaul, AL., Elardo, S.M. & Ferl, R. (2022). \u201cPlants grown in Apollo lunar regolith present stress-\nassociated transcriptomes that inform prospects for lunar exploration.\u201d Commun Biol 5, 382. \nShi, X., Yang, L., Yan, G., & Du, G. (2017). \u201cMedium pH between 5.5 and 7.5 has minimal \neffects on tissue culture of apple.\u201d HortScience 52, 475\u2013478. 10.21273/HORTSCI11443-16 \nTaiz, L., and Zeiger, E. (2002). \u201cPlant Physiology, 3rd edition.\u201d Sinauer Associates.",
+      "char_count": 2231,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Broadley M. R., Bowen H. C., Cotterill H. L., Hammond J. P., Meacham M. C., Mead A., et al."
+          ],
+          [
+            "(2003)."
+          ],
+          [
+            "10.1093/jxb/erg143"
+          ]
+        ],
+        [
+          [
+            "Doungous, O., Al-Khayri, J. M., & Kouassi, M. K. (2022). \u201cSodium Toxicity: Should NaOH Be"
+          ],
+          [
+            "Substituted by KOH in Plant Tissue Culture?\u201d Frontiers in plant science, 13, 829768."
+          ],
+          [
+            "https://doi.org/10.3389/fpls.2022.829768"
+          ]
+        ],
+        [
+          [
+            "Jones, Rebecca. (2022) \u201cAdvanced materials for mission to the moon \u2013 and beyond.\u201d VCU"
+          ],
+          [
+            "News. https://news.vcu.edu/article/2022/03/advanced-materials-for-missions-to-the-moon--"
+          ],
+          [
+            "andand-beyond"
+          ]
+        ],
+        [
+          [
+            "Kelling, K. A., & Schulte, E. E., (2004). \u201cA2523 Understanding Plant Nutrients: Soil and"
+          ],
+          [
+            "Applied Calcium.\u201d University of Wisconsin Extension."
+          ]
+        ],
+        [
+          [
+            "Old Farmer\u2019s Almanac. (2023). \u201cPlanting, Growing, and Harvesting Pole and Bush Beans.\u201d"
+          ],
+          [
+            "https://www.almanac.com/plant/beans"
+          ]
+        ],
+        [
+          [
+            "Paul, AL., Elardo, S.M. & Ferl, R. (2022). \u201cPlants grown in Apollo lunar regolith present stress-"
+          ],
+          [
+            "associated transcriptomes that inform prospects for lunar exploration.\u201d"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 20,
+      "text": "20 \nWamelink, G. W. W., Frissel, J. Y., Krijnen, H. J., Verwoert, M. R., Goedhart, P. W., (2014) \n\u201cCan Plants Grow on Mars and the Moon: A Growth Experiment on Mars and Moon Soil \nSimulants.\u201d PLoS ONE 9(8): e103138. https://doi.org/10.1371/journal.pone.0103138 \n \nWamelink, G. W. W., Frissel, J. Y., Krijnen, W. H. J., & Verwoert, M. R. (2019). \"Crop growth \nand viability of seeds on Mars and Moon soil simulants.\" Open Agriculture, 4(1)p. 509-\n516. https://doi.org/10.1515/opag-2019-0051 \n \nWhite, P. J., & Broadley, M. R., (2003). \u201cCalcium in plants\u201d. Ann Bot. Oct;92(4):487-511. doi: \n10.1093/aob/mcg164. Epub 2003 Aug 21. PMID: 12933363; PMCID: PMC4243668. \n \n \nPHOTOS",
+      "char_count": 673,
+      "image_count": 6,
+      "tables": [
+        [
+          [
+            "Wamelink, G. W. W., Frissel, J. Y., Krijnen, H. J., Verwoert, M. R., Goedhart, P. W., (2014)"
+          ],
+          [
+            "\u201cCan Plants Grow on Mars and the Moon: A Growth Experiment on Mars and Moon Soil"
+          ],
+          [
+            "Simulants.\u201d PLoS ONE 9(8): e103138. https://doi.org/10.1371/journal.pone.0103138"
+          ]
+        ],
+        [
+          [
+            "Wamelink, G. W. W., Frissel, J. Y., Krijnen, W. H. J., & Verwoert, M. R. (2019). \"Crop growth"
+          ],
+          [
+            "and viability of seeds on Mars and Moon soil simulants.\""
+          ],
+          [
+            "516."
+          ]
+        ],
+        [
+          [
+            "White, P. J., & Broadley, M. R., (2003). \u201cCalcium in plants\u201d. Ann Bot. Oct;92(4):487-511. doi:"
+          ],
+          [
+            "10.1093/aob/mcg164. Epub 2003 Aug 21. PMID: 12933363; PMCID: PMC4243668."
+          ]
+        ]
+      ]
+    }
+  ]
+}

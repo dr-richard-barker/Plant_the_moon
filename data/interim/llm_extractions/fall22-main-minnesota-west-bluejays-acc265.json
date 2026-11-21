@@ -1,0 +1,83 @@
+{
+  "extraction": {
+    "report_id": "fall22-main-minnesota-west-bluejays-acc265",
+    "extraction_method": "heuristic",
+    "model_name": "table-aware-lexicon-v2",
+    "celestial_body": "lunar",
+    "regolith_simulant": "unspecified",
+    "regolith_simulant_raw": null,
+    "crop_common_name": "collard greens",
+    "crop_scientific_name": "Brassica oleracea",
+    "crop_guild": "leafy_green",
+    "experimental_duration_days": 12.0,
+    "total_plants_or_pots": null,
+    "replicates_per_treatment": null,
+    "has_earth_soil_control": false,
+    "has_unamended_regolith_control": false,
+    "statistical_tests_reported": [
+      "ANOVA",
+      "Tukey HSD",
+      "p-value"
+    ],
+    "data_availability": "summary_means",
+    "primary_bottlenecks": [
+      "nutrient_deficiency",
+      "light_or_temperature_stress"
+    ],
+    "innovation_tags": [
+      "microbial_mycorrhizal",
+      "coir_peat_perlite_substrate"
+    ],
+    "key_hypothesis": "We hypothesized that ammonium nitrate (NH4NO3) would produce the largest leaves",
+    "summary_findings": "Tukey\u2019s HSD Test for multiple comparisons found that the mean value of leaf growth",
+    "arms": [
+      {
+        "arm_id": "arm_trt_1",
+        "arm_label": "Treatment (bacteria)",
+        "is_control": false,
+        "control_type": "none",
+        "regolith_pct": null,
+        "amendment_category": "microbial_mycorrhizal",
+        "amendment_detail": "bacteria",
+        "amendment_dose": null,
+        "germination_rate_pct": null,
+        "survival_rate_pct": null,
+        "mean_shoot_height_cm": null,
+        "mean_root_length_cm": null,
+        "mean_fresh_biomass_g": null,
+        "mean_dry_biomass_g": null,
+        "substrate_ph": null,
+        "outcome_vs_regolith_control": "not_reported",
+        "reported_effect_pct": null,
+        "evidence_quote": "and 50% ammonium which must be fixed by nitrogen fixing bacteria to nitrate before it is",
+        "page_number": 3
+      },
+      {
+        "arm_id": "arm_trt_2",
+        "arm_label": "Treatment (peat moss)",
+        "is_control": false,
+        "control_type": "none",
+        "regolith_pct": null,
+        "amendment_category": "coir_peat_perlite_substrate",
+        "amendment_detail": "peat moss",
+        "amendment_dose": null,
+        "germination_rate_pct": null,
+        "survival_rate_pct": null,
+        "mean_shoot_height_cm": null,
+        "mean_root_length_cm": null,
+        "mean_fresh_biomass_g": null,
+        "mean_dry_biomass_g": null,
+        "substrate_ph": null,
+        "outcome_vs_regolith_control": "not_reported",
+        "reported_effect_pct": null,
+        "evidence_quote": "7.7cm) contained the same soil composition of 25% top soil, 25% sorghum peat moss mix, 50%",
+        "page_number": 4
+      }
+    ]
+  },
+  "provenance_audit": {
+    "quotes_checked": 2,
+    "quotes_matched": 2,
+    "quote_match_rate": 1.0
+  }
+}

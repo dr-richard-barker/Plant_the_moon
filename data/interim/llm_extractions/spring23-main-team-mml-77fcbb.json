@@ -1,0 +1,100 @@
+{
+  "extraction": {
+    "report_id": "spring23-main-team-mml-77fcbb",
+    "extraction_method": "heuristic",
+    "model_name": "table-aware-lexicon-v2",
+    "celestial_body": "lunar",
+    "regolith_simulant": "unspecified",
+    "regolith_simulant_raw": null,
+    "crop_common_name": "lettuce",
+    "crop_scientific_name": "Lactuca sativa",
+    "crop_guild": "leafy_green",
+    "experimental_duration_days": 48.0,
+    "total_plants_or_pots": null,
+    "replicates_per_treatment": null,
+    "has_earth_soil_control": false,
+    "has_unamended_regolith_control": true,
+    "statistical_tests_reported": [],
+    "data_availability": "summary_means",
+    "primary_bottlenecks": [
+      "alkaline_ph",
+      "light_or_temperature_stress"
+    ],
+    "innovation_tags": [
+      "organic_compost_manure",
+      "light_spectrum_env"
+    ],
+    "key_hypothesis": "the regolith, therefore our hypothesis is true.",
+    "summary_findings": "Analyze the data, draw the conclusion, and prepare a report.",
+    "arms": [
+      {
+        "arm_id": "arm_ctrl_regolith",
+        "arm_label": "Unamended Regolith Control",
+        "is_control": true,
+        "control_type": "unamended_regolith",
+        "regolith_pct": 100.0,
+        "amendment_category": "none_control",
+        "amendment_detail": null,
+        "amendment_dose": null,
+        "germination_rate_pct": null,
+        "survival_rate_pct": null,
+        "mean_shoot_height_cm": null,
+        "mean_root_length_cm": null,
+        "mean_fresh_biomass_g": 0.0,
+        "mean_dry_biomass_g": null,
+        "substrate_ph": 7.5,
+        "outcome_vs_regolith_control": "neutral",
+        "reported_effect_pct": null,
+        "evidence_quote": "Label 12 pots: 2 with 100% regolith, 2 with 10% compost: 90% Regolith, 2 with 20%",
+        "page_number": 3
+      },
+      {
+        "arm_id": "arm_trt_1",
+        "arm_label": "Treatment (compost)",
+        "is_control": false,
+        "control_type": "none",
+        "regolith_pct": null,
+        "amendment_category": "organic_compost_manure",
+        "amendment_detail": "compost",
+        "amendment_dose": null,
+        "germination_rate_pct": null,
+        "survival_rate_pct": null,
+        "mean_shoot_height_cm": null,
+        "mean_root_length_cm": null,
+        "mean_fresh_biomass_g": null,
+        "mean_dry_biomass_g": null,
+        "substrate_ph": null,
+        "outcome_vs_regolith_control": "reduced",
+        "reported_effect_pct": null,
+        "evidence_quote": "The fertility of Regolith with compost in the",
+        "page_number": 1
+      },
+      {
+        "arm_id": "arm_trt_2",
+        "arm_label": "Treatment (blue light)",
+        "is_control": false,
+        "control_type": "none",
+        "regolith_pct": null,
+        "amendment_category": "light_spectrum_env",
+        "amendment_detail": "blue light",
+        "amendment_dose": null,
+        "germination_rate_pct": null,
+        "survival_rate_pct": null,
+        "mean_shoot_height_cm": null,
+        "mean_root_length_cm": null,
+        "mean_fresh_biomass_g": null,
+        "mean_dry_biomass_g": null,
+        "substrate_ph": null,
+        "outcome_vs_regolith_control": "not_reported",
+        "reported_effect_pct": null,
+        "evidence_quote": "From the week 0 to week 2 use white and blue light, from the week 3 to",
+        "page_number": 3
+      }
+    ]
+  },
+  "provenance_audit": {
+    "quotes_checked": 3,
+    "quotes_matched": 3,
+    "quote_match_rate": 1.0
+  }
+}

@@ -1,0 +1,1733 @@
+{
+  "report_id": "spring21-main-campbell-erickson-household-379a67",
+  "sha256": "e32c599b9175d7ebce0919ba54f4c11cf352efebf92ec594cdceac3c97677aa5",
+  "page_count": 29,
+  "total_chars": 47186,
+  "avg_chars_per_page": 1627.1,
+  "total_images": 16,
+  "table_count": 13,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "GROWTH EXPERIMENTS OF PISUM SATIVUM IN LUNAR REGOLITH SIMULANT \n1 \nGrowth Experiments of Pisum Sativum \u2018Sugar Bon\u2019 in Lunar Highlands Regolith Simulant \nLaura E. Campbell",
+      "char_count": 170,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "text": "GROWTH EXPERIMENTS OF PISUM SATIVUM IN LUNAR REGOLITH SIMULANT \n2 \nGrowth Experiments of Pisum Sativum \u2018Sugar Bon\u2019 in Lunar Highlands Regolith Simulant \nCreating a closed-loop lunar habitat system requires maximizing the use native resources \nwhile using consumable materials that are renewable or recyclable within the system and create \nminimum waste. The weight and volume of materials (payload) that must be carried from Earth \nto the surface of the moon to set-up a closed-loop system are constrained per trip, so using \nmaterials that can be grown or renewed is also desirable from a transportation efficiency \nperspective. Specific to food and nutrition sub-systems, the lunar regolith can be used as a base \nmedium for growing food, but is completely inorganic and lacks several nutrients essential to \nplant growth and must be amended to successfully grow enough to feed lunar inhabitants. \nThese experiments tested four renewable (growable) amendments, each targeted at \nspecific \u201csoil\u201d improvements: plant nutrition, improved nutrient absorption, and improved \ntexture. The four amendments tested were common hypnum moss, spirulina algae, a \nmycorrhizal fungi blend, and a rhizobium bacteria blend targeted to the plant used in these \nexperiments, Pisum Sativum \u2018Sugar Bon\u2019, or Sugar Bon Snap Peas. Sugar Bon Snap Peas were \nselected because they are a legume, known for the unique symbiotic relationship created with \nspecific nitrogen-fixing rhizobia, and for their compact, determinate growth habit and fast \nmaturation rate, as these experiments were conducted over a 70-day period with a limited \namount of lunar regolith simulant allowed. \nTwo sets of growing mediums were tested. Several attempts to germinate pea seeds were \nmostly unsuccessful using the first set of growing mediums. On Day 25, the first growing \nmediums were deemed unviable and replaced with mediums composed of different amendment \nproportions, with the exception of a plain regolith medium that did have germination success. \nThe second set of growing mediums were used Day 27 through Day 70.",
+      "char_count": 2083,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "text": "GROWTH EXPERIMENTS OF PISUM SATIVUM IN LUNAR REGOLITH SIMULANT \n3 \nTable of Contents \nAbstract .............................................................................. Error! Bookmark not defined. \nGrowth Experiments of Pisum Sativum \u2018Sugar Bon\u2019 in Lunar Highlands Regolith \nSimulant ........................................................................................................................................... 2 \nMaterials, Measurements, and Methods .............................................................................. 7 \nGrowing Environment ..................................................................................................... 7 \nSelected Crop Seed - Sugar Bon Snap Peas .................................................................... 8 \nLunar Regolith Simulant ................................................................................................. 8 \nRhizobium Bacteria Strains Used .................................................................................... 8 \nMycorrhizal Fungi Strains Used ...................................................................................... 8 \nHypnum Moss Amendment ............................................................................................. 9 \nSpirulina Algae Amendment ............................................................................................ 9 \nMeasurements Taken ....................................................................................................... 9 \nMedium Distribution and Experimental Preparation and Environment ........................ 10 \nFirst Set of Growing Mediums & Seed Preparation. ................................................. 11 \nSecond Set of Growing Mediums & Seed Preparation. ............................................ 13 \nMicrobials, Algae, and Water Added ......................................................................... 15 \nTemperature ............................................................................................................... 15 \nHumidity .................................................................................................................... 16 \npH .............................................................................................................................. 16",
+      "char_count": 2322,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "text": "GROWTH EXPERIMENTS OF PISUM SATIVUM IN LUNAR REGOLITH SIMULANT \n4 \nTheory ................................................................................................................................ 17 \nInvestigation Topics ....................................................................................................... 17 \nExpectations & Hypotheses ........................................................................................... 17 \nEffectiveness of Spirulina. ......................................................................................... 17 \nEffectiveness of Hypnum moss. ................................................................................ 18 \nMicrobial symbiotic relationships. ............................................................................ 18 \nSeeds planted in 100% regolith simulant. ................................................................. 18 \nSeeds planted in a distribution of Spirulina and hypnum moss with regolith simulant.\n ............................................................................................................................................... 18 \nAnalysis & Results ............................................................................................................ 19 \nTrial #1 Results .............................................................................................................. 19 \nSummary of root cause evaluation of germination failure Day 1 through Day 21. .. 20 \nTrial #2 Results .............................................................................................................. 20 \nFruit Maturation and Seed Production .......................................................................... 22 \nRhizobia Colonies ......................................................................................................... 24 \nMycorrhizal Fungi Colonies .......................................................................................... 25 \nDiscussion and Conclusions .............................................................................................. 26 \nOverall Plant Health ...................................................................................................... 26 \nPlants grown in 100% regolith. ................................................................................. 26 \nPlants grown in mediums containing Hypnum moss. ............................................... 27",
+      "char_count": 2472,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "text": "GROWTH EXPERIMENTS OF PISUM SATIVUM IN LUNAR REGOLITH SIMULANT \n5 \nEffectiveness of Spirulina. ......................................................................................... 28 \nEffectiveness of Hypnum moss. ................................................................................ 28 \nEffectiveness of Microbials used. .............................................................................. 28 \nFurther Studies of Interest ............................................................................................. 28 \nUse of Spirulina. ........................................................................................................ 28 \nUse of Hypnum moss. ............................................................................................... 28 \nUse of Microbials. ..................................................................................................... 28",
+      "char_count": 917,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "text": "GROWTH EXPERIMENTS OF PISUM SATIVUM IN LUNAR REGOLITH SIMULANT \n6 \nTable of Figures: \nFigure 1: Grow Environment and Containers ................................................................................. 7 \nFigure 2: First Distribution of Spirulina Algae and Hypnum Moss Added Regolith Simulant by \nVolume ........................................................................................................................................... 11 \nFigure 3: Trial 1 Baseline Data ...................................................................................................... 12 \nFigure 4: Second Distribution of Hypnum Moss Added Regolith Simulant by Volume ............... 13 \nFigure 5: Trial 2 Baseline Data ...................................................................................................... 14 \nFigure 6. Amounts of Microbials, Algae, and Water Added .......................................................... 15 \nFigure 7: Environment Temperature Plot ...................................................................................... 15 \nFigure 8: Environment Humidity Plot ........................................................................................... 16 \nFigure 9: Range of pH Measurements throughout the growth period ........................................... 16 \nFigure 10: Trial 1 Growth Progress ............................................................................................... 19 \nFigure 11: Trial 2 Growth Milestone Results ................................................................................ 21 \nFigure 12 Picture of Some of the Harvested Fruit ......................................................................... 22 \nFigure 13: Fruit Maturation and Seed Production ......................................................................... 23 \nFigure 14 Pictures of Rhizobia Colonies Observed ...................................................................... 24 \nFigure 15: Pictures of Possible Mycorrhizal Colonies Under Magnification in Containers #0, #2, \n& #10 ............................................................................................................................................. 25 \nFigure 16: Plants grown in 100% regolith without and with algae feedings ................................. 26 \nFigure 17: Pictures of Plants Grown in Mediums Containing Moss ............................................. 27",
+      "char_count": 2437,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "text": "GROWTH EXPERIMENTS OF PISUM SATIVUM IN LUNAR REGOLITH SIMULANT \n7 \n \nMaterials, Measurements, and Methods \nGrowing Environment \nThe growing station was a coated steel shelving unit measuring 33.5\u201dx21.625\u201dx74.75\u201d \nwith two 13.5\u201dx22.25\u201d 4-bulb fluorescent light fixtures initially set at a 13\u201d clearance above the \nprimary grow shelf. The light fixtures can be raised to provide additional clearance, if needed. \nEach light fixture contains two alternating blue (6500K) and red (3000K) 2500-lumen grow \nlights for a total of eight lights. The front and back of the shelves are covered with Mylar sheets \nto improve light retention. The front sheet can be rolled up to allow access to the plants when \nneeded. The shelf was kept at room temperature. An 8\u201d fan was set up on one end to blow \nacross the grow shelf to provide air flow, cooling, and improve stalk strength and pollination. \nThe lights and fan were on an automatic 24-hour timed cycle of 18 hours on and 6 hours off. \nObserving the plants\u2019 root systems was important in this experiment, so the growing \ncontainers selected were transparent, 32 oz food grade containers with a single \u2205.25\u201d drainage \nhole hot-pressed at bottom center. The lids were used as a drip trays to catch excess water. \nWater was not restricted and was given as needed based on measurements and \nobservations. Only commercially obtained distilled water was used. \n \n \n \n \nFigure 1: Grow Environment and Containers",
+      "char_count": 1446,
+      "image_count": 2,
+      "tables": [
+        [
+          [
+            "The growing station was a coated steel shelving unit measuring 33.5\u201dx21.625\u201dx74.75\u201d"
+          ],
+          [
+            "with two 13.5\u201dx22.25\u201d 4-bulb fluorescent light fixtures initially set at a 13\u201d clearance above the"
+          ],
+          [
+            "primary grow shelf. The light fixtures can be raised to provide additional clearance, if needed."
+          ],
+          [
+            "Each light fixture contains two alternating blue (6500K) and red (3000K) 2500-lumen grow"
+          ],
+          [
+            "lights for a total of eight lights. The front and back of the shelves are covered with Mylar sheets"
+          ],
+          [
+            "to improve light retention. The front sheet can be rolled up to allow access to the plants when"
+          ],
+          [
+            "needed. The shelf was kept at room temperature. An 8\u201d fan was set up on one end to blow"
+          ],
+          [
+            "across the grow shelf to provide air flow, cooling, and improve stalk strength and pollination."
+          ],
+          [
+            "The lights and fan were on an automatic 24-hour timed cycle of 18 hours on and 6 hours off."
+          ],
+          [
+            "Observing the plants\u2019 root systems was important in this experiment, so the growing"
+          ],
+          [
+            "containers selected were transparent, 32 oz food grade containers with a single \u2205.25\u201d drainage"
+          ],
+          [
+            "hole hot-pressed at bottom center. The lids were used as a drip trays to catch excess water."
+          ],
+          [
+            "Water was not restricted and was given as needed based on measurements and"
+          ],
+          [
+            "observations. Only commercially obtained distilled water was used."
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 8,
+      "text": "GROWTH EXPERIMENTS OF PISUM SATIVUM IN LUNAR REGOLITH SIMULANT \n8 \n \nSelected Crop Seed - Sugar Bon Snap Peas \nThe seeds selected for these growth experiments were untreated Sugar Bon Snap Pea \nseeds commercially purchased from the Burpee seed company. Peas were selected because \nthey are self-fertile and a popular edible member of the legume family. 'Sugar Bon\u2019 Snap Peas \nwere specifically selected because the plants stay small, growing to 18-24 inches tall in normal \nconditions, and they mature quickly, producing edible pods in approximately 56 days. \n \nLunar Regolith Simulant \nThe lunar regolith simulant used in these experiments was commercially-obtained LHS-\n1 simulant from the University of Central Florida\u2019s CLASS Exolith Laboratory. \n \nRhizobium Bacteria Strains Used \nCommercially obtained \u2018Verdesian GUARD-N\u2019 rhizobium bacteria was introduced to all \nplants at several times throughout the experimental timeframe in an attempt to initiate the \nnitrogen-fixing process in the peas\u2019 root systems. This commercial blend is specifically targeted \nat legumes including peas and contains the dry bacteria strains Bradyrhizobium sp. (Vigna), \nBradyrhizobium japonium, Rhizobium leguminosarum biovar phaseoli, and Rhizobium \nleguminosarum biovar viceae. \n \nMycorrhizal Fungi Strains Used \nCommercially obtained \u2018Wildroot Organic Mycorrhizal Concentrate\u2019 was introduced to \nhalf of the plants at several times throughout the experimental timeframe in an attempt to initiate \na secondary symbiotic relationship in the peas\u2019 root systems. The intent was to evaluate if the \npresence of mycorrhizal microbials would influence the formation of the rhizobium root colonies \nor the general uptake of nutrients in the pea plants, in general. This commercial blend contains \nthe dry endomycorrhizal fungi spores Glomus intradices, Glomus mosseae, Glomus aggregatum, \nGlomus etunicatum, Glomus monosporum, Glomus deserticola, Glomus clarum, Paraglomus \nbrasiliannum, and Gigaspora margarita. This blend also contains spores of several \nectomycorrhizal fungi that do not contribute to the experiment.",
+      "char_count": 2100,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "The seeds selected for these growth experiments were untreated Sugar Bon Snap Pea"
+          ],
+          [
+            "seeds commercially purchased from the Burpee seed company. Peas were selected because"
+          ],
+          [
+            "they are self-fertile and a popular edible member of the legume family. 'Sugar Bon\u2019 Snap Peas"
+          ],
+          [
+            "were specifically selected because the plants stay small, growing to 18-24 inches tall in normal"
+          ],
+          [
+            "conditions, and they mature quickly, producing edible pods in approximately 56 days."
+          ]
+        ],
+        [
+          [
+            "The lunar regolith simulant used in these experiments was commercially-obtained LHS-"
+          ],
+          [
+            "1 simulant from the University of Central Florida\u2019s CLASS Exolith Laboratory."
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 9,
+      "text": "GROWTH EXPERIMENTS OF PISUM SATIVUM IN LUNAR REGOLITH SIMULANT \n9 \nHypnum Moss Amendment \nA common hypnum moss was selected as one of the primary regolith amendments for \nseveral reasons. Moss provides water retention, aeriation, and \u201cfluffiness\u201d to the planting \nmediums. Considering transportation efficiency, moss is an additive that can be grown on site \nwith very little input, doubling its biomass in six months. Moss absorbs water and nutrients from \nthe air, uses light to make its own food, and can anchor on a variety of surfaces. Its addition to \nan existing growing system can be made opportunistic, i.e., little special input for high output \nand benefit. \nThe moss used in these experiments was obtained by scraping and lifting wild patches \nfrom compacted clay, then rinsing the patches under running tap water to remove clay residue \nuntil the water ran clean when the moss was squeezed. Foreign material (rocks and organic \ndebris) was handpicked out, and then the clean moss sheets were dried at 200\u00b0F in an oven. The \nnutrient and microbial contamination from the clay the moss grew on was deemed acceptable for \nthese initial experiments. \n \nSpirulina Algae Amendment \nSpirulina Algae (Arthrospira platensis) was also selected as a regolith amendment as a \nsource of plant nutrition. Unlike the moss, a specific growing system would be required to grow \nSpirulina. However, there are several publications and articles boasting of Spirulina being \nevaluated by NASA for a variety of human nutrition and bio fuel applications on future space \nexploration missions. Providing complete nutrition plants is yet another potential application. \nThe spirulina used in these experiments was a commercially obtained fresh paste, air \ndried at room temperature over several days, mechanically ground, then filtered thru a standard \n18x16 aluminum screen to remove larger particles. \n \nMeasurements Taken \nTemperature, humidity, and dew point measurements were recorded automatically \nevery hour using a blue \u201cTempo Disc\u201d. \nOther observations and manual measurements were made daily when possible. The \nfollowing measurements were taken regularly:",
+      "char_count": 2155,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Other observations and manual measurements were made daily when possible. The"
+          ],
+          [
+            "following measurements were taken regularly:"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 10,
+      "text": "GROWTH EXPERIMENTS OF PISUM SATIVUM IN LUNAR REGOLITH SIMULANT \n10 \n1. Medium moisture was measured with a generic moisture probe and recorded before \nand after any water was added. \n2. Water usage was recorded as it was consumed. Each plant container was assigned \nits own container of distilled water so consumption could be easily monitored and \nmeasured. Water used was recorded to the nearest 10mL. \n3. Soil pH measurements were taken using a \u201cRapitest\u201d digital soil pH meter probe. \n4. The number of sprouts, flower buds, fruit, lost bud/fruit were counted and recorded \nwhen observed. \n5. Plant height, visible root depth, and fruit length were measured with a standard inch \nruler. \n \nMedium Distribution and Experimental Preparation and Environment \nTwo sets of growing mediums were tested. The first set of growing mediums were tested \nDay 1 through Day 27. Seeds did not germinate in the amended regolith simulant after several \nattempts. New regolith simulant was obtained and a new set of mediums with different \namendment proportions was mixed. The second set of growing mediums were used Day 27 \nthrough Day 70. The original control samples, using Earth dirt and unamended regolith simulant, \nwere maintained and were not restarted with the second set. \nEach container of medium began with four seeds. In each trial, one seed was planted at \nthe side of each container and the location was marked with an arrow so that the maturation of \nthis seed might be viewed through the side of the container. The remaining three seeds were \nequally spaced around the middle of each container. Seeds were pushed down approximately \none inch deep into the mediums then watered. Sprouted plants were given an identification \nnumber indexed clock-wise from the side position marked with an arrow, with the plant at the \nside position being #1. \nSeeds in the first two sowings were soaked overnight and inoculated by coating before \nplanting. Because few of those seeds germinated, seeds in subsequent plantings were not soaked \nor inoculated before planting, but planted dry in order to eliminate seed drowning as the root \ncause of germination failure. In the subsequent plantings, the microbial inoculations were added \nvia watering solution at random points through the experimental timeframe.",
+      "char_count": 2297,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "text": "GROWTH EXPERIMENTS OF PISUM SATIVUM IN LUNAR REGOLITH SIMULANT \n11 \nFirst Set of Growing Mediums & Seed Preparation. \nThe first set of growing mediums were mixed in the proportions detailed in Figure 2. \nBaseline data and measurements are detailed in Figure 3. All seeds were soaked overnight and \ninoculated with rhizobium bacteria before planting. The seeds for the two control mediums and \nhalf of the other mediums were inoculated with mycorrhizal fungi before planting. Adding \nadditional microbials was allowed through the experimental timeframe. \n \nSample \nDescription \nRegolith \nSpirulina \nAlgae \nHypnum \nMoss \nRhizobium \nBacteria \nMycorrhizal \nFungi \n1 (Control) \nEarth Soil + AMF \nEarth soil \nYes \nYes \n2 (Control) \n100%R+AMF \n100% \n0% \n0% \nYes \nYes \n3 \n5%A+15%M \n80% \n5% \n15% \nYes \nNo \n4 \n5%A+15%M+AMF \n80% \n5% \n15% \nYes \nYes \n5 \n5%A+35%M \n60% \n5% \n35% \nYes \nNo \n6 \n5%A+35%M+AMF \n60% \n5% \n35% \nYes \nYes \n7 \n15%A+15%M \n70% \n15% \n15% \nYes \nNo \n8 \n15%A+15%M+AMF \n70% \n15% \n15% \nYes \nYes \n9 \n15%A+35%M \n50% \n15% \n35% \nYes \nNo \n10 \n15%A+35%M+AMF \n50% \n15% \n35% \nYes \nYes \nFigure 2: First Distribution of Spirulina Algae and Hypnum Moss Added Regolith Simulant by Volume",
+      "char_count": 1175,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Sample",
+            "Description",
+            "Regolith",
+            "Spirulina Algae",
+            "Hypnum Moss",
+            "Rhizobium Bacteria",
+            "Mycorrhizal Fungi"
+          ],
+          [
+            "1 (Control)",
+            "Earth Soil + AMF",
+            "Earth soil",
+            "",
+            "",
+            "Yes",
+            "Yes"
+          ],
+          [
+            "2 (Control)",
+            "100%R+AMF",
+            "100%",
+            "0%",
+            "0%",
+            "Yes",
+            "Yes"
+          ],
+          [
+            "3",
+            "5%A+15%M",
+            "80%",
+            "5%",
+            "15%",
+            "Yes",
+            "No"
+          ],
+          [
+            "4",
+            "5%A+15%M+AMF",
+            "80%",
+            "5%",
+            "15%",
+            "Yes",
+            "Yes"
+          ],
+          [
+            "5",
+            "5%A+35%M",
+            "60%",
+            "5%",
+            "35%",
+            "Yes",
+            "No"
+          ],
+          [
+            "6",
+            "5%A+35%M+AMF",
+            "60%",
+            "5%",
+            "35%",
+            "Yes",
+            "Yes"
+          ],
+          [
+            "7",
+            "15%A+15%M",
+            "70%",
+            "15%",
+            "15%",
+            "Yes",
+            "No"
+          ],
+          [
+            "8",
+            "15%A+15%M+AMF",
+            "70%",
+            "15%",
+            "15%",
+            "Yes",
+            "Yes"
+          ],
+          [
+            "9",
+            "15%A+35%M",
+            "50%",
+            "15%",
+            "35%",
+            "Yes",
+            "No"
+          ],
+          [
+            "10",
+            "15%A+35%M+AMF",
+            "50%",
+            "15%",
+            "35%",
+            "Yes",
+            "Yes"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 12,
+      "text": "GROWTH EXPERIMENTS OF PISUM SATIVUM IN LUNAR REGOLITH SIMULANT \n12 \nTrial 1 Set-up - Baseline Data \nSample #: \n1 \n2 \n3 \n4 \n5 \nSample \nGarden Soil w/microbes \nControl w/microbes \n5A/15M, no AMF \n5A/15M, w/AMF \n5A/35M, no AMF \nWeight of Rhizobium: \nnegligible \nnegligible \nnegligible \nnegligible \nnegligible \nWeight of AMF: \nnegligible \nnegligible \nn/a \nnegligible \nn/a \nPercentage of regolith per volume: \n100% Earth soil \n100% \n80% \n80% \n60% \nVolume of regolith: \n480 mL \n470 mL \n385 mL \n385 mL \n285 mL \nWeight of regolith: \n362 g \n746 g \n618 g \n620 g \n446 g \nPercentage of spirulina added per volume: \n-- \n-- \n5% \n5% \n5% \nVolume of spirulina: \n-- \n-- \n25 mL \n25 mL \n25 mL \nWeight of spirulina: \n-- \n-- \n20 g \n20 g \n18 g \nPercentage of hypnum moss added per volume: \n-- \n-- \n15% \n15% \n35% \nVolume of hypnum moss: \n-- \n-- \n70 mL \n70 mL \n170 mL \nWeight of hypnum moss: \n-- \n-- \n4 g \n4 g \n10 g \nTotal \"soil\" volume: \n480 mL \n470 mL \n480 mL \n480 mL \n480 mL \nTotal \"soil\" weight: \n362 g \n746 g \n672 g \n678 g \n502 g \nBaseline \"soil\" density: \n.745 g/cm^3 \n1.58 g/cm^3 \n1.4 g/cm^3 \n1.41 g/cm^3 \n1.04 g/cm^3 \nBaseline \"soil\" pH: \n7.0 \n7.3 \n7.3 \n7.5 \n7.4 \nType of seed planted: \nSugar Bon Snap Peas \nSugar Bon Snap Peas \nSugar Bon Snap Peas \nSugar Bon Snap Peas \nSugar Bon Snap Peas \n# of seeds in sample: \n4 \n4 \n4 \n4 \n4 \nAmount of rhizobium bacteria added with seeds: \n150 \u00b5g \n150 \u00b5g \n150 \u00b5g \n150 \u00b5g \n150 \u00b5g \nAmount of Myco fungi added with seeds: \n150 \u00b5g \n150 \u00b5g \n0 \n150 \u00b5g \n0 \nSample #: \n6 \n7 \n8 \n9 \n10 \nSample \n5A/35M, w/AMF \n15A/15M, no AMF \n15A/15M, w/AMF \n15A/35M, no AMF \n15A/35M, w/AMF \nWeight of Rhizobium: \nnegligible \nnegligible \nnegligible \nnegligible \nnegligible \nWeight of AMF: \nn/a \nnegligible \nn/a \nnegligible \nn/a \nPercentage of regolith per volume: \n60% \n70% \n70% \n50% \n50% \nVolume of regolith: \n285 mL \n340 mL \n340 mL \n240 mL \n240 mL \nWeight of regolith: \n454 g \n550 g \n550 g \n372 g \n392 g \nPercentage of spirulina added per volume: \n5% \n15% \n15% \n15% \n15% \nVolume of spirulina: \n25 mL \n70 mL \n70 mL \n70 mL \n70 mL \nWeight of spirulina: \n20 g \n50 g \n48 g \n50 g \n50 g \nPercentage of hypnum moss added per volume: \n35% \n15% \n15% \n35% \n35% \nVolume of hypnum moss: \n170 mL \n70 mL \n70 mL \n170 mL \n170 mL \nWeight of hypnum moss: \n10 g \n4 g \n4 g \n10 g \n10 g \nTotal \"soil\" volume: \n480 mL \n480 mL \n480 mL \n480 mL \n480 mL \nTotal \"soil\" weight: \n514 g \n634 g \n632 g \n460 g \n478 g \nBaseline \"soil\" density: \n1.07 g/cm^3 \n1.33 g/cm^3 \n1.32 g/cm^3 \n.958 g/cm^3 \n.996 g/cm^3 \nBaseline \"soil\" pH: \n7.3 \n7.6 \n7.3 \n7.3 \n7.4 \nType of seed planted: \nSugar Bon Snap Peas \nSugar Bon Snap Peas \nSugar Bon Snap Peas \nSugar Bon Snap Peas \nSugar Bon Snap Peas \n# of seeds in sample: \n4 \n4 \n4 \n4 \n4 \nAmount of rhizobium bacteria added with seeds: \n150 \u00b5g \n150 \u00b5g \n150 \u00b5g \n150 \u00b5g \n150 \u00b5g \nAmount of Myco fungi added with seeds: \n150 \u00b5g \n0 \n150 \u00b5g \n0 \n150 \u00b5g \nFigure 3: Trial 1 Baseline Data",
+      "char_count": 2873,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Trial 1 Set-up - Baseline Data",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Sample #: Sample Weight of Rhizobium: Weight of AMF: Percentage of regolith per volume: Volume of regolith: Weight of regolith: Percentage of spirulina added per volume: Volume of spirulina: Weight of spirulina: Percentage of hypnum moss added per volume: Volume of hypnum moss: Weight of hypnum moss: Total \"soil\" volume: Total \"soil\" weight: Baseline \"soil\" density: Baseline \"soil\" pH: Type of seed planted: # of seeds in sample: Amount of rhizobium bacteria added with seeds: Amount of Myco fungi added with seeds:",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          [
+            "",
+            "Garden Soil w/microbes",
+            "Control w/microbes",
+            "5A/15M, no AMF",
+            "5A/15M, w/AMF",
+            "5A/35M, no AMF"
+          ],
+          [
+            "",
+            "negligible negligible 100% Earth soil 480 mL 362 g -- -- -- -- -- -- 480 mL 362 g .745 g/cm^3 7.0 Sugar Bon Snap Peas 4 150 \u00b5g 150 \u00b5g",
+            "negligible negligible 100% 470 mL 746 g -- -- -- -- -- -- 470 mL 746 g 1.58 g/cm^3 7.3 Sugar Bon Snap Peas 4 150 \u00b5g 150 \u00b5g",
+            "negligible n/a 80% 385 mL 618 g 5% 25 mL 20 g 15% 70 mL 4 g 480 mL 672 g 1.4 g/cm^3 7.3 Sugar Bon Snap Peas 4 150 \u00b5g 0",
+            "negligible negligible 80% 385 mL 620 g 5% 25 mL 20 g 15% 70 mL 4 g 480 mL 678 g 1.41 g/cm^3 7.5 Sugar Bon Snap Peas 4 150 \u00b5g 150 \u00b5g",
+            "negligible n/a 60% 285 mL 446 g 5% 25 mL 18 g 35% 170 mL 10 g 480 mL 502 g 1.04 g/cm^3 7.4 Sugar Bon Snap Peas 4 150 \u00b5g 0"
+          ],
+          [
+            "Sample #: Sample Weight of Rhizobium: Weight of AMF: Percentage of regolith per volume: Volume of regolith: Weight of regolith: Percentage of spirulina added per volume: Volume of spirulina: Weight of spirulina: Percentage of hypnum moss added per volume: Volume of hypnum moss: Weight of hypnum moss: Total \"soil\" volume: Total \"soil\" weight: Baseline \"soil\" density: Baseline \"soil\" pH: Type of seed planted: # of seeds in sample: Amount of rhizobium bacteria added with seeds: Amount of Myco fungi added with seeds:",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ],
+          [
+            "",
+            "5A/35M, w/AMF",
+            "15A/15M, no AMF",
+            "15A/15M, w/AMF",
+            "15A/35M, no AMF",
+            "15A/35M, w/AMF"
+          ],
+          [
+            "",
+            "negligible n/a 60% 285 mL 454 g 5% 25 mL 20 g 35% 170 mL 10 g 480 mL 514 g 1.07 g/cm^3 7.3 Sugar Bon Snap Peas 4 150 \u00b5g 150 \u00b5g",
+            "negligible negligible 70% 340 mL 550 g 15% 70 mL 50 g 15% 70 mL 4 g 480 mL 634 g 1.33 g/cm^3 7.6 Sugar Bon Snap Peas 4 150 \u00b5g 0",
+            "negligible n/a 70% 340 mL 550 g 15% 70 mL 48 g 15% 70 mL 4 g 480 mL 632 g 1.32 g/cm^3 7.3 Sugar Bon Snap Peas 4 150 \u00b5g 150 \u00b5g",
+            "negligible negligible 50% 240 mL 372 g 15% 70 mL 50 g 35% 170 mL 10 g 480 mL 460 g .958 g/cm^3 7.3 Sugar Bon Snap Peas 4 150 \u00b5g 0",
+            "negligible n/a 50% 240 mL 392 g 15% 70 mL 50 g 35% 170 mL 10 g 480 mL 478 g .996 g/cm^3 7.4 Sugar Bon Snap Peas 4 150 \u00b5g 150 \u00b5g"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 13,
+      "text": "GROWTH EXPERIMENTS OF PISUM SATIVUM IN LUNAR REGOLITH SIMULANT \n13 \nSecond Set of Growing Mediums & Seed Preparation. \nThe second set of growing mediums were mixed in the proportions detailed in Figure 4. \nBaseline data and measurements are detailed in Figure 5. Algae concentrations being too high \nwere suspected to be the main cause of germination failure and were not added as part of the \nplanting mediums in the second attempt. The controls from the first set of growing mediums \nwere retained but renumbered. The Earth soil control container was renumbered \u201c#0\u201d and the \ncontrol container with only regolith simulant was renumbered \u201c#1\u201d. Seeds were planted dry and \nwere not inoculated. Microbials and algae feedings were added via watering solutions at random \npoints through the experimental timeframe. \n \nSample \nDescription \nRegolith \nHypnum \nMoss \nRhizobium \nBacteria \nMycorrhizal \nFungi \nSpirulina \nAlgae \n0 (Control) \nEarth Soil + AMF \nEarth soil \nYes \nYes \nNo \n1 (Control) \n100%R+AMF \n100% \n0% \nYes \nYes \nNo \n2 \n100%R+AMF+ALG \n100% \n0% \nYes \nYes \nYes \n3 \n15%M \n85% \n15% \nYes \nNo \nNo \n4 \n15%M+ALG \n85% \n15% \nYes \nNo \nYes \n5 \n15%M+AMF \n85% \n15% \nYes \nYes \nNo \n6 \n15%M+AMF+ALG \n85% \n15% \nYes \nYes \nYes \n7 \n45%M \n55% \n45% \nYes \nNo \nNo \n8 \n45%M+ALG \n55% \n45% \nYes \nNo \nYes \n9 \n45%M+AMF \n55% \n45% \nYes \nYes \nNo \n10 \n45%M+AMF+ALG \n55% \n45% \nYes \nYes \nYes \nFigure 4: Second Distribution of Hypnum Moss Added Regolith Simulant by Volume",
+      "char_count": 1442,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Sample",
+            "Description",
+            "Regolith",
+            "Hypnum Moss",
+            "Rhizobium Bacteria",
+            "Mycorrhizal Fungi",
+            "Spirulina Algae"
+          ],
+          [
+            "0 (Control)",
+            "Earth Soil + AMF",
+            "Earth soil",
+            "",
+            "Yes",
+            "Yes",
+            "No"
+          ],
+          [
+            "1 (Control)",
+            "100%R+AMF",
+            "100%",
+            "0%",
+            "Yes",
+            "Yes",
+            "No"
+          ],
+          [
+            "2",
+            "100%R+AMF+ALG",
+            "100%",
+            "0%",
+            "Yes",
+            "Yes",
+            "Yes"
+          ],
+          [
+            "3",
+            "15%M",
+            "85%",
+            "15%",
+            "Yes",
+            "No",
+            "No"
+          ],
+          [
+            "4",
+            "15%M+ALG",
+            "85%",
+            "15%",
+            "Yes",
+            "No",
+            "Yes"
+          ],
+          [
+            "5",
+            "15%M+AMF",
+            "85%",
+            "15%",
+            "Yes",
+            "Yes",
+            "No"
+          ],
+          [
+            "6",
+            "15%M+AMF+ALG",
+            "85%",
+            "15%",
+            "Yes",
+            "Yes",
+            "Yes"
+          ],
+          [
+            "7",
+            "45%M",
+            "55%",
+            "45%",
+            "Yes",
+            "No",
+            "No"
+          ],
+          [
+            "8",
+            "45%M+ALG",
+            "55%",
+            "45%",
+            "Yes",
+            "No",
+            "Yes"
+          ],
+          [
+            "9",
+            "45%M+AMF",
+            "55%",
+            "45%",
+            "Yes",
+            "Yes",
+            "No"
+          ],
+          [
+            "10",
+            "45%M+AMF+ALG",
+            "55%",
+            "45%",
+            "Yes",
+            "Yes",
+            "Yes"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 14,
+      "text": "GROWTH EXPERIMENTS OF PISUM SATIVUM IN LUNAR REGOLITH SIMULANT \n14 \nTrial #2 - Baseline Data \nSample #: \n1 (copied from Trial #1) \n2 \n3 \n4 \n5 \nSample Description: \nControl w/microbes, water \nControl w/microbes, algae \n15%M, no AMF, water \n15%M, no AMF, algae \n15%M, w/AMF, water \nWeight of Rhizobium: \nnegligible \nnegligible \nnegligible \nnegligible \nnegligible \nWeight of AMF: \nnegligible \nnegligible \nn/a \nn/a \nnegligible \nPercentage of regolith per volume: \n100% \n100% \n85% \n85% \n85% \nVolume of regolith: \n470 mL \n395 mL \n335 mL \n335 mL \n335 mL \nWeight of regolith: \n746 g \n606 g \n522 g \n510 g \n526 g \nPercentage of hypnum moss added per volume: \n-- \n-- \n15% \n15% \n15% \nVolume of hypnum moss: \n-- \n-- \n60 mL \n60 mL \n60 mL \nWeight of hypnum moss: \n-- \n-- \n4 g \n4 g \n4 g \nTotal \"soil\" volume: \n470 mL \n395 mL \n395 mL \n395 mL \n395 mL \nTotal \"soil\" weight: \n746 g \n606 g \n510 g \n500 g \n514 g \nBaseline \"soil\" density: \n1.58 g/cm^3 \n1.53 g/cm^3 \n1.29 g/cm^3 \n1.27 g/cm^3 \n1.30 g/cm^3 \nBaseline \"soil\" pH: \n7.3 \n7.3 \n7.3 \n7.0 \n7.0 \nType of seed planted: \nSugar Bon Snap Peas \nSugar Bon Snap Peas \nSugar Bon Snap Peas \nSugar Bon Snap Peas \nSugar Bon Snap Peas \n# of seeds in sample: \n4 \n4 \n4 \n4 \n4 \nAmount of rhizobium bacteria added with seeds: \n150 \u00b5g \n150 \u00b5g \n150 \u00b5g \n150 \u00b5g \n150 \u00b5g \nAmount of Myco fungi added with seeds: \n150 \u00b5g \n150 \u00b5g \n0 \n0 \n150 \u00b5g \nSample #: \n6 \n7 \n8 \n9 \n10 \nSample Description: \n15%M, w/AMF, algae \n45%M, no AMF, water \n45%M, no AMF, algae \n45%M, w/AMF, water \n45%M, w/AMF, algae \nWeight of Rhizobium: \nnegligible \nnegligible \nnegligible \nnegligible \nnegligible \nWeight of AMF: \nnegligible \nn/a \nn/a \nnegligible \nnegligible \nPercentage of regolith per volume: \n85% \n55% \n55% \n55% \n55% \nVolume of regolith: \n335 mL \n215 mL \n215 mL \n215 mL \n215 mL \nWeight of regolith: \n514 g \n354 g \n346 g \n348 g \n350 g \nPercentage of hypnum moss added per volume: \n15% \n45% \n45% \n45% \n45% \nVolume of hypnum moss: \n60 mL \n180 mL \n180 mL \n180 mL \n180 mL \nWeight of hypnum moss: \n4 g \n20 g \n20 g \n20 g \n20 g \nTotal \"soil\" volume: \n395 mL \n395 mL \n395 mL \n395 mL \n395 mL \nTotal \"soil\" weight: \n516 g \n366 g \n364 g \n376 g \n372 g \nBaseline \"soil\" density: \n1.31 g/cm^3 \n.93 g/cm^3 \n.92 g/cm^3 \n.95 g/cm^3 \n.94 g/cm^3 \nBaseline \"soil\" pH: \n7.3 \n7.3 \n7.3 \n7.3 \n7.3 \nType of seed planted: \nSugar Bon Snap Peas \nSugar Bon Snap Peas \nSugar Bon Snap Peas \nSugar Bon Snap Peas \nSugar Bon Snap Peas \n# of seeds in sample: \n4 \n4 \n4 \n4 \n4 \nAmount of rhizobium bacteria added with seeds: \n150 \u00b5g \n150 \u00b5g \n150 \u00b5g \n150 \u00b5g \n150 \u00b5g \nAmount of Myco fungi added with seeds: \n150 \u00b5g \n0 \n0 \n150 \u00b5g \n150 \u00b5g \nFigure 5: Trial 2 Baseline Data",
+      "char_count": 2617,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Trial #2 - Baseline Data",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Sample #: Sample Description: Weight of Rhizobium: Weight of AMF: Percentage of regolith per volume: Volume of regolith: Weight of regolith: Percentage of hypnum moss added per volume: Volume of hypnum moss: Weight of hypnum moss: Total \"soil\" volume: Total \"soil\" weight: Baseline \"soil\" density: Baseline \"soil\" pH: Type of seed planted: # of seeds in sample: Amount of rhizobium bacteria added with seeds: Amount of Myco fungi added with seeds:",
+            "1 (copied from Trial #1)",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          [
+            "",
+            "Control w/microbes, water",
+            "Control w/microbes, algae",
+            "15%M, no AMF, water",
+            "15%M, no AMF, algae",
+            "15%M, w/AMF, water"
+          ],
+          [
+            "",
+            "negligible negligible 100% 470 mL 746 g -- -- -- 470 mL 746 g 1.58 g/cm^3 7.3 Sugar Bon Snap Peas 4 150 \u00b5g 150 \u00b5g",
+            "negligible negligible 100% 395 mL 606 g -- -- -- 395 mL 606 g 1.53 g/cm^3 7.3 Sugar Bon Snap Peas 4 150 \u00b5g 150 \u00b5g",
+            "negligible n/a 85% 335 mL 522 g 15% 60 mL 4 g 395 mL 510 g 1.29 g/cm^3 7.3 Sugar Bon Snap Peas 4 150 \u00b5g 0",
+            "negligible n/a 85% 335 mL 510 g 15% 60 mL 4 g 395 mL 500 g 1.27 g/cm^3 7.0 Sugar Bon Snap Peas 4 150 \u00b5g 0",
+            "negligible negligible 85% 335 mL 526 g 15% 60 mL 4 g 395 mL 514 g 1.30 g/cm^3 7.0 Sugar Bon Snap Peas 4 150 \u00b5g 150 \u00b5g"
+          ],
+          [
+            "Sample #: Sample Description: Weight of Rhizobium: Weight of AMF: Percentage of regolith per volume: Volume of regolith: Weight of regolith: Percentage of hypnum moss added per volume: Volume of hypnum moss: Weight of hypnum moss: Total \"soil\" volume: Total \"soil\" weight: Baseline \"soil\" density: Baseline \"soil\" pH: Type of seed planted: # of seeds in sample: Amount of rhizobium bacteria added with seeds: Amount of Myco fungi added with seeds:",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ],
+          [
+            "",
+            "15%M, w/AMF, algae",
+            "45%M, no AMF, water",
+            "45%M, no AMF, algae",
+            "45%M, w/AMF, water",
+            "45%M, w/AMF, algae"
+          ],
+          [
+            "",
+            "negligible negligible 85% 335 mL 514 g 15% 60 mL 4 g 395 mL 516 g 1.31 g/cm^3 7.3 Sugar Bon Snap Peas 4 150 \u00b5g 150 \u00b5g",
+            "negligible n/a 55% 215 mL 354 g 45% 180 mL 20 g 395 mL 366 g .93 g/cm^3 7.3 Sugar Bon Snap Peas 4 150 \u00b5g 0",
+            "negligible n/a 55% 215 mL 346 g 45% 180 mL 20 g 395 mL 364 g .92 g/cm^3 7.3 Sugar Bon Snap Peas 4 150 \u00b5g 0",
+            "negligible negligible 55% 215 mL 348 g 45% 180 mL 20 g 395 mL 376 g .95 g/cm^3 7.3 Sugar Bon Snap Peas 4 150 \u00b5g 150 \u00b5g",
+            "negligible negligible 55% 215 mL 350 g 45% 180 mL 20 g 395 mL 372 g .94 g/cm^3 7.3 Sugar Bon Snap Peas 4 150 \u00b5g 150 \u00b5g"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 15,
+      "text": "GROWTH EXPERIMENTS OF PISUM SATIVUM IN LUNAR REGOLITH SIMULANT \n15 \nMicrobials, Algae, and Water Added \nDuring Trial #2, microbials and algae were prepared in a water suspension and delivered \nto the plants via a dropper inserted into the growing medium close to the main roots. Figure 6 \ndetails the amounts of microbials, total algae provided for nutrition, and total and average \namounts of water given during Trial #2. The amounts given during Trial #1 are also included for \nSamples #0 and #1. \n \nSample \nDescription \nTrials \nIncld \nTotal Rhizobia \nAdded (\u00b5g) \nTotal Mycorrhizal \nFungi Added (\u00b5g) \nTotal Algae \nAdded (\u00b5g) \nTotal Water \nAdded (mL) \nAverage Daily Water \nAdded (mL/day) \n0 \nEarth Soil + AMF \n1 & 2 \n600 \n600 \n0 \n2340 \n33.43 \n1 \n100%R+AMF \n1 & 2 \n900 \n900 \n0 \n2410 \n34.43 \n2 \n100%R+AMF+ALG \n2 \n600 \n600 \n1050 \n1350 \n31.40 \n3 \n15%M \n2 \n600 \n0 \n0 \n1510 \n35.12 \n4 \n15%M+ALG \n2 \n600 \n0 \n1050 \n1260 \n29.30 \n5 \n15%M+AMF \n2 \n450 \n450 \n0 \n1230 \n28.60 \n6 \n15%M+AMF+ALG \n2 \n450 \n450 \n1050 \n1320 \n30.70 \n7 \n45%M \n2 \n600 \n0 \n0 \n1450 \n33.72 \n8 \n45%M+ALG \n2 \n450 \n0 \n1050 \n1090 \n25.35 \n9 \n45%M+AMF \n2 \n450 \n450 \n0 \n1490 \n35.48 \n10 \n45%M+AMF+ALG \n2 \n450 \n450 \n1050 \n1490 \n35.48 \nFigure 6. Amounts of Microbials, Algae, and Water Added \n \nTemperature \nThe environmental temperature range stayed between 60- and 80-degrees Fahrenheit \nduring the duration of the experiment with the exception of the first few hours before the fan was \nturned on. The temperature plot in Figure 7 shows the day and night time temperature cycles \nexperienced by the plants. \n \n \nFigure 7: Environment Temperature Plot",
+      "char_count": 1599,
+      "image_count": 1,
+      "tables": [
+        [
+          [
+            "Sample",
+            "Description",
+            "Trials Incld",
+            "Total Rhizobia Added (\u00b5g)",
+            "Total Mycorrhizal Fungi Added (\u00b5g)",
+            "Total Algae Added (\u00b5g)",
+            "Total Water Added (mL)",
+            "Average Daily Water Added (mL/day)"
+          ],
+          [
+            "0",
+            "Earth Soil + AMF",
+            "1 & 2",
+            "600",
+            "600",
+            "0",
+            "2340",
+            "33.43"
+          ],
+          [
+            "1",
+            "100%R+AMF",
+            "1 & 2",
+            "900",
+            "900",
+            "0",
+            "2410",
+            "34.43"
+          ],
+          [
+            "2",
+            "100%R+AMF+ALG",
+            "2",
+            "600",
+            "600",
+            "1050",
+            "1350",
+            "31.40"
+          ],
+          [
+            "3",
+            "15%M",
+            "2",
+            "600",
+            "0",
+            "0",
+            "1510",
+            "35.12"
+          ],
+          [
+            "4",
+            "15%M+ALG",
+            "2",
+            "600",
+            "0",
+            "1050",
+            "1260",
+            "29.30"
+          ],
+          [
+            "5",
+            "15%M+AMF",
+            "2",
+            "450",
+            "450",
+            "0",
+            "1230",
+            "28.60"
+          ],
+          [
+            "6",
+            "15%M+AMF+ALG",
+            "2",
+            "450",
+            "450",
+            "1050",
+            "1320",
+            "30.70"
+          ],
+          [
+            "7",
+            "45%M",
+            "2",
+            "600",
+            "0",
+            "0",
+            "1450",
+            "33.72"
+          ],
+          [
+            "8",
+            "45%M+ALG",
+            "2",
+            "450",
+            "0",
+            "1050",
+            "1090",
+            "25.35"
+          ],
+          [
+            "9",
+            "45%M+AMF",
+            "2",
+            "450",
+            "450",
+            "0",
+            "1490",
+            "35.48"
+          ],
+          [
+            "10",
+            "45%M+AMF+ALG",
+            "2",
+            "450",
+            "450",
+            "1050",
+            "1490",
+            "35.48"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 16,
+      "text": "GROWTH EXPERIMENTS OF PISUM SATIVUM IN LUNAR REGOLITH SIMULANT \n16 \nHumidity \nThe environmental humidity range stayed between 13% and 66% during the duration of \nthe experiment. The humidity plot in Figure 8 shows humidity cycles experienced by the plants. \n \n \nFigure 8: Environment Humidity Plot \n \npH \nThe mediums\u2019 pH\u2019s were measured at random intervals throughout the growth period. \nThe pH meter was cleaned with a commercial green scotch brite pad prior to every measurement. \nThe baseline readings and most readings during the growth period were taken by inserting the \npH probe straight into the planting medium during watering. The ending readings and a few \nother readings were taken from a settled slurry of a 1:4 ratio of growing medium to distilled \nwater. Figure 9 shows the ranges of pH measurements throughout the growing period. \n \nSample \nDescription \nBaseline pH \nGrowth Period pH Range \nEnding pH Range \n0 \nEarth Soil + AMF \n7.0 \n7.0 \u2013 7.6 \n7.0 - 7.3 \n1 \n100%R+AMF \n7.3 \n7.0 \u2013 7.5 \n7.3 - 7.5 \n2 \n100%R+AMF+ALG \n7.3 \n7.0 \u2013 7.4 \n7.3 - 7.5 \n3 \n15%M \n7.3 \n7.0 \u2013 7.3 \n7.3 - 7.7 \n4 \n15%M+ALG \n7.0 \n7.0 \u2013 7.4 \n7.6 - 8.0 \n5 \n15%M+AMF \n7.0 \n7.0 \u2013 7.4 \n7.3 - 7.7 \n6 \n15%M+AMF+ALG \n7.3 \n7.0 \u2013 7.4 \n7.5 - 8.0 \n7 \n45%M \n7.3 \n7.0 \u2013 7.4 \n7.3 - 7.5 \n8 \n45%M+ALG \n7.3 \n7.0 \u2013 7.4 \n7.6 - 7.9 \n9 \n45%M+AMF \n7.3 \n7.0 \u2013 7.3 \n7.3 - 7.5 \n10 \n45%M+AMF+ALG \n7.3 \n7.0 \u2013 7.5 \n7.4 \u2013 7.8 \nFigure 9: Range of pH Measurements throughout the growth period",
+      "char_count": 1442,
+      "image_count": 1,
+      "tables": [
+        [
+          [
+            "Sample",
+            "Description",
+            "Baseline pH",
+            "Growth Period pH Range",
+            "Ending pH Range"
+          ],
+          [
+            "0",
+            "Earth Soil + AMF",
+            "7.0",
+            "7.0 \u2013 7.6",
+            "7.0 - 7.3"
+          ],
+          [
+            "1",
+            "100%R+AMF",
+            "7.3",
+            "7.0 \u2013 7.5",
+            "7.3 - 7.5"
+          ],
+          [
+            "2",
+            "100%R+AMF+ALG",
+            "7.3",
+            "7.0 \u2013 7.4",
+            "7.3 - 7.5"
+          ],
+          [
+            "3",
+            "15%M",
+            "7.3",
+            "7.0 \u2013 7.3",
+            "7.3 - 7.7"
+          ],
+          [
+            "4",
+            "15%M+ALG",
+            "7.0",
+            "7.0 \u2013 7.4",
+            "7.6 - 8.0"
+          ],
+          [
+            "5",
+            "15%M+AMF",
+            "7.0",
+            "7.0 \u2013 7.4",
+            "7.3 - 7.7"
+          ],
+          [
+            "6",
+            "15%M+AMF+ALG",
+            "7.3",
+            "7.0 \u2013 7.4",
+            "7.5 - 8.0"
+          ],
+          [
+            "7",
+            "45%M",
+            "7.3",
+            "7.0 \u2013 7.4",
+            "7.3 - 7.5"
+          ],
+          [
+            "8",
+            "45%M+ALG",
+            "7.3",
+            "7.0 \u2013 7.4",
+            "7.6 - 7.9"
+          ],
+          [
+            "9",
+            "45%M+AMF",
+            "7.3",
+            "7.0 \u2013 7.3",
+            "7.3 - 7.5"
+          ],
+          [
+            "10",
+            "45%M+AMF+ALG",
+            "7.3",
+            "7.0 \u2013 7.5",
+            "7.4 \u2013 7.8"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 17,
+      "text": "GROWTH EXPERIMENTS OF PISUM SATIVUM IN LUNAR REGOLITH SIMULANT \n17 \nTheory \nThese experiments were designed to study the range of viability of the experimental \namendments and microbials to determine if additional study was merited for more refined future \nexperimentation. Beyond knowledge of articles and publications regarding NASA\u2019s evaluation \nof Spirulina for a variety of other space-based applications, this work is believed to be original \nby the author. No previous research was found on the use of microbials, moss, or algae as lunar \nregolith amendments. \n \nInvestigation Topics \nThe intent of these experiments was to test \n1) If the peas could complete a life cycle (germinate, mature, flower, and produce seed) \nin mediums that contained between 50% and 100% lunar regolith simulant? \n2) If a symbiotic relationship between the peas and the rhizobium could be established \nin mediums that contained between 50% and 100% lunar regolith simulant? \n3) If the symbiotic relationship between the peas and the mycorrhizal fungi could be \nestablished in mediums that contained between 50% and 100% lunar regolith \nsimulant? \n4) If both of these symbiotic relationships could be established, was there any noticeable \nadditional benefit or impairment to the plants? \n5) If hypnum moss as a regolith amendment was effective for the purposes of water \nretention, aeration, and root spread? \n6) If Spirulina algae is effective as a plant food. \n \nExpectations & Hypotheses \nEffectiveness of Spirulina. \nSome pretesting of reconstituting the Spirulina led to a prediction that using too much \nwould cause the mediums to become too gummy and interfere with soil aeriation. Because of \nthis pretesting, the plants in the lower percentage of spirulina were predicted to do better than \nthose in higher percentage during the first trial.",
+      "char_count": 1836,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 18,
+      "text": "GROWTH EXPERIMENTS OF PISUM SATIVUM IN LUNAR REGOLITH SIMULANT \n18 \nObservations during the first trial led to eliminating Spirulina from the medium mixes for \nthe second trial. In the second trial, the plants that were allowed to be given Spirulina as a \nnutrition supplement were predicted to be healthier than those that were not. \nEffectiveness of Hypnum moss. \nSeeds planted in the containers with higher moss percentages, in particular, were \nanticipated to do better in the trials as the moss was expected to make the soil fluffy and less \ndense, allowing the roots to spread more easily throughout the container. The comparison of root \nspreading was likely to be observable through the sides of the transparent containers. \nMicrobial symbiotic relationships. \nIt was predicted that the rhizobium would be able to establish colonies in the pea plant \nroots and improve the health of the plant. These colonies appear as white or pink root nodules on \nthe roots. It was hoped these could be observed on the roots through sides of the transparent \ncontainers. \nIt was predicted that the mycorrhizal would establish colonies in mediums that contained \nthe hypnum moss. They were not expected to establish in the containers with 100% regolith \nsimulant. Even after it was established that the peas would sprout in 100% regolith simulant, \nbecause the fungi behave similarly to plant roots, they were not expected to establish. \nSeeds planted in 100% regolith simulant. \nGermination was anticipated, but sprouts breaking through to the surface was not \nexpected in the initial 100% regolith simulant control sample because of the high soil density. In \nthe second trial, the plants in the 100% regolith sample that were allowed to have algae as a \npossible nutrition source were expected to do better than the plants without a nutritional \nsupplement. \nSeeds planted in a distribution of Spirulina and hypnum moss with regolith \nsimulant. \nConsidering all anticipated effects of the soil amendments and microbial inoculations, in \nthe first trial, container #6 (5% Spirulina + 35% Moss + Rhizobium + Mycorrhizal Fungi) was \nanticipated to host the healthiest plants. In the second trial, container #10 (45% Moss + \nRhizobium + Mycorrhizal Fungi + Algae feeding) was anticipated to host the healthiest plants.",
+      "char_count": 2310,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 19,
+      "text": "GROWTH EXPERIMENTS OF PISUM SATIVUM IN LUNAR REGOLITH SIMULANT \n19 \nAnalysis & Results \nTrial #1 Results \nTrial #1 lasted from Day 0 through Day 26. Seeds only germinated and sprouted in \ncontainers #1 (Earth dirt) and #2 (100% regolith simulant). Despite multiple attempts at \nplanting, no seeds germinated in any of the containers that contained moss or algae. \nTiming of successful seedlings sprouting and growth during Trial #1 is shown in Figure \n10. No plants matured to the point of producing flowers or seeds during Trial #1. \n \nSample \nDescription \nSeedling \nID \nDay Seedings \nBroke Ground \nPlant Height on \nDay 26 (inches) \n1 \nEarth Soil + AMF \n1 \nDay 8 \n3.25 \n2 \n100%R+AMF \n2 \nDay 10 \n4.13 \n3 \nDay 10 \n4.25 \n3 \n5%A+15%M \n-- \n-- \n-- \n4 \n5%A+15%M+AMF \n-- \n-- \n-- \n5 \n5%A+35%M \n-- \n-- \n-- \n6 \n5%A+35%M+AMF \n-- \n-- \n-- \n7 \n15%A+15%M \n-- \n-- \n-- \n8 \n15%A+15%M+AMF \n-- \n-- \n-- \n9 \n15%A+35%M \n-- \n-- \n-- \n10 \n15%A+35%M+AMF \n-- \n-- \n-- \nFigure 10: Trial 1 Growth Progress \n \nOn Day 8, the seeds were removed from containers #2 through #10 and the growing \nmediums were set out to dry overnight. These seeds had mostly rotted and none had radicles that \nhad broken through the seed coat. The observation was made that the mediums held water very \nwell and too much water was suspected to have drowned the seeds. \nOn Day 9, the mediums were returned to the original containers and new seeds were \nsoaked, inoculated, and planted. It was observed that removing and churning the mediums \nincreased the amount of air incorporation, making the mediums less dense and added over an \ninch of medium depth in each container. This was hoped to improve the number of seeds that \nwould successfully sprouts. It did not.",
+      "char_count": 1710,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Sample",
+            "Description",
+            "Seedling ID",
+            "Day Seedings Broke Ground",
+            "Plant Height on Day 26 (inches)"
+          ],
+          [
+            "1",
+            "Earth Soil + AMF",
+            "1",
+            "Day 8",
+            "3.25"
+          ],
+          [
+            "2",
+            "100%R+AMF",
+            "2",
+            "Day 10",
+            "4.13"
+          ],
+          [
+            "",
+            "",
+            "3",
+            "Day 10",
+            "4.25"
+          ],
+          [
+            "3",
+            "5%A+15%M",
+            "--",
+            "--",
+            "--"
+          ],
+          [
+            "4",
+            "5%A+15%M+AMF",
+            "--",
+            "--",
+            "--"
+          ],
+          [
+            "5",
+            "5%A+35%M",
+            "--",
+            "--",
+            "--"
+          ],
+          [
+            "6",
+            "5%A+35%M+AMF",
+            "--",
+            "--",
+            "--"
+          ],
+          [
+            "7",
+            "15%A+15%M",
+            "--",
+            "--",
+            "--"
+          ],
+          [
+            "8",
+            "15%A+15%M+AMF",
+            "--",
+            "--",
+            "--"
+          ],
+          [
+            "9",
+            "15%A+35%M",
+            "--",
+            "--",
+            "--"
+          ],
+          [
+            "10",
+            "15%A+35%M+AMF",
+            "--",
+            "--",
+            "--"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 20,
+      "text": "GROWTH EXPERIMENTS OF PISUM SATIVUM IN LUNAR REGOLITH SIMULANT \n20 \nOn Day 21, seeds in containers #2 through #10 were removed. These seeds had mostly \nrotted again and none had radicles that had broken through the seed coat. Less water had been \nused and the mediums did not need to be dried out. Seed drowning was still suspected as a \npossible root cause of germination failure and new seeds were planted dry without inoculation. \nSeed viability and germination rate was also tested at this point via placing 10 seeds in a \ndamp paper towel. 70% of the tested seeds germinated in 3 days. \nOn Day 25, seeds were removed from containers #3 through #10 to check for \ngermination. None had radicles that had broken through the seed coat. Comparing this result to \nthe 70% \u2018damp paper towel\u2019 germination rate in a similar period of time, it was decided that the \nroot cause of germination failure was likely due to a component in the growing mediums. This \nconcluded Trial #1. \n \nSummary of root cause evaluation of germination failure Day 1 through Day 21. \nFour causes of seed germination failure were suspected: \n1. Seed drowning from overwatering \n2. Seed drowning from overnight seed soaking prior to planting \n3. Seed Viability \n4. Use of algae in planting mediums \n5. Use of moss in planting mediums \nThe seeds drowning from overwatering was unlikely as water usage was cut back after \nthe second sowing on Day 9. The seeds drowning from overnight seed soaking was unlikely as \nthe dry seeds sown on Day 21 also did not germinate. Seed viability was tested by placing \nseveral seeds in a damp paper towel. 70% of the seeds germinated (radicle broke through seed \ncoat) after 3 days. Seed viability was eliminated as a root cause. To eliminate the other possible \nroot causes, new mediums had to be created and tested. This led to the conclusion of Trial #1. \n \nTrial #2 Results \nTrial #2 lasted from Day 27 through Day 70. The existing plants were not removed, but \nadditional seeds were planted at the side positions in containers #0 and #1. This changed the \nindexing and ID number of existing plants, but was desired to observe growth through the side of \nthe container and to monitor growth at the same rate as the new trials. 50%-100% of seeds",
+      "char_count": 2253,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 21,
+      "text": "GROWTH EXPERIMENTS OF PISUM SATIVUM IN LUNAR REGOLITH SIMULANT \n21 \ngerminated in all containers in Trial #2. Most plants flowered and produced seed by the time the \ngrowing period ended. Timing of successful growth milestones during Trial #2 is shown in \nFigure 11. \nSample \nDescription \nSeedling \nID \nDay 1st \nSeedling Emerged \nPlant Height \non Day 70 (in) \nDay of \n1st Flower \nDay of \n1st Fruit \n# of \nFlowers \n# of \nFruit \n# of Lost \nFlower/Fruit \n0 \nEarth Soil + AMF \n1 \nDay 8 \n11 \nDay 40 \nDay 44 \n3 \n2 \n0 \n2 \n7.5 \n2 \n1 \n1 \n1 \n100%R+AMF \n1 \nDay 10 \n7.13 \nDay 37 \nDay 41 \n2 \n1 \n1 \n2 \n7.13 \n2 \n2 \n0 \n3 \n9 \n1 \n0 \n0 \n2 \n100%R+AMF+ALG \n1 \nDay 35 \n(Day 8) \n8.25 \nDay 56 \n(Day 29) \nDay 61 \n(Day 34) \n1 \n1 \n0 \n2 \n7.38 \n1 \n1 \n0 \n3 \n8.5 \n1 \n1 \n0 \n4 \n11 \n1 \n1 \n0 \n3 \n15%M \n1 \nDay 34 \n(Day 7) \n8 \nDay 56 \n(Day 29) \nDay 60 \n(Day 33) \n2 \n1 \n1 \n2 \n11.25 \n3 \n3 \n0 \n3 \n8.25 \n2 \n1 \n1 \n4 \n.25 (died) \n0 \n0 \n0 \n4 \n15%M+ALG \n1 \nDay 33 \n(Day 6) \n7.5 \nDay 56 \n(Day 29) \nDay 60 \n(Day 33) \n1 \n1 \n0 \n3 \n9.5 \n2 \n2 \n0 \n4 \n9 \n2 \n1 \n1 \n5 \n15%M+AMF \n1 \nDay 37 \n(Day 10) \n8.5 \nDay 57 \n(Day 30) \nDay 64 \n(Day 37) \n2 \n1 \n0 \n2 \n8.75 \n2 \n1 \n1 \n3 \n8.75 \n2 \n1 \n1 \n4 \n6 \n2 \n1 \n0 \n6 \n15%M+AMF+ALG \n1 \nDay 35 \n(Day 8) \n8.75 \nDay 55 \n(Day 28) \nDay 59 \n(Day 32) \n2 \n1 \n1 \n2 \n7.75 \n2 \n1 \n1 \n7 \n45%M \n1 \nDay 33 \n(Day 6) \n8.25 \nDay 55 \n(Day 28) \nDay 59 \n(Day 32) \n2 \n2 \n0 \n2 \n6.75 \n1 \n1 \n0 \n3 \n6 \n2 \n1 \n1 \n4 \n9.75 \n2 \n1 \n1 \n8 \n45%M+ALG \n1 \nDay 35 \n(Day 8) \n9.88 \nDay 64 \n(Day 37) \nDay 69 \n(Day 42) \n2 \n1 \n0 \n3 \n11.88 \n0 \n0 \n0 \n4 \n6.25 \n1 \n1 \n0 \n9 \n45%M+AMF \n1 \nDay 34 \n(Day 7) \n10.25 \nDay 55 \n(Day 28) \nDay 59 \n(Day 32) \n2 \n2 \n0 \n2 \n9.88 \n2 \n1 \n1 \n3 \n10 \n1 \n0 \n0 \n10 \n45%M+AMF+ALG \n1 \nDay 35 \n(Day 8) \n9.25 \nDay 56 \n(Day 29) \nDay 60 \n(Day 33) \n2 \n1 \n1 \n2 \n8.63 \n2 \n1 \n1 \n3 \n7.88 \n2 \n1 \n1 \n4 \n7.88 \n2 \n1 \n1 \nFigure 11: Trial 2 Growth Milestone Results",
+      "char_count": 1809,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Sample",
+            "Description",
+            "Seedling ID",
+            "Day 1st Seedling Emerged",
+            "Plant Height on Day 70 (in)",
+            "Day of 1st Flower",
+            "Day of 1st Fruit",
+            "# of Flowers",
+            "# of Fruit",
+            "# of Lost Flower/Fruit"
+          ],
+          [
+            "0",
+            "Earth Soil + AMF",
+            "1",
+            "Day 8",
+            "11",
+            "Day 40",
+            "Day 44",
+            "3",
+            "2",
+            "0"
+          ],
+          [
+            "",
+            "",
+            "2",
+            "",
+            "7.5",
+            "",
+            "",
+            "2",
+            "1",
+            "1"
+          ],
+          [
+            "1",
+            "100%R+AMF",
+            "1",
+            "Day 10",
+            "7.13",
+            "Day 37",
+            "Day 41",
+            "2",
+            "1",
+            "1"
+          ],
+          [
+            "",
+            "",
+            "2",
+            "",
+            "7.13",
+            "",
+            "",
+            "2",
+            "2",
+            "0"
+          ],
+          [
+            "",
+            "",
+            "3",
+            "",
+            "9",
+            "",
+            "",
+            "1",
+            "0",
+            "0"
+          ],
+          [
+            "2",
+            "100%R+AMF+ALG",
+            "1",
+            "Day 35 (Day 8)",
+            "8.25",
+            "Day 56 (Day 29)",
+            "Day 61 (Day 34)",
+            "1",
+            "1",
+            "0"
+          ],
+          [
+            "",
+            "",
+            "2",
+            "",
+            "7.38",
+            "",
+            "",
+            "1",
+            "1",
+            "0"
+          ],
+          [
+            "",
+            "",
+            "3",
+            "",
+            "8.5",
+            "",
+            "",
+            "1",
+            "1",
+            "0"
+          ],
+          [
+            "",
+            "",
+            "4",
+            "",
+            "11",
+            "",
+            "",
+            "1",
+            "1",
+            "0"
+          ],
+          [
+            "3",
+            "15%M",
+            "1",
+            "Day 34 (Day 7)",
+            "8",
+            "Day 56 (Day 29)",
+            "Day 60 (Day 33)",
+            "2",
+            "1",
+            "1"
+          ],
+          [
+            "",
+            "",
+            "2",
+            "",
+            "11.25",
+            "",
+            "",
+            "3",
+            "3",
+            "0"
+          ],
+          [
+            "",
+            "",
+            "3",
+            "",
+            "8.25",
+            "",
+            "",
+            "2",
+            "1",
+            "1"
+          ],
+          [
+            "",
+            "",
+            "4",
+            "",
+            ".25 (died)",
+            "",
+            "",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "4",
+            "15%M+ALG",
+            "1",
+            "Day 33 (Day 6)",
+            "7.5",
+            "Day 56 (Day 29)",
+            "Day 60 (Day 33)",
+            "1",
+            "1",
+            "0"
+          ],
+          [
+            "",
+            "",
+            "3",
+            "",
+            "9.5",
+            "",
+            "",
+            "2",
+            "2",
+            "0"
+          ],
+          [
+            "",
+            "",
+            "4",
+            "",
+            "9",
+            "",
+            "",
+            "2",
+            "1",
+            "1"
+          ],
+          [
+            "5",
+            "15%M+AMF",
+            "1",
+            "Day 37 (Day 10)",
+            "8.5",
+            "Day 57 (Day 30)",
+            "Day 64 (Day 37)",
+            "2",
+            "1",
+            "0"
+          ],
+          [
+            "",
+            "",
+            "2",
+            "",
+            "8.75",
+            "",
+            "",
+            "2",
+            "1",
+            "1"
+          ],
+          [
+            "",
+            "",
+            "3",
+            "",
+            "8.75",
+            "",
+            "",
+            "2",
+            "1",
+            "1"
+          ],
+          [
+            "",
+            "",
+            "4",
+            "",
+            "6",
+            "",
+            "",
+            "2",
+            "1",
+            "0"
+          ],
+          [
+            "6",
+            "15%M+AMF+ALG",
+            "1",
+            "Day 35 (Day 8)",
+            "8.75",
+            "Day 55 (Day 28)",
+            "Day 59 (Day 32)",
+            "2",
+            "1",
+            "1"
+          ],
+          [
+            "",
+            "",
+            "2",
+            "",
+            "7.75",
+            "",
+            "",
+            "2",
+            "1",
+            "1"
+          ],
+          [
+            "7",
+            "45%M",
+            "1",
+            "Day 33 (Day 6)",
+            "8.25",
+            "Day 55 (Day 28)",
+            "Day 59 (Day 32)",
+            "2",
+            "2",
+            "0"
+          ],
+          [
+            "",
+            "",
+            "2",
+            "",
+            "6.75",
+            "",
+            "",
+            "1",
+            "1",
+            "0"
+          ],
+          [
+            "",
+            "",
+            "3",
+            "",
+            "6",
+            "",
+            "",
+            "2",
+            "1",
+            "1"
+          ],
+          [
+            "",
+            "",
+            "4",
+            "",
+            "9.75",
+            "",
+            "",
+            "2",
+            "1",
+            "1"
+          ],
+          [
+            "8",
+            "45%M+ALG",
+            "1",
+            "Day 35 (Day 8)",
+            "9.88",
+            "Day 64 (Day 37)",
+            "Day 69 (Day 42)",
+            "2",
+            "1",
+            "0"
+          ],
+          [
+            "",
+            "",
+            "3",
+            "",
+            "11.88",
+            "",
+            "",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "",
+            "",
+            "4",
+            "",
+            "6.25",
+            "",
+            "",
+            "1",
+            "1",
+            "0"
+          ],
+          [
+            "9",
+            "45%M+AMF",
+            "1",
+            "Day 34 (Day 7)",
+            "10.25",
+            "Day 55 (Day 28)",
+            "Day 59 (Day 32)",
+            "2",
+            "2",
+            "0"
+          ],
+          [
+            "",
+            "",
+            "2",
+            "",
+            "9.88",
+            "",
+            "",
+            "2",
+            "1",
+            "1"
+          ],
+          [
+            "",
+            "",
+            "3",
+            "",
+            "10",
+            "",
+            "",
+            "1",
+            "0",
+            "0"
+          ],
+          [
+            "10",
+            "45%M+AMF+ALG",
+            "1",
+            "Day 35 (Day 8)",
+            "9.25",
+            "Day 56 (Day 29)",
+            "Day 60 (Day 33)",
+            "2",
+            "1",
+            "1"
+          ],
+          [
+            "",
+            "",
+            "2",
+            "",
+            "8.63",
+            "",
+            "",
+            "2",
+            "1",
+            "1"
+          ],
+          [
+            "",
+            "",
+            "3",
+            "",
+            "7.88",
+            "",
+            "",
+            "2",
+            "1",
+            "1"
+          ],
+          [
+            "",
+            "",
+            "4",
+            "",
+            "7.88",
+            "",
+            "",
+            "2",
+            "1",
+            "1"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 22,
+      "text": "GROWTH EXPERIMENTS OF PISUM SATIVUM IN LUNAR REGOLITH SIMULANT \n22 \nFruit Maturation and Seed Production \nAt the conclusion of the grow period, all fruit was harvested and measured regardless of \nmaturation. Large fruits were split to observe number, size, and development of seed. Figure 12 \nshows some of the harvested fruit after it was split for seed count. (Numbers indicate Container \nID-Seedling ID-Fruit ID). Figure 13 gives the lengths and number of developed seeds at time of \nharvest. \n \n \nFigure 12 Picture of Some of the Harvested Fruit",
+      "char_count": 549,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 23,
+      "text": "GROWTH EXPERIMENTS OF PISUM SATIVUM IN LUNAR REGOLITH SIMULANT \n23 \nSample \nDescription \nSeedling ID \nFruit ID \nFruit Size (in) \n# of Developed Seeds \nTotal Developed Seed \n0 \nEarth Soil + AMF \n1 \n1 \n2 \n0 \n4 \n2 \n2.25 \n2 \n2 \n1 \n2.25 \n2 \n1 \n100%R+AMF \n1 \n1 \n1.75 \n1 \n2 \n2 \n1 \n1.75 \n1 \n3 \n1 \n1.88 \n0 \n2 \n100%R+AMF+ALG \n1 \n1 \n1.88 \n2 \n8 \n2 \n1 \n2 \n2 \n3 \n1 \n1.88 \n2 \n4 \n1 \n2.13 \n2 \n3 \n15%M \n1 \n1 \n2.25 \n3 \n5 \n2 \n1 \n1.63 \n0 \n2 \n1.88 \n0 \n3 \n1 \n0 \n3 \n1 \n2 \n2 \n4 \n15%M+ALG \n1 \n1 \n2 \n2 \n8 \n3 \n1 \n2 \n3 \n2 \n1.13 \n0 \n4 \n1 \n2.38 \n3 \n5 \n15%M+AMF \n1 \n1 \n2 \n2 \n7 \n2 \n1 \n2.13 \n3 \n3 \n1 \n2 \n2 \n4 \n1 \n1.38 \n0 \n6 \n15%M+AMF+ALG \n1 \n1 \n2.5 \n3 \n5 \n2 \n1 \n2 \n2 \n7 \n45%M \n1 \n1 \n2 \n2 \n13 \n2 \n1.5 \n1 \n2 \n1 \n1.75 \n3 \n3 \n1 \n2 \n2 \n4 \n1 \n2.38 \n5 \n8 \n45%M+ALG \n1 \n1 \n.75 \n0 \n0 \n4 \n1 \n1.13 \n0 \n9 \n45%M+AMF \n1 \n1 \n2.38 \n2 \n7 \n2 \n1.75 \n2 \n2 \n1 \n2.5 \n3 \n10 \n45%M+AMF+ALG \n1 \n1 \n2.25 \n3 \n11 \n2 \n1 \n1.13 \n3 \n3 \n1 \n2 \n2 \n4 \n1 \n2 \n3 \nFigure 13: Fruit Maturation and Seed Production",
+      "char_count": 937,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Sample",
+            "Description",
+            "Seedling ID",
+            "Fruit ID",
+            "Fruit Size (in)",
+            "# of Developed Seeds",
+            "Total Developed Seed"
+          ],
+          [
+            "0",
+            "Earth Soil + AMF",
+            "1",
+            "1",
+            "2",
+            "0",
+            "4"
+          ],
+          [
+            "",
+            "",
+            "",
+            "2",
+            "2.25",
+            "2",
+            ""
+          ],
+          [
+            "",
+            "",
+            "2",
+            "1",
+            "2.25",
+            "2",
+            ""
+          ],
+          [
+            "1",
+            "100%R+AMF",
+            "1",
+            "1",
+            "1.75",
+            "1",
+            "2"
+          ],
+          [
+            "",
+            "",
+            "2",
+            "1",
+            "1.75",
+            "1",
+            ""
+          ],
+          [
+            "",
+            "",
+            "3",
+            "1",
+            "1.88",
+            "0",
+            ""
+          ],
+          [
+            "2",
+            "100%R+AMF+ALG",
+            "1",
+            "1",
+            "1.88",
+            "2",
+            "8"
+          ],
+          [
+            "",
+            "",
+            "2",
+            "1",
+            "2",
+            "2",
+            ""
+          ],
+          [
+            "",
+            "",
+            "3",
+            "1",
+            "1.88",
+            "2",
+            ""
+          ],
+          [
+            "",
+            "",
+            "4",
+            "1",
+            "2.13",
+            "2",
+            ""
+          ],
+          [
+            "3",
+            "15%M",
+            "1",
+            "1",
+            "2.25",
+            "3",
+            "5"
+          ],
+          [
+            "",
+            "",
+            "2",
+            "1",
+            "1.63",
+            "0",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "2",
+            "1.88",
+            "0",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "3",
+            "1",
+            "0",
+            ""
+          ],
+          [
+            "",
+            "",
+            "3",
+            "1",
+            "2",
+            "2",
+            ""
+          ],
+          [
+            "4",
+            "15%M+ALG",
+            "1",
+            "1",
+            "2",
+            "2",
+            "8"
+          ],
+          [
+            "",
+            "",
+            "3",
+            "1",
+            "2",
+            "3",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "2",
+            "1.13",
+            "0",
+            ""
+          ],
+          [
+            "",
+            "",
+            "4",
+            "1",
+            "2.38",
+            "3",
+            ""
+          ],
+          [
+            "5",
+            "15%M+AMF",
+            "1",
+            "1",
+            "2",
+            "2",
+            "7"
+          ],
+          [
+            "",
+            "",
+            "2",
+            "1",
+            "2.13",
+            "3",
+            ""
+          ],
+          [
+            "",
+            "",
+            "3",
+            "1",
+            "2",
+            "2",
+            ""
+          ],
+          [
+            "",
+            "",
+            "4",
+            "1",
+            "1.38",
+            "0",
+            ""
+          ],
+          [
+            "6",
+            "15%M+AMF+ALG",
+            "1",
+            "1",
+            "2.5",
+            "3",
+            "5"
+          ],
+          [
+            "",
+            "",
+            "2",
+            "1",
+            "2",
+            "2",
+            ""
+          ],
+          [
+            "7",
+            "45%M",
+            "1",
+            "1",
+            "2",
+            "2",
+            "13"
+          ],
+          [
+            "",
+            "",
+            "",
+            "2",
+            "1.5",
+            "1",
+            ""
+          ],
+          [
+            "",
+            "",
+            "2",
+            "1",
+            "1.75",
+            "3",
+            ""
+          ],
+          [
+            "",
+            "",
+            "3",
+            "1",
+            "2",
+            "2",
+            ""
+          ],
+          [
+            "",
+            "",
+            "4",
+            "1",
+            "2.38",
+            "5",
+            ""
+          ],
+          [
+            "8",
+            "45%M+ALG",
+            "1",
+            "1",
+            ".75",
+            "0",
+            "0"
+          ],
+          [
+            "",
+            "",
+            "4",
+            "1",
+            "1.13",
+            "0",
+            ""
+          ],
+          [
+            "9",
+            "45%M+AMF",
+            "1",
+            "1",
+            "2.38",
+            "2",
+            "7"
+          ],
+          [
+            "",
+            "",
+            "",
+            "2",
+            "1.75",
+            "2",
+            ""
+          ],
+          [
+            "",
+            "",
+            "2",
+            "1",
+            "2.5",
+            "3",
+            ""
+          ],
+          [
+            "10",
+            "45%M+AMF+ALG",
+            "1",
+            "1",
+            "2.25",
+            "3",
+            "11"
+          ],
+          [
+            "",
+            "",
+            "2",
+            "1",
+            "1.13",
+            "3",
+            ""
+          ],
+          [
+            "",
+            "",
+            "3",
+            "1",
+            "2",
+            "2",
+            ""
+          ],
+          [
+            "",
+            "",
+            "4",
+            "1",
+            "2",
+            "3",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 24,
+      "text": "GROWTH EXPERIMENTS OF PISUM SATIVUM IN LUNAR REGOLITH SIMULANT \n24 \nRhizobia Colonies \nDuring the grow period, no rhizobia were observed through the transparent containers. \nAt the conclusion of the grow period, each plant was carefully removed from the growing \nmedium so that the roots could be observed. Every plant had rhizobia colonies that had infected \nthe root structures. Most colonies were towards the surface of the growing medium. Figure 14 \nshows pictures taken of the rhizobia colonies observed. \n \n \n \nFigure 14 Pictures of Rhizobia Colonies Observed",
+      "char_count": 565,
+      "image_count": 4,
+      "tables": []
+    },
+    {
+      "page_number": 25,
+      "text": "GROWTH EXPERIMENTS OF PISUM SATIVUM IN LUNAR REGOLITH SIMULANT \n25 \nMycorrhizal Fungi Colonies \nDuring the grow period, pictures were taken through the transparent containers of what \ncould have been mycorrhizal colonies in containers #0, #2, and #10. At the conclusion of the \ngrow period, each plant was carefully removed from the growing medium so that the roots could \nbe observed. If there were any mycorrhizal fungi colonies, the process of removing the plants \ndestroyed any evidence that they were there. Figure 15 shows pictures of possible fungi colonies \nobserved. \n \n \n \n \nFigure 15: Pictures of Possible Mycorrhizal Colonies Under Magnification in Containers #0, #2, & #10",
+      "char_count": 685,
+      "image_count": 3,
+      "tables": []
+    },
+    {
+      "page_number": 26,
+      "text": "GROWTH EXPERIMENTS OF PISUM SATIVUM IN LUNAR REGOLITH SIMULANT \n26 \nDiscussion and Conclusions \nOverall Plant Health \nPlants grown in 100% regolith. \nEven though all plants showed some signs of distress through yellowing, drying, and \ndropping of the bottom most leaves, this was most apparent in the specimens grown in 100% \nregolith. By the end of the grow period the oldest plants in Container #1 that had sprouted in \nTrial 1 and were maintained looked almost dead when the initial fruit was harvested. After the \nfruit was harvested, the plants put out fresh new growth and one put out an additional bud by \nDay 70. This bud was not allowed to mature because it was at the end of the growing period. \nThe root structures of specimens grown in 100% regolith did not appear to go deeper than \nabout 2 inches in the growing medium, presumably because the regolith was too dense. \n \n \nFigure 16: Plants grown in 100% regolith without and with algae feedings",
+      "char_count": 958,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 27,
+      "text": "GROWTH EXPERIMENTS OF PISUM SATIVUM IN LUNAR REGOLITH SIMULANT \n27 \nPlants grown in mediums containing Hypnum moss. \nPlants grown with some percentage of Hypnum moss in the growing medium also \nexhibited signs of distress in the form of leaves yellowing and dropping, but not to the extent of \nthe plants grown in 100% regolith simulant. There was no observable difference in the overall \nhealth of the plants grown in 15% and 45% moss mediums. \nThe root structures of the plants grown in 15% moss mediums took longer to penetrate all \nthe way to the bottoms of the growing containers, but all did eventually have roots that could be \nobserved through the container bottoms. The root structures of the plants grown in 45% moss \nmediums were the quickest to have observable roots through the bottom of the containers and \nappeared to have the largest and healthiest root structures compared to the plants grown in 100% \nregolith and 15% moss. At the conclusion of the growing period when the plants were removed \nfrom the growing mediums, in the containers containing 45% moss, it was impossible to separate \nthe plant roots from each other and the moss without significant damage. Figure 17 shows \npictures of the plants grown in the mediums containing moss. \n \n \nFigure 17: Pictures of Plants Grown in Mediums Containing Moss",
+      "char_count": 1326,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 28,
+      "text": "GROWTH EXPERIMENTS OF PISUM SATIVUM IN LUNAR REGOLITH SIMULANT \n28 \nEffectiveness of Spirulina. \nIt was concluded that concentrations greater than 5% Spirulina algae in a growing \nmedium prevented germination of seeds and was likely toxic. Conversely, small amounts of \nalgae used for nutrition might be beneficial, but more than what was used in Trial 2 would be \nneeded to be conclusive as no benefit was observed from using the algae as a nutrition source for \nsome plants. \nEffectiveness of Hypnum moss. \nWhile there were no observable correlations to percentage of moss in growing mediums \ncompared to water usage, plant health, number of fruits, or number of developed seeds during the \ngrowth period, there was a noticeable benefit to early and overall root spread. \nEffectiveness of Microbials used. \nRhizobia colonies were established in the roots of all plants. Similar to using cover crops \non Earth, this is promising for the possibility of naturally transforming the nitrogen composition \nof lunar regolith. \nThere were no confirmed large colonies of mycorrhizal fungi observed and was no \nobservable benefit to the plants that were inoculated with the mycorrhizal fungi. \n \nFurther Studies of Interest \nUse of Spirulina. \n1. More frequent use of a low concentration of spirulina algae in suspension may \nprovide a complete nutrition source for plants. Further studies to dial in a beneficial \npercentage range could be pursued. \nUse of Hypnum moss. \n2. Use of Hypnum moss did have an observable benefit to root spread in the \nexperimental plants. Engineering a compact growing system to explore the \ncultivation of Hypnum or other mosses for this purpose would further explore the \nfeasibility of taking transportation-efficient growable regolith amendments. \nUse of Microbials. \n3. Further study of the Rhizobia bacteria is needed to understand the rate, if any, the \nrhizobia can transform nitrogen gas into forms absorbable to plants. Future",
+      "char_count": 1958,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 29,
+      "text": "GROWTH EXPERIMENTS OF PISUM SATIVUM IN LUNAR REGOLITH SIMULANT \n29 \nexperiments using Rhizobia as a variable to compare the health of plants with and \nwithout Rhizobium would further this understanding. \n4. Further experimentation of using the bacteria that infected these plant roots in next-\ngeneration planting would be useful in studying the long-term viability of using \nRhizobium in a closed-loop system. \n5. Using equipment that can analyze the nitrogen content of growing mediums \ncomposition of lunar regolith would also lead to more conclusive comparative results. \n6. Further experimentation with mycorrhizal fungi would be useful to understand why \nthe mycorrhizal fungi colonies did not appear to thrive in these regolith mediums.",
+      "char_count": 743,
+      "image_count": 0,
+      "tables": []
+    }
+  ]
+}

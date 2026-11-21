@@ -1,0 +1,64 @@
+{
+  "extraction": {
+    "report_id": "spring21-main-space-growers-8e4308",
+    "extraction_method": "heuristic",
+    "model_name": "table-aware-lexicon-v2",
+    "celestial_body": "lunar",
+    "regolith_simulant": "unspecified",
+    "regolith_simulant_raw": null,
+    "crop_common_name": "wheat",
+    "crop_scientific_name": "Triticum aestivum",
+    "crop_guild": "mixed",
+    "experimental_duration_days": 35.0,
+    "total_plants_or_pots": null,
+    "replicates_per_treatment": null,
+    "has_earth_soil_control": false,
+    "has_unamended_regolith_control": false,
+    "statistical_tests_reported": [
+      "ANOVA",
+      "Tukey HSD",
+      "Standard Deviation / Error",
+      "p-value"
+    ],
+    "data_availability": "summary_means",
+    "primary_bottlenecks": [
+      "nutrient_deficiency",
+      "heavy_metals_or_salinity",
+      "light_or_temperature_stress",
+      "root_restriction"
+    ],
+    "innovation_tags": [
+      "microbial_mycorrhizal"
+    ],
+    "key_hypothesis": "According to the presented antecedents, we analyze the hypothesis that toxic substances",
+    "summary_findings": "determine the germination efficiency, the results shown a negative effect of OS:LS in the",
+    "arms": [
+      {
+        "arm_id": "arm_trt_1",
+        "arm_label": "Treatment (bacteria)",
+        "is_control": false,
+        "control_type": "none",
+        "regolith_pct": null,
+        "amendment_category": "microbial_mycorrhizal",
+        "amendment_detail": "bacteria",
+        "amendment_dose": null,
+        "germination_rate_pct": null,
+        "survival_rate_pct": null,
+        "mean_shoot_height_cm": null,
+        "mean_root_length_cm": null,
+        "mean_fresh_biomass_g": null,
+        "mean_dry_biomass_g": null,
+        "substrate_ph": null,
+        "outcome_vs_regolith_control": "improved",
+        "reported_effect_pct": null,
+        "evidence_quote": "soils for their capacity to generate symbiotic interaction with nitrogen-fixing bacteria (Jacob",
+        "page_number": 1
+      }
+    ]
+  },
+  "provenance_audit": {
+    "quotes_checked": 1,
+    "quotes_matched": 1,
+    "quote_match_rate": 1.0
+  }
+}

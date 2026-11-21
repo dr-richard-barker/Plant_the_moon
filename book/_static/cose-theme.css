@@ -1,0 +1,446 @@
+/* ==========================================================================
+   CoSE Theme for Plant the Moon Meta-Analysis Jupyter Book
+   Palette: #004053 deep teal, #0f7f9f cyan, #5590ad steel, #3f7d4e leaf
+   Typography: IBM Plex Sans & IBM Plex Mono
+   ========================================================================== */
+
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap");
+
+:root {
+  color-scheme: light dark;
+  --cose-bg: light-dark(#f5f8f9, #0a1a20);
+  --cose-surface: light-dark(#ffffff, #10262e);
+  --cose-surface-2: light-dark(#eaf1f3, #163340);
+  --cose-ink: light-dark(#0f2a33, #e4eef1);
+  --cose-ink-soft: light-dark(#3d5a64, #b5c9cf);
+  --cose-muted: light-dark(#5f7f8a, #8ba6af);
+  --cose-rule: light-dark(#cfdde1, #23434f);
+  --cose-primary: light-dark(#004053, #7ec3d8);
+  --cose-primary-ink: light-dark(#ffffff, #04212a);
+  --cose-accent: light-dark(#0f7f9f, #4fc0dd);
+  --cose-accent-soft: light-dark(#d7ebf1, #123b48);
+  --cose-leaf: light-dark(#3f7d4e, #8fcf9d);
+  --cose-leaf-soft: light-dark(#e1efe4, #17352a);
+  --cose-shadow: 0 1px 2px rgb(0 40 53 / 0.08), 0 6px 20px rgb(0 40 53 / 0.07);
+  --cose-font: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --cose-mono: "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+
+  /* Synchronize Sphinx Book Theme tokens */
+  --pst-font-family-base: var(--cose-font);
+  --pst-font-family-heading: var(--cose-font);
+  --pst-font-family-monospace: var(--cose-mono);
+  --pst-color-primary: var(--cose-primary);
+  --pst-color-secondary: var(--cose-accent);
+  --pst-color-link: var(--cose-accent);
+}
+
+html[data-theme="light"] {
+  color-scheme: light;
+}
+html[data-theme="dark"] {
+  color-scheme: dark;
+}
+
+body {
+  font-family: var(--cose-font);
+}
+
+/* ---------- CoSE Hero & Cards ---------- */
+.cose-hero {
+  position: relative;
+  overflow: hidden;
+  background: var(--cose-surface);
+  border: 1px solid var(--cose-rule);
+  border-left: 4px solid var(--cose-primary);
+  border-radius: 12px;
+  padding: 1.6rem 1.75rem;
+  margin-bottom: 1.5rem;
+  box-shadow: var(--cose-shadow);
+}
+.cose-hero::before {
+  content: "";
+  position: absolute;
+  inset: -45% -15% auto auto;
+  width: 24rem;
+  height: 24rem;
+  pointer-events: none;
+  background:
+    radial-gradient(circle at 50% 50%, transparent 56%, color-mix(in srgb, var(--cose-accent) 16%, transparent) 56.5%, transparent 57.5%),
+    radial-gradient(circle at 50% 50%, transparent 40%, color-mix(in srgb, var(--cose-leaf) 14%, transparent) 40.5%, transparent 41.5%);
+}
+.cose-eyebrow {
+  font-family: var(--cose-mono);
+  font-size: 0.78rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--cose-accent);
+  margin-bottom: 0.4rem;
+}
+.cose-hero h1, .cose-hero h2 {
+  margin-top: 0;
+  color: var(--cose-ink);
+}
+.cose-btn-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+  margin-top: 1rem;
+}
+.cose-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.48rem 0.95rem;
+  border-radius: 999px;
+  border: 1px solid var(--cose-rule);
+  background: var(--cose-surface);
+  color: var(--cose-ink);
+  text-decoration: none;
+  font-size: 0.9rem;
+  font-weight: 500;
+  cursor: pointer;
+}
+.cose-btn:hover {
+  border-color: var(--cose-accent);
+  color: var(--cose-accent);
+  text-decoration: none;
+}
+.cose-btn.primary {
+  background: var(--cose-primary);
+  border-color: var(--cose-primary);
+  color: var(--cose-primary-ink);
+}
+.cose-btn.primary:hover {
+  filter: brightness(1.08);
+  color: var(--cose-primary-ink);
+}
+
+.cose-kpi-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(11rem, 1fr));
+  gap: 0.85rem;
+  margin: 1.15rem 0 1.6rem;
+}
+.cose-kpi {
+  background: var(--cose-surface);
+  border: 1px solid var(--cose-rule);
+  border-radius: 10px;
+  padding: 1rem 1.1rem;
+  box-shadow: var(--cose-shadow);
+}
+.cose-kpi .num {
+  font-family: var(--cose-mono);
+  font-size: 1.75rem;
+  font-weight: 600;
+  color: var(--cose-primary);
+  line-height: 1.1;
+}
+.cose-kpi .lbl {
+  font-size: 0.86rem;
+  color: var(--cose-ink-soft);
+  margin-top: 0.25rem;
+}
+
+.cose-door-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+  gap: 1rem;
+  margin: 1rem 0 1.5rem;
+}
+.cose-card {
+  display: flex;
+  flex-direction: column;
+  background: var(--cose-surface);
+  border: 1px solid var(--cose-rule);
+  border-radius: 10px;
+  padding: 1.15rem;
+  color: var(--cose-ink);
+  text-decoration: none;
+  box-shadow: var(--cose-shadow);
+  transition: transform 0.14s ease, border-color 0.14s ease;
+}
+.cose-card:hover {
+  transform: translateY(-2px);
+  border-color: var(--cose-accent);
+  text-decoration: none;
+  color: var(--cose-ink);
+}
+.cose-card .go {
+  margin-top: auto;
+  padding-top: 0.65rem;
+  color: var(--cose-accent);
+  font-weight: 600;
+  font-size: 0.88rem;
+}
+
+.cose-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  font-family: var(--cose-mono);
+  font-size: 0.75rem;
+  padding: 0.15rem 0.55rem;
+  border-radius: 999px;
+  background: var(--cose-accent-soft);
+  color: var(--cose-primary);
+  white-space: nowrap;
+}
+.cose-chip.leaf {
+  background: var(--cose-leaf-soft);
+  color: var(--cose-leaf);
+}
+
+/* ---------- PDF.js Manuscript Viewer ---------- */
+.cose-pdf-shell {
+  border: 1px solid var(--cose-rule);
+  border-radius: 12px;
+  overflow: hidden;
+  background: var(--cose-surface);
+  box-shadow: var(--cose-shadow);
+  margin: 1rem 0 1.5rem;
+}
+.cose-pdf-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.65rem 0.9rem;
+  background: var(--cose-surface-2);
+  border-bottom: 1px solid var(--cose-rule);
+  font-family: var(--cose-mono);
+  font-size: 0.85rem;
+}
+.cose-pdf-toolbar button,
+.cose-pdf-toolbar a.cose-tool-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  min-height: 32px;
+  padding: 0.25rem 0.65rem;
+  border-radius: 6px;
+  border: 1px solid var(--cose-rule);
+  background: var(--cose-surface);
+  color: var(--cose-ink);
+  font: inherit;
+  cursor: pointer;
+  text-decoration: none;
+}
+.cose-pdf-toolbar button:hover,
+.cose-pdf-toolbar a.cose-tool-btn:hover {
+  border-color: var(--cose-accent);
+  color: var(--cose-accent);
+}
+.cose-pdf-toolbar input[type="number"] {
+  width: 3.4rem;
+  padding: 0.2rem 0.35rem;
+  border-radius: 6px;
+  border: 1px solid var(--cose-rule);
+  background: var(--cose-surface);
+  color: var(--cose-ink);
+  font-family: var(--cose-mono);
+  text-align: center;
+}
+.cose-pdf-stage {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  padding: 1.25rem;
+  max-height: 78vh;
+  overflow: auto;
+  background: var(--cose-bg);
+}
+.cose-pdf-stage canvas {
+  max-width: 100%;
+  height: auto;
+  box-shadow: 0 4px 18px rgb(0 0 0 / 0.16);
+  border-radius: 4px;
+  background: #ffffff;
+}
+.cose-pdf-fallback {
+  width: 100%;
+  min-height: 72vh;
+  border: 0;
+}
+
+/* ---------- Explorer Controls, Responsive & Sortable Table ---------- */
+.cose-filter-bar {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(11rem, 1fr));
+  gap: 0.6rem;
+  background: var(--cose-surface);
+  border: 1px solid var(--cose-rule);
+  border-radius: 10px;
+  padding: 0.9rem;
+  margin-bottom: 1rem;
+}
+.cose-filter-bar label {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  font-size: 0.78rem;
+  font-family: var(--cose-mono);
+  color: var(--cose-ink-soft);
+}
+.cose-filter-bar input,
+.cose-filter-bar select {
+  padding: 0.4rem 0.55rem;
+  border-radius: 6px;
+  border: 1px solid var(--cose-rule);
+  background: var(--cose-bg);
+  color: var(--cose-ink);
+  font-family: var(--cose-font);
+  font-size: 0.88rem;
+}
+
+.cose-table-wrapper {
+  overflow: auto;
+  max-inline-size: 100%;
+  max-block-size: min(620px, 75vh);
+  border: 1px solid var(--cose-rule);
+  border-radius: 10px;
+  background: var(--cose-surface);
+  container-type: inline-size;
+}
+.cose-table {
+  width: 100%;
+  min-inline-size: 720px;
+  border-collapse: separate;
+  border-spacing: 0;
+  font-size: 0.88rem;
+}
+.cose-table thead {
+  position: sticky;
+  inset-block-start: 0;
+  z-index: 2;
+  background: var(--cose-surface-2);
+}
+.cose-table th,
+.cose-table td {
+  text-align: left;
+  padding: 0.55rem 0.65rem;
+  border-bottom: 1px solid var(--cose-rule);
+  vertical-align: top;
+}
+.cose-table th:has(> button) {
+  padding: 0;
+}
+.cose-table th > button.sort-btn {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.35rem;
+  width: 100%;
+  min-height: 36px;
+  padding: 0.55rem 0.65rem;
+  border: 0;
+  background: transparent;
+  color: var(--cose-ink);
+  font: inherit;
+  font-weight: 600;
+  text-align: left;
+  cursor: pointer;
+}
+.cose-table th > button.sort-btn:focus-visible {
+  outline: 3px solid var(--cose-accent);
+  outline-offset: -3px;
+}
+.cose-table th[aria-sort="ascending"] > button.sort-btn::after {
+  content: " ↑";
+  color: var(--cose-accent);
+}
+.cose-table th[aria-sort="descending"] > button.sort-btn::after {
+  content: " ↓";
+  color: var(--cose-accent);
+}
+.cose-table tbody tr:hover {
+  background: var(--cose-surface-2);
+}
+
+@container (width < 600px) {
+  .cose-table {
+    min-inline-size: 0;
+  }
+  .cose-table,
+  .cose-table thead,
+  .cose-table tbody,
+  .cose-table tr,
+  .cose-table th,
+  .cose-table td {
+    display: block;
+  }
+  .cose-table thead {
+    display: none;
+  }
+  .cose-table tbody tr {
+    margin-block-end: 0.85rem;
+    border: 1px solid var(--cose-rule);
+    border-radius: 8px;
+    padding: 0.45rem;
+  }
+  .cose-table td::before {
+    content: attr(data-label) ": ";
+    font-weight: 600;
+    color: var(--cose-ink-soft);
+  }
+}
+
+.cose-sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+/* ---------- Native <dialog> Report Inspector ---------- */
+dialog.cose-dialog {
+  width: min(760px, 94vw);
+  max-height: 86vh;
+  padding: 1.35rem 1.5rem;
+  border: 1px solid var(--cose-rule);
+  border-radius: 12px;
+  background: var(--cose-surface);
+  color: var(--cose-ink);
+  box-shadow: 0 18px 48px rgb(0 0 0 / 0.28);
+}
+dialog.cose-dialog:modal {
+  overscroll-behavior: contain;
+}
+dialog.cose-dialog::backdrop {
+  background: rgb(4 16 22 / 0.58);
+  overflow: hidden;
+  overscroll-behavior: contain;
+}
+.cose-dialog-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 1rem;
+  border-bottom: 1px solid var(--cose-rule);
+  padding-bottom: 0.75rem;
+  margin-bottom: 1rem;
+}
+.cose-arm-card {
+  border: 1px solid var(--cose-rule);
+  border-radius: 8px;
+  padding: 0.7rem 0.85rem;
+  margin-bottom: 0.65rem;
+  background: var(--cose-bg);
+}
+.cose-quote {
+  margin-top: 0.4rem;
+  padding-left: 0.75rem;
+  border-left: 3px solid var(--cose-accent);
+  font-size: 0.84rem;
+  color: var(--cose-ink-soft);
+}
+
+.cose-footer-bar {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 0.75rem;
+  font-size: 0.85rem;
+}

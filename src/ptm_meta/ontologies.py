@@ -1,0 +1,85 @@
+"""FAIR semantic ontology mappings (NCBITaxon, ENVO/AGRO, and Exolith regolith standards)."""
+
+from __future__ import annotations
+
+import json
+from pathlib import Path
+from typing import Any
+
+CROP_ONTOLOGY: dict[str, dict[str, str]] = {
+    "radish": {"scientific_name": "Raphanus sativus", "ncbitaxon": "NCBITaxon:3726", "uri": "http://purl.obolibrary.org/obo/NCBITaxon_3726"},
+    "lettuce": {"scientific_name": "Lactuca sativa", "ncbitaxon": "NCBITaxon:4236", "uri": "http://purl.obolibrary.org/obo/NCBITaxon_4236"},
+    "spinach": {"scientific_name": "Spinacia oleracea", "ncbitaxon": "NCBITaxon:3562", "uri": "http://purl.obolibrary.org/obo/NCBITaxon_3562"},
+    "arugula": {"scientific_name": "Eruca vesicaria", "ncbitaxon": "NCBITaxon:3721", "uri": "http://purl.obolibrary.org/obo/NCBITaxon_3721"},
+    "kale": {"scientific_name": "Brassica oleracea", "ncbitaxon": "NCBITaxon:3712", "uri": "http://purl.obolibrary.org/obo/NCBITaxon_3712"},
+    "bok choy": {"scientific_name": "Brassica rapa", "ncbitaxon": "NCBITaxon:3711", "uri": "http://purl.obolibrary.org/obo/NCBITaxon_3711"},
+    "collard greens": {"scientific_name": "Brassica oleracea", "ncbitaxon": "NCBITaxon:3712", "uri": "http://purl.obolibrary.org/obo/NCBITaxon_3712"},
+    "green bean": {"scientific_name": "Phaseolus vulgaris", "ncbitaxon": "NCBITaxon:3885", "uri": "http://purl.obolibrary.org/obo/NCBITaxon_3885"},
+    "mung bean": {"scientific_name": "Vigna radiata", "ncbitaxon": "NCBITaxon:157791", "uri": "http://purl.obolibrary.org/obo/NCBITaxon_157791"},
+    "cowpea": {"scientific_name": "Vigna unguiculata", "ncbitaxon": "NCBITaxon:3917", "uri": "http://purl.obolibrary.org/obo/NCBITaxon_3917"},
+    "pea": {"scientific_name": "Pisum sativum", "ncbitaxon": "NCBITaxon:3888", "uri": "http://purl.obolibrary.org/obo/NCBITaxon_3888"},
+    "soybean": {"scientific_name": "Glycine max", "ncbitaxon": "NCBITaxon:3847", "uri": "http://purl.obolibrary.org/obo/NCBITaxon_3847"},
+    "clover": {"scientific_name": "Trifolium spp.", "ncbitaxon": "NCBITaxon:3898", "uri": "http://purl.obolibrary.org/obo/NCBITaxon_3898"},
+    "oyster mushroom": {"scientific_name": "Pleurotus ostreatus", "ncbitaxon": "NCBITaxon:5322", "uri": "http://purl.obolibrary.org/obo/NCBITaxon_5322"},
+    "tomato": {"scientific_name": "Solanum lycopersicum", "ncbitaxon": "NCBITaxon:4081", "uri": "http://purl.obolibrary.org/obo/NCBITaxon_4081"},
+    "cucumber": {"scientific_name": "Cucumis sativus", "ncbitaxon": "NCBITaxon:3659", "uri": "http://purl.obolibrary.org/obo/NCBITaxon_3659"},
+    "pepper": {"scientific_name": "Capsicum annuum", "ncbitaxon": "NCBITaxon:4072", "uri": "http://purl.obolibrary.org/obo/NCBITaxon_4072"},
+    "strawberry": {"scientific_name": "Fragaria x ananassa", "ncbitaxon": "NCBITaxon:3747", "uri": "http://purl.obolibrary.org/obo/NCBITaxon_3747"},
+    "basil": {"scientific_name": "Ocimum basilicum", "ncbitaxon": "NCBITaxon:39350", "uri": "http://purl.obolibrary.org/obo/NCBITaxon_39350"},
+    "cilantro": {"scientific_name": "Coriandrum sativum", "ncbitaxon": "NCBITaxon:4047", "uri": "http://purl.obolibrary.org/obo/NCBITaxon_4047"},
+    "purslane": {"scientific_name": "Portulaca oleracea", "ncbitaxon": "NCBITaxon:46147", "uri": "http://purl.obolibrary.org/obo/NCBITaxon_46147"},
+    "scallion": {"scientific_name": "Allium fistulosum", "ncbitaxon": "NCBITaxon:35875", "uri": "http://purl.obolibrary.org/obo/NCBITaxon_35875"},
+    "carrot": {"scientific_name": "Daucus carota", "ncbitaxon": "NCBITaxon:4039", "uri": "http://purl.obolibrary.org/obo/NCBITaxon_4039"},
+    "beet": {"scientific_name": "Beta vulgaris", "ncbitaxon": "NCBITaxon:161934", "uri": "http://purl.obolibrary.org/obo/NCBITaxon_161934"},
+    "potato": {"scientific_name": "Solanum tuberosum", "ncbitaxon": "NCBITaxon:4113", "uri": "http://purl.obolibrary.org/obo/NCBITaxon_4113"},
+    "turnip": {"scientific_name": "Brassica rapa", "ncbitaxon": "NCBITaxon:3711", "uri": "http://purl.obolibrary.org/obo/NCBITaxon_3711"},
+    "rice": {"scientific_name": "Oryza sativa", "ncbitaxon": "NCBITaxon:4530", "uri": "http://purl.obolibrary.org/obo/NCBITaxon_4530"},
+    "wheat": {"scientific_name": "Triticum aestivum", "ncbitaxon": "NCBITaxon:4565", "uri": "http://purl.obolibrary.org/obo/NCBITaxon_4565"},
+    "corn": {"scientific_name": "Zea mays", "ncbitaxon": "NCBITaxon:4577", "uri": "http://purl.obolibrary.org/obo/NCBITaxon_4577"},
+    "sunflower": {"scientific_name": "Helianthus annuus", "ncbitaxon": "NCBITaxon:4232", "uri": "http://purl.obolibrary.org/obo/NCBITaxon_4232"},
+}
+
+SIMULANT_ONTOLOGY: dict[str, dict[str, Any]] = {
+    "LHS-1": {"label": "Lunar Highlands Simulant (Exolith / SRT)", "body": "lunar", "mineralogy": "anorthositic-basaltic"},
+    "LHS-1D": {"label": "Lunar Highlands Dust Simulant (Exolith / SRT)", "body": "lunar", "mineralogy": "anorthositic fine dust"},
+    "LMS-1": {"label": "Lunar Mare Simulant (Exolith / SRT)", "body": "lunar", "mineralogy": "basaltic mare"},
+    "LMS-1D": {"label": "Lunar Mare Dust Simulant (Exolith / SRT)", "body": "lunar", "mineralogy": "basaltic fine dust"},
+    "JSC-1A": {"label": "NASA Johnson Space Center Lunar Mare Simulant", "body": "lunar", "mineralogy": "basaltic volcanic ash"},
+    "MGS-1": {"label": "Mars Global Simulant (Exolith / SRT)", "body": "martian", "mineralogy": "basaltic-smectite-sulfate"},
+    "MGS-1S": {"label": "Mars Global Simulant Sulfate-Enriched", "body": "martian", "mineralogy": "sulfate-enriched basalt"},
+    "MMS-1": {"label": "Mojave Mars Simulant", "body": "martian", "mineralogy": "iron-rich basalt"},
+    "MMS-2": {"label": "Enhanced Mojave Mars Simulant", "body": "martian", "mineralogy": "iron/sulfate-enhanced basalt"},
+}
+
+AMENDMENT_ONTOLOGY: dict[str, dict[str, str]] = {
+    "none_control": {"label": "Unamended Regolith Control", "uri": "http://purl.obolibrary.org/obo/ENVO_00005750"},
+    "earth_soil_control": {"label": "Terrestrial Control Soil", "uri": "http://purl.obolibrary.org/obo/ENVO_00001998"},
+    "organic_compost_manure": {"label": "Compost / Organic Manure", "uri": "http://purl.obolibrary.org/obo/ENVO_00002149"},
+    "vermicompost_aquaculture": {"label": "Vermicompost / Aquaculture Effluent", "uri": "http://purl.obolibrary.org/obo/AGRO_00000338"},
+    "microbial_mycorrhizal": {"label": "Microbial / Mycorrhizal Inoculant", "uri": "http://purl.obolibrary.org/obo/AGRO_00000370"},
+    "hydrogel_alginate_polymer": {"label": "Hydrogel / Alginate Biopolymer", "uri": "http://purl.obolibrary.org/obo/CHEBI_33285"},
+    "synthetic_fertilizer_hydroponic": {"label": "Synthetic NPK / Hydroponic Solution", "uri": "http://purl.obolibrary.org/obo/AGRO_00000315"},
+    "biochar_carbon": {"label": "Biochar / Carbon Amendment", "uri": "http://purl.obolibrary.org/obo/AGRO_00000337"},
+    "nano_fertilizer_mineral": {"label": "Nano-fertilizer / Mineral Amendment", "uri": "http://purl.obolibrary.org/obo/AGRO_00000007"},
+    "plant_extract_waste": {"label": "Plant Extract / Food-Waste Valorization", "uri": "http://purl.obolibrary.org/obo/ENVO_01000605"},
+    "light_spectrum_env": {"label": "Photobiology / Spectral Manipulation", "uri": "http://purl.obolibrary.org/obo/PECO_0007152"},
+    "coir_peat_perlite_substrate": {"label": "Horticultural Matrix (Coir / Peat / Perlite)", "uri": "http://purl.obolibrary.org/obo/AGRO_00000339"},
+}
+
+
+def export_ontology_mappings(out_path: Path) -> Path:
+    """Write machine-readable ontology crosswalk JSON for FAIR interoperability."""
+    payload = {
+        "@context": {
+            "ncbitaxon": "http://purl.obolibrary.org/obo/NCBITaxon_",
+            "envo": "http://purl.obolibrary.org/obo/ENVO_",
+            "agro": "http://purl.obolibrary.org/obo/AGRO_",
+            "peco": "http://purl.obolibrary.org/obo/PECO_",
+        },
+        "crops": CROP_ONTOLOGY,
+        "regolith_simulants": SIMULANT_ONTOLOGY,
+        "amendment_categories": AMENDMENT_ONTOLOGY,
+    }
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    out_path.write_text(json.dumps(payload, indent=2), encoding="utf-8")
+    return out_path

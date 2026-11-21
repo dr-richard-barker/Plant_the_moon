@@ -1,0 +1,366 @@
+{
+  "report_id": "fall21-main-seds-goes-green-4dad2d",
+  "sha256": "99cc309380978cfb9b5e9dd011b8cef60e25eac167c1005fb2d42f7bb98b9387",
+  "page_count": 16,
+  "total_chars": 14265,
+  "avg_chars_per_page": 891.6,
+  "total_images": 14,
+  "table_count": 7,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "1\nStudents for the Exploration and Development of Space (SEDS)\nUniversity of Puerto Rico at Mayag\u00fcez\nRaphanus raphanistrum and Pisum sativum L. viability in lunar regolith simulant under\ncontrolled conditions in a vegetative growth chamber\nDavid Villahermosa Marrero, Team Leader\nDra. Angela Linares, Faculty Advisor\nCamilla Molina Jimenez\nDanyka Ramos Mel\u00e9ndez\nFabiola Quijano Vel\u00e1zquez\nNeftal\u00ed Gin\u00e9s V\u00e9lez\nPaola del Mar Nu\u00f1ez D\u00e1vila\nPedro A. P\u00e9rez Mart\u00ednez\nRoger Leyba Mercado",
+      "char_count": 478,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "text": "2\nBackground\nThe SEDS Goes Green team is a team from the SEDS UPRM (Students for\nExploration & Development of Space) chapter at the University of Puerto Rico- Mayaguez\nCampus. It is a multidisciplinary team of 10 members from engineering and science\nbackgrounds. This fall semester we went through complications throughout the semester from\nproblems with the electrical system of the island to strikes on the university. Our main\nlimitation towards the success of the project was that the university suffered various strikes,\nthe longest one being from October 18th to December 2nd, with the students protesting the\neconomic situation of the University of Puerto Rico in which the Financial Oversight and\nManagement Board for Puerto Rico reduced its total budget by 48%. These strikes did not let\nus access our lab for more than a week, and this caused us to not be able to retrieve all of the\ndata from the experiment. In spite of all the difficulties the team faced, we kept working to\ncomplete the investigation challenge, and are excited to show our results.\nIntroduction\nFor the Plant the Moon Challenge, the team's main focus was to investigate which\nplants could be grown on the moon to help the astronaut in the upcoming Artemis mission, as\nthe objective of the investigation is to find plants that can grow on the highlands lunar\nregolith simulant and be a food source for the astronauts as the mass of launch could become\nless if you change dry food for seeds to grow on the moon. Which converts into less cost by\nmission and leaves money to support other areas of the Artemis program. The team looked\nfor plants that are resistant to harsh environments and have good nutritional value. After\nthorough research, the team performed a trade study to define which plant was going to grow.\nIn the trade study, the team defined 10 parameters and weighted each parameter by its",
+      "char_count": 1881,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "text": "3\nimportance. After this, we assign a value for each parameter for each option, and the\nmicrogreens plant won. The team chose the pink stem radish microgreen and the pea shoot\nmicrogreen as a result of the trade study. As we entered the competition late due to delays in\nthe shipping, the time to build our experiment design was cut short and this added a\nconstraint to our build that did not let us build a growth chamber as complex as we wanted\nbut we did manage to create two growth chambers simulating an in-space environment which\nyou can read in the following section.\nFigure 1: Plant Trade Study\nExperimental Design\nAs part of the competition, the engineering team was in charge of the design process\nof the growth chamber structure used to grow plants in lunar regolith simulant. The structure\nconsisted of two 2\u2019 x 2\u2019 x 2\u2019 square confined boxes built of\n\u215b\u201d plywood material with\ninternal supports at every midpoint. The face of the box that opens and closes was made of\nclear acrylic material with the purpose of being able to observe and record data without\ndistressing the controlled environment. Wood crossbars were used to elevate 3\u201d two porous\ntrays where the pots were placed to collect any water lost to deep percolation. The boxes\nwere completely painted pitch black with the intention of simulating the emissivity and",
+      "char_count": 1335,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "text": "4\nshadows of lunar regions. The lighting system consisted of two circuits (one per box) that\nincluded two Feit Electric full-spectrum light bulbs that totaled 1360 lumens per box. A timer\nensured that the lighting systems provided 12 hours of light and 12 hours of darkness, thus\nsimulating light time on the moon. For the irrigation system, an Oasis Claber Automatic Drip\nWatering System was used. A single dripper per plant was used, and the system opened twice\na day to deliver a total of 60 mL of water to each of them.\nFigure 2: Growth Chamber with an Oasis Claber Automatic Drip\nTheory\nMicrogreens are young vegetable greens that are harvested after the plant's first leaf\nexpansion (Kozai et al.). Given their wide variety of uses, they are a popular subject of\nastrobotany research. Pea shoots, pink stem and green stem radish are all species that are\nremarked for their resistance to harsh conditions and high yield (Sanchez and Berghage).\nAdditionally, they all possess relatively short germination times, ranging from four to ten\ndays and are sprouted in the dark (Di Gioia et al. 403-432). The combination of these traits\nmake Raphanus raphanistrum and Pisum sativum L. excellent candidates for cultivation in\nlunar regolith simulant. The previously mentioned species thrive in full sunlight, therefore, a",
+      "char_count": 1317,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "text": "5\nphotoperiod of 12 hours light and 12 hours darkness is most beneficial to them (Morton and\nStretch). Since they require a moist growth medium (Morton and Stretch), 60 mL of purified\nwater delivered through a drip system in a 24-hour period ensures they maintain these\nconditions without flooding the growth container. Given their short germination cycles, the\nmicrogreens were harvested every seven days to ensure a continuous harvest.\nIndependent Variable and Experimental Parameters\nThe independent variable in this experiment was the microgreen species selected:\npink and green stem radish (Raphanus raphanistrum) and pea shoots (Pisum sativum). These\nspecies were planted in 4-inch planting pots filled with the growth medium. The growth\nmedium consisted of a combination of 150g of lunar regolith simulant, 49.5g of sand, 99g of\nclay earth soil, and 6g of poultry manure fertilizer. Five pots of each species were placed in\nthe growth boxes. After planting the Raphanus raphanistrum and Pisum sativum seeds, they\nwere left in darkness for two days to sprout. Meanwhile, 60mL of purified water was\ndelivered daily through our drip irrigation system in a 24-hour period. After the two-day\ndarkness period, a photoperiod of 12 hours light and 12 hours darkness was implemented\nusing an automatic timer. The pots were monitored daily and data, such as humidity, soil pH,\ntemperature, and height, was recorded as well. Every seven days, the species were harvested\nby cutting down the microgreens to the pot\u2019s rim. During harvest days, the biomass of each\npot was recorded individually.\nDependent Variables\nA dependent variable for this project was the microgreens\u2019 daily change in height,\nconsidering the short germination time period. Height was measured in centimeters daily and\nrecorded in a daily growth chart specifying the growth boxes in observation. The biomass",
+      "char_count": 1871,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "text": "6\nwas also a dependent variable, as it was compared after each harvest between species. Pink\nand green stem radish and pea shoots\u2019 biomass varies individually, regarding changes in their\nresponse to the regolith. The plant\u2019s health is taken into consideration as well, for its\nfigurative consumption purpose in Plant the Moon Challenge. This is evaluated by qualitative\ndata and the daily pH count. Thanks to the rapid growth and high tolerance to environmental\nvariations of both species, the harvest goal was achieved.\nMeasurements\nOur team utilized a digital scale to measure 150.00g of lunar regolith, 99.00g of soil,\n49.50g of sand, and 6.00g of poultry manure following a 6:2:1 proportion. 11g of radish seeds\nand 20g of pea shoot seeds were planted in each pot and placed in the growth chamber. Once\nthe plants began to grow, the pH of the soil, the humidity of the enclosure, the temperature of\nthe enclosure, and the height of the plants were measured daily. For the pH of the soil, a pH\nmeter was used on the soil next to the plants of each pot. To measure the humidity and\ntemperature of the enclosure, a humidity and temperature sensor was placed inside of the\nenclosure, which displayed both of these measurements. Finally, to measure the height of the\nplants, a standard ruler was used to measure the average height of the plants in every pot. On\nharvest days, the pots were taken out of the enclosure and the crops were cut by hand with\nsurgical-grade scissors to ensure a clean and accurate cut. The cut material of every pot was\ncollected and weighed on the digital scale individually to measure biomass. The resulting\nmass was documented and compared as the weeks went by.\nControl Variables\nVarious control variables were utilized, one of them being 4-inch pots. The size was\nchosen because of its convenience in containing the 2 inches of planting medium used.",
+      "char_count": 1879,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "text": "7\nAdditionally, these pots helped the microgreens maintain stability and have efficient drainage.\nThe second control variable was the lunar regolith, which was placed in equal quantities in\neach pot except for the control groups. The third control variable was the irrigation method,\nwhich included the Oasis drip irrigation system that delivered 60mL of purified water to each\nplant daily. Finally, the last control variable was the light source, which consisted of two\ncircuits that included two light bulbs connected parallelly to control the illumination period\nfrom a single digital timer. The light bulbs were 680 lumen Feit Electric full-spectrum growth\nlights. The lighting system was programmed to reproduce 12 hours of light and 12 hours of\ndarkness, thus simulating lunar lighting time. It is important to clarify that the first two days\nafter planting the microgreens, the boxes were left in total darkness so that they could sprout.\nAnalysis & Results\nDuring our ten-week growth period, we were successfully able to make harvests every\nseven days. When data collecting we measured biomass, pH, humidity and temperature.\nFigure 3: Recently sown seeds box 1\nFigure 4: Recently sown seeds box 2",
+      "char_count": 1204,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "text": "8\nFigure 5: Pot 3 from box 1 harvest\nFigure 6: Collected harvest from all pots\nAs mentioned before, we collected data for temperature, humidity, biomass, and pH.\nIn the next tables, all the data collected during our growth period is summarized. During the\nentire growth period, we achieved an average of\n21.7 \u00b0C and 90% humidity. As for the\nbiomass values, the average for the radish control (pot 1) was 41.62g, whereas the pea shoot\ncontrol (pot 6) was 18.39g. The average biomass for the radishes was 36.72g, while the pea\nshoots had a total average of 21.13g. The biomass between each harvest varies. In the three\nharvests, we had an average of 52.58g, 52.60g and 15.23g.\nWhen collecting data for pH, it always remained constant with a value of 7 for every\npot. This meant that our soil was always neutral. We were able to successfully grow\nRaphanus raphanistrum and Pisum sativum in the given conditions as well as harvest every\nseven days during our growth period.\nDiscussion & Conclusion\nDuring our involvement in the Plant the Moon Challenge, we had the opportunity to\nnot only participate, but to discover how we can implement our methods of agriculture in the\nMoon\u2019s soil. For us, it was interesting to discover the wide variety of plants that we could\nuse, but we decided to choose pink stem radish, green and pea shoot microgreens because of\nall the outstanding benefits it could offer. After culminating our growth period, our\nhypothesis was proven correct. We were able to successfully grow microgreens in lunar",
+      "char_count": 1524,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "text": "9\nregolith and harvest them every week. Our growth mixture proved to be an effective growth\nmedium for the selected microgreens. During the challenge, our soil mixture showed to work\nexponentially and provide rapid growth for the microgreens. More so, the selected\nmicrogreens grew competitively when compared to the control groups, as no remarkable\nheight differences were noted during the growth period.\nReferences\nDi Gioia, Francesco, et al. \u201cSprouts, Microgreens and \u2018Baby Leaf\u2019 Vegetables.\u201d Minimally\nProcessed Refrigerated Fruits and Vegetables , Springer, Boston, MA, 2017, pp.\n403\u2013432.\nKozai, Toyoki, et al., editors. \u201cChapter 3 - PFAL Business and R&D in the World: Current\nStatus and Perspectives.\u201d Science Direct201, 2016,\nwww.sciencedirect.com/book/9780128017753/plant-factory. Accessed 5 Dec. 2021.\nMorton, Dustin, and Craig Stretch. \u201cCommercial Microgreens: Production and Best\nPractices.\u201d Alberta Government, May 2018,\nwww1.agric.gov.ab.ca/$department/deptdocs.nsf/all/agdex15965/$file/268_18-1.pdf?\nOpenElement.\nSanchez, Elsa, and Robert Berghage. \u201cGrowing Microgreens.\u201d Penn State Extension, 4 Dec.\n2021, extension.psu.edu/growing-microgreens.",
+      "char_count": 1160,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "text": "10\nAppendix\nA1: Complete Trade Study",
+      "char_count": 36,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "text": "11\nTable 1: Temperature and Humidity Average for box 1 throughout the 10 weeks growing period\nWeek (#)\nTemperature\nHumidity\n1\n22.4\n80%\n2\n19.3\n90%\n3\nno data collected due to\nstrike\nno data collected due to\nstrike\n4\nno data collected due to\nstrike\nno data collected due to\nstrike\n5\nno data collected due to\nstrike\nno data collected due to\nstrike\n6\n22.4\n95%\n7\n22.8\n93%\nTable 2: Temperature and Humidity Average for box 2 throughout the 10 weeks growing period\nWeek (#)\nTemperature\nHumidity\n1\n23\n80%",
+      "char_count": 495,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Week (#)",
+            "Temperature",
+            "Humidity"
+          ],
+          [
+            "1",
+            "22.4",
+            "80%"
+          ],
+          [
+            "2",
+            "19.3",
+            "90%"
+          ],
+          [
+            "3",
+            "no data collected due to strike",
+            "no data collected due to strike"
+          ],
+          [
+            "4",
+            "no data collected due to strike",
+            "no data collected due to strike"
+          ],
+          [
+            "5",
+            "no data collected due to strike",
+            "no data collected due to strike"
+          ],
+          [
+            "6",
+            "22.4",
+            "95%"
+          ],
+          [
+            "7",
+            "22.8",
+            "93%"
+          ]
+        ],
+        [
+          [
+            "Week (#)",
+            "Temperature",
+            "Humidity"
+          ],
+          [
+            "1",
+            "23",
+            "80%"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 12,
+      "text": "12\n2\n23.3\n93%\n3\nno data collected due to\nstrike\nno data collected due to\nstrike\n4\nno data collected due to\nstrike\nno data collected due to\nstrike\n5\nno data collected due to\nstrike\nno data collected due to\nstrike\n6\n22.8\n93.4%\n7\n22.9\n94%\nTable 3: Biomass values per pot on harvest day 1\nHarvest Day 1\nPot #\nBiomass (g)\nPot 1 (control)\n88.87g\nPot 2\n71.85g\nPot 3\n92.37g\nPot 4\n83.37g\nPot 5\n84.70g",
+      "char_count": 391,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "2",
+            "23.3",
+            "93%"
+          ],
+          [
+            "3",
+            "no data collected due to strike",
+            "no data collected due to strike"
+          ],
+          [
+            "4",
+            "no data collected due to strike",
+            "no data collected due to strike"
+          ],
+          [
+            "5",
+            "no data collected due to strike",
+            "no data collected due to strike"
+          ],
+          [
+            "6",
+            "22.8",
+            "93.4%"
+          ],
+          [
+            "7",
+            "22.9",
+            "94%"
+          ]
+        ],
+        [
+          [
+            "Harvest Day 1",
+            ""
+          ],
+          [
+            "Pot #",
+            "Biomass (g)"
+          ],
+          [
+            "Pot 1 (control)",
+            "88.87g"
+          ],
+          [
+            "Pot 2",
+            "71.85g"
+          ],
+          [
+            "Pot 3",
+            "92.37g"
+          ],
+          [
+            "Pot 4",
+            "83.37g"
+          ],
+          [
+            "Pot 5",
+            "84.70g"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 13,
+      "text": "13\nPot 6 (control)\n31.77g\nPot 7\n21.17g\nPot 8\n26.69g\nPot 9\n6.97g\nPot 10\n18.23g\nTable 4: Biomass values per pot on harvest day 3\nHarvest Day 3\nPot #\nBiomass (g)\nPot 1 (control)\nno growth\nPot 2\n2.69g\nPot 3\n2.35g\nPot 4\n7.64g\nPot 5\nno growth\nPot 6 (control)\n2.71g\nPot 7\n0.57g\nPot 8\n5.54g\nPot 9\n3.73g\nPot 10\n1.6g",
+      "char_count": 306,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Pot 6 (control)",
+            "31.77g"
+          ],
+          [
+            "Pot 7",
+            "21.17g"
+          ],
+          [
+            "Pot 8",
+            "26.69g"
+          ],
+          [
+            "Pot 9",
+            "6.97g"
+          ],
+          [
+            "Pot 10",
+            "18.23g"
+          ]
+        ],
+        [
+          [
+            "Harvest Day 3",
+            ""
+          ],
+          [
+            "Pot #",
+            "Biomass (g)"
+          ],
+          [
+            "Pot 1 (control)",
+            "no growth"
+          ],
+          [
+            "Pot 2",
+            "2.69g"
+          ],
+          [
+            "Pot 3",
+            "2.35g"
+          ],
+          [
+            "Pot 4",
+            "7.64g"
+          ],
+          [
+            "Pot 5",
+            "no growth"
+          ],
+          [
+            "Pot 6 (control)",
+            "2.71g"
+          ],
+          [
+            "Pot 7",
+            "0.57g"
+          ],
+          [
+            "Pot 8",
+            "5.54g"
+          ],
+          [
+            "Pot 9",
+            "3.73g"
+          ],
+          [
+            "Pot 10",
+            "1.6g"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 14,
+      "text": "14\nTable 5: Biomass values per pot on harvest day 5\nHarvest Day 5\nPot #\nBiomass (g)\nPot 1 (control)\n35.99g\nPot 2\n14.01g\nPot 3\n19.11g\nPot 4\n30.81g\nPot 5\n31.69g\nPot 6 (control)\n20.70g\nPot 7\nno data collected\nPot 8\nno data collected\nPot 9\nno data collected\nPot 10\nno data collected",
+      "char_count": 278,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Harvest Day 5",
+            ""
+          ],
+          [
+            "Pot #",
+            "Biomass (g)"
+          ],
+          [
+            "Pot 1 (control)",
+            "35.99g"
+          ],
+          [
+            "Pot 2",
+            "14.01g"
+          ],
+          [
+            "Pot 3",
+            "19.11g"
+          ],
+          [
+            "Pot 4",
+            "30.81g"
+          ],
+          [
+            "Pot 5",
+            "31.69g"
+          ],
+          [
+            "Pot 6 (control)",
+            "20.70g"
+          ],
+          [
+            "Pot 7",
+            "no data collected"
+          ],
+          [
+            "Pot 8",
+            "no data collected"
+          ],
+          [
+            "Pot 9",
+            "no data collected"
+          ],
+          [
+            "Pot 10",
+            "no data collected"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 15,
+      "text": "15\nAdditional photos of some of our SEDS GOES GREEN members working throughout the\nPlant the Moon Challenge:",
+      "char_count": 108,
+      "image_count": 4,
+      "tables": []
+    },
+    {
+      "page_number": 16,
+      "text": "16",
+      "char_count": 2,
+      "image_count": 2,
+      "tables": []
+    }
+  ]
+}

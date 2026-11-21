@@ -1,0 +1,86 @@
+{
+  "extraction": {
+    "report_id": "spring21-main-titan-agri-5b98b1",
+    "extraction_method": "heuristic",
+    "model_name": "table-aware-lexicon-v2",
+    "celestial_body": "lunar",
+    "regolith_simulant": "unspecified",
+    "regolith_simulant_raw": null,
+    "crop_common_name": "microgreens",
+    "crop_scientific_name": null,
+    "crop_guild": "microgreen",
+    "experimental_duration_days": 29.0,
+    "total_plants_or_pots": null,
+    "replicates_per_treatment": null,
+    "has_earth_soil_control": false,
+    "has_unamended_regolith_control": false,
+    "statistical_tests_reported": [
+      "ANOVA",
+      "Linear Regression",
+      "Standard Deviation / Error",
+      "p-value"
+    ],
+    "data_availability": "summary_means",
+    "primary_bottlenecks": [
+      "compaction_crusting",
+      "nutrient_deficiency",
+      "microbial_contamination",
+      "light_or_temperature_stress"
+    ],
+    "innovation_tags": [
+      "microbial_mycorrhizal",
+      "light_spectrum_env"
+    ],
+    "key_hypothesis": "We hypothesized that there would be significant differences in plant yield (plant height",
+    "summary_findings": "The results of one-way ANOVA show an overall significant",
+    "arms": [
+      {
+        "arm_id": "arm_trt_1",
+        "arm_label": "Treatment (bacteria)",
+        "is_control": false,
+        "control_type": "none",
+        "regolith_pct": null,
+        "amendment_category": "microbial_mycorrhizal",
+        "amendment_detail": "bacteria",
+        "amendment_dose": null,
+        "germination_rate_pct": null,
+        "survival_rate_pct": null,
+        "mean_shoot_height_cm": null,
+        "mean_root_length_cm": null,
+        "mean_fresh_biomass_g": null,
+        "mean_dry_biomass_g": null,
+        "substrate_ph": null,
+        "outcome_vs_regolith_control": "not_reported",
+        "reported_effect_pct": null,
+        "evidence_quote": "If there is too much humidity, mold and bacteria will be given a good place to grow.",
+        "page_number": 6
+      },
+      {
+        "arm_id": "arm_trt_2",
+        "arm_label": "Treatment (red light)",
+        "is_control": false,
+        "control_type": "none",
+        "regolith_pct": null,
+        "amendment_category": "light_spectrum_env",
+        "amendment_detail": "red light",
+        "amendment_dose": null,
+        "germination_rate_pct": null,
+        "survival_rate_pct": null,
+        "mean_shoot_height_cm": null,
+        "mean_root_length_cm": null,
+        "mean_fresh_biomass_g": null,
+        "mean_dry_biomass_g": null,
+        "substrate_ph": null,
+        "outcome_vs_regolith_control": "not_reported",
+        "reported_effect_pct": null,
+        "evidence_quote": "to a study conducted on the effect of different lights on plant growth, blue and red light is",
+        "page_number": 4
+      }
+    ]
+  },
+  "provenance_audit": {
+    "quotes_checked": 2,
+    "quotes_matched": 2,
+    "quote_match_rate": 1.0
+  }
+}

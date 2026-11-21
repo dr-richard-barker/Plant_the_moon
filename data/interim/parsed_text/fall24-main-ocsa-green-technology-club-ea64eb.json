@@ -1,0 +1,200 @@
+{
+  "report_id": "fall24-main-ocsa-green-technology-club-ea64eb",
+  "sha256": "cdc521277da5741e7bc087b1d8457b771a2f66117bac5200020bd33286c20ca2",
+  "page_count": 12,
+  "total_chars": 17628,
+  "avg_chars_per_page": 1469.0,
+  "total_images": 10,
+  "table_count": 6,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Optimizing Spinach Growth in Simulated Lunar Conditions: Investigating Soil\nComposition and Nutrient Amendments for Extraterrestrial Agriculture\nTeam Name: OCSA Green Technology Club\nTeam ID: 19034\nRyan Jung, Andrew Jung, Henry Kim, Aryan Sharma, Isaac Chun\nChallenge category: High School",
+      "char_count": 289,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "text": "Introduction\nLike all other living organims, plants have definite needs for their growth and cultivation. Plants\ngrow and develop mainly through photosynthesis, transforming light energy into chemical\nenergy stored in glucose\u2014a very important compound that serves to fuel their growth. To do\nthis, plants require a sufficient supply of light, water, air, and essential nutrients from the soil. All\nthese elements are critical in driving photosynthesis, supporting the development of a strong root\nsystem, and generally maintaining the health of plants (Johnson, 2016). Additionally,\nenvironmental factors like temperature and soil pH influence plant growth, and interactions with\nbeneficial microorganisms can increase nutrient uptake and tolerance.\nMore recent milestones, such as NASA's Artemis program and international lunar exploration\ninitiatives, have sparked a new era of sustained presence on the Moon, making plant cultivation\nin space one of the most critical research areas. Plants provide reliable sustenance and contribute\nsignificantly to producing oxygen and recycling carbon dioxide, which is indispensable in\nlong-duration space travel. However, because of the harsh lunar conditions and lack of earthy\nsoil, new agricultural methods must be designed for growing and sustaining on the Moon.\nThe moon's surface is blanketed by lunar regolith, a layer of loose, fragmental, rocky material. In\ncontrast to terrestrial soil, regolith lacks organic matter on which microbial life and nutrient\ncycling could be supported. It also lacks nutrients essential to plant growth, including nitrogen\nand phosphorus. Moreover, lunar regolith has a sharp and abrasive texture, a low capacity for\nwater retention, and a high pH, which can impede traditional agricultural practices (Ding et al.,\n2024).\nThe experiment described herein will help answer such challenges by investigating spinach\nplants' growth in various terrestrial soil mixtures and lunar regolith simulants. It would aim to\nexplore the optimal plant growth medium in a lunar environment with nutritional amendments\nlike nitrogen and phosphorus and mixtures of Earth soil with regolith simulant. The results will\nfacilitate progress in current lunar farming research.\nResearch Question:\nHow does soil composition, either 50% Earth soil and 50% lunar simulant versus 100% lunar\nsimulant with nutrient amendments such as phosphorus and nitrogen, or both combined, affect\nspinach growth in a simulated lunar environment?\nVariables:\nIndependent Variables\nDependent Variables",
+      "char_count": 2536,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Independent Variables",
+            "Dependent Variables"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "Soil Composition (50%/100% lunar regolith)\nMacronutrient amendment (P + N, N, P)\nPlant Growth\n-\nStem width\n-\nDry mass\n-\nHeight\n-\nLeaf count\nWater retention\n-\nSoil moisture level\nControls: Red Growth Light (12hr on/off), temperature range (indoor), humidity, and watering\n(using soil moisture meter) will be kept constant across all groups to ensure that observed\ndifferences are solely due to soil and nutrient conditions.\nRationale for Parameter:\nResearch in lunar agriculture shows that it is difficult for plants to grow in pure regolith due to\nlow nutrients, absence of organic matter, and problems related to water retention (Fackrell et al.,\n2024). Lunar soil has low cation exchange capacity (CEC) that makes retaining nutrients very\ndifficult for plants (Jackson & Saha, 2024). Most studies have shown nutrient supplementation to\nbe very crucial for plants in lunar environment, since regolith does not hold nutrients and\nretention like Earth soil does. Adding micronutrients like nitrogen and phosphorus and adjusting\nsoil composition aims to remedy these deficiencies for healthy growth by potentially satisfying\nplant\u2019s nutrition requirements and improving water retention.\nExperimental design:\nTo begin the experiment, soil mixtures will be prepared by thoroughly mixing Earth soil and\nlunar simulant in appropriate ratios using percent conversion of volumes. In preparing the 50%\nEarth soil and 50% lunar simulant composition, equal portions of each material will be measured\nand mixed until the blend appears uniform. Only lunar simulant will be used for the 100% lunar\nsimulant composition. Each pot will be filled with 200 mL of corresponding soil composition. It\nwill be ensured that the soil mix in all pots is packed well and distributed evenly to form an\nadequate control across the experimental groups.\nOnce the soil is prepared, micronutrients will be applied to each pot. With 1.5g of phosphorus\ngranules incorporated into the soil, those plants are labeled as phosphorus following the nutrient\namendment schedule. Pots receiving the combination of phosphorus and nitrogen will be given\n0.75g of each. In the nitrogen-only treatment, 1.5g of nitrogen granules will be applied.\nMicronutrient application will be uniform over the soil in each pot to prevent any localized\nconcentration. Additionally, control group would not receive any amendments.",
+      "char_count": 2369,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "SoilComposition (50%/100%lunarregolith) Macronutrientamendment (P +N, N, P)",
+            "PlantGrowth - Stemwidth - Dry mass - Height - Leafcount Waterretention - Soilmoisturelevel"
+          ]
+        ],
+        [
+          [
+            "Tobegintheexperiment,soilmixtureswillbepreparedbythoroughlymixingEarthsoiland"
+          ],
+          [
+            "lunarsimulantinappropriateratiosusingpercentconversionof volumes.In preparingthe50%"
+          ],
+          [
+            "Earthsoiland50% lunarsimulantcomposition,equalportionsof eachmaterialwillbemeasured"
+          ],
+          [
+            "andmixeduntiltheblendappearsuniform.Onlylunarsimulantwillbeused for the100% lunar"
+          ],
+          [
+            "simulantcomposition.Eachpotwillbefilledwith200mLof correspondingsoilcomposition.It"
+          ],
+          [
+            "willbeensuredthatthesoilmixinallpotsispackedwellanddistributedevenlytoforman"
+          ],
+          [
+            "adequatecontrolacross theexperimentalgroups."
+          ]
+        ],
+        [
+          [
+            "Oncethesoilisprepared,micronutrientswillbeappliedtoeachpot.With1.5gof phosphorus"
+          ],
+          [
+            "granulesincorporatedintothesoil,thoseplantsarelabeledas phosphorus followingthenutrient"
+          ],
+          [
+            "amendmentschedule.Pots receivingthecombinationof phosphorus andnitrogenwillbegiven"
+          ],
+          [
+            "0.75gof each.In thenitrogen-onlytreatment,1.5gof nitrogengranuleswillbeapplied."
+          ],
+          [
+            "Micronutrientapplicationwillbeuniformoverthesoilineachpottopreventanylocalized"
+          ],
+          [
+            "concentration.Additionally,controlgroup wouldnotreceiveanyamendments."
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "Spinach seeds, chosen for its fast rate of germination and growth, will be planted in each pot.\nThree seeds will be sown evenly and about \u00bc inch in depth into the soil. This will provide a\nproper and uniform condition of germination and growth. Then, pots are placed in an\nenvironment whose main variables, such as temperature, humidity, and light, remain constant\nthroughout the experiment.\nLighting will be in the form of 12-hour cycles of red light in a growth chamber, imitating equal\nconditions in moisture, temperature, and alternate factors for photosynthesis.\nThe watering will be on a daily basis (omitted if sufficient water level), depending on our sensor\nmonitors' soil moisture. Drip irrigation is used in maintaining soil moisture at a 50% constant\nlevel and ensuring there is uniformity of moisture in the soil for the plants. Every plant is\nwatered with just the right amount, which comes out uniformly via the irrigation system. So, the\nmoisture of the soil will be monitored by a soil moisture meter and accordingly, adjustments will\nbe made to maintain the optimum growing conditions. All the watering during the experiment\nshall be done with distilled water to ensure that no unaccounted minerals or chemicals are added.\nMeasurement & procedure:\nData will be collected every three days over the eight-week experimental period. Measurements\nwill include plant height, leaf count (data not shown due to space limitations), and stem diameter\nto assess growth and development. The environmental data, including temperature, humidity, and\nsoil moisture, are also accounted for. Finally, plants will be harvested at the end of the\nexperiment to measure additional metrics that quantify biomass and photosynthetic capacity,\nsuch as shoot dry weight. Digital photographs will also be taken periodically over time to\nvisually represent the progress and development of plants.",
+      "char_count": 1886,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Spinachseeds, chosenfor itsfastrateof germinationandgrowth, willbeplantedineachpot."
+          ],
+          [
+            "Threeseeds willbesown evenlyandabout\u00bcinchindepthintothesoil.Thiswillprovidea"
+          ],
+          [
+            "properanduniformconditionof germinationandgrowth. Then,potsareplacedinan"
+          ],
+          [
+            "environmentwhose mainvariables,such as temperature,humidity,andlight,remainconstant"
+          ],
+          [
+            "throughouttheexperiment."
+          ],
+          [
+            "Lightingwillbeintheformof 12-hour cyclesof redlightinagrowth chamber,imitatingequal"
+          ],
+          [
+            "conditionsinmoisture,temperature,andalternatefactorsfor photosynthesis."
+          ]
+        ],
+        [
+          [
+            "Thewateringwillbeonadailybasis(omittedifsufficientwaterlevel),dependingonour sensor"
+          ],
+          [
+            "monitors'soilmoisture.Drip irrigationisused inmaintainingsoilmoistureata50% constant"
+          ],
+          [
+            "levelandensuringthereisuniformityof moistureinthesoilfor theplants.Everyplantis"
+          ],
+          [
+            "wateredwithjusttherightamount,whichcomesoutuniformlyviatheirrigationsystem.So, the"
+          ],
+          [
+            "moistureof thesoilwillbemonitoredbyasoilmoisturemeterandaccordingly, adjustmentswill"
+          ],
+          [
+            "bemadetomaintaintheoptimumgrowing conditions.Allthewateringduringtheexperimen"
+          ],
+          [
+            "shallbedonewithdistilledwatertoensurethatnounaccountedmineralsor chemicalsareadded"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 5,
+      "text": "Results:\nFigure 1.1: Average temperature and atmospheric humidity over 8 weeks\nStandard Deviation Calculation;\n\u03c3: Population standard deviation\nN: Total number of data points\nxi\u200b: Each data point\n\u03bc: Population mean\nFigure 2.1: Plant height measured over 8 weeks in three-day intervals.",
+      "char_count": 285,
+      "image_count": 3,
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "text": "Here, the growth of 50% Earth + 50% Lunar with a mix of P and N achieved the highest height\nof 8.5 cm, followed by 50% E + L Nitrogen at 6.1 cm, 100% Lunar P + N at 6.0 cm, 50% E + L\nPhosphorus at 5.4 cm, 100% Lunar N at 5.0cm, 100% lunar phosphorus at 3.5 cm, and control at\n3.0 cm.\nFigure 2.2: Soil PH over 8 weeks in three-day intervals.\nAll of the soil, regardless of amendment, begins at 8.0 pH, which is higher than an average\nearth\u2019s soil. Over the 8 weeks, all of the soil settled at 7.0pH.",
+      "char_count": 498,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "text": "Figure 2.3: Soil moisture over 8 weeks in three-day intervals. Measurements were taken 6 hours\nafter each watering.\nOn average, the water retention of 50% E + L is higher than that of 100% lunar soil.\nAdditionally, the soils with amendments had a higher water retention.\nFigure 2.4: Final Shoot Dry Mass categorized by soil composition and amendments.\nfigure 2.4 (c) show that the P + N mix had optimal growth while the earth and lunar mix also had\nbetter growth than its 100% lunar counterpart in figure 2.4 (a)(b)\nDiscussion\nThe experimental results revealed that spinach plants achieved optimal growth in the 50% Earth\nsoil + 50% lunar regolith mixture supplemented with both phosphorus (P) and nitrogen (N)\namendments. This group consistently exhibited the greatest plant height, dry mass, and overall\nhealth, underscoring the importance of balanced nutrient supplementation and soil composition\nin extraterrestrial farming. In contrast, the 100% lunar regolith groups demonstrated significantly\nreduced growth, highlighting the challenges associated with using lunar regolith as a standalone\ngrowth medium due to its low nutrient content, poor water retention, and high alkalinity.\nPlant Height ( Figure 2.1)\nThe tallest plants grew in the 50% Earth + 50% Lunar soil mixture with a combination of\nphosphorus (P) and nitrogen (N). This can be explained by the role of these nutrients in plant\nphysiology:",
+      "char_count": 1408,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "text": "Nitrogen's Role Nitrogen is a critical macronutrient for plant growth. It is a key\ncomponent of amino acids, proteins, and chlorophyll. Chlorophyll directly impacts\nphotosynthesis, enabling plants to produce the energy needed for growth. Nitrogen\ndeficiency has been linked to stunted growth and pale leaves due to reduced chlorophyll\ncontent (Zayed et al., 2023).\nPhosphorus's Role Phosphorus is essential for energy transfer within the plant, as it is a\nprimary component of ATP (adenosine triphosphate). It supports root development and\nearly plant growth (Khan et al., 2023).\nSynergistic Nutrient Effects The combination of phosphorus and nitrogen increases\nphotosynthesis and metabolic processes compared to using a single nutrient, increasing\ngrowth. This is consistent with results from terrestrial agriculture, where balanced\nnutrient management has been shown to increase crop yield substantially than single\nnutrient (Tilman et al., 2002).\nSoil Composition Impact The 50% Earth + 50% Lunar mixture provided a more\nfavorable physical environment than pure lunar simulant. Terrestrial soil likely\ncontributed organic matter and improved the medium's water retention and aeration\nproperties.\nSoil pH (Figure 2.2)\nAll soils started at a high pH of 8.0 but stabilized at 7.0 over the 8 weeks.\nHigh Initial pH in Lunar Regolith: Lunar regolith is inherently alkaline due to its\nmineralogical composition (Ding et al., 2024). These compounds dissolve in water,\ncreating an initial high pH environment unsuitable for plant growth.\npH Stabilization: The decrease in pH over time could be attributed to nutrient\namendments and organic acids released during plant root exudation. For instance,\nphosphorus fertilizers can react with soil components, slightly reducing pH. Additionally,\nroot exudates, including organic acids like citric acid, are known to acidify the\nrhizosphere, promoting nutrient solubility (Ma et al., 2022).\n3. Figure 2.3: Soil Moisture\nThe higher water retention in the 50% Earth + 50% Lunar soil mixture compared to pure lunar\nsimulant is consistent with the properties of terrestrial soil:",
+      "char_count": 2112,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "text": "Terrestrial Soil Contribution: Earth soil contains organic matter and clay particles,\nwhich improve water-holding capacity due to their high surface area and hydrophilic\nproperties (UNL, n.d.). Lunar regolith, by contrast, lacks organic matter and has a coarse,\nabrasive texture, resulting in poor water retention.\nImpact of Nutrient Amendments: Soils with phosphorus and nitrogen amendments\nretained more moisture. This could be due to fertilizers improving soil aggregation and\nstructure, indirectly enhancing water-holding capacity (Khangura et al., 2023).\n4. Figure 2.4: Final Shoot Dry Mass\nThe dry mass data corroborates the plant height results. The P + N treatment consistently\nsupported optimal growth and biomass production.\nMacronutrient in Lunar environment: The final shoot dry mass results align with the\nplant height data (Figure 2.1), demonstrating that the combination of phosphorus (P) and\nnitrogen (N) amendments consistently supported the highest levels of growth and\nbiomass production across all soil compositions. These findings highlight the critical role\nof macronutrient availability in enhancing plant physiological processes, particularly in\nresource-limited environments like those simulated with lunar regolith.\nAssumptions and Limitations The experiment assumed that nutrient amendments and soil\nmixtures would have uniform effects across all plants. Environmental conditions such as\ntemperature, light, and humidity were also controlled but could have been more extensively\noptimized or varied to simulate potential fluctuations in lunar environments. Another assumption\nwas that the lunar simulant accurately represented lunar regolith, though particle size and\nchemical composition differences may exist.\nFuture Improvements To enhance the experiment, future iterations should:\n1. Investigate the effects of varying light spectrums and intensities to better replicate lunar\nlighting conditions.\n2. Include more granular monitoring of soil pH and nutrient depletion over time to refine\namendment strategies.\n3. Test additional soil mixtures and alternative amendments to identify other viable options\nfor plant growth.\n4. Expand the scope to include longer growth cycles and the effects of recycling plant\nmaterial to simulate a closed-loop system.",
+      "char_count": 2281,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "text": "This study provides a solid foundation for future research into extraterrestrial agriculture,\nadvancing the development of sustainable food production systems for long-term space missions\nand lunar habitation.\nConclusion:\nThis experiment shows that it is possible to improve plant growth in extraterrestrial\nenvironments through adjustings soil composition and targeted nutrient amendments. The results\nbring into light the critical importance of soil composition, nutrient balance, and water retention\nin optimizing plant development in challenging conditions. The 50% Earth soil + 50% lunar\nregolith mixture, enriched with phosphorus (P) and nitrogen (N), was found to consistently\nprovide the best environment for spinach growth with the highest plant height, biomass, and\noverall health of the plants compared to the other treatments.\nThese findings show that crops can be grown on the Moon using appropriate soil amendments\nand mixtures. Such a study will also provide valuable insights into the physiological\nrequirements of plants under resource-limited settings and opens avenues toward innovative\nsolutions in extraterrestrial agriculture. This research contributes to the bigger goal of sustaining\nhuman life during long-term space exploration missions by addressing the challenges of lunar\nregolith. The pace of future research in light optimization, nutrient cycling, and alternative soil\namendments will only fine-tune these strategies, furthering by degrees humanity's ability to grow\nfood away from Earth.\nPhotos:",
+      "char_count": 1528,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "text": "References:\nFackrell, L. E., Humphrey, S., Loureiro, R., Palmer, A. G., & Long-Fox, J. (2024,\nSeptember 12). Overview and recommendations for research on plants and\nmicrobes in regolith-based agriculture. Nature News.\nhttps://www.nature.com/articles/s44264-024-00013-5\nJackson, D. L., & Saha, U. K. (2024, July 1). Cation exchange capacity and base\nsaturation. University of Georgia Extension.\nhttps://extension.uga.edu/publications/detail.html?number=C1040&title=cation-exc\nhange-capacity-and-base-saturation#:~:text=soil%20pH%20levels.-,Significance%\n20of%20CEC%20and%20BS,cations%20at%20a%20given%20pH.\nJinghang Ding, Arthur, E., Barone, G. D., Berni, R., C\u00e1mara, B., Caporale, A. G., Cole, J.\nD., Cristina, G., Curry, J. P., Dhaliwal, S. S., Fais, G., Feng, D., Fernandez, B. G.,\nHagerty, J. J., Hempsell, M., Hoshino, T., Hossner, L. R., Huang, Y., Jiang, Z., \u2026\nVera, J.-P. de. (2024, July 14). How to make lunar soil suitable for cultivation? \u2013 A\nReview. Science of The Total Environment.\nhttps://www.sciencedirect.com/science/article/abs/pii/S0048969724047521",
+      "char_count": 1066,
+      "image_count": 3,
+      "tables": []
+    },
+    {
+      "page_number": 12,
+      "text": "Johnson, M. P. (2016, October 31). Photosynthesis. Essays in biochemistry.\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC5264509/\nKhan, F., Siddique, A. B., Shabala, S., Zhou, M., & Zhao, C. (2023, August 3). Phosphorus\nplays key roles in regulating plants\u2019 physiological responses to abiotic stresses.\nPlants (Basel, Switzerland). https://pmc.ncbi.nlm.nih.gov/articles/PMC10421280/\nKhangura, R., Ferris, D., Wagg, C., & Bowyer, J. (2023, January 27). Regenerative\nagriculture-a literature review on the practices and mechanisms used to improve\nsoil health. MDPI.\nhttps://www.mdpi.com/2071-1050/15/3/2338#:~:text=Increased%20water%20infilt\nration%20combined%20with,to%20store%20moisture%20%5B175%5D.\nMa, W., Tang, S., Dengzeng, Z., Zhang, D., Zhang, T., & Ma, X. (2022, October 5). Root\nexudates contribute to belowground ecosystem hotspots: A Review. Frontiers in\nmicrobiology. https://pmc.ncbi.nlm.nih.gov/articles/PMC9581264/\nUNL water. UNL Water | Nebraska. (n.d.).\nhttps://water.unl.edu/article/animal-manure-management/connection-between-soil-o\nrganic-matter-and-soil-water/\nZayed, O., Hewedy, O. A., Abdelmoteleb, A., Ali, M., Youssef, M. S., Roumia, A. F.,\nSeymour, D., & Yuan, Z.-C. (2023, September 25). Nitrogen Journey in plants:\nFrom uptake to metabolism, stress response, and microbe interaction.\nBiomolecules. https://pmc.ncbi.nlm.nih.gov/articles/PMC10605003/",
+      "char_count": 1370,
+      "image_count": 0,
+      "tables": []
+    }
+  ]
+}

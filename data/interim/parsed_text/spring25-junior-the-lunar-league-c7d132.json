@@ -1,0 +1,68 @@
+{
+  "report_id": "spring25-junior-the-lunar-league-c7d132",
+  "sha256": "72801e17ae0aa1cd73e9ad9d6d9864c04cd92cc3e65bf16e28482de86c55ddde",
+  "page_count": 8,
+  "total_chars": 0,
+  "avg_chars_per_page": 0.0,
+  "total_images": 23,
+  "table_count": 0,
+  "parse_quality": "image_or_scanned",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "",
+      "char_count": 0,
+      "image_count": 3,
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "text": "",
+      "char_count": 0,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "text": "",
+      "char_count": 0,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "text": "",
+      "char_count": 0,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "text": "",
+      "char_count": 0,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "text": "",
+      "char_count": 0,
+      "image_count": 3,
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "text": "",
+      "char_count": 0,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "text": "",
+      "char_count": 0,
+      "image_count": 7,
+      "tables": []
+    }
+  ]
+}

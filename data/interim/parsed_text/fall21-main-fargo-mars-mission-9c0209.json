@@ -1,0 +1,419 @@
+{
+  "report_id": "fall21-main-fargo-mars-mission-9c0209",
+  "sha256": "d42e68c6f5cc140c27eaa79cbab470cb7b1259c1714b6f6157fd626edd4906f2",
+  "page_count": 9,
+  "total_chars": 4633,
+  "avg_chars_per_page": 514.8,
+  "total_images": 17,
+  "table_count": 14,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "TITLE \nHow does Rhizobium bacteria affect plant growth when planted in mars soil? \n \nBACKGROUND \nThe objective of our experiment was to test the capabilities of the bacterium rhizobium. Rhizobium is a bacteria \nassociated with the formation of root nodules on plants. It has the capability of taking in nitrogen from the \natmosphere and passing it on to the plant, allowing it to grow in soil low in nitrogen, like what was observed in \nthe Mars soil. We would evaluate the efficacy of the rhizobia by seeing which of the other pots the rhizobia \nemulated: pots treated with water only, or pots given a nitrogen solution. \n \nEXPERIMENT DESIGN \nOur team grew and documented the plants at the NDSU greenhouses within the NDSU Agricultural Experiment \nStation Research Greenhouse Complex. When we set up the plants, we included 3 different pots with seeds \ninside for nitrogen, water, and rhizobium to test whether the bacteria would affect the plant growth in different \nsoil. By creating multiple pots with different additives, we could have multiple test experiments to be sure to see \nif rhizobium bacteria would help plants grow effectively. \n \nHYPOTHESES \nThe aim of this project is to experiment with lunar soil to see if plants (peas in the experiment) can grow on \nother planets without using certain resources (such as nitrogen.) Rhizobium bacteria can alleviate the \nrequirement for nitrogen fertilization in peas and soybeans are grown in Martian regolith. \n \nINDEPENDENT VARIABLE \nOur independent variables were nitrogen and the presence of rhizobia. \n \nDEPENDENT VARIABLE \nWe measured the effect of our independent variables by looking at plant growth. Data was collected on plant \nheight and chlorophyll weekly. We measured shoot weight, nodule number and maturity after the final week of \nthe grow period. \n \nMEASUREMENTS \nData was collected on plant height and chlorophyll weekly. We measured shoot weight, nodule number and \nmaturity after the final week of the grow period. \n \nCONTROLS \nOur control for each planet was water and environment. All the plants were in the same environment inside of \nthe greenhouse, and each plant was watered as well. \n \n \nRESULTS \n \nMars \naverage \ngrowth \n(cm) \nWater \nNitrogen \nRhizobium \nMoon \naverage \ngrowth \n(cm) \nWater \nNitrogen \nRhizobium \nWeek 1 \n.67 \n.04 \n.39 \nWeek 1 \n1.13 \n2.27 \n.859",
+      "char_count": 2342,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "The objective of our experiment was to test the capabilities of the bacterium rhizobium. Rhizobium is a bacteria"
+          ],
+          [
+            "associated with the formation of root nodules on plants. It has the capability of taking in nitrogen from the"
+          ],
+          [
+            "atmosphere and passing it on to the plant, allowing it to grow in soil low in nitrogen, like what was observed in"
+          ],
+          [
+            "the Mars soil. We would evaluate the efficacy of the rhizobia by seeing which of the other pots the rhizobia"
+          ],
+          [
+            "emulated: pots treated with water only, or pots given a nitrogen solution."
+          ]
+        ],
+        [
+          [
+            "Station Research Greenhouse Complex. When we set up the plants, we included 3 different pots with seeds"
+          ],
+          [
+            "inside for nitrogen, water, and rhizobium to test whether the bacteria would affect the plant growth in different"
+          ],
+          [
+            "soil. By creating multiple pots with different additives, we could have multiple test experiments to be sure to see"
+          ],
+          [
+            "if rhizobium bacteria would help plants grow effectively"
+          ]
+        ],
+        [
+          [
+            "Mars average growth (cm)",
+            "Water",
+            "Nitrogen",
+            "Rhizobium",
+            "Moon average growth (cm)",
+            "Water",
+            "Nitrogen",
+            "Rhizobium"
+          ],
+          [
+            "Week 1",
+            ".67",
+            ".04",
+            ".39",
+            "Week 1",
+            "1.13",
+            "2.27",
+            ".859"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "Week 2 \n1.27 \n1.33 \n4.05 \nWeek 2 \n6.28 \n6.26 \n3.48 \nWeek 3 \n1.37 \n.6 \n3.93 \nWeek 3 \n9.28 \n8.15 \n8.5 \nWeek 4 \n1.23 \n.3 \n3.4 \nWeek 4 \n11.76 \n11.8 \n7.57 \nWeek 5 \nn/a \nn/a \nn/a \nWeek 5 \nn/a \nn/a \nn/a \nWeek 6 \nn/a \nn/a \nn/a \nWeek 6 \n13.48 \n12.93 \n10.46 \nWeek 7 \n.97 \n.3 \n2.5 \nWeek 7 \n15.98 \n15.75 \n11.48 \nWeek 8 \nn/a \nn/a \nn/a \nWeek 8 \n15.52 \n16.08 \n12.32 \nWeek 9 \nn/a \nn/a \nn/a \nWeek 9 \n16 \n17.75 \n14.4 \nWeek 10 \n1.5 \n6.125 \n0 \nWeek 10 \n16.94 \n14.94 \n15.68 \n \n \nAverage root nodules \nWater \nNitrogen \nRhizobium \nMars \nn/a \nn/a \nn/a \nMoon \n13.6 \n14 \n28.75 \n \nAverage beans grown \nWater \nNitrogen \nRhizobium \nMars \nn/a \nn/a \nn/a \nMoon \n1.6 \n1.75 \n1.2 \n \n \nMars \nChlorophyll \nSPAD \nreading \nWater \nNitrogen \nRhizobium \nMoon \nChlorophyll \nSPAD \nreading \nWater \nNitrogen \nRhizobium \nWeek 3 \nN/a \nn/a \nn/a \nWeek 3 \n46.43 \n29.23 \n39.37 \nWeek 4 \nn/a \nn/a \nn/a \nWeek 4 \n27.6 \n27.7 \n14.6 \nWeek 5 \nn/a \nn/a \nn/a \nWeek 5 \nn/a \nn/a \nn/a \nWeek 6 \nn/a \nn/a \nn/a \nWeek 6 \n21.23 \n24.07 \n10.6 \nWeek 7 \nn/a \nn/a \nn/a \nWeek 7 \n28.37 \n33.13 \n34.13 \nWeek 8 \nn/a \nn/a \nn/a \nWeek 8 \n19.375 \n27.4 \n22.24 \nWeek 9 \nn/a \nn/a \nn/a \nWeek 9 \n23.38 \n29.65 \n53.66 \nWeek 10 \nn/a \nn/a \nn/a \nWeek 10 \n16.04 \n39.48 \n35.125",
+      "char_count": 1181,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Week 2",
+            "1.27",
+            "1.33",
+            "4.05",
+            "Week 2",
+            "6.28",
+            "6.26",
+            "3.48"
+          ],
+          [
+            "Week 3",
+            "1.37",
+            ".6",
+            "3.93",
+            "Week 3",
+            "9.28",
+            "8.15",
+            "8.5"
+          ],
+          [
+            "Week 4",
+            "1.23",
+            ".3",
+            "3.4",
+            "Week 4",
+            "11.76",
+            "11.8",
+            "7.57"
+          ],
+          [
+            "Week 5",
+            "n/a",
+            "n/a",
+            "n/a",
+            "Week 5",
+            "n/a",
+            "n/a",
+            "n/a"
+          ],
+          [
+            "Week 6",
+            "n/a",
+            "n/a",
+            "n/a",
+            "Week 6",
+            "13.48",
+            "12.93",
+            "10.46"
+          ],
+          [
+            "Week 7",
+            ".97",
+            ".3",
+            "2.5",
+            "Week 7",
+            "15.98",
+            "15.75",
+            "11.48"
+          ],
+          [
+            "Week 8",
+            "n/a",
+            "n/a",
+            "n/a",
+            "Week 8",
+            "15.52",
+            "16.08",
+            "12.32"
+          ],
+          [
+            "Week 9",
+            "n/a",
+            "n/a",
+            "n/a",
+            "Week 9",
+            "16",
+            "17.75",
+            "14.4"
+          ],
+          [
+            "Week 10",
+            "1.5",
+            "6.125",
+            "0",
+            "Week 10",
+            "16.94",
+            "14.94",
+            "15.68"
+          ]
+        ],
+        [
+          [
+            "Average root nodules",
+            "Water",
+            "Nitrogen",
+            "Rhizobium"
+          ],
+          [
+            "Mars",
+            "n/a",
+            "n/a",
+            "n/a"
+          ],
+          [
+            "Moon",
+            "13.6",
+            "14",
+            "28.75"
+          ]
+        ],
+        [
+          [
+            "Average beans grown",
+            "Water",
+            "Nitrogen",
+            "Rhizobium"
+          ],
+          [
+            "Mars",
+            "n/a",
+            "n/a",
+            "n/a"
+          ],
+          [
+            "Moon",
+            "1.6",
+            "1.75",
+            "1.2"
+          ]
+        ],
+        [
+          [
+            "Mars Chlorophyll SPAD reading",
+            "Water",
+            "Nitrogen",
+            "Rhizobium",
+            "Moon Chlorophyll SPAD reading",
+            "Water",
+            "Nitrogen",
+            "Rhizobium"
+          ],
+          [
+            "Week 3",
+            "N/a",
+            "n/a",
+            "n/a",
+            "Week 3",
+            "46.43",
+            "29.23",
+            "39.37"
+          ],
+          [
+            "Week 4",
+            "n/a",
+            "n/a",
+            "n/a",
+            "Week 4",
+            "27.6",
+            "27.7",
+            "14.6"
+          ],
+          [
+            "Week 5",
+            "n/a",
+            "n/a",
+            "n/a",
+            "Week 5",
+            "n/a",
+            "n/a",
+            "n/a"
+          ],
+          [
+            "Week 6",
+            "n/a",
+            "n/a",
+            "n/a",
+            "Week 6",
+            "21.23",
+            "24.07",
+            "10.6"
+          ],
+          [
+            "Week 7",
+            "n/a",
+            "n/a",
+            "n/a",
+            "Week 7",
+            "28.37",
+            "33.13",
+            "34.13"
+          ],
+          [
+            "Week 8",
+            "n/a",
+            "n/a",
+            "n/a",
+            "Week 8",
+            "19.375",
+            "27.4",
+            "22.24"
+          ],
+          [
+            "Week 9",
+            "n/a",
+            "n/a",
+            "n/a",
+            "Week 9",
+            "23.38",
+            "29.65",
+            "53.66"
+          ],
+          [
+            "Week 10",
+            "n/a",
+            "n/a",
+            "n/a",
+            "Week 10",
+            "16.04",
+            "39.48",
+            "35.125"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "DISCUSSION AND CONCLUSIONS \n \nMars \nThe objective of the Mars experiment was to also use the rhizobium and test if it would be more effective for \ngrowing the plant. We used the exact same experiment, same amount of water, and same amount of \nmeasurements as the Moon experiment, however, the outcome was completely different. \n \nWe were completely unable to take any chlorophyll readings. In the first 4 weeks we saw some growth, which \nwas hopeful. The growth was extremely small though and barely noticeable. Even though we saw tiny growth, \nit wasn\u2019t enough growth to be able to use the chlorophyll SPAD reader because the leaves were too small. \nTowards week 5, we were no longer able to see any growth. In fact, a lot of the plants shrunk and shriveled up. \nThe plants most likely died in the Mars regolith. We tried to revive them by increasing the weekly water amount \nthey received, however it did not help at all. The Mars plants had completely failed, and the rhizobium bacteria \nwas not effective. \n \nPHOTOS \n \nWeek # \nMars \nWeek 1",
+      "char_count": 1043,
+      "image_count": 1,
+      "tables": [
+        [
+          [
+            "Week #",
+            "Mars"
+          ],
+          [
+            "Week 1",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "Week 2",
+      "char_count": 6,
+      "image_count": 4,
+      "tables": [
+        [
+          [
+            "Week 2",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 5,
+      "text": "Week 3 \n \nWeek 4",
+      "char_count": 16,
+      "image_count": 3,
+      "tables": [
+        [
+          [
+            "Week 3",
+            ""
+          ],
+          [
+            "Week 4",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 6,
+      "text": "Week 5 \n \nWeek 6",
+      "char_count": 16,
+      "image_count": 3,
+      "tables": [
+        [
+          [
+            "Week 5",
+            ""
+          ],
+          [
+            "Week 6",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 7,
+      "text": "Week 7",
+      "char_count": 6,
+      "image_count": 2,
+      "tables": [
+        [
+          [
+            "Week 7",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 8,
+      "text": "Week 8 \n \nWeek 9",
+      "char_count": 16,
+      "image_count": 2,
+      "tables": [
+        [
+          [
+            "Week 8",
+            ""
+          ],
+          [
+            "Week 9",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 9,
+      "text": "Week 10",
+      "char_count": 7,
+      "image_count": 2,
+      "tables": [
+        [
+          [
+            "Week 10",
+            ""
+          ]
+        ]
+      ]
+    }
+  ]
+}

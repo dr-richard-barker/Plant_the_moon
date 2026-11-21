@@ -1,0 +1,117 @@
+{
+  "report_id": "fall21-junior-stoddard-stars-5e1e58",
+  "sha256": "f8a97a5907eddf12aad612ff772488f0fdd2d6eb673fed564080bfa4078bce48",
+  "page_count": 6,
+  "total_chars": 5619,
+  "avg_chars_per_page": 936.5,
+  "total_images": 5,
+  "table_count": 1,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Team Name: Stoddard Stars Team #: 8638 \n \nPlant The Moon Challenge \n \nExperimental Parameters \n \nOur team has chosen to set up 9 experimental pots to study how lighting and watering \ncan affect growth. Each setup has the same 3 experimental pots within each group. Within \neach group all pots have been plotted with 1 part Miracle Gro Garden Soil to 6 parts Moon soil. \nThe pots alter by how and what is used for watering. One pot within each group is on a regular \nwatering cycle with no supplements, another pot within each group is on a regular watering \ncycle but has fertilizer added to the water, the last pot within each group is self-watered with \nregular water. Between the 3 experimental groups our lighting is altered by the following: \nNatural Light, Grow Lights, Limited Light. \n \nControlled \u2013 Soil Combinations \nDependent \u2013 Growth of lettuce \nIndependent \u2013 Water, fertilizer, self-watering, natural light, grow lights, limited light \n \nProject Hypothesis or Aim \n \nDoes the type of lighting and watering have a true effect on plant growth? \nMy class is split in a 3-way tie with their hypothesis on which lighting will be best for lettuce \ngrowth. However, everyone is in agreeance that the self-watered pot is the best watering \noutcome. \n1. The pot that is exposed to natural lighting and being self-watered will produce the \nmost lettuce growth. This is because plants need sunlight for photosynthesis and it \nwill always have a source for water with it being self-watered. \n2. The pot that is under grow lights and being self-watered will produce the most \nlettuce growth. We believe this because the grow lights will provide extra \nphotosynthesis to the plants during natural dark hours. \n3. The pot that is in limited lighting and being self-watered will produce the most \nlettuce growth. This setup is the one that closely relates to what plants on the moon \nwould replicate. We want to prove plants can grow with limited lighting and water is \nthe key element plants need. \n \nExperimental Design and Procedures \n \nThe grow setup we decided on was to test how lighting and watering effects plant \ngrowth. Our pots that are setup on a self-watering system are exposed to water all the time and \nthe soil stays damp. The other two pots are watered every 4 days and get \u00bd a cup of water. One \npot just gets water and the other one has a small amount of fertilizer added to the \u00bd cup of \nwater. Besides how they are watered we have also altered the lighting: natural lighting, grow \nlights, limited lighting. Because my class is split three ways on with their beliefs on lighting each \ngroup will monitor their own light source growths. Once we see growth from the lettuce we will \nmeasure the height, width, and circumference of each pot every 4 days.",
+      "char_count": 2769,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "text": "Pot \nSoil \nAmendments \nLight Source \n1 \n1 part Miracle Gro Garden Soil to 6-part Moon soil \nRegular Watering with no supplements Natural Lighting \n2 \n1 part Miracle Gro Garden Soil to 6-part Moon soil \nRegular Watering with fertilizer added \nNatural Lighting \n3 \n1 part Miracle Gro Garden Soil to 6-part Moon soil \nSelf-Watering with no supplements \nNatural Lighting \n4 \n1 part Miracle Gro Garden Soil to 6-part Moon soil \nRegular Watering with no supplements \nGrow Lights \n5 \n1 part Miracle Gro Garden Soil to 6-part Moon soil \nRegular Watering with fertilizer added \nGrow Lights \n6 \n1 part Miracle Gro Garden Soil to 6-part Moon soil \nSelf-Watering with no supplements \nGrow Lights \n7 \n1 part Miracle Gro Garden Soil to 6-part Moon soil \nRegular Watering with no supplements \nLimited Light \n8 \n1 part Miracle Gro Garden Soil to 6-part Moon soil \nRegular Watering with fertilizer added \nLimited Light \n9 \n1 part Miracle Gro Garden Soil to 6-part Moon soil \nSelf-Watering with no supplements \nLimited Light \n \nAll pots are planted with the same type of lettuce and the same number of seeds.",
+      "char_count": 1090,
+      "image_count": 2,
+      "tables": [
+        [
+          [
+            "Pot",
+            "Soil",
+            "Amendments",
+            "Light Source"
+          ],
+          [
+            "1",
+            "1 part Miracle Gro Garden Soil to 6-part Moon soil",
+            "Regular Watering with no supplements",
+            "Natural Lighting"
+          ],
+          [
+            "2",
+            "1 part Miracle Gro Garden Soil to 6-part Moon soil",
+            "Regular Watering with fertilizer added",
+            "Natural Lighting"
+          ],
+          [
+            "3",
+            "1 part Miracle Gro Garden Soil to 6-part Moon soil",
+            "Self-Watering with no supplements",
+            "Natural Lighting"
+          ],
+          [
+            "4",
+            "1 part Miracle Gro Garden Soil to 6-part Moon soil",
+            "Regular Watering with no supplements",
+            "Grow Lights"
+          ],
+          [
+            "5",
+            "1 part Miracle Gro Garden Soil to 6-part Moon soil",
+            "Regular Watering with fertilizer added",
+            "Grow Lights"
+          ],
+          [
+            "6",
+            "1 part Miracle Gro Garden Soil to 6-part Moon soil",
+            "Self-Watering with no supplements",
+            "Grow Lights"
+          ],
+          [
+            "7",
+            "1 part Miracle Gro Garden Soil to 6-part Moon soil",
+            "Regular Watering with no supplements",
+            "Limited Light"
+          ],
+          [
+            "8",
+            "1 part Miracle Gro Garden Soil to 6-part Moon soil",
+            "Regular Watering with fertilizer added",
+            "Limited Light"
+          ],
+          [
+            "9",
+            "1 part Miracle Gro Garden Soil to 6-part Moon soil",
+            "Self-Watering with no supplements",
+            "Limited Light"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "Final Report \n \nOur challenge did not go as planned. We started off with a soil combination of 6 parts \nmoon to 1 part miracle grow soil. Each pot was planted with a 6 to 1 ratio. For our experiment \nwe had 3 pots under 3 types of lighting (natural light, limited light, and grow lights). We then \nbroke each group down one step further and changed how they were watered. Within each of \nthe 3 groups 1 pot was watered through a self-waterer, 1 with regular water every 4 days, and \n1 with fertilized regular water every 4 days. With this soil ratio our plants would sprout and die \nwithin a day. In addition, our pH levels between all pots stayed consistent with a level 6 pH. \nHalf way through we reseeded with a 1 to 1 ratio. We kept the same set up of lighting \nand watering as when we first started. We had a little better growth with this new ratio. \nHowever, we still only ended up with a few sprouts. With this new soil ratio our pots again \nstayed a consistent pH level of 6. \nIn conclusion to our entire challenge, we feel our seeds might not have been the best \nquality even though we bought them before the experiment. We also discovered that plants \ncan grow with limited lighting. Limited lighting actually had more sprouts than the natural light \npots. Our best growth overall though was our pot under the grow lights with regular water \nevery 4 days. \nOur future research is to try different types of seeds to see if we can get normal growth \nwithin our same set up. We have learned that things might not always go as planned but don\u2019t \ngive up.",
+      "char_count": 1561,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "text": "Growth under the grow lights in the regular \nwater pot.",
+      "char_count": 55,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "text": "Final growth height under the grow lights in \nregular water pot.",
+      "char_count": 64,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "text": "Growth in limited lighting with regular \nwater pot. This died within a few days.",
+      "char_count": 80,
+      "image_count": 1,
+      "tables": []
+    }
+  ]
+}

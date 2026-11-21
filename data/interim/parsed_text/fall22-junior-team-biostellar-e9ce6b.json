@@ -1,0 +1,163 @@
+{
+  "report_id": "fall22-junior-team-biostellar-e9ce6b",
+  "sha256": "ffd2455ba5f30d5fc792af482daa79e4938948d7b7db4103c0861b85ebbb2e78",
+  "page_count": 16,
+  "total_chars": 20262,
+  "avg_chars_per_page": 1266.4,
+  "total_images": 41,
+  "table_count": 2,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Plant the Moon Project Report\nThe Effects of Nitrogen\nand Rhizobium on\nSugar Snap Pea\nGrowth in Lunar Soil\nTeam #11343\nTeam BioStellar\nIzzie Tran, Zoe Tran\nFall 2022\nLaguna Beach, CA",
+      "char_count": 182,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "text": "BACKGROUND:\nOne aspect of NASA\u2019s Artemis mission is to determine the feasibility of establishing a\nself-sustaining local colony on the moon. In order to do so, studying the lunar environment,\nincluding its soil, in depth is necessary. Lunar soil\u2019s physical properties are different from those\nof earth soil. Unfortunately it is neither practical nor sustainable to transport large amounts of\nearth soil to the moon to grow plants for a colony. Not only would it take up too much space on\nthe spacecraft, but it is also unknown whether the earth soil can maintain its growth capabilities\nin the lunar environment. Therefore, the ideal situation would be to emulate earth soil growing\nconditions in lunar soil by introducing the key components of earth soil that make it so\nsuccessful in plant growth.\nLunar soil\u2019s physical properties are different from those of earth soil because it lacks\nnitrogen and bacteria necessary to grow plants. Nitrogen is the most important element for\nplant development as it is a major component of chlorophyll necessary for photosynthesis and\nis also an essential component of proteins, vitamins, enzymes, and hormones needed by plants.\nIt is normally absorbed from the soil in the form of amino acids, nitrites, or ammonium ions\nthrough the roots, which the lunar soil lacks. Although nitrogen in the chemical form would be\nneeded to be taken on the spaceship, nitrogen will be readily available from human feces and\nurine. Therefore we should optimize the usage of nitrogen on crops. We used ammonium\nsulfate phosphorus (which we will call \u201cnitrogen\u201d going forward in the report) as the source of\nnitrogen for this project. Ammonium sulfate phosphorus was chosen because it is readily\navailable and proven nitrogen supplement for plant growth.\nSymbiotic bacteria are also necessary components of earth soil that are lacking in lunar\nsoil. Symbiotic bacteria such as rhizobium is important mainly because plants are unable to\ndirectly absorb nitrogen from the air. They are able to form nodules on the roots of plants that\nserve to fix atmospheric nitrogen and convert them into ammonia which is usable by the plants.\nIt converts free nitrogen into nitrogenous salts, making it possible to be absorbed by plants:\nRhizobium also assists in keeping soil humidity, temperature, drainage, and acidity stable.\nRhizobium is also known to enhance soil productivity and fertility. We hope by adding the key\ncomponents of earth soil, nitrogen and rhizobium, to lunar soil, we will be able to emulate earth\nsoil growing conditions in lunar soil.\nAlthough modifying the lunar soil to improve its growth capabilities is important,\nchoosing the right plant to grow is equally important. The ideal plant would be easy to grow,\nnutritious with a high caloric yield, and have a short growing cycle. Sugar snap peas satisfy these\ncriteria and are also delicious to eat. They have an energy density of 81 kcal per 100 grams, lots\nof protein, vitamin C, and many other nutrients. Furthermore, they are easy to grow and are\nbetter suited to the cooler temperature that is to be expected on the moon. They also have a\nshort growth cycle and can normally produce pods within 55 days. This can allow for numerous",
+      "char_count": 3220,
+      "image_count": 1,
+      "tables": [
+        [
+          [
+            "Although modifying the lunar soil to improve its growth capabilities is important,"
+          ],
+          [
+            "choosing the right plant to grow is equally important. The ideal plant would be easy to grow,"
+          ],
+          [
+            "nutritious with a high caloric yield, and have a short growing cycle. Sugar snap peas satisfy these"
+          ],
+          [
+            "criteria and are also delicious to eat. They have an energy density of 81 kcal per 100 grams, lots"
+          ],
+          [
+            "of protein, vitamin C, and many other nutrients. Furthermore, they are easy to grow and are"
+          ],
+          [
+            "better suited to the cooler temperature that is to be expected on the moon. They also have a"
+          ],
+          [
+            "short growth cycle and can normally produce pods within 55 days. This can allow for numerous"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "rounds of growth with high yield and quick turnover. Furthermore, as the growth cycle ends, the\npea plants can be buried back into the soil to further introduce nitrogen into the soil. Repeated\ngrowth of this plant will improve the lunar soil over time, allowing for the addition of other\ncrops in the future.\nEXPERIMENT DESIGN:\nThe experiments were conducted in a windowless closet. We chose this space for the following\nreasons. First, to control the amount of light we wanted a room without a window and used\ngrow lights to control the amount of exposed light on the plant. Second, this room\u2019s\ntemperature and humidity stays mostly constant throughout the fall time.\nWe also felt that it was important to germinate the peas first so that we could choose the ones\nthat look the healthiest to plant. We learned that not all dried up seeds are alike! Some were\nmuch faster at hydrating than others.\nWater is a valuable resource on the moon so we would like to use the\nminimum amount of water needed to grow the plants, however we also\nwanted to make sure that the soil was moist at all times. Our solution\nfor this was to water the plants via a wick system. A wick watering\nsystem is a form of irrigation that uses a wettable fabric or rope, a\nstring in our case, to transport water from a supply of water to the soil.\nThis works through capillary action which is the ability of water to flow\nfrom a narrow space to another without any outside assistance and\nsometimes against external forces such as gravity. The soil will only absorb the water when\nnecessary and will conserve water in this process.\nGrow lights were placed over the pods and were on 8 hours a day from 7:30pm to 3:30am. We\nused grow lights instead of exposing the pods to sunlight to better control the amount of light\nexposure and to emulate what the plants would be exposed to on the moon. The day night\ncycle on the moon is 14 days of sun straight and 14 days of night straight. This is not optimal for\nplant growth and could kill the plant. So, grow lights would be needed to grow the plants in\norder to sustain a healthy amount of light and darkness for the plants.",
+      "char_count": 2139,
+      "image_count": 1,
+      "tables": [
+        [
+          [
+            "rounds of growth with high yield and quick turnover. Furthermore, as the growth cycle ends, the"
+          ],
+          [
+            "pea plants can be buried back into the soil to further introduce nitrogen into the soil. Repeated"
+          ],
+          [
+            "growth of this plant will improve the lunar soil over time, allowing for the addition of other"
+          ],
+          [
+            "crops in the future."
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "Materials:\n*Moon regolith (Lunar Soil)\n* Miracle Gro Potting Mix (Earth Soil)\n*Ammonium sulfate phosphorus (amendment, we will call \u201cnitrogen\u201d throughout the report)\n* Rhizobium (amendment)\n*Sugar snap pea seeds\n*LED Grow Lights (provide light to plants)\n*Balance (to measure out soil/amendments)\n*pH Strips (to measure pH of soil)\n*12ml Syringe (for watering)\n*Plastic cups (acted as our pots)\n*Balance (to measure out the soils, amendments)\n*Popsicle sticks (as labels for each pot provide support for growing peas)\n*KN95 masks (to use when handling the pots) *Nitrile gloves (to handle soil and amendments)\n*Humidity/Temperature monitor (used to measure the temperature and humidity of the room)\n*Drill (to drill holes in the cups for the wick watering system)\n*Threads (to act as the wick in the watering system)\n*Lego pieces (to act as a spacer between the water bath and pot)\n*Ruler with centimeters(to measure plant height)\nHYPOTHESIS:\nOur project hypothesis is that if nitrogen and rhizobium are added to lunar soil, plants will grow\nsimilarly as if they are growing in earth soil.\u00a0 Earth soil contains nitrogen and bacteria which\nallows plants to grow; thus, adding nitrogen and rhizobium to lunar soil will re-create the\nnecessary conditions for plant growth.\nINDEPENDENT VARIABLES OR PARAMETERS:\nThe independent variables were the existence or absence of rhizobium (a nitrogen-fixing\nbacteria), the varying levels of nitrogen, and ratio of earth and lunar soil.\nDEPENDENT VARIABLE:\nThe dependent variable was the plant growth. We determined plant growth through plant\nheight. We measured the sugar snap pea stalk size as we knew that the sugar snap peas start\ngrowing its stalk first before the pea pods themselves start growing.\nMEASUREMENTS & PROCEDURES:\nSTEP 1 - To hydrate the peas, they were placed in water for 1 day:",
+      "char_count": 1834,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "text": "STEP 2 - Once the peas were hydrated, they were placed in wet paper\ntowels and placed in a ziplock bag to germinate. They were watered\noccasionally for about a week until seeds began to sprout\nSTEP 3 - We picked the healthiest (plumpest and\nstrong looking root) to plant\nSTEP 4 - Setup individual pods. Seeds with rhizobium were directly inoculated in rhizobium\ndust after germination. Nitrogen was mixed into the soil before planting the seed.\nSTEP 5 - Added 20 milliliters of water to the soil in each pod to wet it using the syringe.",
+      "char_count": 536,
+      "image_count": 9,
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "text": "STEP 6- Moved everything into the\ncloset/grow room and the grow\nlights were setup\nSTEP 7 - Set-up the wick water system\nA wick watering system was set up. We drilled a hole into the bottom of each pot and threaded\na string through the hole. The hole on the inside of the pod was contacting the soil whereas the\nstring on the outside of the pod was in contact with the water bath cup. This allowed us to take\nadvantage of capillary action to draw water into the soil. A Lego piece was placed in the outer\nwater bath cup to act as a spacer between the two cups.",
+      "char_count": 559,
+      "image_count": 4,
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "text": "STEP 7 - ALL SET TO GROW!\n*We measured growth, room\ntemperature, and room humidity daily\nbetween 7pm-9pm\n*Re Watered as needed at time of\nmeasurement\n*Measure soil pH weekly between\n7pm-9pm\n*Growth lights were turned on for 8 hours\ndaily (programmed to turn on at 7:30pm to 3:30am)\nCONTROLS:\nOur first control was a 100% lunar soil with no amendments. We used this to see the effects of\njust lunar soil on the growth of a plant.\nOur second control was a 100% lunar soil with rhizobium. We used this to see the baseline\neffects of having rhizobium coating the seeds alone.\nOur fourth control was 100% earth soil with no amendments. We used this to see what the\nmaximum growth of the plant would be.\nOur fifth control was 100% earth soil with rhizobium. We used this to see the baseline effects of\nhaving rhizobium coating the seeds in optimal soil conditions.\nOur fifth control was 50% lunar soil and 50% earth soil with no amendments. We used this to\nsee the baseline effects of the composite soil alone on the growth of a plant.\nRESULTS:\nOur initial results revealed to us the difficulties in growing in lunar soil. Unlike earth soil which\nis loose and well aerated, lunar soil is compact and becomes even more so when wet, almost to\na concrete like consistency.\nUnfortunately we were not able to grow the peas in any of the 100%\nlunar soil pods as seen in Graph 1. We believe that the hardness of the\nlunar soil when wet prevented the germinated seeds from pushing",
+      "char_count": 1466,
+      "image_count": 4,
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "text": "through to the surface. This most likely prevented the growth of the seed and resulted in its\ndeath. Eventually, even the seed decomposed within the 100% lunar soil pots. Whereas in our\nearth soil only control, there was tremendous growth.\nAs a hedge for the possibility that lunar soil, even with our supplements of nitrogen and\nrhizobium, would be unable to grow the peas, we had planted two other sets of pot with\nvarying lunar and earth soil mixtures. This included a 90:10 mixture of lunar soil to earth and a\n50:50 mixture. Our expectations were that there are certain qualities in the earth soil that may\nbe necessary for plant growth that we have not accounted for but that by mixing the earth soil\nwith the lunar soil, we would be able to introduce these qualities into the lunar soil. The\namount of these earth soil qualities that would be needed for growth with lunar soil is\nuncertain, so we decided to grow with a small limited amount of earth soil (10 percent) and a\nhalf and half (50:50) composite mixture to maximally improve the likelihood of growth in lunar\nsoil.\nIn the 90:10 lunar earth soil composite mixture (see Graph 2), the peas were able to grow at low\n(0.2%) and medium (0.4%) nitrogen concentration but at high nitrogen concentration (0.8%), no\ngrowth was observed. The presence of high nitrogen appeared to inhibit the growth altogether\nand possibly even be toxic.",
+      "char_count": 1393,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "text": "This was also observed in the 50:50 composite mixture (see Graph 3), where low (0.2%) and\nmedium (0.4%) nitrogen concentration were pro-growth and high nitrogen concentration (0.8%)\nhad no growth. Interestingly, the baseline control which had neither nitrogen nor rhizobium\ngrew the best but crashed the quickest at Day 25 (see Graph 3), whereas the other plants that\ngrew persisted longer.\nWith regards to the presence or absence of rhizobium in lunar soil, the results within our 90:10\ncomposite mixture was uninformative as none of the pots in which rhizobium was present\nproduced any growth (Graph 2). However, within the 50:50 mixture, there appeared to be",
+      "char_count": 661,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "text": "enhanced growth in the low nitrogen concentration pots that had rhizobium versus the one that\ndid not (Graph 3). The medium (0.4%) nitrogen concentration without rhizobium grew the best,\nbut surprisingly, the pot with the presence of rhizobium had no growth. This could be due to\nthe possibility that the combination of the (0.4%) nitrogen together with the additional\nnitrogen converted by the rhizobium exceeded the beneficial range and entered into a toxic\nthreshold that inhibited growth.\nThe enhanced growth observed in the low (0.2%) nitrogen concentration with rhizobium was\nstill less than having more nitrogen within the soil as observed for the 50:50 mixture with\nmedium (0.4%) nitrogen concentration. Given our small sample size, single samples for each\ncondition, and the lack of growth in the 90:10 medium nitrogen with and without rhizobium\nmixture, it is still uncertain as to whether rhizobium plays a prominent role and to what degree\nit contributes to overall growth in relation to lunar soil. As can be seen in our earth soil only\ncontrol (Graph 1), rhizobium has a strong contributory role in plant growth. We postulate that it\nmay have a similar role in lunar soil as some of our data suggest, but we will need to follow up\nwith more research.\nWith regards to our environmental conditions (see Graph 4), the temperature was within the\nrange of 72-78 degree F throughout our experimental time frame. We did notice a reduction in\nthe air humidity over the course of our experiment, however, we believe it is non-contributory\nas our unique wick watering system kept the soil hydrated throughout the experiment time\nframe. The soil pH also stayed consistent at pH 7 throughout.",
+      "char_count": 1694,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "text": "CONCLUSION:\nFrom this first round of planting, we have determined that there are certain qualities such as\ncompactness of the soil that can greatly affect the ability of plants to grow. We have also noted\nthat the addition of nitrogen to the soil is important for plant growth but that there is an\noptimal concentration since too much nitrogen can be detrimental. The addition of rhizobium\ncan also contribute to plant growth as can be seen in the earth soil control in which the addition\nof rhizobium allowed for greater growth. The role of rhizobium in lunar soil, however, is less\ncertain since no growth was observed in the 90:10 composite mixture and growth was only\nobserved in the low nitrogen concentration pot with rhizobium in the 50:50 mixture. Although\nthe sample size of the experiment is too small to make any definitive conclusion, it has\npresented some interesting possibilities as to what may or may not work with regards to\ngrowing in lunar soil.\nWe expected that more of the pots would be able to grow plants, which unfortunately did not\noccur. In the end, less than half of our pots were able to see any growth. And due to factors like\nthe unexpected compactness of the lunar soil and its high water absorbency, many more of our\nplants died than expected. As such, it is possible that these factors adversely affected the data\nwe collected, even though we tried to limit variations in our datasets as much as possible to\ndecrease inconsistency.\nWhen designing our experiment, we assumed that lunar soil could emulate earth soil by adding\nnitrogen and bacteria. However, this experiment has shown that there are other factors within\nearth soil other than nitrogen and rhizobium that are necessary for plant growth. If we had\nmore time, we would have liked to try adding other amendments for the lunar soil to emulate\nearth soil\u2019s conditions. We also would have liked to have done more variations in the composite\nsoil ratios to find the optimal lunar soil to earth soil ratio.\nIf we were to ever repeat this experiment, we would like to germinate our seeds for a longer\nperiod of time before we planted them. This would allow the plant to have already sprouted\nand not have to go through the trouble of breaking through the soil as lunar soil is so dense. We\nalso learned that when germinating seeds, to ensure they don\u2019t rot or go bad, it\u2019s important to\nkeep them moist but not inundated in moisture. So, instead of placing the seeds inside a ziploc\nbag, we would cover it in plastic wrap and not have the paper towel soaked, but instead damp.\nAs we would also like to focus on researching in greater depth the ideal growing conditions in\nlunar soil, we would like to choose plants with shorter growth periods than sugar snap peas.\nThis would allow us more time to revise and replant if necessary.",
+      "char_count": 2817,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 12,
+      "text": "PHOTOS OF MAJOR OBSERVATIONS DURING GROWTH\nPERIOD:\nWeek 1 :\n*OBSERVATION 1:\n100% Lunar Soil Observations that were different from the\nother pods:\n1) The soil in the 100% lunar soil was very cement-like. So\nwhen we were aerating the soil with toothpicks, it felt\nlike we were trying to punch through styrofoam. We\nwere concerned that it would be difficult for the seeds\nto sprout through this type of soil.\n2) Every time water was added on the 100% lunar soil, the soil would disperse sideways\nand create a crater-like area where the water was dropped in. In some pods, we had to\nbury the seed again as the soil would get dispersed from the watering. Earth soil pods\ndidn\u2019t do this - the water would just absorb into the soil without any physical\ndisturbance.\n*OBSERVATION 2:\n* On the bottom of 100% lunar cups,\n*the bottom of the other pods were clear\nwe noticed a white crystal-like layer of\nwhiteness forming whereas the other cups\nwere clear. We wondered if this was because\nof the ammonium sulfate reacting with the lunar soil in water.\nWeek 2:\nOBSERVATION 1:\n*Pods with 100% lunar soil kept absorbing water and turned\ninto a slurry mixture",
+      "char_count": 1144,
+      "image_count": 4,
+      "tables": []
+    },
+    {
+      "page_number": 13,
+      "text": "The soil was very watery and the soil wasn\u2019t absorbing the water even after mixing the soil and\nwater which should\u2019ve broken the hydrophobicity of the soil.\nOBSERVATION 2:\nBrown fungi began to grow on top of the 100% lunar soil\npods by the end of Week 2(see picture on the right). The\nfungi was mainly on top of the area where the seed was\nplanted. The prolonged humidity and warm temperature may\nhave led to the growth of fungi.\nThe other pods with 90:10 and 50:50 did not have any fungi\ngrowing.\nWeek 3:\nAfter seeing no growth in the 100% lunar soil pods, we dug up the seeds, but only found this\nsludge. We believe the seed decomposed underneath the soil because the growth space was\ntoo compact and the soil and seed were absorbing too much water.\n*General Picture of all pods at the end of Week 3:",
+      "char_count": 802,
+      "image_count": 4,
+      "tables": []
+    },
+    {
+      "page_number": 14,
+      "text": "Week 4:\nBy this week, the brown fungi was gone in the\n100% lunar soil pods but new WHITE fungi\nstarted growing on top of the 100% lunar soil!\nWe believe there was too much moisture in\nthe soil which caused fungi to grow.\nThe other pods with 90:10 and 50:50 did not\nhave any fungi growing.\nWeek 5:\nIt seems like the white fungi in the 100% lunar soil pods are growing bigger so we decided to\nremove them from the pods at the end of Week 5. Otherwise no other new observations noted\nwith the other pods.\n*General Picture of all pods at the end of Week 3:",
+      "char_count": 552,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 15,
+      "text": "Week 6:\nOBSERVATION 1: no new fungi grew on the 100% lunar after it was removed last week\nOBSERVATION 2: fungi forms on the 50:50 pods and 90:10 pods\n90:10 pods w/ fungi\n50:50 pods w/ fungi\n*General Picture of all pods at the end of Week 6:\nWeek 7:\nA hard crystalline shell was forming on the outsides of the\n100% lunar soil cups with 0.8% nitrogen. This was on a cup\nwith nitrogen inside. We think it might be ammonium sulfate\nthat crystallized.\nOtherwise no other new observations noted with the other\npods.",
+      "char_count": 509,
+      "image_count": 4,
+      "tables": []
+    },
+    {
+      "page_number": 16,
+      "text": "Week 8:\nPicture of all pods at the end of last week of growth. Look how tall the earth control was!\nA big THANK YOU to PLANT THE MOON\nadministrators! We really enjoyed participating in\nthis project!!\nCITATIONS\nCervoni, B. (2022, October 5). Sugar snap peas nutrition facts and health benefits. Verywell Fit.\nRetrieved December 7, 2022, from\nhttps://www.verywellfit.com/sugar-snap-peas-nutrition-facts-calories-and-health-benefi\nts-4119891\nOsborn, C. O. K. (2022, July 21). Blood sugar spike: Causes, symptoms, and what to do.\nHealthline. Retrieved December 7, 2022, from\nhttps://www.healthline.com/health/blood-sugar-spike#:~:text=Symptoms%20of%20a%2\n0blood%20sugar%20spike%20may%20include%3A,3%20increased%20thirst%204%20blu\nrred%20vision%205%20headache",
+      "char_count": 754,
+      "image_count": 1,
+      "tables": []
+    }
+  ]
+}

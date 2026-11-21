@@ -1,0 +1,37 @@
+{
+  "@context": "https://w3id.org/codemeta/3.0",
+  "@type": "SoftwareSourceCode",
+  "name": "ptm-meta: Plant the Moon Challenge FAIR Meta-Analysis",
+  "description": "FAIR data acquisition, provenance tracking, hybrid LLM/ML structured extraction, and statistical meta-analysis of student regolith plant-growth reports from the Plant the Moon Challenge (Spring 2021 - Spring 2026).",
+  "version": "0.1.0",
+  "license": "https://spdx.org/licenses/MIT",
+  "codeRepository": "https://github.com/dr-richard-barker/Plant_the_moon",
+  "url": "https://dr-richard-barker.github.io/Plant_the_moon/",
+  "programmingLanguage": "Python",
+  "runtimePlatform": "Python >= 3.10",
+  "dateCreated": "2026-11-19",
+  "dateModified": "2026-11-19",
+  "author": [
+    {
+      "@type": "Person",
+      "@id": "https://orcid.org/0000-0001-5681-9857",
+      "givenName": "Richard J.",
+      "familyName": "Barker",
+      "email": "dr.richard.barker@gmail.com",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Collaborative Science Environment (CoSE)",
+        "url": "https://cosecloud.com"
+      }
+    }
+  ],
+  "keywords": [
+    "astrobotany",
+    "lunar regolith",
+    "martian regolith",
+    "meta-analysis",
+    "FAIR",
+    "machine learning",
+    "CoSE"
+  ]
+}

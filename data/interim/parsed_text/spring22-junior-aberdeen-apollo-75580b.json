@@ -1,0 +1,54 @@
+{
+  "report_id": "spring22-junior-aberdeen-apollo-75580b",
+  "sha256": "29fc3be80c88448f18724ba15190de5750d75ed53c35fa65bbd79842921986e4",
+  "page_count": 6,
+  "total_chars": 2089,
+  "avg_chars_per_page": 348.2,
+  "total_images": 7,
+  "table_count": 0,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Aberdeen Apollo\nTeam # 9326\nAberdeen Elementary\n3rd Grade\nAberdeen, Id\nPlant The Moon Challenge\nHow does the percentage of garden soil versus\nlunar regolith affect the growth of Peas?\u201d\n1) Hypothesis:\nWe think that the more garden soil we add to the lunar simulant, the better\nthe peas will grow.\n2) Independent Variables:\n\u25cfPlant 1 has 50/50 lunar simulant to garden soil.\n\u25cfPlant 2 has 60/40 lunar simulant to garden soil.\n\u25cfPlant 3 has 70/30 lunar simulant to garden soil.\n\u25cfPlant 4 has 80/20 lunar simulant to garden soil.\n\u25cfControl Plant has 100% garden soil.\n3) Dependent Variables:\n\u25cfWe expect Plant 1 to grow the best out of our 4 plants.\n\u25cfWe expect Plant 2 to grow the 2nd best out of our 4 plants\n\u25cfWe expect Plant 3 not to grow very well.\n\u25cfWe expect Plant 4 to struggle growing.\n\u25cfWe expect our Control Plant to show us how well the pea plants should\ngrow.",
+      "char_count": 858,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "text": "4) Measurements:\n\u25cfWe will measure the growth of each plant twice a week.\n\u25cfWe will measure the pH levels once a week after our plants are\ngrowing.",
+      "char_count": 145,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "text": "5) Controls:\n\u25cfOur grow light will be kept on a timer for 16 hours of light each day.\n\u25cfOur plants will be watered 3 times a week with 20 ml of distilled\nwater.\n\u25cfOur plants are kept in our classroom, so the growing environment is\nthe same all the time.\n6) Results:\n\u25cfI noticed that a little bit of moon dirt is not bad. Plant 1 was really\ngood and grew the best because it had really good soil mixture.\n\u25cf\nOur control plant got pinched 2 times and it was good and kept\ngrowing because it had the best soil being the control plant.\n\u25cfPlant 2 grew the 3rd tallest because it had 60/40 ratio. 60 % moon dirt\nand 40% soil. It kept falling down and it wasn\u2019t that strong of a plant.\n\u25cfPlant 4 didn\u2019t grow that much because it was in the 80/20 soil mixture.\n\u25cfSo, in conclusion, our pea plants grew the way we expected them to\ngrow in our hypothesis. The control didn\u2019t grow the best because\nsomeone kept pinching it, but it always got better. All the plants grew",
+      "char_count": 950,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "text": "depending on how much garden soil they had in their pots. The more\ngarden soil they had, the better they grew.\nWe Are Planting the Moon!",
+      "char_count": 136,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "text": "",
+      "char_count": 0,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "text": "",
+      "char_count": 0,
+      "image_count": 1,
+      "tables": []
+    }
+  ]
+}

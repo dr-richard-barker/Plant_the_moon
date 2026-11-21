@@ -1,0 +1,602 @@
+{
+  "report_id": "summer21-main-q-36-532e92",
+  "sha256": "96a0815b222eba6c13b0c1f5a00ea39b1f96488371526397d6e28af0509a9919",
+  "page_count": 10,
+  "total_chars": 14737,
+  "avg_chars_per_page": 1473.7,
+  "total_images": 19,
+  "table_count": 14,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "HOW DO DIFFERENT \nREGOLITH ADDITIVES \nAFFECT THE GROWTH OF \nBEETS \nA Plant Mars Experiment by the Q-36 Explosive \nSpace Modulators \u2013 Alison and Amber MacMillan",
+      "char_count": 159,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "text": "How do Different Regolith Additives Affect the Growth of Ruby Queen Beets? \n \n1 \nQ-36 Explosive Space Modulators - Alison and Amber MacMillan \nA Plant Mars Experiment \nIntroduction: \nThe Plant Mars challenge was started by Alison MacMillan and Amber MacMillan as we \nwere both very interested in seeing what would happen and how cool it would be to help with \nspace exploration and life on other planets in the galaxy. We debated on different set ups and \nwanted it to be as simple as possible for the astronauts. This way they would not have to spend \ntoo much of their time working with the plants and have little waste to deal with afterwards. \nWith nitrogen being non-existent in the regolith we knew that we would need to use additives \nto bring that into the equation. Nitrogen is one of the top three elements essential for plant \nlife, it needed to be added in some way or we would not have achieved any sort of plant \ngrowth. \nBackground: \nThe experiment was designed to keep things simple. The idea was that there would be \nminimal effort put into the upkeep of the plants in order to minimize the amount of effort \nrequired by the astronauts to recreate the results. \nExperiment Design: \nFour growing pots were set up with varying growing mediums in order to determine \nwhich growth additive would produce the best results. The percentage of additive to the \nregolith was kept the same except for in the control growing pot which had only topsoil. The \ngrowing pots were set up on a table in a sunroom that receives a small amount of eastern light, \na moderate amount of western light, and a large amount of southern light. No grow lights were \nused. In order to keep the effort to a minimum, a bucket was set up with water in it and \nshoelaces were run from the bucket to the various growing pots as a watering system. The lid \nwas placed (not closed tightly) on the bucket to minimize evaporation. This system kept a \nconstant flow of water to the growing pots with only a weekly check on the water level in the \nbucket required. \nThe experiment was set up to determine what the best regolith additive is, and the \noptimal level of watering with the shoelace watering method. The value to this particular set up \nis that is shows which regolith additive should be focused on in additional experiments. These \nwould allow the focus to be to determine the best percentage of regolith to additive for optimal \nresults. There is also value in knowing the number of laces to be used in the growing pot to give \nan appropriate amount of water to the plants. This in turn allows for no effort when \ndetermining a simple watering system. \nHypothesis: \nWe believe the best additive to the regolith will be the topsoil. The topsoil used was \npurchased and therefore is balanced well for plant growth.",
+      "char_count": 2803,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "text": "How do Different Regolith Additives Affect the Growth of Ruby Queen Beets? \n \n2 \nQ-36 Explosive Space Modulators - Alison and Amber MacMillan \nParameters: \nThe control growing pot was filled with purchased topsoil. The other three were filled \nwith a mixture of regolith and additive. The pots were as follows: \n\u2022 Regolith and topsoil mixture \n\u2022 Regolith and bloodmeal mixture \n\u2022 Regolith and decaffeinated coffee mixture \nEach growing pot had 1 2/3 cup regolith and 1 cup additive. \nAt week 4, a new growing pot was introduced with regolith, topsoil and perlite. This \nconsisted of 1 2/3 cup regolith, 2/3 cup topsoil and 1 cup perlite. \nRuby Queen Beet Seeds were purchased for this experiment. Beets were chosen as they \nare a fast-growing plant providing food from both the root as well as the greens. This means \nthat the astronauts would not have wastage to deal with and they would have two types of \nedibles from each plant, the roots and the greens, providing more variety to their diets. \nDependant Variable: \nWe both expected the growth rate and size of the plants to be different from pot to pot. \nWe believed that the pot mixed with topsoil and regolith would grow the healthiest and best \nplants because the topsoil was specifically designed for plant growth. We believed that they \nwould all grow to some extent but that they would be different sizes and that the beets \nthemselves would vary a little in size because of the different additives. \nMeasurements: \nPart of the goal of this experiment was to create a relatively hands-off growing \nexperience in order to let the astronauts focus on other aspects of their space travels. Due to \nthis, this experiment is being completed in the same fashion. The idea is to have the astronauts \nonly check in on the plants once a week; therefore, this experiment is being measured and \nreviewed only once a week. \nEach week, the soil will be tested for PH balance, Nitrogen; Phosphorous; Pot Ash; \nnumber of plants; height of tallest plant in pot; and length of longest leaf. The starting \nmeasurements were as follows: \n \nPH \nNitrogen \nPhosphorous \nPotash \nRegolith \n7.0 \n< Very Low \nLow \n< Very Low \nTopsoil \n7.0 \nHigh \nVery Low \nVery Low \nBloodmeal \n6.5 \nLow \nVery Low \nHigh \nDecaffeinated \nCoffee \n6.0 \n< Very Low \n< Very Low \nHigh",
+      "char_count": 2294,
+      "image_count": 1,
+      "tables": [
+        [
+          [
+            "",
+            "PH",
+            "Nitrogen",
+            "Phosphorous",
+            "Potash"
+          ],
+          [
+            "Regolith",
+            "7.0",
+            "< Very Low",
+            "Low",
+            "< Very Low"
+          ],
+          [
+            "Topsoil",
+            "7.0",
+            "High",
+            "Very Low",
+            "Very Low"
+          ],
+          [
+            "Bloodmeal",
+            "6.5",
+            "Low",
+            "Very Low",
+            "High"
+          ],
+          [
+            "Decaffeinated Coffee",
+            "6.0",
+            "< Very Low",
+            "< Very Low",
+            "High"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "How do Different Regolith Additives Affect the Growth of Ruby Queen Beets? \n \n3 \nQ-36 Explosive Space Modulators - Alison and Amber MacMillan \nControls: \nOne growing pot was filled with purchased topsoil as a control. The growing pots were \nplaced on a table in a well-lit room and were not moved. Each growing pot had five seeds \nplanted within the pot in a circle around the perimeter of the pot. The seeds were planted one \nhalf inch deep within the pots. There will be no additional additives added throughout the \nexperiment. This will allow any variables within the regolith mixtures to be seen and monitored \nwhich will allow any future experiments to be prepared for possible soil changes. \nA self-watering system was set up allowing the watering of the growing pots to be \nautomatic. All growing pots will have one or two shoelaces leading from the water bucket into \nthe soil. The number will be determined based on the moisture level of the growing medium. \nAnalysis: \nRegolith/Soil Mixture Readings \nStart: June 25th \n \nPH \nNitrogen \nPhosphorous \nPotash \nControl (soil) \n7.0 \nHigh \nVery Low \nVery Low \nRegolith and \nsoil \n7.0 \nLow \n< Very Low \n< Very Low \nRegolith and \nbloodmeal \n7.0 \n< Very Low \n< Very Low \nLow \nRegolith and \ncoffee \n7.0 \n< Very Low \n< Very Low \nHigh \n \nWeek 0: Experiment setup. \n \nBucket with water set up on table with \ngrowing pots in front. Each growing pot has \ntwo shoelaces that have one end in the water \nand the other end in the growing medium. \n \nFrom Left to Right: \nRegolith and Coffee, Regolith and Bloodmeal, \nRegolith and Soil, Topsoil. \n \nPicture taken June 25th, 2021",
+      "char_count": 1617,
+      "image_count": 3,
+      "tables": [
+        [
+          [
+            "",
+            "PH",
+            "Nitrogen",
+            "Phosphorous",
+            "Potash"
+          ],
+          [
+            "Control (soil)",
+            "7.0",
+            "High",
+            "Very Low",
+            "Very Low"
+          ],
+          [
+            "Regolith and soil",
+            "7.0",
+            "Low",
+            "< Very Low",
+            "< Very Low"
+          ],
+          [
+            "Regolith and bloodmeal",
+            "7.0",
+            "< Very Low",
+            "< Very Low",
+            "Low"
+          ],
+          [
+            "Regolith and coffee",
+            "7.0",
+            "< Very Low",
+            "< Very Low",
+            "High"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 5,
+      "text": "How do Different Regolith Additives Affect the Growth of Ruby Queen Beets? \n \n4 \nQ-36 Explosive Space Modulators - Alison and Amber MacMillan \nWeek 1: July 2nd \nReduced to one shoelace per growing pot after measurements and pictures were taken. \n \nPH \nNitrogen \nPhosphorous \nPotash \nControl (soil) \n7.0 \nHigh \n< Very Low \nVery Low \nRegolith and \nsoil \n7.5 \nVery Low \n< Very Low \nVery Low \nRegolith and \nbloodmeal \n6.5 \n< Very Low \n< Very Low \nHigh \nRegolith and \ncoffee \n7.5 \n< Very Low \n< Very Low \nHigh \n \n \nWeek 2: July 9th \n \nPH \nNitrogen \nPhosphorous \nPotash \nControl (soil) \n7.5 \nHigh \n< Very Low \nHigh \nRegolith and \nsoil \n7.5 \nVery Low \n< Very Low \nHigh \nRegolith and \nbloodmeal \n6.5 \n< Very Low \n< Very Low \nHigh \nRegolith and \ncoffee \n6.5 \n< Very Low \n< Very Low \nHigh \n \n \nWeek 1: \nSeedlings visible in three of \nthe four growing pots. \nExcess water visible in trays \nbeneath pots. \n \nFrom Left to Right: \nRegolith and Coffee, \nRegolith and Bloodmeal, \nRegolith and Soil, Topsoil. \n \nPicture taken July 2nd, 2021",
+      "char_count": 1023,
+      "image_count": 3,
+      "tables": [
+        [
+          [
+            "",
+            "PH",
+            "Nitrogen",
+            "Phosphorous",
+            "Potash"
+          ],
+          [
+            "Control (soil)",
+            "7.0",
+            "High",
+            "< Very Low",
+            "Very Low"
+          ],
+          [
+            "Regolith and soil",
+            "7.5",
+            "Very Low",
+            "< Very Low",
+            "Very Low"
+          ],
+          [
+            "Regolith and bloodmeal",
+            "6.5",
+            "< Very Low",
+            "< Very Low",
+            "High"
+          ],
+          [
+            "Regolith and coffee",
+            "7.5",
+            "< Very Low",
+            "< Very Low",
+            "High"
+          ]
+        ],
+        [
+          [
+            "",
+            "PH",
+            "Nitrogen",
+            "Phosphorous",
+            "Potash"
+          ],
+          [
+            "Control (soil)",
+            "7.5",
+            "High",
+            "< Very Low",
+            "High"
+          ],
+          [
+            "Regolith and soil",
+            "7.5",
+            "Very Low",
+            "< Very Low",
+            "High"
+          ],
+          [
+            "Regolith and bloodmeal",
+            "6.5",
+            "< Very Low",
+            "< Very Low",
+            "High"
+          ],
+          [
+            "Regolith and coffee",
+            "6.5",
+            "< Very Low",
+            "< Very Low",
+            "High"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 6,
+      "text": "How do Different Regolith Additives Affect the Growth of Ruby Queen Beets? \n \n5 \nQ-36 Explosive Space Modulators - Alison and Amber MacMillan \nWeek 3: July 16th \n \nPH \nNitrogen \nPhosphorous \nPotash \nControl (soil) \n7.5 \nHigh \n< Very Low \nHigh \nRegolith and \nsoil \n7.5 \nVery Low \n< Very Low \nHigh \nRegolith and \nbloodmeal \nRemoved from \nexperiment \n \n \n \nRegolith and \ncoffee \n7.5 \n< Very Low \n< Very Low \nHigh \n \nStart of new growing pot July 19th \nNew pot started with one shoelace. \n \nPH \nNitrogen \nPhosphorous \nPotash \nRegolith, Soil \nand Perlite \n7.0 \nMedium \n< Very Low \nVery Low \n \nWeek 4: July 23rd \n \nPH \nNitrogen \nPhosphorous \nPotash \nControl \n7.5 \nLow \n< Very Low \nHigh \nRegolith and \nSoil \n6.5 \nVery Low \n< Very Low \nHigh \nRegolith and \nCoffee \n7.5 \n< Very Low \n< Very Low \nHigh \nRegolith, Soil \nand Perlite \n7.0 \nVery Low \n< Very Low \nHigh \n \nWeek 5: July 30th \n \nPH \nNitrogen \nPhosphorous \nPotash \nControl \n7.5 \nVery Low \n< Very Low \nLow \nRegolith and \nSoil \n6.5 \n< Very Low \n< Very Low \nHigh \nRegolith and \nCoffee \n7.5 \n< Very Low \n< Very Low \nHigh \nRegolith, Soil \nand Perlite \n6.5 \n< Very Low \n< Very Low \nHigh",
+      "char_count": 1126,
+      "image_count": 1,
+      "tables": [
+        [
+          [
+            "",
+            "PH",
+            "Nitrogen",
+            "Phosphorous",
+            "Potash"
+          ],
+          [
+            "Control (soil)",
+            "7.5",
+            "High",
+            "< Very Low",
+            "High"
+          ],
+          [
+            "Regolith and soil",
+            "7.5",
+            "Very Low",
+            "< Very Low",
+            "High"
+          ],
+          [
+            "Regolith and bloodmeal",
+            "Removed from experiment",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Regolith and coffee",
+            "7.5",
+            "< Very Low",
+            "< Very Low",
+            "High"
+          ]
+        ],
+        [
+          [
+            "",
+            "PH",
+            "Nitrogen",
+            "Phosphorous",
+            "Potash"
+          ],
+          [
+            "Regolith, Soil and Perlite",
+            "7.0",
+            "Medium",
+            "< Very Low",
+            "Very Low"
+          ]
+        ],
+        [
+          [
+            "",
+            "PH",
+            "Nitrogen",
+            "Phosphorous",
+            "Potash"
+          ],
+          [
+            "Control",
+            "7.5",
+            "Low",
+            "< Very Low",
+            "High"
+          ],
+          [
+            "Regolith and Soil",
+            "6.5",
+            "Very Low",
+            "< Very Low",
+            "High"
+          ],
+          [
+            "Regolith and Coffee",
+            "7.5",
+            "< Very Low",
+            "< Very Low",
+            "High"
+          ],
+          [
+            "Regolith, Soil and Perlite",
+            "7.0",
+            "Very Low",
+            "< Very Low",
+            "High"
+          ]
+        ],
+        [
+          [
+            "",
+            "PH",
+            "Nitrogen",
+            "Phosphorous",
+            "Potash"
+          ],
+          [
+            "Control",
+            "7.5",
+            "Very Low",
+            "< Very Low",
+            "Low"
+          ],
+          [
+            "Regolith and Soil",
+            "6.5",
+            "< Very Low",
+            "< Very Low",
+            "High"
+          ],
+          [
+            "Regolith and Coffee",
+            "7.5",
+            "< Very Low",
+            "< Very Low",
+            "High"
+          ],
+          [
+            "Regolith, Soil and Perlite",
+            "6.5",
+            "< Very Low",
+            "< Very Low",
+            "High"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 7,
+      "text": "How do Different Regolith Additives Affect the Growth of Ruby Queen Beets? \n \n6 \nQ-36 Explosive Space Modulators - Alison and Amber MacMillan \nWeek 6: August 6th \n \nPH \nNitrogen \nPhosphorous \nPotash \nControl \n7.5 \nHigh \nVery Low \nHigh \nRegolith and \nSoil \n7.0 \nVery Low \n< Very Low \nHigh \nRegolith and \nCoffee \n7.5 \n< Very Low \n< Very Low \nHigh \nRegolith, Soil \nand Perlite \n7.0 \nHigh \n< Very Low \nHigh \n \nResults: \nControl \nNumber of Plants \nHeight \nLeaf Length \nWeek 1 \n4 \n5 cm \n7 mm \nWeek 2 \n4 \n2 inch \n8 mm \nWeek 3 \n3 \n5.5 cm \n7mm \nWeek 4 \n2 \n4.5 cm \n10mm \nWeek 5 \n0 \nN/A \nN/A \nWeek 6 \n0 \nN/A \nN/A \nWeek 7 \n0 \nN/A \nN/A \n \nRegolith and Soil \nNumber of Plants \nHeight \nLeaf Length \nWeek 1 \n5 \n7 cm \n9 mm \nWeek 2 \n5 \n2 \u00bd\u201d \n9 mm \nWeek 3 \n3 \n6.5 cm \n1 cm \nWeek 4 \n0 \nN/A \nN/A \nWeek 5 \n0 \nN/A \nN/A \nWeek 6 \n0 \nN/A \nN/A \nWeek 7 \n0 \nN/A \nN/A \n \nRegolith and \nBloodmeal \nNumber of Plants \nHeight \nLeaf Length \nWeek 1 \n0 \nN/A \nN/A \nWeek 2 \n0 \nN/A \nN/A \nWeek 3 removed this growing pot from experiment. No plant growth but worms growing in \nregolith mixture.",
+      "char_count": 1051,
+      "image_count": 1,
+      "tables": [
+        [
+          [
+            "",
+            "PH",
+            "Nitrogen",
+            "Phosphorous",
+            "Potash"
+          ],
+          [
+            "Control",
+            "7.5",
+            "High",
+            "Very Low",
+            "High"
+          ],
+          [
+            "Regolith and Soil",
+            "7.0",
+            "Very Low",
+            "< Very Low",
+            "High"
+          ],
+          [
+            "Regolith and Coffee",
+            "7.5",
+            "< Very Low",
+            "< Very Low",
+            "High"
+          ],
+          [
+            "Regolith, Soil and Perlite",
+            "7.0",
+            "High",
+            "< Very Low",
+            "High"
+          ]
+        ],
+        [
+          [
+            "Control",
+            "Number of Plants",
+            "Height",
+            "Leaf Length"
+          ],
+          [
+            "Week 1",
+            "4",
+            "5 cm",
+            "7 mm"
+          ],
+          [
+            "Week 2",
+            "4",
+            "2 inch",
+            "8 mm"
+          ],
+          [
+            "Week 3",
+            "3",
+            "5.5 cm",
+            "7mm"
+          ],
+          [
+            "Week 4",
+            "2",
+            "4.5 cm",
+            "10mm"
+          ],
+          [
+            "Week 5",
+            "0",
+            "N/A",
+            "N/A"
+          ],
+          [
+            "Week 6",
+            "0",
+            "N/A",
+            "N/A"
+          ],
+          [
+            "Week 7",
+            "0",
+            "N/A",
+            "N/A"
+          ]
+        ],
+        [
+          [
+            "Regolith and Soil",
+            "Number of Plants",
+            "Height",
+            "Leaf Length"
+          ],
+          [
+            "Week 1",
+            "5",
+            "7 cm",
+            "9 mm"
+          ],
+          [
+            "Week 2",
+            "5",
+            "2 \u00bd\u201d",
+            "9 mm"
+          ],
+          [
+            "Week 3",
+            "3",
+            "6.5 cm",
+            "1 cm"
+          ],
+          [
+            "Week 4",
+            "0",
+            "N/A",
+            "N/A"
+          ],
+          [
+            "Week 5",
+            "0",
+            "N/A",
+            "N/A"
+          ],
+          [
+            "Week 6",
+            "0",
+            "N/A",
+            "N/A"
+          ],
+          [
+            "Week 7",
+            "0",
+            "N/A",
+            "N/A"
+          ]
+        ],
+        [
+          [
+            "Regolith and Bloodmeal",
+            "Number of Plants",
+            "Height",
+            "Leaf Length"
+          ],
+          [
+            "Week 1",
+            "0",
+            "N/A",
+            "N/A"
+          ],
+          [
+            "Week 2",
+            "0",
+            "N/A",
+            "N/A"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 8,
+      "text": "How do Different Regolith Additives Affect the Growth of Ruby Queen Beets? \n \n7 \nQ-36 Explosive Space Modulators - Alison and Amber MacMillan \n \n \n \nRegolith and Coffee \nNumber of Plants \nHeight \nLeaf Length \nWeek 1 \n3 \n15 mm \n4 mm \nWeek 2 \n3 \n1.5\u201d \n8 mm \nWeek 3 \n2 \n35 mm \n3 mm \nWeek 4 \n0 \nN/A \nN/A \nWeek 5 \n0 \nN/A \nN/A \nWeek 6 \n0 \nN/A \nN/A \nWeek 7 \n0 \nN/A \nN/A \n \nRegolith, Topsoil and \nPerlite \nNumber of Plants \nHeight \nLeaf Length \nWeek 4 \n0 \nN/A \nN/A \nWeek 5 \n0 \nN/A \nN/A \nWeek 6 \n1 \n45mm \n5mm \nWeek 7 \n1 \n50mm \n5mm \n \n \n \n \n \n \n \nGrowing pot with \nregolith and bloodmeal \nmixture at week 3. \nWorms seen on surface \nof growing medium \naround shoelace where \nthe moisture is \npredominant. \n \nPicture taken July 16th, \n2021",
+      "char_count": 727,
+      "image_count": 3,
+      "tables": [
+        [
+          [
+            "Regolith and Coffee",
+            "Number of Plants",
+            "Height",
+            "Leaf Length"
+          ],
+          [
+            "Week 1",
+            "3",
+            "15 mm",
+            "4 mm"
+          ],
+          [
+            "Week 2",
+            "3",
+            "1.5\u201d",
+            "8 mm"
+          ],
+          [
+            "Week 3",
+            "2",
+            "35 mm",
+            "3 mm"
+          ],
+          [
+            "Week 4",
+            "0",
+            "N/A",
+            "N/A"
+          ],
+          [
+            "Week 5",
+            "0",
+            "N/A",
+            "N/A"
+          ],
+          [
+            "Week 6",
+            "0",
+            "N/A",
+            "N/A"
+          ],
+          [
+            "Week 7",
+            "0",
+            "N/A",
+            "N/A"
+          ]
+        ],
+        [
+          [
+            "Regolith, Topsoil and Perlite",
+            "Number of Plants",
+            "Height",
+            "Leaf Length"
+          ],
+          [
+            "Week 4",
+            "0",
+            "N/A",
+            "N/A"
+          ],
+          [
+            "Week 5",
+            "0",
+            "N/A",
+            "N/A"
+          ],
+          [
+            "Week 6",
+            "1",
+            "45mm",
+            "5mm"
+          ],
+          [
+            "Week 7",
+            "1",
+            "50mm",
+            "5mm"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 9,
+      "text": "How do Different Regolith Additives Affect the Growth of Ruby Queen Beets? \n \n8 \nQ-36 Explosive Space Modulators - Alison and Amber MacMillan \n \n \nDiscussion & Conclusions: \nAs the experiment progressed, it became obvious that the shoelace watering system is \nnot an ideal solution with the initial potting mediums. The first week, there were two shoelaces \nlinked to each to each growing pot. The soil became very moist and trays beneath the pots \nwere filled with fluids. These were a mix of water and the regolith mixtures in the growing pots. \nOn July 2nd, the shoelaces were reduced to one leading to each growing pot in order to reduce \nthe water. Reducing the shoelaces to one per growing pot aided with the overwatering \nproblem. \nThe regolith condensed continuously in the growing pots as the weeks progressed. \nWhen the regolith samples were being taken for testing, it became increasingly difficult to \nloosen adequate amounts of regolith mixtures. \nPlants began to grow in the regolith and soil mixture as well as the regolith and coffee \nmixture. By week 4, all of these plants had died. Due to the condensing of the regolith over \ntime, it was surmised that the plant roots could not adequately penetrate, killing the plants. \nWith this observation, at week 4, a new growing pot was setup with regolith, soil and \nperlite to add additional looseness to the regolith mixture. This growing pot was started with \none shoelace for watering. The mixture proved to be very different from the other growing pots \nas the water was not penetrating into the regolith mixture. At week 5, a second shoelace was \nadded to increase the water. This resulted with a single plant by week 6. The growing medium \nin this pot did not condense to the same extent as the others and two shoelaces were \ncontinued throughout the remainder of the experiment time with this growing medium. Two \nshoelaces did not produce an overwatering situation with this regolith mixture. \nWeek 6: \nGrowing pot with Regolith, Soil and \nPerlite showing growth with two \nshoelaces to provide water. \n \nPicture taken August 8th, 2021",
+      "char_count": 2104,
+      "image_count": 3,
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "text": "How do Different Regolith Additives Affect the Growth of Ruby Queen Beets? \n \n9 \nQ-36 Explosive Space Modulators - Alison and Amber MacMillan \nThe control growing pot meanwhile, showed that even a single shoelace to topsoil \nwithout additives provides too much water. The soil became increasingly wet with every week. \nBy the conclusion of the experiment on August 9th, the topsoil was wet enough to have a \nconsistency more like mud. This could explain why the four plants that had started growing \nwithin the control pot, were all dead by week 5. \nThese results show that the shoelace watering method is not necessarily ideal for \ngrowing plants within the Mars regolith. It would take a great deal of experimentation in order \nto determine an appropriate ratio for shoelaces to growing pot size. The width and depth would \nhave to be taken into consideration as the regolith is dense enough to impede adequate \ndistribution of water throughout the growing medium. \nThis experiment has also shown that a mixture of regolith and bloodmeal will not \nproduce plant life on Mars, but further experimentation could be completed to determine if \nthis is a possible way to bring insect and/or invertebrate life to the planet to help with \nimproving growing conditions on site. \nReferences: \nCan you use coffee grounds to fertilize indoor plants? Smart Garden Guide. (2019, September 5). \nhttps://smartgardenguide.com/coffee-grounds-fertilize-indoor-plants/ \nZimmer, F. (2021, August 6). Do indoor plants like coffee grounds? Indoor Plants for Beginners. \nhttps://www.indoorplantsforbeginners.com/do-indoor-plants-like-coffee-grounds/ \nEspirituFounder, K. (2020, January 23). How to add blood meal to your garden soil. Epic \nGardening. https://www.epicgardening.com/blood-meal/ \n1st ZOOM meeting for the Plant Mars Challenge (2021, June 3)",
+      "char_count": 1833,
+      "image_count": 1,
+      "tables": []
+    }
+  ]
+}

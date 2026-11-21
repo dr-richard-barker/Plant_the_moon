@@ -1,0 +1,1502 @@
+{
+  "report_id": "spring25-main-vaial-team-4-52c339",
+  "sha256": "e981341753897a6fc4693e715907b7a6cb14ee2d1cce03bb8d98aabde3f3e6c1",
+  "page_count": 25,
+  "total_chars": 34527,
+  "avg_chars_per_page": 1381.1,
+  "total_images": 28,
+  "table_count": 20,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Plant the Moon & Plant Mars Challenge \u2013 Spring 2025 \n \n \n \n \n \n \n \n \n \n \n \nVIT School of Agricultural Innovations and Advanced Learning (VAIAL), \nVellore Institute of Technology, Vellore 632014, INDIA. \nENHANCING SPINACH GROWTH AND YIELD IN LUNAR \nREGOLITH USING NANO SUPPLEMENT AGAINST SALT \nSTRESS \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nTeam Name: VAIAL Team 4 \nID #: 20711 \nCoach Name: Dr. Parthasarathi \nTheivasigamani \nChief Advisor: \nDr. Subramanian Babu \nDivision: Undergraduate \n \nTeam Members: \nPravin Kumar Amirthalingam \nKarthika Asokan \nNaveenragau \nPrabakaran M \n Kaviya V S \n Dr. Saiyyeda Firdous",
+      "char_count": 610,
+      "image_count": 5,
+      "tables": [
+        [
+          [
+            "Team Name: VAIAL Team 4",
+            "ID #: 20711"
+          ],
+          [
+            "Coach Name: Dr. Parthasarathi Theivasigamani",
+            "Chief Advisor: Dr. Subramanian Babu"
+          ],
+          [
+            "Division: Undergraduate",
+            ""
+          ],
+          [
+            "Team Members:",
+            ""
+          ],
+          [
+            "Pravin Kumar Amirthalingam Karthika Asokan Naveen ragau Prabak aran M Kavi ya V S Dr. Saiyyeda Firdous",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "PLANT THE MOON CHALLENGE - SPRING 2025 \nEnhancing Spinach Growth and Yield in Lunar Regolith using \nNano supplement against Salt Stress \nIntroduction \nAs humanity sets its sights on long-term lunar exploration and habitation, one of the key \nquestions must answer is: Can we grow food on the Moon? This season, VAIAL Team 4 took \non this exciting challenge by investigating how spinach, a nutrient-rich leafy green, grows in a \nsimulated lunar environment using the lunar regolith. \nBy experimenting with regolith simulant, this experiment aimed to understand the possibilities \nand limitations of cultivating crops in space-like conditions. This project not only explored the \nviability of spinach as a lunar crop but also contributed to the broader mission of sustainable \nspace agriculture. This report give the new insight into the space agriculture, innovation, and \nunexpected discoveries behind the experience to grow spinach on the Moon. \nSpinach is a promising crop for cultivation in lunar conditions using treated lunar regolith as a \ngrowth medium. Its adaptability to hydroponic and controlled-environment farming makes it \nsuitable for space habitats where soil is limited. When supplemented with essential nutrients \nand organic matter, lunar regolith can support spinach growth, providing a sustainable source \nof vitamins A, C, K, iron, and folate for astronauts. Spinach\u2019s short growth cycle, efficient \nspace use, and potential for contributing to oxygen production and psychological well-being \nmake it an ideal candidate for lunar agriculture. \nTheory: \nThe ability to sustain crop growth using lunar regolith is essential for the success of long-term \nlunar missions. Given the immense logistical challenges and costs associated with transporting \nmaterials from Earth, utilizing in-situ resources\u2014such as lunar regolith\u2014for agriculture is \ncritical. However, previous studies have demonstrated that unmodified lunar regolith lacks \nessential nutrients and possesses inadequate structural characteristics for effective plant \ncultivation. \nLunar regolith contains various salts such as silicates, oxides, sodium, potassium and calcium \n(Zhou et al., 2024). The detailed report of lunar soil element analysis was given in Table (1). \nThe salts present in the lunar regolith may create salt stress and it is different from the earth",
+      "char_count": 2352,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "text": "soil salinity. The presence of salt forming elements in lunar regolith plays a significant impact \non crop growth and yield. With this reason, salt stress of lunar regolith considered as a problem \nin the present study. \nTable 1. Lunar regolith chemical properties (Initial soil analysis) \n \nThe previous experiments investigated the feasibility of growing crops in lunar regolith that \nwas modified to mimic the texture and nutrient composition of loamy Earth soil. A 52:48 ratio \nof lunar regolith to additive was used to create a growth medium, in which four crop species \nwere cultivated over a seven-week period. Among the species tested, Fagopyrum esculentum \n(buckwheat) exhibited significantly higher biomass in the modified lunar regolith compared to \nthe Earth soil control (Thorsen et al., 2023). In the present study, similar potting media was \nprepared using the amendments (50%) with regolith (50%) and to combat the problems of lunar \nsimulant (Table 2). \nSpinach is a familiar test crop and sensitive to the daylength (photoperiod) and used to test \nunder various abiotic stresses. Recent report on Spinach showed potential ability to overcome \nthe salinity stress under LED lights (Vajjiravel et al., 2024). This review reasoned for the \nselection of Spinach as a test crop and modified photoperiod as a treatment in the current study. \nThe findings of Thorsen and co-workers (2023) suggest that the crop cultivation on the Moon \nmay be achievable using lunar regolith supplemented with a relatively small amount of additive \nmaterial. With this background, the current study was formulated that the nano materials (nano \nparticle and nanotubes) supplementation to reduce the salt stress of lunar regolith. This study \naimed to use the resource-efficient inputs (modified amendments, day length and nano material \nsupplementation) could increase food production in extra-terrestrial environments. \n \nParame\nters \nK \n(mg/ \nkg) \nCa \n(mg/ \nkg) \nMg \n(mg/ \nkg) \nNa \n(mg/ \nkg) \nZn \n(mg/ \nkg) \nMn \n(mg/ \nkg) \nFe \n(mg/ \nkg) \nCu \n(mg/\nkg) \nNitrate \nNitroge\nn \n(mg/kg) \nPhosph\norus \n(mg/kg) \npH \nEC \n(mS/\ncm) \nOM \n% \nQty \n143 \n2876 \n4566 \n384 \n0.99 \n4.41 \n131.6 \n0.67 \n27.90 \n4.6 \n7.20 \n1.77 \n0.13",
+      "char_count": 2204,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Parame ters",
+            "K (mg/ kg)",
+            "Ca (mg/ kg)",
+            "Mg (mg/ kg)",
+            "Na (mg/ kg)",
+            "Zn (mg/ kg)",
+            "Mn (mg/ kg)",
+            "Fe (mg/ kg)",
+            "Cu (mg/ kg)",
+            "Nitrate Nitroge n (mg/kg)",
+            "Phosph orus (mg/kg)",
+            "pH",
+            "EC (mS/ cm)",
+            "OM %"
+          ],
+          [
+            "Qty",
+            "143",
+            "2876",
+            "4566",
+            "384",
+            "0.99",
+            "4.41",
+            "131.6",
+            "0.67",
+            "27.90",
+            "4.6",
+            "7.20",
+            "1.77",
+            "0.13"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "Experiment Design \nGrow Setup \nThe experiment consists of a total of 24 pots, divided into two groups: 12 pots containing lunar \nsoil mixtures and 12 pots containing Earth soil mixtures (Figure 1.). Each group is further \ndivided into control and treatment conditions, with four replications per condition to ensure \naccuracy and reliability in the results. The media composition of individual pots given below \n(Table 2.). \nTable 2. The media composition of the potting mixture \n \n Figure 1. Graphical representation of pot arrangement \n \nPlant Growth Chamber\nControlled Greenhouse\n14:10\n12:12\n12:12\n12:12\nEarth Media (Soil + Amendments) \nLunar Media (Regolith + Amendments) \n Earth soil 200g \nAmendments 200g \n\uf075 Vermicompost 94g \n\uf075 Biodynamic manure- 1+2g \n\uf075 Biochar \u2013 1g \n\uf075 Gypsum-2g \n\uf075 Coirpith+sphagnum peat moss \u2013 100g \n \n Lunar regolith 200g \n Amendments 200g \n\uf075 Vermicompost 94g \n\uf075 Biodynamic manure- 1+2g \n\uf075 Biochar \u2013 1g \n\uf075 Gypsum-2g \n\uf075 Coirpith+sphagnum peat moss \u2013 100g \n*Control pot: Soil/Regolith 200g + Coirpith 200g",
+      "char_count": 1030,
+      "image_count": 3,
+      "tables": [
+        [
+          [
+            "Earth Media (Soil + Amendments)",
+            "Lunar Media (Regolith + Amendments)"
+          ],
+          [
+            "Earth soil 200g Amendments 200g \uf075 Vermicompost 94g \uf075 Biodynamic manure- 1+2g \uf075 Biochar \u2013 1g \uf075 Gypsum-2g \uf075 Coirpith+sphagnum peat moss \u2013 100g",
+            "Lunar regolith 200g Amendments 200g \uf075 Vermicompost 94g \uf075 Biodynamic manure- 1+2g \uf075 Biochar \u2013 1g \uf075 Gypsum-2g \uf075 Coirpith+sphagnum peat moss \u2013 100g"
+          ],
+          [
+            "*Control pot: Soil/Regolith 200g + Coirpith 200g",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 5,
+      "text": "Table 3. Overview of treatment details \n \nIn this experiment, Spinach seeds are grown separately in pots containing either Earth soil or \nlunar soil to compare their growth performance, with a major focus on salt stress. Both soil \ntypes receive the same amendments in equal proportions to maintain consistency. There were \ntwenty seeds of Spinach (UGAOO green spinach, Ugaoo Agritech Pvt Ltd, Pune) were sown \nin the pots. The lunar soil pots with seeds were kept in a plant growth chamber under a light \ncycle of 12 hours of light followed by a dark period. The daylength of light increased to 14 \nhours on every five days that simulating increased daylength available in moon. However, on \nevery fifth day, the control pots in the lunar soil kept for 12 hours light cycle. The earth soil \npots with seeds were kept in the controlled greenhouse and maintained under natural daylength. \nEach pots were irrigated manually on every day and the volume of water increased by 30% \nmore after the measurement of drainage water. To ensure proper nutrient supply, NPK \n(19:19:19) is fertigated for every pot twice a week at a rate of 1g/L of Water. \nThe silica nanoparticles (SiNPs) and carbon nanotubes (CNTs) were supplemented to the pots \nof both soil after 15 days of sowing. Silica nanoparticles (SiNPs) play a significant role in \nenhancing plant growth and may have potential to alleviate salinity stress. The SiNPs were \nbiosynthesized from the biodynamic manure 501 (Bharathy and Parthasarathi, 2025) and \nprocured from Dr. Parthasarathi\u2019s research lab, VAIAL, VIT. Carbon nanotubes (CNTs) offer \nseveral benefits in promoting plant growth and possible to alleviate salinity stress. The \ncommercially available CNTs were purchased from the market used for supplementation. \n \n \nLunar soil mixtures \nEarth soil mixtures \nTreatments \nCarbon \nnanotube \n(T1) \nSilica \nnanoparticle \n(T2) \nContr\nol \nCarbon \nnanotube \n(T1) \nSilica \nnanoparticle \n(T2) \nContr\nol \n \nReplications \nR1 \nR1 \nR1 \nR1 \nR1 \nR1 \nR2 \nR2 \nR2 \nR2 \nR2 \nR2 \nR3 \nR3 \nR3 \nR3 \nR3 \nR3 \nR4 \nR4 \nR4 \nR4 \nR4 \nR4",
+      "char_count": 2068,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "",
+            "Lunar soil mixtures",
+            "",
+            "",
+            "Earth soil mixtures",
+            "",
+            ""
+          ],
+          [
+            "Treatments",
+            "Carbon nanotube (T1)",
+            "Silica nanoparticle (T2)",
+            "Contr ol",
+            "Carbon nanotube (T1)",
+            "Silica nanoparticle (T2)",
+            "Contr ol"
+          ],
+          [
+            "Replications",
+            "R1",
+            "R1",
+            "R1",
+            "R1",
+            "R1",
+            "R1"
+          ],
+          [
+            "",
+            "R2",
+            "R2",
+            "R2",
+            "R2",
+            "R2",
+            "R2"
+          ],
+          [
+            "",
+            "R3",
+            "R3",
+            "R3",
+            "R3",
+            "R3",
+            "R3"
+          ],
+          [
+            "",
+            "R4",
+            "R4",
+            "R4",
+            "R4",
+            "R4",
+            "R4"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 6,
+      "text": "\uf0b7 Carbon nanotubes (CNTs) help alleviate plant stress by improving the soil-like \nmedium\u2019s water retention, nutrient availability, and overall plant compatibility. CNTs \nact as nano-scale soil conditioners, enhancing the physical properties of regolith to \nsupport better root growth and moisture absorption. Functionalized CNTs can also serve \nas carriers for nutrients or plant growth regulators, delivering them efficiently to plants \ngrowing in this hostile medium. \n\uf0b7 Silica nanoparticles (SiNPs) improve plant water uptake by enhancing root structure \nand increasing the expression of aquaporins, which are water channel proteins. They \nalso help regulate ion homeostasis by reducing toxic sodium uptake and promoting the \nselective absorption of essential ions like potassium and calcium. Furthermore, SiNPs \nboost the plant's antioxidant defense system, reducing oxidative damage caused by \nstress-related reactive oxygen species (ROS). \nMethodology \nGrowth Parameters: \nThe morphological data of plant height (cm), leaf length (cm), leaf breadth (cm) and no of \nleaves from each pots were collected from three tagged plants on week 3, week 5, week 7. For \nchecking the parameters ruler was used to measure. For earth soil also the same \nprocedure is followed. \nPhysiological parameters \n1. Select Representative Plants \n\uf0b7 Choose 3\u20135 representative plants per treatment or plot. \n\uf0b7 Label them to ensure the same plants are used each week. \n2. Select Leaves for Measurement \n\uf0b7 Use fully expanded, healthy leaves\u2014typically the youngest fully developed \nleaf. \n\uf0b7 Select 3\u20135 leaves per plant. \n\uf0b7 Avoid damaged, diseased, or shaded leaves. \n3. Measurement Timing \n\uf0b7 Perform measurements weekly, preferably: \n\uf0b7 At the same time of day (morning is best to avoid heat stress effects).",
+      "char_count": 1784,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "text": "Net photosynthetic rate: \n By using the average spade meter value of each treatments and apply it in the Net \nPhotosynthetic Rate (NPR) formulae to find out the NPR : \n NPR=0.0049(x\u00b2)+ 0.0383(x) - 4.1593 \nStomatal conductance: \nBy using the average spade meter value of each treatments and apply it in the Stomatal \nConductance (SC) formulae to find out the SC : \n SC=0.0027(x\u00b2)+ 0.00214(x)+ 0.0808 \nTranspiration rate: \nBy using the average spade meter value of each treatments and apply it in Transpiration Rate \n(T) formulae to find out the T : \n T=0.0094(x\u00b2)+ 0.1627(x) + 1.0563 \nMetabolite analysis \nPlants from each treatment and control group were harvested and kept separately. The samples \nwere first shade-dried and then oven-dried at 60\u00b0C for one day. The dried plant material was \nthen ground into a fine powder using a mortar and pestle. \nFrom each finely powdered plant sample, 100 mg was taken and mixed with 5 mL of methanol. \nThe mixture was placed in a shaker at 100 rpm and left overnight. \nThe following day, the samples were subjected to sonication and then returned to the shaker \nfor an additional 5 to 6 hours. After shaking, the extracts were transferred to petri plates and \noven-dried. \nThe dried residue was carefully scraped and transferred into Eppendorf tubes. These samples \nwere then sent to the GC Analysis Lab at Vellore Institute of Technology (VIT), Vellore, for \nGas Chromatography (GC) analysis. \nHarvest analysis \nThe plants were harvested, and roots were removed from the potted soil on Week 7. The fresh \nyield of Spinach was measured pot wise. The root length was measured by selecting 3 plants \nrandomly from each pot and noted. After all the measurements, samples were first shade-dried",
+      "char_count": 1731,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "text": "and then oven-dried at 60\u00b0C for one day. After drying, the dry weight of each sample was \nrecorded. The dried plant material was then ground into a fine powder using a mortar and pestle. \nFrom each powdered sample, 1 gram was packed and sent for Inductively Coupled Plasma \n(ICP) analysis to the National Agro Foundation, Chennai. \nNutrient analysis \nAn initial sample of 200 grams of lunar regolith was collected, packed securely, and sent for \nInductively Coupled Plasma (ICP) analysis to the National Agro Foundation, Chennai \nSoil samples were collected from all 24 pots separately for each treatment, both from the lunar \nand earth soils. The collected soil was sieved to obtain fine particles suitable for analysis. \nFrom each sample, 200 grams of sieved soil was measured and oven-dried at 60\u00b0C for 8 hours \nto remove moisture. The dried soil samples were then carefully packed and sent for Inductively \nCoupled Plasma (ICP) analysis to the National Agro Foundation, Chennai. \nResults and Discussion \nSpinach cultivated in lunar regolith exhibited superior growth (Fig 2a.) performance of plant \nheight, leaf numbers, leaf dimensions compared to those grown in Earth soil samples, \nparticularly during the 3rd and 5th weeks of observation. This enhanced growth is notably \nattributed to the application of Silica nanoparticles (SiNPs), which likely increased the \nantioxidant enzymatic activity, i.e. lipid peroxidation (Figure 4.) and regulate the nutrient \nuptake under salt stress condition (Alam et al., 2022). The control samples of lunar soil showed \nlower growth performance similar to the study report of Paul et al (2022) and reasoned due to \nslow crop establishment lead to severe stress morphologies. By the 7th week, the Spinach \nheight, leaf length (Fig. 2b.) was increased by SiNPs followed by carbon nanotubes (CNTs) \ndue to enhanced phosphorous and carbon use from the soil. As a result of nanoparticle \nsupplementation, the leaf photosynthetic surface will be increased. \nLeaf photosynthesis is a complex process which was mainly affected by salt stress due to \nreduced water potential and excessive salt toxic ions in the root zone of the crop. This was \nreasoned for the reduced photosynthetic performance and leaf chlorophyll content in the \ncontrol samples of Lunar soil. The leaf chlorophyll content (SPAD), net photosynthetic rate, \nstomatal conductance and transpiration rate values are significantly higher in lunar soil + SiNPs \ntreatment during week 4 and showed consistent leaf physiology during week 6 (Fig 3a, 3b.). \nHigher SPAD chlorophyll content with SiNPs supplementation increase the gene expression of",
+      "char_count": 2644,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "text": "photosystem machinery and associated signalling pathway of chlorophyll biosynthesis \n(Lesharadevi et al., 2022). The long daylength can reduce the leaf photosynthesis than the short \nday (SD) plants (Xu et al., 2022). In contrast, the SiNPs and CNTs supplement can alter the \nlong daylength effect by showcasing better photosynthetic performance in lunar soil. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nFigure 2a. Effect of nanomaterials and daylength on plant height (cm), leaf length (cm), leaf \nbreadth (cm) and number of leaves of Spinach in lunar and earth media. The black error bars \nrepresents the standard error \u00b1 of mean and n=3. \n \n0\n4\n8\n12\nPLANT\nHEIGHT\nLEAF\nLENGTH\nLEAF\nBREADTH\nNO. OF\nLEAVES\nGrowth parameters \n(Cm/Nos)\nWEEK 3 (CONTROL) \nLUNAR\nEARTH\n0\n4\n8\n12\nPLANT\nHEIGHT\nLEAF\nLENGTH\nLEAF\nBREADTH\nNO. OF\nLEAVES\nGrowth parameters \n(Cm/Nos)\nWeek 3 (TREATMENT 1) \n0\n4\n8\n12\nPLANT\nHEIGHT\nLEAF\nLENGTH\nLEAF\nBREADTH\nNO. OF\nLEAVES\nGrowth \nparameters \n(Cm/Nos)\nWeek 3 (TREATMENT 2) \n0\n4\n8\n12\nPLANT\nHEIGHT\nLEAF\nLENGTH\nLEAF\nBREADTH\nNO. OF\nLEAVES\nGrowth parameters\n(Cm / Nos.)\nWeek 5 (CONTROL) \nLUNAR\nEARTH\n0\n4\n8\n12\nPLANT\nHEIGHT\nLEAF\nLENGTH\nLEAF\nBREADTH\nNO. OF\nLEAVES\nGrowth parameters \n(Cm/Nos)\nWeek 5 (TREATMENT 1) \n0\n4\n8\n12\nPLANT\nHEIGHT\nLEAF\nLENGTH\nLEAF\nBREADTH\nNO. OF\nLEAVES\nGrowth parameters \n(cm/Nos.)\nWeek 5 (TREATMENT 2)",
+      "char_count": 1328,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "text": "Figure 2b. Effect of nanomaterials and daylength on plant height (cm), leaf length (cm), leaf \nbreadth (cm) and number of leaves of Spinach in lunar and earth media. The black error bars \nrepresents the standard error \u00b1 of mean and n=3. \n \n \n0\n5\n10\n15\n20\nPLANT\nHEIGHT\nLEAF LENGTH\nLEAF\nBREADTH\nNO. OF\nLEAVES\nROOT LENGTH\nGrowth parameters\n(Cm/Nos.)\nWeek 7 (CONTROL) \nLUNAR\nEARTH\n0\n2\n4\n6\n8\n10\n12\n14\n16\n18\n20\nPLANT\nHEIGHT\nLEAF LENGTH\nLEAF\nBREADTH\nNO. OF\nLEAVES\nROOT LENGTH\nGrowth parameters\n(Cm/Nos.)\nWEEK 7 (TREATMENT 1) \n0\n2\n4\n6\n8\n10\n12\n14\n16\n18\n20\nPLANT\nHEIGHT\nLEAF\nLENGTH\nLEAF\nBREADTH\nNO. OF\nLEAVES\nROOT\nLENGTH\nGrowth parameters \n(Cm/Nos.)\nWeek 7(TREATMENT 2)",
+      "char_count": 659,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "text": "WEEK 6 \n \n \n \n \n \n \n \n \n \n \n \n \nFigure 3a. Effect of nanomaterials and daylength on SPAD chlorophyll content, leaf \ntranspiration rate of Spinach in lunar and earth media. The black error bars represents the \nstandard error \u00b1 of mean and n=3. \nThe lipid peroxidation levels may indicate the osmotic stress damage caused by lipid \nperoxidation. This found to be highest in the control treatments of lunar soil. In contrast, the \napplication of nanomaterials particularly carbon nanotubes (CNTs) and silica nanoparticles \n(SiNPs) significantly reduced lipid peroxidation across both lunar and Earth soil samples (Fig \n4.). This reduction highlights the effectiveness of these nanomaterials in safeguarding plant cell \nmembranes, mitigating damage caused by reactive oxygen species (ROS), and enhancing the \noverall salt stress tolerance of the plants. \n \n \n \n0\n10\n20\n30\n40\n50\nT1\nT2\nC\nSPAD Chlorophyll \ncontent\nWEEK 4\nEARTH\nLUNAR\n0\n5\n10\n15\n20\n25\n30\n35\nT1\nT2\nC\nSPAD Chlorophyll content\nWEEK 6\n0\n2\n4\n6\nT1\nT2\nC\nTranspiration rate \nmmol H2O m^-2 s^-1\n0\n2\n4\n6\nT1\nL2\nC\nTranspiration rate \nmmol H2O m^-2 s^-1",
+      "char_count": 1098,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 12,
+      "text": "Figure 3b. Effect of nanomaterials and daylength on leaf stomatal conductance and \nphotosynthetic rate of Spinach in lunar and earth media. The black error bars represents the \nstandard error \u00b1 of mean and n=3. \n \n \n \n \n \n \n \n \n \nFigure 4. Effect of nanomaterials and daylength on lipid peroxidation (MDA) of Spinach in \nlunar and earth media. The black error bars represents the standard error \u00b1 of mean and n=3. \n \n0\n2.5\n5\nT1\nT2\nC\nStomatal conductance \nmmol m^-3 s^-1\nWEEK 4\nEARTH\nLUNAR\n0\n2.5\n5\nT1\nT2\nC\nStomatal conductance \nmmol m^-3 s^-1\nWEEK 6\n0\n5\n10\n15\n20\n25\nT1\nT2\nC\nNet Photosynthetic rate \n\u00b5mol CO2 m^-2 s^-1\n0\n5\n10\n15\n20\n25\nT1\nT2\nC\nNet Photosynthetic \nrate \n\u00b5mol CO2 m^-2 s^-1\n0\n1\n2\n3\nCarbon nanotube\nSilica\nnanoparticle\nControl\nMalondialdehyde\nActivity (\u00b5mol/ 0.5g \nFW)\nEARTH\nLUNAR",
+      "char_count": 791,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 13,
+      "text": "Interestingly, silica nanoparticles (LT2) demonstrated better fresh yield and total dry mass in \nlunar regolith by reducing salt stress more effectively, while carbon nanotubes showed greater \nefficacy in Earth soil conditions (Fig. 5.). These observations emphasize the critical role of \nnanoparticle in advancing sustainable cultivation, particularly in challenging extraterrestrial \nenvironments, by boosting plant resilience and minimizing stress-induced cellular damage. \nSimilar yield response observed in cherry radish with increased yield and nutritional quality by \nthe Si-based nanomaterial (Xu et al., 2023). \n \n \n \n \n \n \n \n \nFigure 5. Effect of nanomaterials and daylength on fresh yield and total dry mass of Spinach \nin lunar and earth media. \n \nFigure 6. Effect of nanomaterials and daylength on root length of Spinach in lunar and earth \nmedia. \n \n \n \n \n0\n1\n2\n3\n4\n5\nLT1\nLT2\nLC\nET1\nET2\nEC\nRoot length (cm)\n0\n10\n20\n30\n40\nLT1\nLT2\nLC\nET1\nET2\nEC\nFresh Yield \n(g/pot)\n0\n1\n2\n3\n4\nLT1\nLT2\nLC\nET1\nET2\nEC\nTotal dry mass \n(g/pot)",
+      "char_count": 1033,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 14,
+      "text": "GC Analysis results \nLT1 \n \n \n \n \n \n \n \n \n \n \n \nFigure 7a. Effect of nanomaterials and daylength on metabolic profile of Spinach in lunar \nmedia. \n LT2 \n \n \n \n \n \n \n \n \n \n \n \n \n \nFigure 7b. Effect of nanomaterials and daylength on metabolic profile of Spinach in lunar \nmedia. \nCOMPOUNDS \nM.W \nMOLECULAR \nFORMULA \n1-TRIFLUOROACETOXY-10-\nUNDECENE \n266 \nC13H21O2F3 \n1-HEPTAFLUOROBUTYRYLOXY-\n10-UNDECENE \n366 \nC15H21O2F7 \nNONAMETHYLENE GLYCOL \n204 \nC11H24O3 \nETHANOL, 2-(BUTYLAMINO) \n117 \nC6H15ON \n1-BUTANOL, \n3-METHYL-2-\n(METHYLAMINO)-, (S) \n117 \nC6H15ON \nPYRIMIDINE-2,4(1H,3H)-DIONE, \n1,3-DIMETHYL-6-[2-(4-\nMORPHOLY ) \n296 \nC12H16O5N4 \n2-TETRADECANOL \n214 \nC14H30O \nETHANOL, \n2-[(2-\nETHYLHEXYL)OXY] \n174 \n C10H22O2 \nCOMPOUNDS \nM.W \nMOLECULAR \nFORMULA \nCYCLOPENTANE, HENEICOSYL \n364 \nC26H52 \nUNDECANE, \n1,2-DIBROMO-2-\nMETHYL \n326 \nC12H24Br2 \nZ,Z-4,16-OCTADECADIEN-1-OL \nACETATE \n308 \n C20H36O2 \nS,S'-BIS(2-\nDIMETHYLAMINOETHYL) \nMETHYLPHOSPHONODITHIO \n270 \nC9H23ON2S2P \nE,E-6,11-TRIDECADIEN-1-OL \nACETATE \n238 \nC15H26O2 \nNONAMETHYLENE GLYCOL \n204 \nC11H24O3 \nCHLOROMETHYL \n2-\nCHLOROUNDECANOATE \n268 \nC12H22O2CL2 \n1-HEXADECANOL \n242 \nC16H34O \n1-EICOSANOL \n298 \n \nC20H42O \n2-METHYL-Z-7,8-\nEPOXYHEXADECANE \n254 \nC17H34O",
+      "char_count": 1212,
+      "image_count": 2,
+      "tables": [
+        [
+          [
+            "COMPOUNDS",
+            "M.W",
+            "MOLECULAR FORMULA"
+          ],
+          [
+            "1-TRIFLUOROACETOXY-10- UNDECENE",
+            "266",
+            "C13H21O2F3"
+          ],
+          [
+            "1-HEPTAFLUOROBUTYRYLOXY- 10-UNDECENE",
+            "366",
+            "C15H21O2F7"
+          ],
+          [
+            "NONAMETHYLENE GLYCOL",
+            "204",
+            "C11H24O3"
+          ],
+          [
+            "ETHANOL, 2-(BUTYLAMINO)",
+            "117",
+            "C6H15ON"
+          ],
+          [
+            "1-BUTANOL, 3-METHYL-2- (METHYLAMINO)-, (S)",
+            "117",
+            "C6H15ON"
+          ],
+          [
+            "PYRIMIDINE-2,4(1H,3H)-DIONE, 1,3-DIMETHYL-6-[2-(4- MORPHOLY )",
+            "296",
+            "C12H16O5N4"
+          ],
+          [
+            "2-TETRADECANOL",
+            "214",
+            "C14H30O"
+          ],
+          [
+            "ETHANOL, 2-[(2- ETHYLHEXYL)OXY]",
+            "174",
+            "C10H22O2"
+          ]
+        ],
+        [
+          [
+            "COMPOUNDS",
+            "M.W",
+            "MOLECULAR FORMULA"
+          ],
+          [
+            "CYCLOPENTANE, HENEICOSYL",
+            "364",
+            "C26H52"
+          ],
+          [
+            "UNDECANE, 1,2-DIBROMO-2- METHYL",
+            "326",
+            "C12H24Br2"
+          ],
+          [
+            "Z,Z-4,16-OCTADECADIEN-1-OL ACETATE",
+            "308",
+            "C20H36O2"
+          ],
+          [
+            "S,S'-BIS(2- DIMETHYLAMINOETHYL) METHYLPHOSPHONODITHIO",
+            "270",
+            "C9H23ON2S2P"
+          ],
+          [
+            "E,E-6,11-TRIDECADIEN-1-OL ACETATE",
+            "238",
+            "C15H26O2"
+          ],
+          [
+            "NONAMETHYLENE GLYCOL",
+            "204",
+            "C11H24O3"
+          ],
+          [
+            "CHLOROMETHYL 2- CHLOROUNDECANOATE",
+            "268",
+            "C12H22O2CL2"
+          ],
+          [
+            "1-HEXADECANOL",
+            "242",
+            "C16H34O"
+          ],
+          [
+            "1-EICOSANOL",
+            "298",
+            "C20H42O"
+          ],
+          [
+            "2-METHYL-Z-7,8- EPOXYHEXADECANE",
+            "254",
+            "C17H34O"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 15,
+      "text": "LC \nCOMPOUNDS \nM.W \nMOLECULAR \nFORMULA \n2-HEXANOL, 5-METHYL \n116 \n C7H16O \n2-DECANOL \n158 \nC10H22O \n2-DODECANOL \n186 \nC12H26O \nN-ACETYL-D-GLUCOSAMINE \n221 \nC8H15O6N \n4-METHYL-3,7,9-\nTRIOXABICYCLO(4,2,1)NONANE \n144 \nC7H12O3 \nBUTANAL, 3-METHYL-, OXIME \n101 \n C5H11ON \n1-BUTANOL, 2-METHYL-, ACETATE \n130 \nC7H14O2 \nN-3-\nDIMETHYLAMINOPROPYLSUCCINIMIDE 184 \nC9H16O2N2 \nN-3-\nDIMETHYLAMINOPROPYLSUCCINIMIDE 197 \nC13H27N \n2-NONANONE, 9-HYDROXY \n158 \nC9H18O2 \nFigure 7c. Effect of nanomaterials and daylength on metabolic profile of Spinach in lunar \nmedia. \n ET1 \nCOMPOUNDS \nM.W \nMOLECULAR \nFORMULA \nTRIMEBUTINE \n387 \nC22H29O5N \n3-CHLORO-8-METHOXY-N,N-\nDIMETHYL-11H-INDOLO[3,2-C]QUIN 353 \nC20H20ON3Cl \nTRIFLUOMEPRAZINE \n366 \nC19H21N2F3S \nETHYLAMINE, \n2-((P-BROMO-\n.ALPHA.-METHYL-.ALPHA.-\nPHENYLB \n347 \nC18H22ONBr \nDOTHIEPIN \n295 \nC19H21NS \n1,4-METHANO-2H-\nCYCLOPENT[D]OXEPIN-2,5(4H)-\nDIONE, 6-[(DIM \n309 \n C17H27O4 \nTRIMEBUTINE \n387 \nC22H29O5N \nETHYLAMINE, \n2-((P-BROMO-\n.ALPHA.-METHYL-.ALPHA.-\nPHENYLB \n347 \nC18H22ONBr \n1-PROPANOL, \n3-\n(DIMETHYLAMINO)-, ACETATE \n145 \n C7H15O2N \nFigure 7d. Effect of nanomaterials and daylength on metabolic profile of Spinach in earth soil \nmedia.",
+      "char_count": 1173,
+      "image_count": 2,
+      "tables": [
+        [
+          [
+            "COMPOUNDS",
+            "M.W",
+            "MOLECULAR FORMULA"
+          ],
+          [
+            "2-HEXANOL, 5-METHYL",
+            "116",
+            "C7H16O"
+          ],
+          [
+            "2-DECANOL",
+            "158",
+            "C10H22O"
+          ],
+          [
+            "2-DODECANOL",
+            "186",
+            "C12H26O"
+          ],
+          [
+            "N-ACETYL-D-GLUCOSAMINE",
+            "221",
+            "C8H15O6N"
+          ],
+          [
+            "4-METHYL-3,7,9- TRIOXABICYCLO(4,2,1)NONANE",
+            "144",
+            "C7H12O3"
+          ],
+          [
+            "BUTANAL, 3-METHYL-, OXIME",
+            "101",
+            "C5H11ON"
+          ],
+          [
+            "1-BUTANOL, 2-METHYL-, ACETATE",
+            "130",
+            "C7H14O2"
+          ],
+          [
+            "N-3- DIMETHYLAMINOPROPYLSUCCINIMIDE",
+            "184",
+            "C9H16O2N2"
+          ],
+          [
+            "N-3- DIMETHYLAMINOPROPYLSUCCINIMIDE",
+            "197",
+            "C13H27N"
+          ],
+          [
+            "2-NONANONE, 9-HYDROXY",
+            "158",
+            "C9H18O2"
+          ]
+        ],
+        [
+          [
+            "COMPOUNDS",
+            "M.W",
+            "MOLECULAR FORMULA"
+          ],
+          [
+            "TRIMEBUTINE",
+            "387",
+            "C22H29O5N"
+          ],
+          [
+            "3-CHLORO-8-METHOXY-N,N- DIMETHYL-11H-INDOLO[3,2-C]QUIN",
+            "353",
+            "C20H20ON3Cl"
+          ],
+          [
+            "TRIFLUOMEPRAZINE",
+            "366",
+            "C19H21N2F3S"
+          ],
+          [
+            "ETHYLAMINE, 2-((P-BROMO- .ALPHA.-METHYL-.ALPHA.- PHENYLB",
+            "347",
+            "C18H22ONBr"
+          ],
+          [
+            "DOTHIEPIN",
+            "295",
+            "C19H21NS"
+          ],
+          [
+            "1,4-METHANO-2H- CYCLOPENT[D]OXEPIN-2,5(4H)- DIONE, 6-[(DIM",
+            "309",
+            "C17H27O4"
+          ],
+          [
+            "TRIMEBUTINE",
+            "387",
+            "C22H29O5N"
+          ],
+          [
+            "ETHYLAMINE, 2-((P-BROMO- .ALPHA.-METHYL-.ALPHA.- PHENYLB",
+            "347",
+            "C18H22ONBr"
+          ],
+          [
+            "1-PROPANOL, 3- (DIMETHYLAMINO)-, ACETATE",
+            "145",
+            "C7H15O2N"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 16,
+      "text": "ET2 \nCOMPOUNDS \nM.W \nMOLECULAR \nFORMULA \nTETRAACETYL-D-XYLONIC \nNITRILE \n343 \nC14H17O9N \nPROPANAMIDE \nOXIME, \n2-(3-\nMETHYL-4-\nFUROXANYLOXYIMINO) \n313 \nC9H11O6N7 \n1-BUTOXY-2-PROPANOL \nACETATE \n174 \nC9H18O3 \nDIACETYL SULPHIDE \n118 \nC4H6O2S \n1,2-PROPANEDIOL, 2-ACETATE \n118 \nC5H10O3 \n1,4-BUTANEDIOL, DIACETATE \n174 \nC8H14O4 \n1-BUTOXY-2-PROPANOL \nACETATE \n174 \nC9H18O3 \nMORPHOLIN-3-ONE, \n2-\nHYDROXY-2,5,5-TRIMETHYL \n159 \n C7H13O3N \nACETIC ACID, UNDEC-2-ENYL \nESTER \n212 \n C13H24O2 \nFigure 7e. Effect of nanomaterials and daylength on metabolic profile of Spinach in earth soil \n EC \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nFigure 7f. Effect of nanomaterials and daylength on metabolic profile of Spinach in earth soil \nCOMPOUNDS \nM.W \nMOLECULAR \nFORMULA \nS-[2-[N,N-\nDIMETHYLAMINO]ETHYLPYROLLIDINE-\nN-CARBONYLTH \n245 \n \nC10H19O2N3S \nISOTHIAZOLE-4-CARBONITRILE, \n3,5-\nBIS[(2-DIMEMHYLAMINO)ET \n316 \nC12H20N4S3 \n2-PROPENOIC \nACID, \n2-\n(DIMETHYLAMINO)ETHYL ESTER \n143 \nC7H13O2N \n1-(2-DIMETHYLAMINO-ETHYL)-3,6-\nDIMETHYL-1H-PYRIMIDINE \n211 \n C10H17O2N3 \n2-PROPENOIC \nACID, \n2-\n(DIMETHYLAMINO)ETHYL ESTER \n143 \n C7H13O2N \nS-[2-[N,N-DIMETHYLAMINO]ETHYL]N,N-\nDIMETHYLCARBAMOYL T \n219 \nC8H17O2N3S \nCARBONIC ACID, 2-METHYLBUTYL 2-\nMETHOXYETHYL ESTER \n190 \nC9H18O4 \n1-(2-DIMETHYLAMINO-ETHYL)-3,6-\nDIMETHYL-1H-PYRIMIDINE-2,4 \n211 \nC10H17O2N3 \n2,3,4-TRIMETHYL-2-PENTANOL \n130 \n C8H18O",
+      "char_count": 1353,
+      "image_count": 2,
+      "tables": [
+        [
+          [
+            "COMPOUNDS",
+            "M.W",
+            "MOLECULAR FORMULA"
+          ],
+          [
+            "TETRAACETYL-D-XYLONIC NITRILE",
+            "343",
+            "C14H17O9N"
+          ],
+          [
+            "PROPANAMIDE OXIME, 2-(3- METHYL-4- FUROXANYLOXYIMINO)",
+            "313",
+            "C9H11O6N7"
+          ],
+          [
+            "1-BUTOXY-2-PROPANOL ACETATE",
+            "174",
+            "C9H18O3"
+          ],
+          [
+            "DIACETYL SULPHIDE",
+            "118",
+            "C4H6O2S"
+          ],
+          [
+            "1,2-PROPANEDIOL, 2-ACETATE",
+            "118",
+            "C5H10O3"
+          ],
+          [
+            "1,4-BUTANEDIOL, DIACETATE",
+            "174",
+            "C8H14O4"
+          ],
+          [
+            "1-BUTOXY-2-PROPANOL ACETATE",
+            "174",
+            "C9H18O3"
+          ],
+          [
+            "MORPHOLIN-3-ONE, 2- HYDROXY-2,5,5-TRIMETHYL",
+            "159",
+            "C7H13O3N"
+          ],
+          [
+            "ACETIC ACID, UNDEC-2-ENYL ESTER",
+            "212",
+            "C13H24O2"
+          ]
+        ],
+        [
+          [
+            "COMPOUNDS",
+            "M.W",
+            "MOLECULAR FORMULA"
+          ],
+          [
+            "S-[2-[N,N- DIMETHYLAMINO]ETHYLPYROLLIDINE- N-CARBONYLTH",
+            "245",
+            "C10H19O2N3S"
+          ],
+          [
+            "ISOTHIAZOLE-4-CARBONITRILE, 3,5- BIS[(2-DIMEMHYLAMINO)ET",
+            "316",
+            "C12H20N4S3"
+          ],
+          [
+            "2-PROPENOIC ACID, 2- (DIMETHYLAMINO)ETHYL ESTER",
+            "143",
+            "C7H13O2N"
+          ],
+          [
+            "1-(2-DIMETHYLAMINO-ETHYL)-3,6- DIMETHYL-1H-PYRIMIDINE",
+            "211",
+            "C10H17O2N3"
+          ],
+          [
+            "2-PROPENOIC ACID, 2- (DIMETHYLAMINO)ETHYL ESTER",
+            "143",
+            "C7H13O2N"
+          ],
+          [
+            "S-[2-[N,N-DIMETHYLAMINO]ETHYL]N,N- DIMETHYLCARBAMOYL T",
+            "219",
+            "C8H17O2N3S"
+          ],
+          [
+            "CARBONIC ACID, 2-METHYLBUTYL 2- METHOXYETHYL ESTER",
+            "190",
+            "C9H18O4"
+          ],
+          [
+            "1-(2-DIMETHYLAMINO-ETHYL)-3,6- DIMETHYL-1H-PYRIMIDINE-2,4",
+            "211",
+            "C10H17O2N3"
+          ],
+          [
+            "2,3,4-TRIMETHYL-2-PENTANOL",
+            "130",
+            "C8H18O"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 17,
+      "text": "The metabolomics of Spinach leaves showed a variety of chemical structures with diverse \nfunctional groups. The GC images of LT2, LT1 and LC shows a clear increase in metabolites \nin the shoot of spinach which indicated the SiNPs and CNTs alter the metabolic profile (Fig \n7.). The CNTs altered the metabolome of the plant and subsequently enhanced plant growth \nwhich was in accordance with the previous report of Chen et al., (2022). Similarly, Xi et al. \n(2023) reported that SiNPs resulted in significant separation metabolic profile in cherry radish \nplants. \nA significant reduction in root length was observed in the control treatment of lunar soil which \nhas also been observed under high osmotic stress (Shrivastava and Kumar, 2015). However, in \nthe same soil media, the SiNPs were increase the root length which attributed to differential \nresponse to salt stress. In addition, the SiNPs increase the uptake of important elements Ca, \nMg and K levels by maintain the intercellular ionic balance. In the lunar control (LC) plants \nthe ionic ratio analysis exhibited poor ionic balance. i.e. Na/K ratio (0.24), Na/Ca (2.91) and \nNa/Mg (1.89) (Table 4.). Among the treated lunar samples, L1 and L2 showed higher ratios of \nNa/K, Na/Ca and Na/Mg. This suggests that the application of treatments such as silica \nnanoparticles and carbon nanotubes helped to mitigate salt stress, which could have been \nsignificantly higher in the absence of such amendments. \nTable 4. Effect of nanomaterials and daylength on Na/K, Na/Ca and Na/mg ratio of \nSpinach in lunar and earth media. \n \n \n \n \n \n \n \nThe lunar regolith samples, especially LT2 exhibited significantly lower Na/K (0.33), along \nwith moderate Na/Ca and Na/Mg ratios (Fig 5.), suggesting effective mitigation of sodium \ntoxicity due to the application of silica nanoparticles and carbon nanotubes. These results \nindicate that the use of nanomaterial treatments was more effective in lunar regolith that \nenhancing the plant\u2019s ability to regulate ion balance and maintain better physiological function \nunder potentially stressful conditions. \nSample \nNa/K \nratio \nNa/Ca \nratio \nNa/Mg \nratio \nLC \n0.24 \n2.98 \n1.89 \nL1 \n0.32 \n3.70 \n2.47 \nL2 \n0.35 \n3.88 \n3.07 \nEC \n0.39 \n2.86 \n2.72 \nE1 \n0.35 \n3.07 \n2.37 \nE2 \n0.36 \n3.3 \n2.47",
+      "char_count": 2282,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Sample",
+            "Na/K ratio",
+            "Na/Ca ratio",
+            "Na/Mg ratio"
+          ],
+          [
+            "LC",
+            "0.24",
+            "2.98",
+            "1.89"
+          ],
+          [
+            "L1",
+            "0.32",
+            "3.70",
+            "2.47"
+          ],
+          [
+            "L2",
+            "0.35",
+            "3.88",
+            "3.07"
+          ],
+          [
+            "EC",
+            "0.39",
+            "2.86",
+            "2.72"
+          ],
+          [
+            "E1",
+            "0.35",
+            "3.07",
+            "2.37"
+          ],
+          [
+            "E2",
+            "0.36",
+            "3.3",
+            "2.47"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 18,
+      "text": "Table 5. Effect of nanomaterials and daylength on Na/K, Na/Ca and Na/mg ratio of \nSpinach in lunar and earth media. \n \n \n \n \n \n \nConclusion: \nThe experiment successfully demonstrates that lunar regolith, when appropriately amended and \nsupplemented with nanomaterials like silica nanoparticles and carbon nanotubes, can support \nthe healthy and vigorous growth of spinach. Among the treatments, silica nanoparticles (SiNPs) \nyielded the most favorable results in terms of plant height, root development, nutrient uptake, \nsalinity stress mitigation, and physiological activity. \nWhile Earth soil showed delayed adaptation under the same treatments, lunar regolith \nresponded robustly, marking it as a promising medium for lunar agriculture. The results \nreinforce the SiNPs showed better ionic balance, osmoregulation, membrane stability and stress \ntolerance and yield of spinach under lunar soil and lunar daylength. The carbon nanotubes \n(CNTs) and Silica nano particles (SiNPs) supplementation recommended for lunar soil \namendment to achieve better growth and yield. In order to reduce salt stress and enhance \ndevelopment and production, silica nanoparticles (SiNPs) have been recommended as lunar \nsoil amendments.This nanomaterials are the viable, right amendments and environmental \ncontrol, can play a pivotal role in ensuring food security in the off-world habitats. \n \n \n \n \n \n \n \n \n \n \n \nSamples \nNa/K ratio \nNa/Ca ratio \nNa/Mg ratio \nLC \n0.31 \n0.18 \n0.64 \nL1 \n0.45 \n0.22 \n0.79 \nL2 \n0.33 \n0.26 \n0.76 \nEC \n0.53 \n0.23 \n0.57 \nE1 \n0.42 \n0.21 \n0.51 \nE2 \n1.74 \n0.68 \n1.09",
+      "char_count": 1578,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Samples",
+            "Na/K ratio",
+            "Na/Ca ratio",
+            "Na/Mg ratio"
+          ],
+          [
+            "LC",
+            "0.31",
+            "0.18",
+            "0.64"
+          ],
+          [
+            "L1",
+            "0.45",
+            "0.22",
+            "0.79"
+          ],
+          [
+            "L2",
+            "0.33",
+            "0.26",
+            "0.76"
+          ],
+          [
+            "EC",
+            "0.53",
+            "0.23",
+            "0.57"
+          ],
+          [
+            "E1",
+            "0.42",
+            "0.21",
+            "0.51"
+          ],
+          [
+            "E2",
+            "1.74",
+            "0.68",
+            "1.09"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 19,
+      "text": "REFERENCES: \n\uf0d8 Thorsen, A., Petollari, S., Debrezion, S., Thabit-Yousef, S., & Eeds, A. (2023). Growth \nof Four Different Crop Species in Supplemented Loamy Lunar Regolith. Journal of \nStudent Research \u2013 High School Edition, Volume 12, Issue 3. ISSN: 2167-1907. \nwww.jsr.org/hs \n\uf0d8 Siddiqui, M.H., Al-Whaibi, M.H., & Faisal, M. (2015). Role of Nanoparticles in Plants \nunder Salinity Stress: Review. BioMed Research International, Article ID 963562. \nhttps://doi.org/10.1155/2015/963562 \n\uf0d8 Tripathi, D.K., Singh, S., Singh, S., Srivastava, P.K., Singh, V.P., & Prasad, S.M. (2017). \nNanomaterials in Plants, Algae, and Microorganisms: Concepts and Controversies. \nElsevier. \n\uf0d8 De Micco, V., Aronne, G., Paradiso, R., & De Pascale, S. (2014). Bioregenerative Life \nSupport \nSystems \nin \nSpace: \nA \nReview. \nPlanta, \n239, \n487\u2013499. \nhttps://doi.org/10.1007/s00425-013-2021-z \n\uf0d8 Prasad, R., Bhattacharyya, A., & Nguyen, Q.D. (2017). Nanotechnology in Sustainable \nAgriculture: Recent Developments, Challenges, and Perspectives. Frontiers in \nMicrobiology, 8, 1014. https://doi.org/10.3389/fmicb.2017.01014 \n\uf0d8 Khot, L.R., Sankaran, S., Maja, J.M., Ehsani, R., & Schuster, E.W. (2012). Applications \nof Nanomaterials in Agricultural Production and Crop Protection: A Review. Crop \nProtection, 35, 64\u201370. \n\uf0d8 Ferl, R.J., Zupanska, A.K., Spinale, A., Reed, D.W., & Levine, H.G. (2015). Spaceflight \nInduces Specific Alterations in the Proteomes of Arabidopsis. Astrobiology, 15(1), 32\u2013\n56. https://doi.org/10.1089/ast.2014.1212 \n\uf0d8 Wamelink, G.W.W., Frissel, J.Y., Krijnen, W.H.J., Verwoert, M.R., & Goedhart, P.W. \n(2014). Can Plants Grow on Mars and the Moon: A Growth Experiment on Mars and \nMoon \nSoil \nSimulants. \nPLoS \nONE, \n9(8), \ne103138. \nhttps://doi.org/10.1371/journal.pone.0103138 \n\uf0d8 Paul, A.-L., Amalfitano, C.E., & Ferl, R.J. (2012). Plant Growth Strategies Are \nRemodeled by Spaceflight. BMC Plant Biology, 12, 232. https://doi.org/10.1186/1471-\n2229-12-232 \n\uf0d8 Manzer, H.S., & Singh, N. (2018). Effect of Silicon Nanoparticles on Plant Growth \nunder Salinity Stress. Journal of Pharmacognosy and Phytochemistry, 7(3), 1557\u20131562. \n\uf0d8 Cheng Zhou, Yuyue Gao, Yan Zhou, Wei She, Yusheng Shi, Lieyun Ding, Changwen \nMiao, (2024). Properties and Characteristics of Regolith-Based Materials for \nExtraterrestrial Construction, Engineering, 37, 159-181. \n\uf0d8 Prakash Vajjiravel, Divya Nagarajan, Varsha Pugazhenthi, Ajay Suresh, Madhan \nKumar Sivalingam, Ajila Venkat, Pritam Paramguru Mahapatra, Kaukab Razi, Musa \nAl Murad, Dong Won Bae, Michitaka Notaguchi, Chandra Shekhar Seth, Sowbiya \nMuneer. (2024) Circadian-based approach for improving physiological, phytochemical \nand chloroplast proteome in Spinacia oleracea under salinity stress and light emitting \ndiodes, Plant Physiology and Biochemistry, 207, 108350. \n\uf0d8 Bharathy, N., Parthasarathi, T. Characterization of Nanosilica Based Biodynamic \nManure BD501. BioNanoSci. 15, 51 (2025). \n\uf0d8 Paul, AL., Elardo, S.M. & Ferl, R. Plants grown in Apollo lunar regolith present stress-\nassociated transcriptomes that inform prospects for lunar exploration. Commun Biol 5, \n382 (2022).",
+      "char_count": 3129,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Bharathy, N., Parthasarathi, T. Characterization of Nanosilica Based Biodynamic",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Manure BD501.",
+            "BioNanoSci.",
+            "",
+            "15",
+            ", 51 (2025)."
+          ],
+          [
+            "Paul, AL., Elardo, S.M. & Ferl, R. Plants grown in Apollo lunar regolith present stress-",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "associated transcriptomes that inform prospects for lunar exploration.",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "382 (2022).",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 20,
+      "text": "\uf0d8 Lesharadevi, K., Parthasarathi, T., Muneer, S. (2021). Silicon biology in crops under \nabiotic stress: A paradigm shift and cross-talk between genomics and proteomics. J. \nBiotechnol. 333, 21\u201338. \n\uf0d8 Xu Y, Koroma AA, Weise SE, Fu X, Sharkey TD, Shachar-Hill Y. Daylength variation \naffects growth, photosynthesis, leaf metabolism, partitioning, and metabolic fluxes. \nPlant Physiol. 2023 Dec 30;194(1):475-490. \n\uf0d8 Xu, X., Guo, Y., Hao, Y., Cai, Z., Cao, Y., Fang, W., Zhao, B., Haynes, C. L., White, J. \nC., & Ma, C. (2023). Nano\u2010silicon fertiliser increases the yield and quality of cherry \nradish. Modern Agriculture, 1(2), 152\u2013165. \n\uf0d8 Chen X, Wang J, Wang R, Zhang D, Chu S, Yang X, et al. Insights into growth-\npromoting effect of nanomaterials: using transcriptomics and metabolomics to reveal \nthe molecular mechanisms of MWCNTs in enhancing hyperaccumulator under heavy \nmetal(loid)s stress. J Hazard Mater. 2022; 439:129640 \n\uf0d8 Shrivastava, P., Kumar, R. (2015). Soil salinity: a serious environmental issue and plant \ngrowth promoting bacteria as one of the tools for its alleviation. Saudi J. Biol. Sci. 22, \n123\u2013131.",
+      "char_count": 1127,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Xu Y, Koroma AA, Weise SE, Fu X, Sharkey TD, Shachar-Hill Y. Daylength variation"
+          ],
+          [
+            "affects growth, photosynthesis, leaf metabolism, partitioning, and metabolic fluxes."
+          ],
+          [
+            "Plant Physiol. 2023 Dec 30;194(1):475-490."
+          ]
+        ],
+        [
+          [
+            "Modern Agriculture",
+            "",
+            "1"
+          ],
+          [
+            "",
+            ",",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 21,
+      "text": "Appendices \nTable 1. Lipid peroxidation analysis of samples \ntreatment \n532nm \n600nm \nA532-a600/155 \n(A532-\na600/155)*1000 \n ((A532-\na600/155)*1000)*3 \nLT1R1 \n0.321 \n0.282 \n0.000251613 \n0.251612903 \n0.75483871 \nLT1R2 \n0.437 \n0.408 \n0.000187097 \n0.187096774 \n0.561290323 \nLT1R3 \n0.43 \n0.405 \n0.00016129 \n0.161290323 \n0.483870968 \nLT2R1 \n0.484 \n0.412 \n0.000464516 \n0.464516129 \n1.393548387 \nLT2R2 \n0.457 \n0.408 \n0.000316129 \n0.316129032 \n0.948387097 \nLT2R3 \n0.43 \n0.405 \n0.00016129 \n0.161290323 \n0.483870968 \nLCR1 \n0.561 \n0.467 \n0.000606452 \n0.606451613 \n1.819354839 \nLCR2 \n0.594 \n0.484 \n0.000709677 \n0.709677419 \n2.129032258 \nLCR3 \n0.523 \n0.483 \n0.000258065 \n0.258064516 \n0.774193548 \nET1R1 \n0.393 \n0.38 \n8.3871E-05 \n0.083870968 \n0.251612903 \nET1R2 \n0.387 \n0.367 \n0.000129032 \n0.129032258 \n0.387096774 \nET1R3 \n0.386 \n0.376 \n6.45161E-05 \n0.064516129 \n0.193548387 \nET2R1 \n0.282 \n0.256 \n0.000167742 \n0.167741935 \n0.503225806 \nET2R2 \n0.246 \n0.233 \n8.3871E-05 \n0.083870968 \n0.251612903 \nET2R3 \n0.234 \n0.222 \n7.74194E-05 \n0.077419355 \n0.232258065 \nECR1 \n0.204 \n0.148 \n0.00036129 \n0.361290323 \n1.083870968 \nECR2 \n0.224 \n0.137 \n0.00056129 \n0.561290323 \n1.683870968 \nECR3 \n0.241 \n0.231 \n6.45161E-05 \n0.064516129 \n0.193548387 \n \nTREATMENT \nEARTH \nLUNAR \n Carbon nanotube \n0.277419355 \n0.6 \nSilica \nnanoparticle \n0.329032258 \n0.941935484 \nControl \n0.987096774 \n1.574193548 \n \nTREATMENT \nEARTH \nLUNAR \nT1 \n0.05734319 \n0.080580619 \nT2 \n0.087275802 \n0.262621064 \nCONTROL \n0.432931589 \n0.409867875",
+      "char_count": 1481,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "treatment",
+            "",
+            "",
+            "532nm",
+            "",
+            "",
+            "600nm",
+            "",
+            "",
+            "A532-a600/155",
+            "",
+            "",
+            "",
+            "(A532-",
+            "",
+            "",
+            "((A532-",
+            ""
+          ],
+          [
+            "",
+            "treatment",
+            "",
+            "",
+            "532nm",
+            "",
+            "",
+            "600nm",
+            "",
+            "",
+            "A532-a600/155",
+            "",
+            "",
+            "a600/155)*1000",
+            "",
+            "",
+            "a600/155)*1000)*3",
+            ""
+          ],
+          [
+            "",
+            "LT1R1",
+            "",
+            "",
+            "0.321",
+            "",
+            "",
+            "0.282",
+            "",
+            "",
+            "0.000251613",
+            "",
+            "",
+            "0.251612903",
+            "",
+            "",
+            "0.75483871",
+            ""
+          ],
+          [
+            "LT1R2 0.437 0.408 0.000187097 0.187096774 0.561290323",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "LT1R3",
+            "",
+            "",
+            "0.43",
+            "",
+            "",
+            "0.405",
+            "",
+            "",
+            "0.00016129",
+            "",
+            "",
+            "0.161290323",
+            "",
+            "",
+            "0.483870968",
+            ""
+          ],
+          [
+            "LT2R1 0.484 0.412 0.000464516 0.464516129 1.393548387",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "LT2R2",
+            "",
+            "",
+            "0.457",
+            "",
+            "",
+            "0.408",
+            "",
+            "",
+            "0.000316129",
+            "",
+            "",
+            "0.316129032",
+            "",
+            "",
+            "0.948387097",
+            ""
+          ],
+          [
+            "LT2R3 0.43 0.405 0.00016129 0.161290323 0.483870968",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "LCR1",
+            "",
+            "",
+            "0.561",
+            "",
+            "",
+            "0.467",
+            "",
+            "",
+            "0.000606452",
+            "",
+            "",
+            "0.606451613",
+            "",
+            "",
+            "1.819354839",
+            ""
+          ],
+          [
+            "LCR2 0.594 0.484 0.000709677 0.709677419 2.129032258",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "LCR3",
+            "",
+            "",
+            "0.523",
+            "",
+            "",
+            "0.483",
+            "",
+            "",
+            "0.000258065",
+            "",
+            "",
+            "0.258064516",
+            "",
+            "",
+            "0.774193548",
+            ""
+          ],
+          [
+            "ET1R1 0.393 0.38 8.3871E-05 0.083870968 0.251612903",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "ET1R2",
+            "",
+            "",
+            "0.387",
+            "",
+            "",
+            "0.367",
+            "",
+            "",
+            "0.000129032",
+            "",
+            "",
+            "0.129032258",
+            "",
+            "",
+            "0.387096774",
+            ""
+          ],
+          [
+            "ET1R3 0.386 0.376 6.45161E-05 0.064516129 0.193548387",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "ET2R1",
+            "",
+            "",
+            "0.282",
+            "",
+            "",
+            "0.256",
+            "",
+            "",
+            "0.000167742",
+            "",
+            "",
+            "0.167741935",
+            "",
+            "",
+            "0.503225806",
+            ""
+          ],
+          [
+            "ET2R2 0.246 0.233 8.3871E-05 0.083870968 0.251612903",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "ET2R3",
+            "",
+            "",
+            "0.234",
+            "",
+            "",
+            "0.222",
+            "",
+            "",
+            "7.74194E-05",
+            "",
+            "",
+            "0.077419355",
+            "",
+            "",
+            "0.232258065",
+            ""
+          ],
+          [
+            "ECR1 0.204 0.148 0.00036129 0.361290323 1.083870968",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "ECR2",
+            "",
+            "",
+            "0.224",
+            "",
+            "",
+            "0.137",
+            "",
+            "",
+            "0.00056129",
+            "",
+            "",
+            "0.561290323",
+            "",
+            "",
+            "1.683870968",
+            ""
+          ],
+          [
+            "ECR3 0.241 0.231 6.45161E-05 0.064516129 0.193548387",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        [
+          [
+            "",
+            "TREATMENT",
+            "",
+            "",
+            "EARTH",
+            "",
+            "",
+            "LUNAR",
+            ""
+          ],
+          [
+            "",
+            "Carbon nanotube",
+            "",
+            "",
+            "0.277419355",
+            "",
+            "",
+            "0.6",
+            ""
+          ],
+          [
+            "Silica nanoparticle 0.329032258 0.941935484",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "Control",
+            "",
+            "",
+            "0.987096774",
+            "",
+            "",
+            "1.574193548",
+            ""
+          ]
+        ],
+        [
+          [
+            "",
+            "TREATMENT",
+            "",
+            "",
+            "EARTH",
+            "",
+            "",
+            "LUNAR",
+            ""
+          ],
+          [
+            "",
+            "T1",
+            "",
+            "",
+            "0.05734319",
+            "",
+            "",
+            "0.080580619",
+            ""
+          ],
+          [
+            "T2 0.087275802 0.262621064",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "CONTROL",
+            "",
+            "",
+            "0.432931589",
+            "",
+            "",
+            "0.409867875",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 22,
+      "text": "Table 2. ICP analysis of soil sample (After Week 7) \n \nTable 3. ICP analysis of plant sample \n \n \n \n \n \n \n \n \n \n \nSample \nK \n(mg/ \nkg) \nCa \n(mg/ \nkg) \nMg \n(mg/ \nkg) \nNa \n(mg/ \nkg) \nZn \n(mg/ \nkg) \nMn \n(mg/ \nkg) \nFe \n(mg/ \nkg) \nCu \n(mg/\nkg) \nNitrate \nNitroge\nn \n(mg/kg) \nPhosph\norus \n(mg/kg) \npH \nEC \n(mS/\ncm) \nOM \n% \nEC \n1155 \n2640 \n1082 \n620 \n9.74 \n28.35 \n12.70 \n1.07 \n537.70 \n157.98 \n6.60 \n1.10 \n13.9 \nET1 \n1143 \n2291 \n940 \n489 \n9.69 \n27.30 \n13.67 \n1.18 \n349.10 \n144.59 \n6.70 \n0.95 \n16.8 \nET2 \n1091 \n2783 \n1736 \n1906 \n9.37 \n21.43 \n10.72 \n1.03 \n357.20 \n140.74 \n6.60 \n0.90 \n13.8 \nLC \n763 \n1313 \n366 \n237 \n4.63 \n4.26 \n8.53 \n0.47 \n74.40 \n103.48 \n7.00 \n1.20 \n7.2 \nLT1 \n501 \n1000 \n286 \n229 \n4.84 \n3.54 \n11.20 \n0.57 \n57.60 \n87.64 \n6.98 \n1.08 \n5.8 \nLT2 \n839 \n1053 \n363 \n277 \n5.40 \n4.50 \n10.29 \n0.53 \n71.60 \n95.19 \n6.92 \n0.83 \n6.7 \nSamples \nK \n(mg/kg) \nCa \n(mg/kg) \nMg \n(mg/kg) \nNa \n(mg/kg) \nZn \n(mg/kg) \nMn \n(mg/kg) \nFe \n(mg/kg) \nCu \n(mg/kg) \nLC \n74898 \n6208 \n9517 \n18070 \n89.12 \n34.53 \n1063.41 16.44 \nL1 \n69897 \n6110 \n9164 \n22656 \n82.59 \n2.92 \n803.54 \n20.91 \nL2 \n58999 \n5355 \n6776 \n20826 \n101.88 \n10.96 \n874.93 \n23.49 \nEC \n62100 \n8634 \n9097 \n24752 \n84.75 \n58.90 \n2779.50 27.27 \nE1 \n71026 \n8277 \n10715 \n25413 \n88.29 \n54.20 \n1672.42 28.22 \nE2 \n70741 \n7794 \n10447 \n25902 \n87.51 \n48.18 \n1561.61 15.42",
+      "char_count": 1290,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Sample",
+            "K (mg/ kg)",
+            "Ca (mg/ kg)",
+            "Mg (mg/ kg)",
+            "Na (mg/ kg)",
+            "Zn (mg/ kg)",
+            "Mn (mg/ kg)",
+            "Fe (mg/ kg)",
+            "Cu (mg/ kg)",
+            "Nitrate Nitroge n (mg/kg)",
+            "Phosph orus (mg/kg)",
+            "pH",
+            "EC (mS/ cm)",
+            "OM %",
+            ""
+          ],
+          [
+            "EC",
+            "1155",
+            "2640",
+            "1082",
+            "620",
+            "9.74",
+            "28.35",
+            "12.70",
+            "1.07",
+            "537.70",
+            "157.98",
+            "6.60",
+            "1.10",
+            "13.9",
+            ""
+          ],
+          [
+            "ET1",
+            "1143",
+            "2291",
+            "940",
+            "489",
+            "9.69",
+            "27.30",
+            "13.67",
+            "1.18",
+            "349.10",
+            "144.59",
+            "6.70",
+            "0.95",
+            "16.8",
+            ""
+          ],
+          [
+            "ET2",
+            "1091",
+            "2783",
+            "1736",
+            "1906",
+            "9.37",
+            "21.43",
+            "10.72",
+            "1.03",
+            "357.20",
+            "140.74",
+            "6.60",
+            "0.90",
+            "13.8",
+            ""
+          ],
+          [
+            "LC",
+            "763",
+            "1313",
+            "366",
+            "237",
+            "4.63",
+            "4.26",
+            "8.53",
+            "0.47",
+            "74.40",
+            "103.48",
+            "7.00",
+            "1.20",
+            "7.2",
+            ""
+          ],
+          [
+            "LT1",
+            "501",
+            "1000",
+            "286",
+            "229",
+            "4.84",
+            "3.54",
+            "11.20",
+            "0.57",
+            "57.60",
+            "87.64",
+            "6.98",
+            "1.08",
+            "5.8",
+            ""
+          ],
+          [
+            "LT2",
+            "839",
+            "1053",
+            "363",
+            "277",
+            "5.40",
+            "4.50",
+            "10.29",
+            "0.53",
+            "71.60",
+            "95.19",
+            "6.92",
+            "0.83",
+            "6.7",
+            ""
+          ],
+          [
+            "Table 2. ICP analysis of soil sample (After Week 7) Table 3. ICP analysis of plant sample K Ca Mg Na Zn Mn Fe Cu Samples (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) (mg/kg) LC 74898 6208 9517 18070 89.12 34.53 1063.41 16.44 L1 69897 6110 9164 22656 82.59 2.92 803.54 20.91 L2 58999 5355 6776 20826 101.88 10.96 874.93 23.49 EC 62100 8634 9097 24752 84.75 58.90 2779.50 27.27 E1 71026 8277 10715 25413 88.29 54.20 1672.42 28.22 E2 70741 7794 10447 25902 87.51 48.18 1561.61 15.42",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        [
+          [
+            "Samples",
+            "K (mg/kg)",
+            "Ca (mg/kg)",
+            "Mg (mg/kg)",
+            "Na (mg/kg)",
+            "Zn (mg/kg)",
+            "Mn (mg/kg)",
+            "Fe (mg/kg)",
+            "Cu (mg/kg)"
+          ],
+          [
+            "LC",
+            "74898",
+            "6208",
+            "9517",
+            "18070",
+            "89.12",
+            "34.53",
+            "1063.41",
+            "16.44"
+          ],
+          [
+            "L1",
+            "69897",
+            "6110",
+            "9164",
+            "22656",
+            "82.59",
+            "2.92",
+            "803.54",
+            "20.91"
+          ],
+          [
+            "L2",
+            "58999",
+            "5355",
+            "6776",
+            "20826",
+            "101.88",
+            "10.96",
+            "874.93",
+            "23.49"
+          ],
+          [
+            "EC",
+            "62100",
+            "8634",
+            "9097",
+            "24752",
+            "84.75",
+            "58.90",
+            "2779.50",
+            "27.27"
+          ],
+          [
+            "E1",
+            "71026",
+            "8277",
+            "10715",
+            "25413",
+            "88.29",
+            "54.20",
+            "1672.42",
+            "28.22"
+          ],
+          [
+            "E2",
+            "70741",
+            "7794",
+            "10447",
+            "25902",
+            "87.51",
+            "48.18",
+            "1561.61",
+            "15.42"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 23,
+      "text": "PICTURES: \n \n \n \n \n \n \n Net house structure Opening of the parcel \n \n \n \n \n \n \n \nOpening of Lunar Regolith package Mixing of lunar regolith with \n Amendments \n \n \n \n \n \n \n \n \nFilling of pots with lunar and earth soil Sowing of seeds",
+      "char_count": 232,
+      "image_count": 6,
+      "tables": []
+    },
+    {
+      "page_number": 24,
+      "text": "Plant pots in Net house (Earth) Plant pots in Growth chamber (Lunar) \n \n \n \n \n \n \n \n \n Germination plants in Germination plants in \n Net house (Earth) Grow chamber (Lunar) \n \n \n \n \n \n \n \n Growth of plants in Growth of plants in growth \n net house (Earth) chamber (Lunar)",
+      "char_count": 270,
+      "image_count": 6,
+      "tables": []
+    },
+    {
+      "page_number": 25,
+      "text": "Harvest of earth sample \n \n \n \n \n \n \n \n \n \n \nHarvest of lunar sample",
+      "char_count": 68,
+      "image_count": 2,
+      "tables": []
+    }
+  ]
+}

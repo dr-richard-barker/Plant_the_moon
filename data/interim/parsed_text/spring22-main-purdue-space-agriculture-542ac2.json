@@ -1,0 +1,1373 @@
+{
+  "report_id": "spring22-main-purdue-space-agriculture-542ac2",
+  "sha256": "6676738612fd8292cdf6a597501c0243de51df0fd8bf800f499db0d5d67553cc",
+  "page_count": 28,
+  "total_chars": 39083,
+  "avg_chars_per_page": 1395.8,
+  "total_images": 15,
+  "table_count": 14,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Effects of Aeration on Soybean Plant Growth in Lunar and Martian Regolith\nPurdue Interplanetary and Space Agriculture\nTeam # 9556 and 9564\nUndergraduate Division\nJosh Bailey, Kyra Keenan, Alessandro Paz, Riya Dharmendra Raj,\nMadelyn Whitaker, Brian Wodetzki, Autumn Wuebben\nAdvised by Dr. Marshall Porterfield",
+      "char_count": 309,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "text": "I. INTRODUCTION\nAbstract\nThe complexities of growing crops in space push the boundaries of biology and\nengineering like nothing else. Systems are needed to not only get humans into space and other\ncelestial bodies, but also to support life once there. To do so, the entire mission needs to be taken\ninto account: leaving Earth, traveling in space, reaching the Moon or Mars (in this context),\nliving there, leaving, traveling in space back to Earth, and ultimately returning to Earth.\nTherefore, we decided to conduct two experiments to replicate a mission type scenario. The first\nexperiment was to test the growth of soybeans in Earth, Moon, and Mars simulants by varying\nthe amount of aeration. Soybeans were chosen because of their high protein concentration and\npotential for meat substitutes or possibly even biofuel applications, besides wanting to represent\na midwestern crop for the challenges. The outline for our second experiment was based on\nplanting seeds in remaining simulant with the optimal aeration treatment determined from the\nfirst experiment and analyzing how gene expression of the germinating seedlings is affected\nunder exposure to high stress.\nTheory\nAs gravitational impacts are either increased or decreased due to changes in environment,\naeration effects can be observed as directly proportional: increased gravity leads to a subsequent\nincrease in circulation. Similarly, in soil systems, as gravity decreases, there are lessened effects\nof convection due to stagnated air flow. This can damage overall plant growth as lack of\nconvection in soil does not permit nutrient and water circulation.",
+      "char_count": 1624,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "text": "In a paper exploring the limitations of physiological transport and exchange in plants\ngrown in microgravity we see this effect highlighted (Porterfield, 2002). Interestingly, when\ngravity is decreased, the soil gravitational potential decreases as well and as a result the soil is\nable to hold more water than it would normally be able to on earth. As a result of this increased\nwater capacity we see two results happen. One, water flows through the soil much slower,\nmeaning that air also flows through the soil slower leading to poor root aeration. Two, the water\nin the soil is attracted to the roots surface area due to the reduced gravitational soil potential. This\nin essence leads to more water surrounding the roots, choking them of air and leading to poor\nroot aeration. Another study focused on these effects (Porterfield et. al, 1996) tests plant growth\nin microgravity and confirms the effects on this lack of aeration on plants\u2019 roots due to\nmicrogravity. As a result, the aeration of a plant\u2019s soil when grown on a different planet with\nlower gravity will be absolutely critical to the health of the plant. Our first experiment aims to\nbetter understand the effects of changes in aeration on soybean plants here on earth so we can\nbetter understand how changes in soil aeration, due to their reduced gravity, will affect soybeans\non the Moon and Mars.\nTo quantify which effects of aeration are most conducive to plant growth, regoliths were\nmixed such that they contained increasing amounts of perlite, a soil addition that can improve\naeration and water circulation in soil. These mixtures were done for both the moon and mars\nregoliths on an increasing scale of 0% to 60% perlite, and we also did mixtures for Earth soil\ntaken from a corn field at a Purdue research center to compare results against. Going into the\nexperiment, we predicted that a mid-high perlite amount on our scale would yield the best results\ngiven the powdery texture of the Moon and Mars regoliths. Further analysis can be conducted to",
+      "char_count": 2025,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "text": "better understand the relationship between aeration and soil pH, nutrient density, and overall\nplant health, but more so the relationship between aeration and overall plant growth was the\nprimary focus of this experiment.\nII. EXPERIMENT 1\nMeasurement Methods\n1. Potting Method\nOur first step in potting for Experiment 1 was mixing the Earth, Moon, and Mars\nsimulants 50/50 with ACE Hardware Composted Manure to provide organic material especially\nfor the Moon and Mars simulants that would replicate and take advantage of the most accessible\norganic matter humans would have during a space mission: their own waste. From there, given\nthe amount of simulant-compost mixture we had, we decided to prepare eight 0.5-gallon plastic\nnursery pots with the following Miracle-Gro Perlite amounts: 0 mL, 50 mL, 100 mL, 200 mL,\n300 mL, 400 mL, 500 mL, 600 mL. To specify, 50 mL of perlite means it was mixed with 950\nmL\nof\nsimulant-compost\nmixture\nto\nalways\nhave\na\nconsistent\n1\nL\nof\noverall\nsimulant-compost-perlite mixture. 1 L was chosen as the volume amount because it provided\nproper spacing in the 0.5-gallon pots for growth and watering while ensuring we still had some\nsimulant-compost mixture left over for Experiment 2.\n2. Planting Method\nOnce these 8 pots were prepared, 3 dibble holes were made about 1\u00bc in. deep in the\nshape of a triangle equidistant from the sides of the pots as well as each other and a Beck\u2019s\nHybrids soybean seed was planted in each dibble. Generally, soybeans are planted up to 2 inches",
+      "char_count": 1510,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "text": "deep (Staton, 2022), but we decided to go with the 1\u00bc in. depth due to the size of our pots and\nthe fact that we wouldn\u2019t be focused on growing the crop a full normal growing season.\n3. Plant Care Method\nOur entire soybean plant care philosophy was centered around using minimal resources\nfor our mission-based approach. Generally, we made sure to check and treat our plants two times\na day during the week and once a day on the weekend. We were allotted space at Purdue\u2019s\nHorticultural Greenhouse facility in a general polyhouse room kept at 75+\u00b0 F, which we\nconsidered a normal Earth-style greenhouse atmosphere. For treatments, we decided to provide\nthe plants with appropriate amounts of fluid given their state of germination and how well the\nfluid was draining through the simulant-compost-perlite mixtures. We started off with 50 mL of\nfluid to stimulate the seeds and then backed down to 25-30 mL for the rest of the first week to\navoid oversaturation. After we began seeing germination results, we increased the fluid amount\nto 50 mL during the second week. After perchlorates were detected in the Martian mixture (more\non this in later sections), the Earth and Moon mixtures were continued at 50 mL while the\nMartian mixture was backed down to 25-30 mL to avoid oversaturation after a washout was\nperformed. We continued with these amounts for as long as we could to minimize resources used\nto grow the plants, but after about a month, we had to increase the amount given to the Earth and\nMoon plants because of how much they had grown. Over the course of the last three weeks of\nthe growth period, we kept our fertilizer mixture application at 50 mL in mornings and increased\nwatering to 100 mL in afternoons while holding the Martian plants at 25-30 mL because\ngermination and growth still was not as significant.",
+      "char_count": 1825,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "text": "For our fluid applications, we decided to inoculate the plants with two fertilizers that we\nnamed Fert 1 and Fert 2 due to their sequential usage. Fert 1 was FoxFarm Bushdoctor\nKangaroots Fertilizer, which we applied twice during the first two weeks of growth; once on the\nfirst Monday (day 3 after planting), mixed at a concentration of 5 mL of fertilizer and 995 mL of\nReverse Osmosis (RO) water and applied at 50 mL to each pot, and again on the second Monday,\nmixed at a concentration of 10 mL of fertilizer and 990 mL of RO water and applied at 50 mL to\neach pot. Fert 2 was FoxFarm Big Bloom Fertilizer, and we began applying it on the third\nMonday. Each Monday through the end of the growth period, we would mix 30 mL of fertilizer\nwith 970 mL of RO water and apply 50 mL to each pot, and on the rest of the days we would\nmix 15 mL of fertilizer with 985 mL of RO water and apply 50 mL to each pot. These amounts\nwere based on the fertilizers\u2019 recommended application amounts. Fertilizer applications would\nbe done in mornings, and normal watering in afternoons. On weekends, fertilization and\nsometimes additional watering took place in the single session. As the growth period went on,\nthe watering in afternoons/weekends sometimes increased or decreased depending on how dry\nthe pots were, but fertilization was kept relatively the same to conserve resources.\nA very important aspect of our plant care/growth setup was our use of plastic wrap on top\nof the pots to stimulate germination. The idea was to keep the soil microbiome humid and moist\nin the early stages and allow us to conserve resources in the process. Later, we removed the\nplastic on a pot if there were two or more seeds germinating or if one pot produced a shoot tall\nenough to be touching the plastic.\nAnalysis & Results",
+      "char_count": 1798,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "text": "Most of our initial analysis of results was based on keeping a germination record of the\nvarious simulant-compost-perlite mixtures for Earth, Moon, and Mars. The following tables\nshow our counts:\nTable 1: Seed germination in the Earth mixtures\nGermination Record - Earth (Planted on 2/12)\nDate\n0 PER\n50 PER\n100 PER\n200 PER\n300 PER\n400 PER\n500 PER\n600 PER\n2/17\n1\n2/18\n2\n2\n3\n2/19\n1\n2\n2/20\n1\n1\n2/23\n1\n2/27\n1\n3/2\n1\n3/3\n1\nTotal\n1\n1\n2\n2\n3\n2\n3\n3\nTable 2: Seed germination in the Moon mixtures\nGermination Record - Moon (Planted on 2/12)\nDate\n0 PER\n50 PER\n100 PER\n200 PER\n300 PER\n400 PER\n500 PER\n600 PER\n2/16\n2\n1\n2\n1\n2/17\n2\n1\n1\n2/18\n1\n1\n1\n2\n1\n2\n2/19\n1\n2/20\n1\n3/1\n1\n3/17\n1\nTotal\n3\n3\n3\n2\n3\n2\n3\n3\nTable 3: Seed germination in the Mars mixtures before and after the washout",
+      "char_count": 761,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Germination Record - Earth (Planted on 2/12)",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Date",
+            "0 PER",
+            "50 PER",
+            "100 PER",
+            "200 PER",
+            "300 PER",
+            "400 PER",
+            "500 PER",
+            "600 PER"
+          ],
+          [
+            "2/17",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "1",
+            ""
+          ],
+          [
+            "2/18",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "2",
+            "2",
+            "3"
+          ],
+          [
+            "2/19",
+            "",
+            "",
+            "",
+            "1",
+            "2",
+            "",
+            "",
+            ""
+          ],
+          [
+            "2/20",
+            "",
+            "",
+            "",
+            "1",
+            "1",
+            "",
+            "",
+            ""
+          ],
+          [
+            "2/23",
+            "1",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "2/27",
+            "",
+            "",
+            "1",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "3/2",
+            "",
+            "1",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "3/3",
+            "",
+            "",
+            "1",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Total",
+            "1",
+            "1",
+            "2",
+            "2",
+            "3",
+            "2",
+            "3",
+            "3"
+          ]
+        ],
+        [
+          [
+            "Germination Record - Moon (Planted on 2/12)",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Date",
+            "0 PER",
+            "50 PER",
+            "100 PER",
+            "200 PER",
+            "300 PER",
+            "400 PER",
+            "500 PER",
+            "600 PER"
+          ],
+          [
+            "2/16",
+            "2",
+            "",
+            "",
+            "",
+            "",
+            "1",
+            "2",
+            "1"
+          ],
+          [
+            "2/17",
+            "",
+            "",
+            "2",
+            "1",
+            "1",
+            "",
+            "",
+            ""
+          ],
+          [
+            "2/18",
+            "",
+            "1",
+            "1",
+            "1",
+            "2",
+            "1",
+            "",
+            "2"
+          ],
+          [
+            "2/19",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "1",
+            ""
+          ],
+          [
+            "2/20",
+            "1",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "3/1",
+            "",
+            "1",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "3/17",
+            "",
+            "1",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Total",
+            "3",
+            "3",
+            "3",
+            "2",
+            "3",
+            "2",
+            "3",
+            "3"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 8,
+      "text": "Germination Record - Mars (Planted on 2/12)\nDate\n0 PER\n50 PER\n100 PER\n200 PER\n300 PER\n400 PER\n500 PER\n600 PER\n2/18\n1\n1\n2/19\n1\n2/23\n1\n1\nNew Germination Record - Mars (After Washout and Replanted on 2/25)\nDate\n0 PER\n50 PER\n100 PER\n200 PER\n300 PER\n400 PER\n500 PER\n600 PER\n3/3\n1\n3/8\n1\n3/12\n2\n1\nTotal\n0\n0\n1\n0\n1\n2\n1\n0\nOnce we got to the third week and began adding Fert 2 to create our optimal soil\nmicrobiome for plant growth, we also began taking pH readings and soil temperature readings.\nFor pH readings, we scooped 1 mL of simulant-compost-perlite mixture from a pot, added 1 mL\nof RO water, mixed thoroughly, and used a calibrated pH meter with probes and waited for it to\nsteady before recording. However, we began to realize that our readings had quite a bit of\nvariation, and we believe that had to do with the scoops we were taking having inconsistent\namounts of perlite and nutrient distribution. Soil temperature was taken using thermocouples,\nwhere two electrical conductors were placed in the soil of an individual pot at a time. Our soil\ntemperature readings also were not very helpful and did not provide much significant data. Both\npH and soil temperature tables are included in the Appendix.\nBy the time we were about three-quarters of the way done, we could tell qualitatively that\nour mix of 500 mL perlite to 500 mL simulant-compost mixture had the best growth for Earth,\nMoon, and Mars. The plants in these pots had the most consistent germination results with the",
+      "char_count": 1480,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Germination Record - Mars (Planted on 2/12)",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Date",
+            "0 PER",
+            "50 PER",
+            "100 PER",
+            "200 PER",
+            "300 PER",
+            "400 PER",
+            "500 PER",
+            "600 PER"
+          ],
+          [
+            "2/18",
+            "",
+            "",
+            "1",
+            "",
+            "",
+            "1",
+            "",
+            ""
+          ],
+          [
+            "2/19",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "1",
+            ""
+          ],
+          [
+            "2/23",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "1",
+            "1"
+          ],
+          [
+            "New Germination Record - Mars (After Washout and Replanted on 2/25)",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Date",
+            "0 PER",
+            "50 PER",
+            "100 PER",
+            "200 PER",
+            "300 PER",
+            "400 PER",
+            "500 PER",
+            "600 PER"
+          ],
+          [
+            "3/3",
+            "",
+            "",
+            "",
+            "",
+            "1",
+            "",
+            "",
+            ""
+          ],
+          [
+            "3/8",
+            "",
+            "",
+            "1",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "3/12",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "2",
+            "1",
+            ""
+          ],
+          [
+            "Total",
+            "0",
+            "0",
+            "1",
+            "0",
+            "1",
+            "2",
+            "1",
+            "0"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 9,
+      "text": "healthiest leaf color and tallest shoots compared to the other perlite to simulant-compost mixture\nconcentrations.\nTo determine the well being of these plants, we calculated the Normalized Difference\nVegetative Index (NDVI) for comparison across Earth, Moon, and Mars. The NDVI measures\nhow present certain pigments are in plant leaves, like chlorophyll, and is calculated using the\nequation below:\n\ud835\udc41\ud835\udc37\ud835\udc49\ud835\udc3c = \n\u03c1\ud835\udc41\ud835\udc3c\ud835\udc45\u2212 \u03c1\ud835\udc49\ud835\udc3c\ud835\udc46\n\u03c1\ud835\udc41\ud835\udc3c\ud835\udc45+ \u03c1\ud835\udc49\ud835\udc3c\ud835\udc46\nEquation 1: General NDVI Formula\nFrom Equation 1, we see that NDVI is a value that tells you the relative values of\n,\n\u03c1\ud835\udc41\ud835\udc3c\ud835\udc45\nthe reflectance of the plants\u2019 leaves for Near InfraRed light (880 nm), and\n, the reflectance\n \u03c1\ud835\udc49\ud835\udc3c\ud835\udc46\nof the plants\u2019 leaves for visible light (660 nm). With a value closest to +1, we see a high NIR\nlight reflectance when compared to visible red light. This indicates a high presence of\nchlorophyll and other pigments in the leaves which points to a generally healthier plant. For\nNDVI values near zero that indicate the reflectance for NIR light and visible light are close to\neach other, this points to lower plant health.\nSince visually our mix of 500 mL perlite to 500 mL simulant-compost mixture had the\nbest growth for earth, moon, and mars, we collaborated with graduate students in the\nAgricultural & Biological Engineering department to obtain multispectral scans of the leaves\nfrom the plants to determine the NDVI. For the Earth and Moon plants, we were able to get scans\nof three leaves on the bottoms of the plants and three leaves on the tops of the plants. For the",
+      "char_count": 1528,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "\u03c1 \u2212 \u03c1 \ud835\udc41\ud835\udc37\ud835\udc49\ud835\udc3c = \ud835\udc41\ud835\udc3c\ud835\udc45 \ud835\udc49\ud835\udc3c\ud835\udc46 \u03c1 + \u03c1 \ud835\udc41\ud835\udc3c\ud835\udc45 \ud835\udc49\ud835\udc3c\ud835\udc46",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 10,
+      "text": "Martian plants, there were not as many leaves so scans were just done of one of the top and\nbottom leaves. The multispectral scans gave us images of 880 nm and 660 nm, and with the use\nof openCV in Python, we were able to find the NIR and visible light reflectance for all the\nsamples and use those to find the NDVI for each leaf sample.\nBased on the preliminary statistical analysis (Table 6 & Graph 2), we can make certain\nconclusions on the NDVI values from top vs bottom leaves and the effects of different simulants.\nThe top and bottom leaf NDVI values seem significant on the Moon and Mars simulants, while\nthe top and bottom values on the Earth simulant do not seem to have any statistically significant\ndifferences. In terms of the effects of the simulants, the top leaf NDVI on Earth seems\nstatistically different from both the Moon and Mars top leaves. The bottom leaf NDVI on the\nEarth and Moon are not significantly different, but both are significantly different from the Mars\nsimulant. The averages for all bottom leaf NDVI are close, and due to poor growth in Mars\ncoupled with the low number of samples raises doubt on the later conclusion. However, the lack\nof growth itself could favor a statistically significant NDVI difference on the bottom leaf of\nmars, justifying the error of 0.\nOverall, since the majority of the plants\u2019 leaves were green (see Appendix), supported by\n(Boiarskii & Hasegawa, 2019) (Chen, 2022), we assume the main pigment present is\nchlorophyll, therefore suggesting chlorophyllic tendencies. Therefore, the top leaf in Earth\nsimulant indicates a significantly higher chlorophyll concentration when compared to top leaves\nin the Moon and Mars simulants. In the same way, the bottom leaf chlorophyll concentration in\nthe Earth and Moon simulants seem to be higher when compared to the bottom leaves in Mars",
+      "char_count": 1846,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "text": "simulant. Although the conclusions are supported by Table 6 and Figure 2, a higher number of\nsamples would be suitable to repeat the NDVI tests in future experiments.\nSoil\nSimulant\nEarth\nMars\nMoon\nTrial #\nTop Leaf\nBottom\nLeaf\nTop Leaf\nBottom\nLeaf\nTop Leaf\nBottom\nLeaf\nTrial 1\n0.483\n0.516\n0.394\n0.497\n0.422\n0.503\nTrial 2\n0.466\n0.536\n-\n-\n0.388\n0.529\nTrial 3\n0.557\n0.508\n-\n-\n0.404\n0.522\nTable 4: Raw Data for NDVI tests of leafs at different Simulants\n*There was only one trial for Mars since there was only one plant in the Mars 500 PER pot with\nminimal leaves\nSoil\nSimulant\nEarth\nMars\nMoon\nStatistic\nTop Leaf\nBottom\nLeaf\nTop Leaf\nBottom\nLeaf\nTop Leaf\nBottom\nLeaf\nAverage\n0.502\n0.520\n0.394\n0.497\n0.405\n0.518\nStdv\n0.040\n0.012\n0.000\n0.000\n0.014\n0.011\nError\n0.023\n0.007\n0.000\n0.000\n0.008\n0.006\nError\nMax\n0.525\n0.527\n0.394\n0.497\n0.413\n0.524\nError Min\n0.479\n0.513\n0.394\n0.497\n0.397\n0.511\nTable 5: Comparison data for NDVI values of leaves for different simulants\nAverages NDVI\nTop Leaf\nBottom Leaf\nEarth\n0.45101714\n0.5200993367\nMoon\n0.4048095267\n0.5178604167\nMars\n0.39397895\n0.49675575\nTable 6: Average NDVI values for top and bottom leaves of Earth, Moon, and Mars plants",
+      "char_count": 1165,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Soil Simulant",
+            "Earth",
+            "",
+            "Mars",
+            "",
+            "Moon",
+            ""
+          ],
+          [
+            "Trial #",
+            "Top Leaf",
+            "Bottom Leaf",
+            "Top Leaf",
+            "Bottom Leaf",
+            "Top Leaf",
+            "Bottom Leaf"
+          ],
+          [
+            "Trial 1",
+            "0.483",
+            "0.516",
+            "0.394",
+            "0.497",
+            "0.422",
+            "0.503"
+          ],
+          [
+            "Trial 2",
+            "0.466",
+            "0.536",
+            "-",
+            "-",
+            "0.388",
+            "0.529"
+          ],
+          [
+            "Trial 3",
+            "0.557",
+            "0.508",
+            "-",
+            "-",
+            "0.404",
+            "0.522"
+          ]
+        ],
+        [
+          [
+            "Soil Simulant",
+            "Earth",
+            "",
+            "Mars",
+            "",
+            "Moon",
+            ""
+          ],
+          [
+            "Statistic",
+            "Top Leaf",
+            "Bottom Leaf",
+            "Top Leaf",
+            "Bottom Leaf",
+            "Top Leaf",
+            "Bottom Leaf"
+          ],
+          [
+            "Average",
+            "0.502",
+            "0.520",
+            "0.394",
+            "0.497",
+            "0.405",
+            "0.518"
+          ],
+          [
+            "Stdv",
+            "0.040",
+            "0.012",
+            "0.000",
+            "0.000",
+            "0.014",
+            "0.011"
+          ],
+          [
+            "Error",
+            "0.023",
+            "0.007",
+            "0.000",
+            "0.000",
+            "0.008",
+            "0.006"
+          ],
+          [
+            "Error Max",
+            "0.525",
+            "0.527",
+            "0.394",
+            "0.497",
+            "0.413",
+            "0.524"
+          ],
+          [
+            "Error Min",
+            "0.479",
+            "0.513",
+            "0.394",
+            "0.497",
+            "0.397",
+            "0.511"
+          ]
+        ],
+        [
+          [
+            "Averages NDVI",
+            "Top Leaf",
+            "Bottom Leaf"
+          ],
+          [
+            "Earth",
+            "0.45101714",
+            "0.5200993367"
+          ],
+          [
+            "Moon",
+            "0.4048095267",
+            "0.5178604167"
+          ],
+          [
+            "Mars",
+            "0.39397895",
+            "0.49675575"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 12,
+      "text": "Figure 1: NDVI comparisons between leaves and different environmental conditions\nFigure 2: Comparison of significance of NDVI values and the average values for top and bottom\nleaves\nTable 6 shows the relative performance of our plants. The samples that were grown in\n500 mL perlite to 500 mL Earth soil-compost mixture had the highest NDVI values, which\nindicates the best relative health. This is followed by the 500 mL perlite to 500 mL Moon\nsimulant-compost mixture, which is followed closely by the plants grown with the 500 mL",
+      "char_count": 531,
+      "image_count": 4,
+      "tables": []
+    },
+    {
+      "page_number": 13,
+      "text": "perlite to 500 mL Mars simulant-compost mixture. Looking at a study that covers some factors\nthat affect NDVI values (Ouyang, 2009), we see that NDVI is highly correlated to the presence\nof nutrients in the soils. Knowing that the Earth sample will have contained more nutrients than\nthe samples from the Moon and Mars, we expect to see the NDVI values for the Earth plants to\nbe higher than those of the Moon or Mars plants, which is shown by Table 6. Also interesting to\nnote is the fact that the Moon plants perform better than the Mars plants. Although the Mars\nplants being younger by two weeks likely does play a role in the difference in NDVI values, the\ndifference in germination between Moon and Mars plants point to other factors playing important\nroles in the overall health of Mars plants as well. One major factor that contributed to this\ndecrease in plant health when compared to the moon was the presence of perchlorates.\nPerchlorates found in Martian regolith are known to be toxic to plants. Upon seed\ngermination, it was observed that the plants grown in Martian regolith were severely stunted in\nsize, and there was noticeable browning on the sprouting leaves. Perchlorates are known to\nprevent germination and hinder plant growth, and thus it was suspected that the observed effects\ncould be attributed to perchlorates present in the Martian regolith (Oze et. al., 2021). This\npossibility had not been accounted for prior to experimentation, and a test was run using\nmethylene blue as an indicator for perchlorate presence in the soil. The test indicated that the\nMartian regolith was contaminated with perchlorates. It was initially thought that the perchlorate\nlevel was low enough to have a negligible effect on plant health, but the germinated sprouts\u2019\nhealth rapidly deteriorated. Because perchlorates are water soluble, a washout was conducted by\nrinsing the soil with clean deionized water. The seeds were replanted and the experiment was run\nas normal following the washout. The growth hindrance and leaf deterioration previously",
+      "char_count": 2057,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 14,
+      "text": "observed prior to the washout were not observed once the replanted seeds germinated. Plant\ngrowth appeared normal and healthy from then on.\nConclusions\n1) Treatment Variability\nPlant growth was observed in nearly every treatment, which indicated that Martian or\nMoon regolith in combination with Earth soil are likely viable mediums for plant growth.\nHowever, in future experimentation, Martian regolith should undergo a washout to mitigate the\npresence of perchlorates before planting seeds. The only treatments that did not show growth -\nEarth soil with the lowest perlite addition - were suspected to be hindered by the lack of aeration\nin the soil. This can likely be attributed to the state of the soil when first being collected: wet and\nmuddy from a field.\n2) General Performance\nOverall, plants grown in soil with the addition of 500 mL of perlite exhibited the best\nresults. The NDVI values obtained for these treatments indicated optimal plant health,\nparticularly in the 500 mL perlite and Earth soil combination. The 500 mL perlite and Moon\nregolith performed better than the 500 mL perlite and Mars regolith combination, both of which\nhad NDVI values that were lower than those of the 500 mL perlite and Earth soil combination.\nNDVI is highly correlated to factors such as the presence of nutrients in the soils, and thus it was\nexpected that the plants grown in Earth soil would show the best performance.\nIII. EXPERIMENT 2\nMeasurement Methods\n1. Original Rocket Launch Concept",
+      "char_count": 1491,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 15,
+      "text": "Once determining that plants in 500 mL perlite to 500 mL simulant-compost mixture had\nthe best growth for Earth, Moon, and Mars, we began planning ways in which to test gene\nexpression of germinating seedlings in this optimal medium under high stress. Our initial concept\ninvolved launching samples in L1 model rockets, as we had two on hand and they typically reach\nabout 3-4 G\u2019s for a few seconds. We began by designing a growth chamber that would fit in an\nL1 rocket, specifically the LOC-IV model. The chambers (made from cardboard wood and\nwooden dowels) were designed to hold three 150 mL growth tubes containing a seed germinating\nin Earth, Moon, or Mars optimally determined simulant-compost-perlite ratio mixtures. The\nseeds would be planted a week before launch to allow for enough root/shoot development, and\nthe design accounted for enough space on all sides. The growth chamber would also have three\nwhite LED lights on the roof for when in the rocket, and they could be positioned over each\ngerminating seed and arranged in parallel circuits to provide maximum output of lighting. A 9V\nbattery would be used to power the lights with a 470 Ohm resistor to ensure longer lifespan of\nthe battery. In addition, the chamber would have a space on top for a Jolly Logic AltimeterTwo\nto be placed to record data such as maximum altitude, top speed, engine thrust duration, peak\nacceleration, ejection timing, and total flight time.\nBecause the L1 rockets rely on the motor for ejecting the nose cone and parachute, we\nneeded to draft a way to modify our L1s to be able to hold a growth chamber in the body tube.\nTherefore, we decided to create our design around splitting the rocket in half so the motor would\neject half the rocket instead of the parachute. The design involved 3D printing a bulkhead to\nplace the growth chamber in while acting as the component the motor would \u201ceject\u201d. An eyebolt\nwould be on the bottom of the bulkhead on which the shock cord attached to the parachute would",
+      "char_count": 1998,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 16,
+      "text": "be held. In essence, the parachute would be supporting the bottom half of the rocket upright and\nthe top half of the rocket upside-down during descent. To make sure the soil and plants weren\u2019t\njostled around too much, we planned on using gauze around the shoots to hold the soil down\nwhile plastic wrapping the drainage holes and tops. The growth tubes would then be fastened\ndown in the chamber which would be covered with mesh to surround the entire body.\nThe week before the scheduled launch, we planted the seeds and treated them the same as\nin the first week of Experiment 1 for consistency, with only about 8 mL of water per tube and the\nappropriate ratio of Fert 1. Shoot germination was successful within 2-3 days and we were\nprepared on that end for launching on 4/9. Unfortunately however, there were complications with\nthe organization we\u2019d scheduled our launch through and the launch site so we were unable to get\ncleared to pick up our motors and travel to launch. A week later, we were talking with the Purdue\nSpace Program High Altitude rocket team\u2019s payload subteam about supplying our growth\nchamber for their upcoming Dark Matter 2 launch. However, due to some reorganization of\nscheduling, the launch was shifted to next academic year.\n2. Executed Rocket Launch\nWe finally had another chance at a launch with the Purdue Orbital rocket team, who\nagreed to include our payload in the nose cone of their newest rocket ready for launch. However,\nwe needed to adjust the size of our payload to account for the smaller vertical space of the nose\ncone, as well as the higher altitude and G force that was expected. Therefore, we decided to plant\nour seeds in 50 mL plastic tubes with no drainage holes at the bottom, but could have caps\nscrewed on them to contain the plants and soil better. The launch was first set for April 23rd, and\nwe planned out the following preparation and recovery protocol:",
+      "char_count": 1912,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 17,
+      "text": "Table 7: Sample Preparation and Recovery Protocol\n1\nPlant 9 seeds one week before launch in 3 tubes of Earth, 3 tubes of Moon, and 3 tubes of\nMars simulant-compost-perlite mixture.\n2\nOn the day of the launch, leave 1 group of Earth, Moon, and Mars germinating seedlings\nat the greenhouse, and take the other 2 groups to the launch site, but only launch 1 of the\ngroups. Wrap gauze around the developing plant shoots and seal all the tubes before\nleaving.\n3\nTransport the tubes to the launch site in a sealed container.\n4\nAt the launch site, prepare the payload by taping the 3 tubes together that will be\nlaunched and wrapping them in enough bubble wrap (top and bottom) to fit the tubes in\nthe nose cone while making sure they can\u2019t slide.\n5\nAfter the rocket is launched, follow the recovery team to the landing site to retrieve the\ntubes from the nose cone.\n6\nHave 6 separate tubes containing 2 mL of RNAlater solution each and submerge all\ngerminating seedlings.\n7\nAdd 5-10 mL of RNAlater solution to the remaining simulant-compost-perlite mixtures\nand shake.\n8\nPlace all tubes in the sealed container for transport back.\n9\nRetrieve the 3 tubes from the greenhouse and perform the same methods.\n10\nKeep all the samples in RNAlater solution in the sealed container for 12+ hours at room\ntemperature.\n11\nFreeze the samples at -80\u00b0C.\n12\nConduct RNAseq analysis.\nSeeds were planted a week before April 23rd and again, we treated each tube like the first\nweek of Experiment 1, this time adding only 2-3 mL of water per tube and the appropriate ratio\nof Fert 1. Germination was comparable to the 150 mL tubes, even without the drainage holes at\nthe bottoms. When it came time for the launch we followed the procedure all the way through\nstep 5 until there were ignitor issues that dragged on past the launch window and the launch had",
+      "char_count": 1830,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "1",
+            "Plant 9 seeds one week before launch in 3 tubes of Earth, 3 tubes of Moon, and 3 tubes of Mars simulant-compost-perlite mixture."
+          ],
+          [
+            "2",
+            "On the day of the launch, leave 1 group of Earth, Moon, and Mars germinating seedlings at the greenhouse, and take the other 2 groups to the launch site, but only launch 1 of the groups. Wrap gauze around the developing plant shoots and seal all the tubes before leaving."
+          ],
+          [
+            "3",
+            "Transport the tubes to the launch site in a sealed container."
+          ],
+          [
+            "4",
+            "At the launch site, prepare the payload by taping the 3 tubes together that will be launched and wrapping them in enough bubble wrap (top and bottom) to fit the tubes in the nose cone while making sure they can\u2019t slide."
+          ],
+          [
+            "5",
+            "After the rocket is launched, follow the recovery team to the landing site to retrieve the tubes from the nose cone."
+          ],
+          [
+            "6",
+            "Have 6 separate tubes containing 2 mL of RNAlater solution each and submerge all germinating seedlings."
+          ],
+          [
+            "7",
+            "Add 5-10 mL of RNAlater solution to the remaining simulant-compost-perlite mixtures and shake."
+          ],
+          [
+            "8",
+            "Place all tubes in the sealed container for transport back."
+          ],
+          [
+            "9",
+            "Retrieve the 3 tubes from the greenhouse and perform the same methods."
+          ],
+          [
+            "10",
+            "Keep all the samples in RNAlater solution in the sealed container for 12+ hours at room temperature."
+          ],
+          [
+            "11",
+            "Freeze the samples at -80\u00b0C."
+          ],
+          [
+            "12",
+            "Conduct RNAseq analysis."
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 18,
+      "text": "to be rescheduled for April 29th. Since we were low on simulant-compost-perlite mixture, we had\nto take out the seeds and plant new ones in the same tubes that day. Germination wasn\u2019t as\nsuccessful the second time around, mostly because of oversaturation without having the drainage\nholes, but the seeds were still alive and some showed slight shoot and root protrusions.\nOn April 29th, the Purdue Orbital launch was a success, reaching Mach 1 and 15 G\u2019s for 7\nseconds, and reaching an altitude of over 6,000 ft. We were then able to successfully track down\nthe rocket with Orbital\u2019s recovery team, recover our samples, and reach step 10 of our protocol.\n3. Centrifuge Test\nTo get a more controlled test of gene expression of germinating seedlings in our optimal\nEarth, Moon, and Mars simulant-compost-perlite mixtures, we\u2019ve also planned on conducting a\ncentrifuge test with a similar protocol, except this time planting twelve tubes: four of each type\nof simulant, where one group will be brought to the location of the centrifuge but not tested, and\nthe other three groups will be tested at different G levels each. The G levels will include 1 G, 2\nG\u2019s, and 4 G\u2019s for 5-10 minutes before going through the RNAlater process, freezing, and\nanalysis. We have planted the seeds on 4/28, a week in advance from our expected test date. The\nidea is to get results with less of a margin of error compared to the potential for larger variability\nin results most likely seen in a rocket launch. From there, more accurate comparisons can be\nmade.\nAnalysis and Results\nGoing into the analysis of these results, we need to make a few considerations to start as\nto what we hope to experimentally understand from these tests. Overall, further investigation to\nbe made of the effects of Earth, Moon, and Mars simulants and space exploration is on the",
+      "char_count": 1837,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 19,
+      "text": "epigenetic stress response of the plants in a rocket environment. Epigenetics are the regulation of\ngene expression in accord to external factors through development. Monitoring epigenetic\nexpression can give better insights on the effects of space travel (rocket launch stress) in the\ndevelopment of plants. Inspired by the GeneLab efforts in NASA, we will conduct RNA\nsequencing after our samples have been frozen, therefore having access to the entire library of\ngene expressions and can then draw conclusions of gene interactions with tools similar to the\nGeneLab AWG open source tools. For a preliminary evaluation we are looking at genes affecting\nbacteria symbiosis, senescent genes and mechanical sensor genes.\nSymbiosis is important for the soybean life cycle and sustainability due to their\ninteractions with nitrogen fixing bacteria and their impact on growth. An important characteristic\nof soybeans is their N2 fixation abilities which they do by hosting nitrogen fixing bacteria in\ntheir root nodules for shelter and in turn take in N2 needed for diverse pathways. In a similar\nmanner, leaf symbiotic imbalance can also hinder growth. High respiration rates at different\ntemperatures suggest decreased soybean growth, however they also present increased bacteria\nand fungal matter (Ramstad et Al., 1942). So, how do plants\ncommunicate with bacterial\nsystems and how significant are their interactions? An example of a stress mediated imbalance is\ndecreased N2 fixation in soybeans, which hinders soybean growth and overall health due to\nessential N-dependent pathways like cellular division (Miransari, 2013). In this instance, genes\nGmRIC1 and GmRIC2 were identified to take part in signaling pathways of nodule\nautoregulation, therefore a potential insight in their symbiotic response.\nSenescent genes like SIRT6 will be analyzed due to their relevance in essential pathways\nfor aging. Senescent Genes like SIRT6 are responsible for efficient DNA repair mechanisms in",
+      "char_count": 1983,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 20,
+      "text": "species with long life spans (University of Rochester, 2019). STR6 repairs DSBs (Double Strand\nBreaks), therefore highly needed for plant aerobic processes.\nAnother gene group relevant to stress induced by a rocket launch in soybeans is\nmechanical sensors like the TCH genes. These are important in regulating plant growth due to\nthat it can form part of reprogramming of the plant\u2019s growth (localized), and control cell wall\nproperties essential for cell growth. Another highlight on mechanosensors are trichomes which\ncan trigger toxin production and release responses to environmental inputs. This would be very\nsuitable to tell us to what extent the rocket launch affects a plant's mechanical output (Hamant &\nHaswell, 2017).\nConclusion\n1) Practicality of Plant Growth in High Stress Environments\nMajor factors associated with stressful environments include change in temperature (heat\nstress) and pressure that can affect overall plant reproduction and nutrient deficiency. Several\nstudies have shown heat stress playing a role in decreased respiration and photosynthesis activity\ndue to structural modification in the chloroplast protein complexes and diminished activity of\nenzymes (damaged cell membranes and grana stacks). There can also be changes in homeostasis\nof the biosynthesis and carbon metabolism enzymes. Disturbed homeostasis can lead to\nactivation of repetitive elements and silenced gene clusters (Lang-Mladek et. al., 2010) The high\ntemperatures can also cause alteration in the regulation of stress responsive genes and cause\ntranscriptional restraint of genes involving cell growth. Our primary investigation includes\nhigh/low G\u2019s on a plant\u2019s growth/reproduction to later aid in testing the effects of weightlessness.",
+      "char_count": 1743,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 21,
+      "text": "These test cases were based on the germinating soybean seedlings within normal and affected\nenvironments. Our gene expression variables include:\nA) Greenhouse Environment - Normal germinating soybean seedlings\nB) Motor Vehicle - Transporting germinating soybean seedlings to the rocket launch site/to\ncentrifuge location\nC) Rocket Launch - seedling expression after implementation in rocket (15 G\u2019s force)\nD) Centrifuge Test - seedling expression after experiencing high stress fluid separation\nIV. DISCUSSION AND CONCLUSION\n1. Data Collection Variability\nOverall, we tried to maintain consistency of our data collection methods throughout the\ngrowth experiments. We made sure to keep the control experiment constant with normal\ntemperature and humidity levels in our greenhouse. There were some outliers in the data\ncollected\nspecifically\nwith\nthe\nsoil\npH\nand\ntemperature\nsince\nthe\nvalues\nwere\nincreasing/decreasing\nat\nan\ninconsistent\ntrend,\nmaking\nit\ndifficult\nto\nmake\nmany\nassumptions/conclusions. However, we were able to get a relatively good understanding of\noverall plant health across the different simulant types in our determined optimal conditions.\n2) Obstacles and Errors\nThroughout the experiments, we managed a strict schedule for what values needed to be\npresent for each week to later implement in the rocket launch and centrifuge test. However,\nevents such as inconsistent weather and other technical difficulties delayed rocket launch dates\ncausing our experiment to hold off after a certain growth period. Secondly, some of the",
+      "char_count": 1546,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 22,
+      "text": "specimens grew slower than expected and sometimes caused a lack of observational data.\nFinally, another cause of error could have been from the sample testing the pH which could have\ndisturbed proper growth.\nV. REFERENCES\nBoiarskii, B., & Hasegawa, H. (2019). Comparison of NDVI and NDRE indices to detect\ndifferences in vegetation and chlorophyll content. Journal of mechanics of continua and\nmathematical sciences, 4, 20-29.\nChen, J.-J., Zhen, S., & Sun, Y. (2022). Estimating chlorophyll with Ndvi. Estimating\nChlorophyll with NDVI. Retrieved April 29, 2022, from\nhttps://www.apogeeinstruments.com/estimating-chlorophyll-with-ndvi/\nHamant, O., Haswell, E.S. Life behind the wall: sensing mechanical cues in plants. BMC\nBiol 15, 59 (2017). https://doi.org/10.1186/s12915-017-0403-5\nJehanzeb, M., Zheng, X., & Miao, Y. (2017). The Role of the S40 Gene Family in Leaf\nSenescence. International journal of molecular sciences, 18(10), 2152.\nhttps://doi.org/10.3390/ijms18102152\nJones, Stephanie. \u201cThe Effects of Gravity on Plant Growth and Development.\u201d UConn\nToday, 31 May 2011,\nhttps://today.uconn.edu/2009/08/the-effects-of-gravity-on-plant-growth-and-development/#.\nLang-Mladek, C., Popova, O., Kiok, K., Berlinger, M., Rakic, B., Aufsatz, W., Jonak, C.,\nHauser, M.-T., & Luschnig, C. (2010). Transgenerational inheritance and resetting of\nstress-induced loss of epigenetic gene silencing in Arabidopsis. Molecular Plant, 3(3), 594\u2013602.\nhttps://doi.org/10.1093/mp/ssq014\nMiransari, M., Riahi, H., Eftekhar, F., Minaie, A., & Smith, D. L. (2013, April 16).",
+      "char_count": 1557,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 23,
+      "text": "Improving soybean (glycine Max L.) N2 fixation under stress - Journal of Plant Growth\nRegulation. SpringerLink. Retrieved April 29, 2022, from\nhttps://link.springer.com/article/10.1007/s00344-013-9335-7\nOze, C., Beisel, J., Dabsys, E., Dall, J., North, G., Scott, A., Lopez, A. M., Holmes, R., &\nFendorf, S. (2021). Perchlorate and agriculture on Mars. Soil Systems, 5(3), 37.\nhttps://doi.org/10.3390/soilsystems5030037\nPorterfield, M. (2002). The Biophysical Limitations in Physical Transport and Exchange\nin Plants Grown in Microgravity.\nPorterfield, M. (1996). Spaceflight Exposure Effects on Transcription, Activity, and\nLocalization of Alcohol Dehydrogenase in the Roots of Arabidopsis Thaliana.\nUniversity of Rochester. \"'Longevity gene' responsible for more efficient DNA repair.\"\nScienceDaily. ScienceDaily, 23 April 2019.\n<www.sciencedaily.com/releases/2019/04/190423133511.htm>.\nRamstad, P. E., & Geddes, W. F. (1942). The respiration and storage behavior of\nsoybeans.\nStaton, Mike. \u201cSoybean Planting Depth Matters.\u201d MSU Extension, 21 Jan. 2022,\nhttps://www.canr.msu.edu/news/soybean_planting_depth_matters.\nWei Ouyang, et. al. Temporal-spatial dynamics of vegetation variation on non-point\nsource nutrient pollution, Volume 220, Issue 20, 2009, Pages 2702-2713, ISSN 0304-3800,\nhttps://research.utwente.nl/en/publications/temporal-spatial-dynamics-of-vegetation-variation-on\n-non-point-so\nVI. APPENDIX\nExperiment 1",
+      "char_count": 1425,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 24,
+      "text": "1. Data Tables\nTable 1: Soil Stimulant pH Values\npH Record\nDate\nSimulant 0PER\n50PER\n100PER\n200PER\n300PER\n400PER\n500PER\n600PER\n2/28\nEarth\n8.01\n7.75\n7.86\n7.76\n7.66\n7.73\n7.75\n7.62\nMoon\n6.33\n6.36\n6.76\n6.38\n6.43\n6.58\n6.68\n6.57\n3/2\nEarth\n7.63\n7.53\n7.81\nMoon\n8.15\n8.14\n8.15\n3/4\nEarth\n7.48\n7.61\n8.17\nMoon\n7.77\n8.02\n8.04\n3/14\nEarth\n7.37\n7.44\n7.51\nMoon\n7.54\n7.70\n7.21\nMars\n7.71\n7.81\n7.23\n3/16\nEarth\n7.24\n7.48\n7.33\nMoon\n7.41\n7.60\n7.18\nMars\n7.41\n7.45\n7.54\n3/18\nEarth\n7.28\n7.39\n7.25\nMoon\n7.54\n7.70\n7.53\nMars\n7.37\n7.80\n7.32\n3/21\nEarth\n7.60\n7.56\n7.85\nMoon\n8.28\n7.74\n7.92\nMars\n8.01\n8.09\n7.98\n*We originally planned on taking the pH readings of all pots in the beginning and end while\nconsistently taking pH readings of the 0, 300, and 600 PER pots 3 times a week\nTable 2: Soil Stimulant Soil Temperature Values\nSoil Temp Record (C)\nDate\nSimulant 0PER\n50PER\n100PER\n200PER\n300PER\n400PER\n500PER\n600PER\n3/1\nEarth\n23.8 C\n24.0 C\n22.9 C\n21.1 C\n20.7 C\n22.1 C\n22.4 C\n22.5 C\nMoon\n23.7 C\n22.6 C\n22.7 C\n22.4 C\n22.3 C\n22.5 C\n21.8 C\n22.5 C\n3/3\nEarth\n21.3 C\n19.8 C\n19.4 C\n18.4 C\n18.8 C\n20.0 C\n19.8 C\n19.7 C\nMoon\n19.8 C\n20.1 C\n20.5 C\n20.6 C\n20.4 C\n20.3 C\n20.1 C\n20.5 C\n3/8 Earth\n21.0 C\n19.5 C\n19.2 C\n19.3 C\n19.0 C\n20.3 C\n20.2 C\n20.6 C",
+      "char_count": 1202,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "pH Record",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Date",
+            "Simulant",
+            "0PER",
+            "50PER",
+            "100PER",
+            "200PER",
+            "300PER",
+            "400PER",
+            "500PER",
+            "600PER"
+          ],
+          [
+            "2/28",
+            "Earth",
+            "8.01",
+            "7.75",
+            "7.86",
+            "7.76",
+            "7.66",
+            "7.73",
+            "7.75",
+            "7.62"
+          ],
+          [
+            "",
+            "Moon",
+            "6.33",
+            "6.36",
+            "6.76",
+            "6.38",
+            "6.43",
+            "6.58",
+            "6.68",
+            "6.57"
+          ],
+          [
+            "3/2",
+            "Earth",
+            "7.63",
+            "",
+            "",
+            "",
+            "7.53",
+            "",
+            "",
+            "7.81"
+          ],
+          [
+            "",
+            "Moon",
+            "8.15",
+            "",
+            "",
+            "",
+            "8.14",
+            "",
+            "",
+            "8.15"
+          ],
+          [
+            "3/4",
+            "Earth",
+            "7.48",
+            "",
+            "",
+            "",
+            "7.61",
+            "",
+            "",
+            "8.17"
+          ],
+          [
+            "",
+            "Moon",
+            "7.77",
+            "",
+            "",
+            "",
+            "8.02",
+            "",
+            "",
+            "8.04"
+          ],
+          [
+            "3/14",
+            "Earth",
+            "7.37",
+            "",
+            "",
+            "",
+            "7.44",
+            "",
+            "",
+            "7.51"
+          ],
+          [
+            "",
+            "Moon",
+            "7.54",
+            "",
+            "",
+            "",
+            "7.70",
+            "",
+            "",
+            "7.21"
+          ],
+          [
+            "",
+            "Mars",
+            "7.71",
+            "",
+            "",
+            "",
+            "7.81",
+            "",
+            "",
+            "7.23"
+          ],
+          [
+            "3/16",
+            "Earth",
+            "7.24",
+            "",
+            "",
+            "",
+            "7.48",
+            "",
+            "",
+            "7.33"
+          ],
+          [
+            "",
+            "Moon",
+            "7.41",
+            "",
+            "",
+            "",
+            "7.60",
+            "",
+            "",
+            "7.18"
+          ],
+          [
+            "",
+            "Mars",
+            "7.41",
+            "",
+            "",
+            "",
+            "7.45",
+            "",
+            "",
+            "7.54"
+          ],
+          [
+            "3/18",
+            "Earth",
+            "7.28",
+            "",
+            "",
+            "",
+            "7.39",
+            "",
+            "",
+            "7.25"
+          ],
+          [
+            "",
+            "Moon",
+            "7.54",
+            "",
+            "",
+            "",
+            "7.70",
+            "",
+            "",
+            "7.53"
+          ],
+          [
+            "",
+            "Mars",
+            "7.37",
+            "",
+            "",
+            "",
+            "7.80",
+            "",
+            "",
+            "7.32"
+          ],
+          [
+            "3/21",
+            "Earth",
+            "7.60",
+            "",
+            "",
+            "",
+            "7.56",
+            "",
+            "",
+            "7.85"
+          ],
+          [
+            "",
+            "Moon",
+            "8.28",
+            "",
+            "",
+            "",
+            "7.74",
+            "",
+            "",
+            "7.92"
+          ],
+          [
+            "",
+            "Mars",
+            "8.01",
+            "",
+            "",
+            "",
+            "8.09",
+            "",
+            "",
+            "7.98"
+          ]
+        ],
+        [
+          [
+            "Soil Temp Record (C)",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Date",
+            "Simulant",
+            "0PER",
+            "50PER",
+            "100PER",
+            "200PER",
+            "300PER",
+            "400PER",
+            "500PER",
+            "600PER"
+          ],
+          [
+            "3/1",
+            "Earth",
+            "23.8 C",
+            "24.0 C",
+            "22.9 C",
+            "21.1 C",
+            "20.7 C",
+            "22.1 C",
+            "22.4 C",
+            "22.5 C"
+          ],
+          [
+            "",
+            "Moon",
+            "23.7 C",
+            "22.6 C",
+            "22.7 C",
+            "22.4 C",
+            "22.3 C",
+            "22.5 C",
+            "21.8 C",
+            "22.5 C"
+          ],
+          [
+            "3/3",
+            "Earth",
+            "21.3 C",
+            "19.8 C",
+            "19.4 C",
+            "18.4 C",
+            "18.8 C",
+            "20.0 C",
+            "19.8 C",
+            "19.7 C"
+          ],
+          [
+            "",
+            "Moon",
+            "19.8 C",
+            "20.1 C",
+            "20.5 C",
+            "20.6 C",
+            "20.4 C",
+            "20.3 C",
+            "20.1 C",
+            "20.5 C"
+          ],
+          [
+            "3/8",
+            "Earth",
+            "21.0 C",
+            "19.5 C",
+            "19.2 C",
+            "19.3 C",
+            "19.0 C",
+            "20.3 C",
+            "20.2 C",
+            "20.6 C"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 25,
+      "text": "Moon\n19.9 C\n20.7 C\n20.8 C\n20.5 C\n20.6 C\n20.3 C\n20.1 C\n19.9 C\n3/10\nEarth\n25.1 C\n25.0 C\n24.8 C\n23.9 C\n22.5 C\n25.3 C\n25.7 C\n25.1 C\nMoon\n24.6 C\n24.0 C\n24.1 C\n24.3 C\n24.3 C\n24.6 C\n24.2 C\n24.3 C\n3/15\nEarth\n30.7 C\n27.0 C\n27.8 C\n25.3 C\n25.8 C\n30.1 C\n30.3 C\n29.5 C\nMoon\n28.0 C\n25.5 C\n26.6 C\n26.5 C\n27.4 C\n28.1 C\n29.1 C\n27.2 C\nMars\n30.2 C\n29.5 C\n28.6 C\n30.4 C\n30.1 C\n32.2 C\n31.1 C\n31.3 C\n3/17\nEarth\n32.9 C\n28.1 C\n28.9 C\n26.8 C\n28.9 C\n32.0 C\n31.7 C\n32.3 C\nMoon\n30.1 C\n28.6 C\n29.8 C\n30.0 C\n30.3 C\n31.6 C\n30.9 C\n30.7 C\nMars\n31.7 C\n30.3 C\n29.3 C\n25.6 C\n31.1 C\n31.8 C\n31.5 C\n33.2 C\n3/22\nEarth\n24.9 C\n23.6 C\n23.8 C\n22.2 C\n22.4 C\n24.7 C\n23.9 C\n24.1 C\nMoon\n24.3 C\n21.7 C\n21.1 C\n24.2 C\n23.8 C\n24.0 C\n23.8 C\n22.5 C\nMars\n24.6 C\n24.1 C\n24.0 C\n24.8 C\n24.3 C\n24.1 C\n24.0 C\n24.9 C\n3/24\nEarth\n21.9 C\n21.1 C\n21.2 C\n20.2 C\n21.0 C\n21.1 C\n19.7 C\n21.6 C\nMoon\n21.4 C\n20.7 C\n20.9 C\n21.0 C\n21.3 C\n21.5 C\n21.7 C\n22.0 C\nMars\n22.5 C\n22.0 C\n21.2 C\n21.4 C\n20.9 C\n20.4 C\n20.6 C\n21.0 C\n3/29\nEarth\n23.3 C\n19.4 C\n22.7 C\n22.1 C\n22.5 C\n23.3 C\n23.0 C\n22.7 C\nMoon\n22.1 C\n21.9 C\n22.3 C\n22.0 C\n22.5 C\n21.7 C\n21.6 C\n21.9 C\nMars\n23.0 C\n22.8 C\n21.6 C\n22.4 C\n21.8 C\n21.8 C\n21.6 C\n22.6 C\n3/31\nEarth\n20.9 C\n20.7 C\n21.1 C\n21.5 C\n21.0 C\n21.9 C\n21.7 C\n21.6 C\nMoon\n21.3 C\n20.9 C\n21.3 C\n20.9 C\n20.8 C\n20.7 C\n20.7 C\n20.6 C\nMars\n21.8 C\n22.0 C\n21.1 C\n21.6 C\n20.9 C\n20.6 C\n20.7 C\n21.1 C\n2. Growth Progress Photos\n*Note: The plants in the closest row are grown in Earth soil, middle is Lunar regolith, and the\nlast row is Martian regolith\nFebruary 12th - First Planted Seeds\nFebruary 14th - Addition of plastic cover",
+      "char_count": 1551,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "",
+            "Moon",
+            "19.9 C",
+            "20.7 C",
+            "20.8 C",
+            "20.5 C",
+            "20.6 C",
+            "20.3 C",
+            "20.1 C",
+            "19.9 C"
+          ],
+          [
+            "3/10",
+            "Earth",
+            "25.1 C",
+            "25.0 C",
+            "24.8 C",
+            "23.9 C",
+            "22.5 C",
+            "25.3 C",
+            "25.7 C",
+            "25.1 C"
+          ],
+          [
+            "",
+            "Moon",
+            "24.6 C",
+            "24.0 C",
+            "24.1 C",
+            "24.3 C",
+            "24.3 C",
+            "24.6 C",
+            "24.2 C",
+            "24.3 C"
+          ],
+          [
+            "3/15",
+            "Earth",
+            "30.7 C",
+            "27.0 C",
+            "27.8 C",
+            "25.3 C",
+            "25.8 C",
+            "30.1 C",
+            "30.3 C",
+            "29.5 C"
+          ],
+          [
+            "",
+            "Moon",
+            "28.0 C",
+            "25.5 C",
+            "26.6 C",
+            "26.5 C",
+            "27.4 C",
+            "28.1 C",
+            "29.1 C",
+            "27.2 C"
+          ],
+          [
+            "",
+            "Mars",
+            "30.2 C",
+            "29.5 C",
+            "28.6 C",
+            "30.4 C",
+            "30.1 C",
+            "32.2 C",
+            "31.1 C",
+            "31.3 C"
+          ],
+          [
+            "3/17",
+            "Earth",
+            "32.9 C",
+            "28.1 C",
+            "28.9 C",
+            "26.8 C",
+            "28.9 C",
+            "32.0 C",
+            "31.7 C",
+            "32.3 C"
+          ],
+          [
+            "",
+            "Moon",
+            "30.1 C",
+            "28.6 C",
+            "29.8 C",
+            "30.0 C",
+            "30.3 C",
+            "31.6 C",
+            "30.9 C",
+            "30.7 C"
+          ],
+          [
+            "",
+            "Mars",
+            "31.7 C",
+            "30.3 C",
+            "29.3 C",
+            "25.6 C",
+            "31.1 C",
+            "31.8 C",
+            "31.5 C",
+            "33.2 C"
+          ],
+          [
+            "3/22",
+            "Earth",
+            "24.9 C",
+            "23.6 C",
+            "23.8 C",
+            "22.2 C",
+            "22.4 C",
+            "24.7 C",
+            "23.9 C",
+            "24.1 C"
+          ],
+          [
+            "",
+            "Moon",
+            "24.3 C",
+            "21.7 C",
+            "21.1 C",
+            "24.2 C",
+            "23.8 C",
+            "24.0 C",
+            "23.8 C",
+            "22.5 C"
+          ],
+          [
+            "",
+            "Mars",
+            "24.6 C",
+            "24.1 C",
+            "24.0 C",
+            "24.8 C",
+            "24.3 C",
+            "24.1 C",
+            "24.0 C",
+            "24.9 C"
+          ],
+          [
+            "3/24",
+            "Earth",
+            "21.9 C",
+            "21.1 C",
+            "21.2 C",
+            "20.2 C",
+            "21.0 C",
+            "21.1 C",
+            "19.7 C",
+            "21.6 C"
+          ],
+          [
+            "",
+            "Moon",
+            "21.4 C",
+            "20.7 C",
+            "20.9 C",
+            "21.0 C",
+            "21.3 C",
+            "21.5 C",
+            "21.7 C",
+            "22.0 C"
+          ],
+          [
+            "",
+            "Mars",
+            "22.5 C",
+            "22.0 C",
+            "21.2 C",
+            "21.4 C",
+            "20.9 C",
+            "20.4 C",
+            "20.6 C",
+            "21.0 C"
+          ],
+          [
+            "3/29",
+            "Earth",
+            "23.3 C",
+            "19.4 C",
+            "22.7 C",
+            "22.1 C",
+            "22.5 C",
+            "23.3 C",
+            "23.0 C",
+            "22.7 C"
+          ],
+          [
+            "",
+            "Moon",
+            "22.1 C",
+            "21.9 C",
+            "22.3 C",
+            "22.0 C",
+            "22.5 C",
+            "21.7 C",
+            "21.6 C",
+            "21.9 C"
+          ],
+          [
+            "",
+            "Mars",
+            "23.0 C",
+            "22.8 C",
+            "21.6 C",
+            "22.4 C",
+            "21.8 C",
+            "21.8 C",
+            "21.6 C",
+            "22.6 C"
+          ],
+          [
+            "3/31",
+            "Earth",
+            "20.9 C",
+            "20.7 C",
+            "21.1 C",
+            "21.5 C",
+            "21.0 C",
+            "21.9 C",
+            "21.7 C",
+            "21.6 C"
+          ],
+          [
+            "",
+            "Moon",
+            "21.3 C",
+            "20.9 C",
+            "21.3 C",
+            "20.9 C",
+            "20.8 C",
+            "20.7 C",
+            "20.7 C",
+            "20.6 C"
+          ],
+          [
+            "",
+            "Mars",
+            "21.8 C",
+            "22.0 C",
+            "21.1 C",
+            "21.6 C",
+            "20.9 C",
+            "20.6 C",
+            "20.7 C",
+            "21.1 C"
+          ]
+        ],
+        [
+          [
+            "February 12th- First Planted Seeds",
+            "February 14th- Addition of plastic cover"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 26,
+      "text": "February 16th - First sign if germination\nFebruary 21st - Plastic cover removed off pots\nFebruary 26th - Setup after mars washout\nMarch 7th - Larger shoot and leaf development",
+      "char_count": 175,
+      "image_count": 6,
+      "tables": [
+        [
+          [
+            "February 16th- First sign if germination",
+            "February 21st- Plastic cover removed off pots"
+          ],
+          [
+            "February 26th- Setup after mars washout",
+            "March 7th- Larger shoot and leaf development"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 27,
+      "text": "March 21st - New Martian plants visible\nApril 4th - 500 PER plants performing best\nApril 15th- Analyzing with multispectral scans\nApril 18th - End of growth period (4/15)\nAdditional Content\nThe following link will provide all multispectral images as well as details of rocket\npayload design and launch:",
+      "char_count": 302,
+      "image_count": 5,
+      "tables": [
+        [
+          [
+            "March 21st- New Martian plants visible",
+            "April 4th- 500 PER plants performing best"
+          ],
+          [
+            "April 15th- Analyzing with multispectral scans",
+            "April 18th- End of growth period (4/15)"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 28,
+      "text": "https://drive.google.com/drive/folders/1SZCNJeoRD5ODV7_ACyHVSipMQvctw4bU",
+      "char_count": 72,
+      "image_count": 0,
+      "tables": []
+    }
+  ]
+}

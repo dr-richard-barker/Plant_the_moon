@@ -1,0 +1,464 @@
+{
+  "report_id": "spring21-main-south-dakota-state-university-79bd5a",
+  "sha256": "c8084c5b019e34e21d8c03ed2495e7b69907f15ebcfabb70e2e752e0c814ec58",
+  "page_count": 14,
+  "total_chars": 20827,
+  "avg_chars_per_page": 1487.6,
+  "total_images": 3,
+  "table_count": 2,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PLANT THE MOON \u2013 FINAL EXPERIMENT \nREPORT \n \n \nMechanical Engineering Department \nSouth Dakota State University \n \n \n \nAuthors: Jayden Even \n Robert Kanengieter \n Timothy O\u2019Brien \n Matthew Benson \n \n \n \n \n \n \nAdvisor: Dr. Todd Letcher \n \n \n \n \n \n \nSponsors: SDSU College of Engineering Consortium \n \n \n \n \n \n Space Grant Consortium \n \n \n \n \nExperiments Performed: January \u2013 April 2021 \nReport Submitted On: April 30, 2021",
+      "char_count": 421,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "text": "ii \n \nTable of Contents \nINTRODUCTION .......................................................................................................................... 4 \nDEVELOPMENT OF THEORY .................................................................................................... 4 \nHigh Pressure Aeroponics........................................................................................................... 4 \nAdditives ..................................................................................................................................... 4 \nExperimental Apparatus.................................................................................................................. 6 \nMeasurement Methods .................................................................................................................... 8 \nPlant Mass ................................................................................................................................... 8 \nHeight .......................................................................................................................................... 9 \nDiameter ...................................................................................................................................... 9 \nFruit Mass ................................................................................................................................... 9 \nGermination Rates ...................................................................................................................... 9 \nRESULTS AND ANALYSIS ....................................................................................................... 10 \nGermination Rates .................................................................................................................... 10 \nExperimental Apparatus Failures .............................................................................................. 12 \nCONCLUSIONS........................................................................................................................... 13 \nAPPENDIX A ............................................................................................................................... 14 \nReferences ................................................................................................................................. 14",
+      "char_count": 2404,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "text": "iii \n \nList of Figures \n \nFigure 1: Graphical Soil Texture Chart .......................................................................................... 6 \nFigure 2: 3D CAD Model of the test apparatus .............................................................................. 7 \nFigure 3: Water Quality Sub-System Block Diagram .................................................................... 8 \nFigure 4: General Hydroponics Recommended Feed Schedule [5]................................................ 8 \n \nList of Tables \nTable 1: Individual Germination Results ...................................................................................... 11 \nTable 2: Overall Germination Rates ............................................................................................. 12",
+      "char_count": 798,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "text": "4 \n \nINTRODUCTION \nOur team is participating on behalf of South Dakota State University\u2019s College of Engineering. \nBeing that our group includes four senior level mechanical engineering students, we wanted to \ngo above the required project scope. The scope of the Plant the Moon Challenge was to grow the \nbest crops using a lunar regolith simulant. With that said, our experiment consisted of two \ndifferent main experiments. The first being, to compare different mix ratios of lunar regolith \nsimulant mixed with different additives to determine which mixture provides superior growth. \nThe second experiment dug into efficiency, after extensive research, our team decided to make a \nfully autonomous aeroponics growth system to compare the results to a more standard drip \nirrigation system. Our main goals for this challenge were to not only find the best mixture using \nas much lunar regolith as possible, but to also take as much workload of the astronauts by \nmaking an autonomous system to grow their food. With these two experiments running in \nparallel, our group intends to demonstrate that, while the lunar regolith mixtures are well \nequipped for starting the plants as seedlings, the advantages of aeroponics for the plant\u2019s later \nstages are too great to be overlooked. \n \nDEVELOPMENT OF THEORY \nThis section will break into two parts, one covering the theory of HPA (High Pressure \nAeroponics) and the other covering the additives chosen for the experiment. \nHigh Pressure Aeroponics \nAeroponics is the theory of growing plants without a solid medium for root growth, instead the \nplants are suspended in the air and watered periodically. There are two variants to this system \nwhich involve water pressure, a high-pressure variant (pressures exceed 100psi) known as HPA, \nand a low-pressure variant (pressures below 100psi) known as LPA. In a HPA system, the water \nis pressurized to be sprayed through misting nozzles, where a very fine mist then coats the roots \nof the plants. LPA systems typically do not produce very fine mists instead these systems slowly \ndrip or regularly run water over the roots. \n \nFor HPA, the group found experiments that indicated growth rates that could be as much as three \ntimes greater than that of traditional growing techniques [4]. These results were the inspirational \nfoundation for this experiment. Upon further investigation, the group found that the roots are \nsensitive to the droplet sizes, favoring the ranges of under 100 microns in droplet size [4]. \nInformation availability on aeroponics is scarcer than for some other, more common, techniques. \nWith that being the case, nutrient recommendations were based off the demands in comparable \nhydroponics systems. \n \nAdditives \nSoil structure and texture are two qualities that describe a medium for growing. Soil structure is \nthe specific geometry of the soil, a good soil characterized by large amounts of empty space",
+      "char_count": 2933,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "text": "5 \n \nbetween particles. This space can be filled with air and water, allowing plant roots to grow into \nthese pockets [2]. Texture is the average proportions of particles sizes, namely clay (0\u20132 \nmicrons), silt (2-50 microns), sand (50-2000 microns), and gravel (2000 microns and above). \nThese soil qualities impact several of its properties, such as soil drainage, nutrient storage, and \nworkability [2]. A loam denotes a mix of the various particle sizes and is generally considered a \ngood texture. A graphic showing the various mixtures and the designations is shown in figure 1. \nLunar highlands regolith is a fine substance with a mean particle size of 94 microns and a range \nof particle sizes from 0-1 mm [1]. This gives pure regolith a texture of sandy loam according to \nfigure 1, this is a relatively good texture as it has a balance of particle sizes [3]. However, it has a \nsoil structure that is very dense and compact. This poses challenges for breathability and \ndrainage when growing plants in this medium. \nBecause of the above challenges with regolith the team decided that the soil structure must be \nimproved. To improve the structure of the regolith, four additives were chosen: two non-organics \nand two organics. Vermiculite and perlite were the non-organic additives. These minerals are \nbaked causing them to expand and become porous. This is meant to improve the amount of air \npockets and water retention. Miracle Grow potting soil and coconut coir were chosen as the \norganic additives. Potting soil is manufactured to be an all-purpose growing medium for plants \nand as such it was used as the control. It was also chosen to be mixed with the regolith and used \nto improve the soil structure of the regolith. Coconut coir or coconut shavings are porous and \nstranded providing air pockets, nutrients, and water retention.",
+      "char_count": 1852,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "text": "6 \n \n \nFigure 1: Graphical Soil Texture Chart \nExperimental Apparatus \nTo eliminate sources of human induced error with the experimental results the greenhouse was \nheavily automated. This automation includes lighting control, temperature monitor and control, \nwater nutrient monitor and control, and watering control. The greenhouse was built inside of a \ndiamond-patterned mylar wrapped enclosure, isolating it from the thermal fluctuations of the lab \nhousing the enclosure. The greenhouse features two growing system: a HPA system and a drip \nirrigation system for the soil/regolith-based plants. Both growing systems feed off the same \ncentral water supply which is monitored by the subsystem detailed below in the water quality \nsubsection. The lighting that was chosen used red-blue dominant LED grow lights that were \nautomatically run on a timing schedule. Temperature was controlled by an electronically \ncontrolled vent. The vent worked by toggling between either circulating air within the enclosure \nor taking in air from the surrounding shop, depending on ambient conditions. A 3D CAD model \nis shown in figure 2 without the mylar providing a clear view of the major components.",
+      "char_count": 1192,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "text": "7 \n \n \nFigure 2: 3D CAD Model of the test apparatus \nThe automation system monitors and controls electrical conductivity (EC - a measure of particles \npresent in the water supply, in this case the amount of nutrients), pH level, temperature, and light \ncycle. The greenhouse automated nutrient and pH adjustment system with temperature \ncompensation. This system uses parallel peristaltic pumps to add General Hydroponics (GH) \nFlora series of nutrients and GH pH up/down to the water supply of the greenhouse. The system \nis controlled by a central Arduino unit taking in reading from a Gravity Analog EC meter V2, \nand a Gravity analog pH meter pro V2. The temperature measurement is accomplished by a",
+      "char_count": 703,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "text": "8 \n \nDS18B20 waterproof thermistor, which is inserted into the main water supply. A block diagram \nshowing the inputs and outputs of this subsystem is shown in figure 3. The nutrients are added in \nratios as recommended by GH as shown in their supplied feed chart shown in figure 5. \n \n \nFigure 3: Water Quality Sub-System Block Diagram \n \nFigure 4: General Hydroponics Recommended Feed Schedule [5] \n \nMeasurement Methods \nPlant Mass \nMass of the plant breaks down into two parts. There is the green vegetative mass, and root mass. \nDuring the growth period measuring these independently is hard without destructive methods. \nThus, at the end of the growth period the plant will be cut at the base of the vegetative section,",
+      "char_count": 725,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "text": "9 \n \ncreating two separate masses to be measured. The vegetative mass of all experiments and the \nroot mass of HPA experiments can be measured directly at the end of the experiment. \nFor the regolith/soil-based experiments the root mass is hard to extract without damaging the \nroot system corrupting the results. To remedy this the full mass of the planter, regolith, and root \nmass, are going to be weighed. At the beginning of the experiment before transplantation the full \nwill be saturated with water and weighed. At the end of the experiment after the separation of the \nvegetative growth and root system the regolith will again be saturated with water, eliminating \nwater variability. \n\ud835\udc5a\ud835\udc5f\ud835\udc5c\ud835\udc5c\ud835\udc61= \ud835\udc5a\ud835\udc61\ud835\udc5c\ud835\udc61\ud835\udc4e\ud835\udc59\u2212\ud835\udc5a\ud835\udc5d\ud835\udc59\ud835\udc4e\ud835\udc5b\ud835\udc61\ud835\udc52\ud835\udc5f\u2212\ud835\udc5a\ud835\udc5f\ud835\udc52\ud835\udc54\ud835\udc5c\ud835\udc59\ud835\udc56\ud835\udc61\u210e \n(1) \n \nHeight \nHeight is a relatively simple variable to measure as it can be done during the experiment period \nwith non-destructive methods. The height of the tomato plants will be measured from the base of \nthe vegetative growth to the tip of its thickest vine. The height of the beans will be measured \nfrom the base of the vegetative growth to the tip of its main shoot. This will be measured on a \nweekly basis and plotted at the end of the experiment period. \nDiameter \nThis variable is going to be defined slightly differently for the tomatoes and legumes. Tomatoes \nwill have three separate random vines marked with a piece of string. The length of this vine will \nbe measured from the main stem to the tip of the vine, giving a radius. In the absence of large \nenough vines, the radius will be 0. This variable will then be averaged per tomato plant and \ncompared. Because the legume chosen is a thick stalked bush with no large stem off-shoots, the \ndiameter is defined as tip-to-tip distance of its leaves when viewed from above and, the leaves \nare held perpendicular to the main stalk. \nFruit Mass \nIf the plants grow sufficiently to start fruiting during the experimental period, the fruits will be \nharvested. Then the masses of the fruits from each plant will be weighed and compared on a bar \ngraph. \nGermination Rates \nGermination rates are defined by whether the plant is alive by the transplantation date of March \n17th. Regardless of any health characteristics or the variables defined above. This data is \nrecorded below in results section.",
+      "char_count": 2291,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "text": "10 \n \nRESULTS AND ANALYSIS \nShortly after the experiment began, the experimental apparatus suffered severe and repeated \nmajor system failures. Because of this, no data for plant growth outside of the germination phase \nwas recorded as it is either non-existent or thoroughly corrupted and omitted. \nGermination Rates \nIn Table 1 the type of plant, unique plant number, amount of regolith mixed with additive, and \nthe status on March 17th. On the transplantation date the data in Table 2 was calculated \naccording to the germination rate section above. The data is segregated based off the additive \nused, and the plant in the medium. Tomatoes fared the best in all the trials, several times having \na 100% germination rate. The tomatoes had the highest germination rates in the miracle grow \npotting soil and the coconut coir pucks. In all other additive categories, the tomatoes germinated \nat equal rates. Although the sample size is small this gives the best evidence for tomatoes being \nthe better choice for food production. The legumes fared the worst, having a 0% germination rate \nin approx. 60% of all experiment categories. They also failed in all the organic additives and \ncontrols, only germinating in the coconut coir pucks and non-organic additives.",
+      "char_count": 1266,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "text": "11 \n \n \nTable 1: Individual Germination Results \nPerlite \nCoconut coir pucks \nplant plant # \nregolith mix \nstatus \nplant \nplant # \nmix \nstatus \nT \n1 \n50 Germinated \nT \n23 \n0 Germinated \nL \n2 \n50 Germinated \nL \n24 \n0 Germinated \nT \n7 \n75 Dead \nT \n25 \n0 Germinated \nL \n8 \n75 Dead \nL \n26 \n0 Dead \nVermiculite \nT \n27 \n0 Germinated \nplant plant # \nmix \nstatus \nL \n28 \n0 Germinated \nT \n3 \n50 Germinated \nT \n29 \n0 Germinated \nL \n4 \n50 Germinated \nL \n30 \n0 Germinated \nT \n9 \n75 Dead \nPure regolith \nL \n10 \n75 Dead \nplant \nplant # \nmix \nstatus \nCoconut coir \nT \n17 \n100 Dead \nplant plant # \nmix \nstatus \nL \n18 \n100 Dead \nT \n5 \n50 Germinated \nT \n31 \n100 Germinated \nL \n6 \n50 Dead \nL \n32 \n100 Dead \nT \n11 \n75 Dead \nT \n33 \n100 Germinated \nL \n12 \n75 Dead \nL \n34 \n100 Dead \nPotting soil \nT \n35 \n100 Dead \nplant plant # \nmix \nstatus \nL \n36 \n100 Dead \nT \n13 \n50 Dead \nL \n14 \n50 Dead \nT \n15 \n75 Germinated \nL \n16 \n75 Dead \nControl \nplant plant # \nmix \nstatus \nT \n19 \n0 Germinated \nL \n20 \n0 Dead \nT \n21 \n0 Germinated \nL \n22 \n0 Dead",
+      "char_count": 1013,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Perlite",
+            "",
+            "",
+            "",
+            "Coconut coir pucks",
+            "",
+            "",
+            ""
+          ],
+          [
+            "plant",
+            "plant #",
+            "regolith mix",
+            "status",
+            "plant",
+            "plant #",
+            "mix",
+            "status"
+          ],
+          [
+            "T",
+            "1",
+            "50",
+            "Germinated",
+            "T",
+            "23",
+            "0",
+            "Germinated"
+          ],
+          [
+            "L",
+            "2",
+            "50",
+            "Germinated",
+            "L",
+            "24",
+            "0",
+            "Germinated"
+          ],
+          [
+            "T",
+            "7",
+            "75",
+            "Dead",
+            "T",
+            "25",
+            "0",
+            "Germinated"
+          ],
+          [
+            "L",
+            "8",
+            "75",
+            "Dead",
+            "L",
+            "26",
+            "0",
+            "Dead"
+          ],
+          [
+            "Vermiculite",
+            "",
+            "",
+            "",
+            "T",
+            "27",
+            "0",
+            "Germinated"
+          ],
+          [
+            "plant",
+            "plant #",
+            "mix",
+            "status",
+            "L",
+            "28",
+            "0",
+            "Germinated"
+          ],
+          [
+            "T",
+            "3",
+            "50",
+            "Germinated",
+            "T",
+            "29",
+            "0",
+            "Germinated"
+          ],
+          [
+            "L",
+            "4",
+            "50",
+            "Germinated",
+            "L",
+            "30",
+            "0",
+            "Germinated"
+          ],
+          [
+            "T",
+            "9",
+            "75",
+            "Dead",
+            "Pure regolith",
+            "",
+            "",
+            ""
+          ],
+          [
+            "L",
+            "10",
+            "75",
+            "Dead",
+            "plant",
+            "plant #",
+            "mix",
+            "status"
+          ],
+          [
+            "Coconut coir",
+            "",
+            "",
+            "",
+            "T",
+            "17",
+            "100",
+            "Dead"
+          ],
+          [
+            "plant",
+            "plant #",
+            "mix",
+            "status",
+            "L",
+            "18",
+            "100",
+            "Dead"
+          ],
+          [
+            "T",
+            "5",
+            "50",
+            "Germinated",
+            "T",
+            "31",
+            "100",
+            "Germinated"
+          ],
+          [
+            "L",
+            "6",
+            "50",
+            "Dead",
+            "L",
+            "32",
+            "100",
+            "Dead"
+          ],
+          [
+            "T",
+            "11",
+            "75",
+            "Dead",
+            "T",
+            "33",
+            "100",
+            "Germinated"
+          ],
+          [
+            "L",
+            "12",
+            "75",
+            "Dead",
+            "L",
+            "34",
+            "100",
+            "Dead"
+          ],
+          [
+            "Potting soil",
+            "",
+            "",
+            "",
+            "T",
+            "35",
+            "100",
+            "Dead"
+          ],
+          [
+            "plant",
+            "plant #",
+            "mix",
+            "status",
+            "L",
+            "36",
+            "100",
+            "Dead"
+          ],
+          [
+            "T",
+            "13",
+            "50",
+            "Dead",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "L",
+            "14",
+            "50",
+            "Dead",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "T",
+            "15",
+            "75",
+            "Germinated",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "L",
+            "16",
+            "75",
+            "Dead",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Control",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "plant",
+            "plant #",
+            "mix",
+            "status",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "T",
+            "19",
+            "0",
+            "Germinated",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "L",
+            "20",
+            "0",
+            "Dead",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "T",
+            "21",
+            "0",
+            "Germinated",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "L",
+            "22",
+            "0",
+            "Dead",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 12,
+      "text": "12 \n \nTable 2: Overall Germination Rates \nAdditive \nOverall germination \nrate (%) \nTomato \nrate (%) \nLegume \nrate (%) \nPerlite \n50 \n50 \n50 \nVermiculite \n50 \n50 \n50 \nCoconut coir \n25 \n50 \n0 \nSoil \n25 \n50 \n0 \nControl \n50 \n100 \n0 \nCoconut coir \npuck \n88 \n100 \n75 \nPure regolith \n25 \n50 \n0 \n \nExperimental Apparatus Failures \nApproximately one week after transplantation on March 22nd, the HPA system suffered a \ncatastrophic pump failure for a still yet unknown reason. The team decided the pump failure was \na result from a factory defect or induced during shipping thus failing far earlier than expected. \nThe second pump was installed on March 24th and less than 20 hours later, the second pump also \nfailed. This initiated an intense and long troubleshooting period on the high-pressure pump \nsystem. \nThe failure of the second pump caused the team to suspect the design had an issue causing \npremature pump failure. The first pump was taken apart and examined. The pump and motor \nwere undamaged as the pump components had no major visible failures. The team applied power \nto this disassembled pump motor assembly and the motor worked fine. The primary suspect \nbecame the included pressure switch on the pump assembly. The pressure switch for both pump \nassemblies had completely failed. \nThe team decided to build a replacement pressure switch to control the pump assembly. The \nteam designed a new pressure switch using a low side high power MOSFET transistor to control \nthe pump motor. An Autex pressure transducer was added to read the pressure from the HPA \nassembly. During initial testing of this new design the MOSFET failed after roughly two on/off \ncycles. Replacing the MOSFET resulted in a similar failure, indicating that the transistors were \nexperiencing a reverse (fly back) voltage spike from the motor assembly. \nTypically, in motor designs, a reverse biased diode is installed in parallel to protect the sensitive \nelectronics from reverse voltage spikes. The pump assembly did not have a reverse biased diode \ninstalled which was causing the failures. The pump assembly is typically used in automotive \napplications and did not include this diode protection where it is not required. Our design \nincludes power from a standard PC power supply adding to the issue. The power supply most \nlikely has a response time on the order of nanoseconds whereas an automotive battery likely has \na response on the order of microseconds. This causes a greater release of energy within the \nswitching time of the included pressure switch, causing sparking and premature failure.",
+      "char_count": 2589,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Additive",
+            "Overall germination rate (%)",
+            "Tomato rate (%)",
+            "Legume rate (%)"
+          ],
+          [
+            "Perlite",
+            "50",
+            "50",
+            "50"
+          ],
+          [
+            "Vermiculite",
+            "50",
+            "50",
+            "50"
+          ],
+          [
+            "Coconut coir",
+            "25",
+            "50",
+            "0"
+          ],
+          [
+            "Soil",
+            "25",
+            "50",
+            "0"
+          ],
+          [
+            "Control",
+            "50",
+            "100",
+            "0"
+          ],
+          [
+            "Coconut coir puck",
+            "88",
+            "100",
+            "75"
+          ],
+          [
+            "Pure regolith",
+            "25",
+            "50",
+            "0"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 13,
+      "text": "13 \n \nThe team installed a reverse biased diode in parallel to the motor to block the reverse voltage \nspike damaging the switch and transistors. A parallel troubleshooting process also included the \ninstallation of a DC-to-DC converter, typically known as a buck-converter. The addition of the \nbuck-converter allowed the team to precisely control the voltage and amperage to the motor \nassembly. Once both items were integrated into the design of the pump assembly, the system \nfailures have been halted and resolved. The pump became fully operational on Tuesday April \n13th the final week of the experiment period. This unfortunately caused no reliable data to be \ncollected and analyzed outside of initial germination before transplantation. \nCONCLUSIONS \nThe germination rates for tomatoes were reliably the highest within the dataset, while the \nlegumes failed in most of the experiments. This shows that out of these two choices tomatoes \nwould likely fare better in a lunar environment. \nWhile the results that have begun to present themselves in the past week appear to be the start of \nsomething interesting, they are far from experimental standards. Due to the complexity of the \nsystem, the troubleshooting process ultimately proved to be far more costly, timewise, than had \nbeen accounted for.",
+      "char_count": 1307,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 14,
+      "text": "14 \n \nAPPENDIX A \nReferences \n \n[1] \n\u201cPlanetary Simulant Database: LHS-1 Lunar Highlands Simulant,\u201d Center for Lunar & \nAsteroid Surface Science, 24-Mar-2020. [Online]. Available: \nhttps://sciences.ucf.edu/class/simulant_lunarhighlands. [Accessed: 30-Apr-2021]. \n[2] \nLynn Kime Senior Extension Associate Expertise Agricultural Economics, \u201cSoil Quality \nInformation,\u201d Penn State Extension, 14-Apr-2021. [Online]. Available: \nhttps://extension.psu.edu/soil-quality-information. [Accessed: 30-Apr-2021]. \n[3] \nE. W. Support, \u201cSand, silt or clay? Texture says a lot about soil,\u201d OSU Extension Service, \n29-May-2019. [Online]. Available: https://extension.oregonstate.edu/news/sand-silt-or-\nclay-texture-says-lot-about-soil. [Accessed: 30-Apr-2021]. \n[4] \nB. M. Eldridge, L. R. Manzoni, C. A. Graham, B. Rodgers, J. R. Farmer, and A. N. Dodd, \n\u201cGetting to the roots of aeroponic indoor farming,\u201d New Phytologist, vol. 228, no. 4, pp. \n1183\u20131192, 2020. \n[5] \n\u201cFlora Series Feedcharts,\u201d General Hydroponics, 02-Apr-2021. [Online]. Available: \nhttps://generalhydroponics.com/resources/floraseries-feedcharts/. [Accessed: 30-Apr-\n2021]. \n \nList of Abbreviations \n \nHPA \u2013 High Pressure Aeroponics \nLPA \u2013 Low Pressure Aeroponics \nLED \u2013 Light Emitting Diode \nCAD \u2013 Computer Aided Drafting \nEC \u2013 Electrical Conductivity \nGH \u2013 General Hydroponics",
+      "char_count": 1333,
+      "image_count": 0,
+      "tables": []
+    }
+  ]
+}

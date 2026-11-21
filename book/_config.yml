@@ -1,0 +1,42 @@
+title: "Plant the Moon Meta-Analysis · CoSE"
+author: "Richard J. Barker, PhD · Collaborative Science Environment (CoSE)"
+copyright: "2026 Richard J. Barker & CoSE (MIT / CC-BY-4.0)"
+
+execute:
+  execute_notebooks: "off"
+
+only_build_toc_files: true
+
+repository:
+  url: "https://github.com/dr-richard-barker/Plant_the_moon"
+  path_to_book: "book"
+  branch: "main"
+
+html:
+  favicon: ""
+  use_issues_button: true
+  use_repository_button: true
+  use_edit_page_button: false
+  home_page_in_navbar: true
+  extra_footer: |
+    <div class="cose-footer-bar">
+      <span>Designed with the <a href="https://cosecloud.com" target="_blank" rel="noopener">CoSE</a> brand aesthetic · Built with Python, Typst &amp; Jupyter Book</span>
+      <span class="cose-footer-links">
+        <a href="https://orcid.org/0000-0001-5681-9857" target="_blank" rel="noopener">ORCID: 0000-0001-5681-9857</a> ·
+        <a href="https://dr-richard-barker.github.io/CoSE_Cloud/Hub/" target="_blank" rel="noopener">CoSE Cloud Hub</a> ·
+        <a href="https://dr-richard-barker.github.io/DeepSpaceAg/" target="_blank" rel="noopener">Deep Space Ag</a>
+      </span>
+    </div>
+
+sphinx:
+  config:
+    html_static_path: ["_static"]
+    html_css_files: ["cose-theme.css"]
+    html_js_files: ["cose-theme.js"]
+    html_theme_options:
+      show_navbar_depth: 2
+      use_download_button: true
+      use_fullscreen_button: true
+      navigation_with_keys: true
+      logo:
+        text: "CoSE · Plant the Moon"

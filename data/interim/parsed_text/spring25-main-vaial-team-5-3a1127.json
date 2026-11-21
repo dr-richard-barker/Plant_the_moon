@@ -1,0 +1,1201 @@
+{
+  "report_id": "spring25-main-vaial-team-5-3a1127",
+  "sha256": "5263b972f133d9111f668dfcbcd7404158e71f709540adf3bd858977e926d71c",
+  "page_count": 35,
+  "total_chars": 51080,
+  "avg_chars_per_page": 1459.4,
+  "total_images": 54,
+  "table_count": 12,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "",
+      "char_count": 0,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "text": "ROOTING BEYOND EARTH: ENHANCING BASIL CULTIVATION IN MARTIAN \nREGOLITH USING BIOFERTILIZERS AND ORGANIC AMENDMENTS \n \nABSTRACT \n \nThis study investigates the feasibility of cultivating Ocimum basilicum (Basil) in Martian \nregolith simulant using organic amendments and biofertilizers, with a focus on developing \nsustainable agricultural systems for future Mars colonization. We evaluated the efficacy of \nVesicular Arbuscular Mycorrhiza (VAM), Plant Growth-Promoting Bacteria (PGPB), and \nTrichoderma in enhancing plant growth and productivity in Martian regolith compared to Earth \nsoil. Our results demonstrate that PGPB treatment significantly improved plant performance in \nMartian regolith, with notable enhancements in chlorophyll concentration, net photosynthetic \nrate, and leaf development. The application of organic amendments and biofertilizers mitigated \nthe toxic effects of Martian regolith, enabling microbial activity and plant growth. This research \nhighlights the potential of biofertilizers, particularly PGPB, in facilitating sustainable food \nproduction in extraterrestrial environments and contributes to the development of closed-loop \nlife support systems for future Mars missions. The findings have implications for optimizing \ncrop cultivation in space exploration and advancing the sustainability of human \npresence beyond Earth. \n \nINTRODUCTION \n \nThe exploration of Mars has undergone significant advancements, transitioning from telescopic \nobservations to in-situ investigations. However, establishing sustainable food systems for \nfuture Mars missions poses substantial challenges due to the Martian regolith's inherent \nlimitations, including low nutrient content, high salinity, and toxicity (Chinnannan et al., 2024). \nThe regolith's natural properties, such as scarce nutrient availability, phytotoxic elements, and \ninadequate water retention capacity, render it inhospitable for vegetation. \n \nRecent studies emphasize the importance of understanding plant adaptability and evaluating \ntheir nutritional attributes for sustained Mars missions. Basil (Ocimum basilicum), with its \nadaptability, nutritional, and medicinal properties, is an ideal candidate for future Mars colonies",
+      "char_count": 2219,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "text": "and human space exploration. Its rapid growth and maturation make it an attractive crop for \ntesting in Martian simulant. \n \nThis study aims to evaluate the feasibility of growing basil in Martian regolith using organic \namendments and biofertilizers, excluding chemical fertilizers. Organic amendments, such as \ncompost and manure, can enhance soil structure, water retention, and microbial activity, while \nbiofertilizers optimize nutrient availability through beneficial microorganisms (Singh et al., \n2024). By adopting a chemical-free approach, this study seeks to establish a sustainable and \nclosed-loop system essential for long-term space colonization. \n \nNotably, there is a lack of research on growing crops in Martian regolith using purely organic \nmethods. This study addresses this gap by investigating the impact of organic amendments and \nbiofertilizers, including bacterial consortium, on basil growth and productivity in Martian \nregolith. The findings of this study will contribute to the development of commercially and \npharmacologically viable foundations for cultivation on the Martian surface. \n \nTHEORY \n \nPlant Nutrition and Soil Fertility \nPlants require a balanced supply of essential nutrients to support their growth, development, \nand reproduction. There are 18 plant nutrient elements, including 9 macronutrients (C, H, O, \nN, P, K, Ca, Mg, and S) and 9 micronutrients (Fe, Zn, Mn, Cu, B, Mo, Cl, and Ni) (Uchida, \n2000). Each plant species has an optimum nutrient range and minimum requirement level, and \nexcessive nutrient uptake can cause poor growth due to toxicity (Silva & Uchida, 2000). Soil \nfertility refers to the ability of soil to sustain agricultural plant growth, providing essential \nnutrients and favorable chemical, physical, and biological characteristics (Tang, 2025). \nOrganic Amendments and Biofertilizers \nOrganic amendments, such as vermicompost, press mud, coir pith, biodynamic manure, peat \nmoss, and biochar, can improve soil fertility and support microbial activity (Liu et al., 2023). \nThese amendments have been shown to increase total microbial biomass, bacterial biomass, \nfungal biomass, Gram-positive bacterial biomass, and Gram-negative bacterial biomass. \nBiofertilizers, such as NPK biofertilizers, containing bacteria that fix nitrogen, solubilize \nphosphorus, and mobilize potassium, can enhance plant growth and nutrient uptake (N.M,",
+      "char_count": 2406,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "text": "2022) . Three different treatments were used in this study: Vesicular-arbuscular mycorrhizae \n(VAM), Plant Growth-Promoting Bacteria (PGPB), and Trichoderma viride. \n \nBasil Plant Characteristics and Requirements \nBasil (Ocimum basilicum L.) is a medicinal plant and culinary herb that requires a warm \nclimate and high temperature, with soil that is fertile and has a pH range of 6.5 to 8 (Khater et \nal., 2021). It needs at least 6 to 8 hours of sunlight daily for optimal growth (Indira & Rani, \n2024). Basil has high nutritional content with low caloric values and contains vitamins A, B6, \nand C, as well as carotene, calcium, potassium, phosphorus, magnesium, and iron. \nMartian Regolith \nMartian regolith presents significant limitations for plant growth due to its low nutrient content, \nhigh salinity, and absence of organic carbon, which is essential for microbial activity and plant \ndevelopment (Kasiviswanathan et al., 2022). The Martian regolith is characterized by high pH \nlevels and the presence of toxic perchlorates, which pose additional challenges to plant growth. \nOrganic matter and biotic activity are not found in Martian soil, making it essential to provide \nexogenous inputs of organic matter to support plant growth. \nDeveloping techniques to eliminate or reduce salt toxicity and increase the fertility of Martian \nregolith by including organic materials reused from solid waste composting processes from the \nhuman habitat is crucial (Fackrell & Schroeder, 2020). This study aims to investigate the \npotential of using organic amendments and biofertilizers to improve soil fertility and support \nmicrobial activity, thereby enhancing plant growth in Martian regolith simulant. By providing \noptimum temperature, humidity, and photosynthetically active photons and controlling biotic \nfactors, this study will determine the change between stages of crop growth. \n \nHYPOTHESIS \nEffect of soil amendments: \nH0: The mars regolith and the soil additive mix do not affect the biomass growth, yield, \nchlorophyll pigments quality, metabolites content, and microbial activity. \nH1: The Mars regolith and the soil additive mix affect the biomass growth, yield, chlorophyll \npigments quality, metabolites content, and microbial activity. \nEffect of biofertilizers microbes: \nH0: The biofertilizer concentration does not affect the biomass growth, yield, chlorophyll \npigments quality, metabolites content, and microbial activity.",
+      "char_count": 2449,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "text": "H1: The biofertilizer concentration affects the biomass growth, yield, chlorophyll pigments \nquality, metabolites content, and microbial activity. \nInteraction of soil mixture \u2013 biofertilizer microbes: \n H0: The mars regolith and the soil additive mix in conjunction with the biofertilizer do not \naffect the biomass growth and the chlorophyll pigments quality. \nH1: The mars regolith and the soil additive mix in conjunction with the biofertilizer \nconcentration affect the biomass growth and the chlorophyll pigments quality. \n \nMATERIALS AND METHODS \n \nThe test crop chosen was Basil (Ocimum basilicum). This is the heirloom variety of Italian \nbasil seeds bought from Namdeo Umaji Agritech Pvt Ltd, Maharashtra, India. \n \nNumber of sets: 2 (SET 1 \u2013 Mars regolith, SET 2 \u2013 Earth soil). Initial samples were analysed \nin Mars Simulant and Earth Soil before proceeding with the experiment. Each set had 4 \ntreatments with 3 replications. The amendments added were kept constants for all the \ntreatments by converting the Mars regolith into cultivable soil, and the beneficial \nmicroorganisms were given as treatments without adding any inorganic form of fertilizers to \nprove the survival of microbes and its efficacy in mars soil and plant growth. \n \nAmendments added in 50 % (200 g) such as vermicompost 53 g, coir pith 53 g, press mud 53 \ng , biodynamic manure 4 g, sphagnum moss 35 g, biochar 2 g , and organic NPK (nitrogen \nfixing, phosphate solubilizing and potash mobilizing) bacterial suspension 10 ml each are \nidentical for all the treatments. Trichoderma is a soil fungi which provides plant growth \npromotion and induced systemic resistance against pest and diseases. \n \nTreatment 1: Mars regolith 200 g + Amendments + Vesicular Arbuscular Mycorrhiza (VAM) \nTreatment 2: Mars regolith 200 g + Amendments + Plant Growth-Promoting bacteria (PGPB) \nTreatment 3: Mars regolith 200 g + Amendments + Trichoderma \nTreatment 4: Mars regolith 200 g + Amendments \nTreatment 4 was kept as the control without adding NPK bacteria or Trichoderma. The same \ntreatments were followed for comparison with earth soil instead of mars regolith. \n \nAmendments",
+      "char_count": 2153,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "text": "The amendments such as vermicompost, coir pith, press mud, biodynamic manure, sphagnum \nmoss, and biochar used for the experiment were collected from the Agri Farm, VIT School of \nAgricultural Innovations and Advanced Learning (VAIAL), Vellore, India. NPK bacteria and \nPGPB were produced by us by inoculating mother culture collected from Tamilnadu \nAgricultural University (TNAU), Coimbatore, India and multiplied at the Research Lab, VIT \nSchool of Agricultural Innovations and Advanced Learning (VAIAL), Vellore Institute of \nTechnology, Vellore, India. Biofertilizers used for treatments such as Trichoderma and VAM \nwere collected from VAIAL Farm. \nVermicompost: a nutrient-rich organic fertilizer produced by worms breaking down organic \nwaste. It enhances plant growth by providing essential micronutrients, improving soil structure, \nand increasing water retention. Vermicompost also boosts soil biodiversity and promotes \nhealthy microbial activity, leading to healthier plants. \nCoir Pith: a byproduct of coconut husk, is a natural, eco-friendly soil amendment. It improves \nsoil structure, increases water retention, and enhances aeration, promoting healthy root growth. \nCoir pith also supports beneficial microbial activity and reduces soil erosion, making it an ideal \ncomponent for potting mixes and garden soils. \nPress mud: a byproduct of sugarcane processing, is a nutrient-rich organic amendment. It \nenhances soil fertility and water-holding capacity and serves as a natural source of \nmacronutrients like nitrogen, phosphorus, and potassium. \nBiodynamic manure: It is made from cow dung from a lactating cow of average 50-150 g \ndung per horn, which is fermented and buried in the soil for 6 months. It helps to stimulate root \ngrowth and increases germination and humus formation. The BD 500 - Combination Manure \n(Cow horn + Cow dung + Flower manure) has its Nitrogen, Potassium, Phosphorus, and \norganic carbon content at 1.6%, 1.1%, 2.5%, and 24.50%, respectively, which will increase on \na period basis. It helps to increase the root growth and increase the germination \nSphagnum moss: a natural and highly absorbent soil amendment that provides a habitat for \nbeneficial microorganisms. \nBiochar: Biochar can help mitigate heavy metal contamination in soil. On Mars, the soil \ncontains heavy metals like perchlorates. Biochar's unique properties allow it to adsorb and \nimmobilize these contaminants, reducing their availability to plants and microorganisms. \nNPK Bacteria: this NPK fertilizer is the consortium of Azospirillum, Bacillus sp and Fraturia \naurantia. These are nitrogen fixing, phosphorus solubilizing and potassium mobilizing \nbacteria. They convert atmospheric nitrogen, phosphorus and potassium into a form that can \nbe used by plants, available to plants and promoting their growth.",
+      "char_count": 2828,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "text": "Treatments \nVAM: VAM (Vesicular Arbuscular mycorrhizal) biofertilizers are beneficial fungi that form \nsymbiotic relationships with plant roots. They enhance soil fertility, improve plant growth, and \nincrease the amount of nutrients available in the soil to plants. VAM biofertilizers also help \nreduce heavy metal toxicity in soil by immobilizing them, making them less available to plants. \nVAM fungi can deliver up to 80% of plant P, 25% of plant N, 10% of plant K, 25% of plant \nZn, and 60% of plant Cu. \nPGPB: it is a bacterial consortium of beneficial microorganisms such as Bacillus Subtilis, \nBacillus amyloliquefaciens, Pseudomonas fluorescence and Methylobacterium. It can help to \nmitigate stress and support plant growth in mars soil. It enhances plant growth by improving \nsoil nutrient availability producing plant hormones and volatile organic compounds (VOCs) \nthat stimulate root development and nutrient uptake, and by regulating the soil microbial \ncommunity. \nTrichoderma: it is a genus of beneficial fungi that promotes plant growth and soil health. It \nis used as a biological control agent to control plant pathogens, pests, and diseases. \nTrichoderma species can also solubilize minerals, improve soil structure, and enhance nutrient \nuptake. It can stimulate plant defense mechanisms, increasing resistance to stress and disease. \n \nEXPERIMENTAL DESIGN & MEASUREMENTS \n \nShade-net setup \nThe experiment was conducted under a controlled environment (shade net house) with \ndimensions of 7m\u00d77m\u00d77m, which is located at VIT School of Agricultural Innovations and \nAdvanced Learning (VAIAL), Vellore Institute of Technology, Vellore, India. The \nenvironmental variables measured during the experiment were temperature, relative humidity, \nlight intensity, and airflow. The temperature was measured using a thermometer, relative \nhumidity by hygrometer, wind speed by anemometer, and light intensity using PAR \n(Photosynthetically Active Radiation meter). The covering material used for shade net is high-\ndensity polyethylene (HDPE) covering net, which protects plants from harmful UV rays.",
+      "char_count": 2111,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "text": "Table 1. Shade net house parameters \n \n Planting set up \nThe pots mixture (Mars regolith, soil, amendments and treatments) were mixed thoroughly and \npot filled before sowing and were placed in an order on the table kept inside the shade net \nhouse. One table had Earth soil pots, and another table had Mars regolith pots. The mars \nregolith and amendments were added at the ratio of 1:1 in all the twelve pots. Then, for the \nearth soil, amendments were added at the ratio of 1:1 in all twelve pots. After setting up pots \nwith amendments and treatments, 20 seeds in each pot were sown, and the irrigation was done \nmanually with 100 ml of distilled water added using measuring cylinders. The experimental \nsetup is shown in Figure 1. \n\u2022 MT1: Mars regolith 50%, organic amendments 50%, VAM. \n\u2022 MT2: Mars regolith 50%, organic amendments 50%, PGPB. \n\u2022 MT3: Mars regolith 50%, organic amendments 50%, Trichoderma. \n\u2022 M-Control: Mars regolith 50%, organic amendments 50%. \n \n \n \nFig. 1. Experimental setup of pots for Martian regolith and earth soil \n \nSHADE NET HOUSE PARAMETERS \nEnvironmental \nvariable \nTemperature \nRelative \nhumidity \nWind \nspeed \nLight intensity \nRange \n15\u2103 - 35\u2103 \n65% - 80% \n0.3 \u2013 1.8 \nm/s \n150 ppm \u2013 800 ppm & \nabove at night \npot \nBasil \nseeds \nBasil seeds \npot",
+      "char_count": 1284,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "text": "By considering both mars regolith and earth soil with organic amendments, biofertilizers, \nirrigated water as independent variables, it was decided to define dependent variables as \ngermination %, plant height, number of leaves, leaf area, yield, biomass, soil pH, EC, \nChlorophyll, root development, secondary metabolites and available nutrients. The crop \nduration was expected to be 45 days. The harvest was done on the 45th day after sowing. \n \nFig. 2. Identified variables in the experimental design. \n \nAnalysis \nThe pH and EC were measured every week in the soil from initial (before sowing) to final \n(during harvest). The pH in mars and Earth's initial soil before adding amendments was \nmeasured using digital pH meter and EC was measured using Conductivity meter. To measure \nthe pH level of the soil after sowing, pH strips that was included in the kit of participation, the \nmeasurement was performed on a weekly basis. For this study we established to quantify the \ngrowth of the basil by measuring the characteristics such as duration of each growth stage \n(germination %, cotyledon appearance, seedling, and vegetative period), the morphological \nparameters (number of leaves, plant height, shoot length, root length and leaf area), plant\u00b4s \nphysiological study includes (biomass production, and chlorophyll concentrations), SPAD \nvalues to identify chlorophyll content to measure photosynthetic rate. By taking account of \nthese characteristics, it was considered the measuring schedule as shown in Table 2. \n \nTable 2. Plant parameters measured and the schedule of measurements \nVariable Germination \n% \nNo.of.leaves \nShoot \nlength \nRoot \nlength \nPlant \nheight \nLeaf \narea \nbiomass \nyield \nchlorophyll \nStage \nS \nS,V,M \nS,V,M \nS,V,M \nS,V,M \nS,V,M M \nM \nS,V,M",
+      "char_count": 1776,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "text": "Period \nWeek 1 \nonce \nin \na \nweek \nonce in \na week \nonce in \na week \nonce \nin \na \nweek \nonce \nin \na \nweek \nHarvest \n(8th \nweek) \nHarvest \n(8th \nweek) \n4th,6th,8th \nweek \n*For stages consider S as the seeding stage, V as the vegetative stage, and M as the maturation \nstage. \n \n \nFig. 3. Analysis of pH, root length, shoot length, and chlorophyll value using SPAD meter. \n \nThe cotyledon sprout and the appearance of leaves were visually inspected, and germination \npercentage was calculated; the day of each event was recorded in the experiment\u2019s database. \nSimilarly, the number of leaves were visually inspected and manually counted on weekly basis. \nIn the same period of measurement, the height of the basil plant was measured using a ruler \nand by taking as reference the base of the stem. Leaf area was calculated by measuring length \nand breadth of leaves using ruler. To measure relative chlorophyll content in the basil plant \nleaves, SPAD (Soil Plant Analysis Development) meter was used on the 4th, 6th, and 8th grow \nweeks. \n \nIn the Mars regolith at the initial stage before sowing, macro nutrients, micronutrients, and \nheavy metals were analyzed. After harvesting the plant samples, four analyses were carried \nout, i.e., nutrient analysis, heavy metals analysis, microbiome- metagenomics analysis, GC-\nMS (Gas Chromatography- Mass Spectrometry), and Plant growth hormone analysis. \n \nFor GC-MS analysis, 100 mg samples from all the treatments of Earth and Mars plants were \ntaken. The procedure followed was as per the standard protocol. Metagenomic analysis to \ncharacterize all the bacterial species present in the soil samples is initiated. Soil samples were \ndried under shade for 24 hours and packed. Metagenomic analysis is being carried out at the \npaid service of BioKart Pvt Limited, Bangalore, India. For plant growth hormone analysis, 100 \nmg of plant sample of best treatment and control were analysed using the standard procedures. \nFor Heavy metals, analysis was carried out in both soil samples of 50 g and plant samples of",
+      "char_count": 2054,
+      "image_count": 3,
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "text": "100 mg of all treatments were given at National Agro Foundation, Chennai. The results are \ngiven in the report in the results and discussion part. \n \n \n \nRESULTS AND DISCUSSION \n \nInitial chemical analysis was done on mars regolith simulant before adding amendments using \nLaMotte soil testing kit before the start of the growth period. The results as shown in Table 3 \nrevealed a alkaline pH of 8.4 and an electrical conductivity of 1.77 mS/cm, which indicates a \nhigh concentration of salts leads to salinity problems which hinder the plant growth. In mars \nRegolith, the amendments and microbial cultures added before sowing was found to decrease \nin the Ph range in the first week. then , the pH of all treatments remained neutral to slightly \nalkaline (7.5 \u2013 8.0) during last weeks of crop growth as well. EC also decreased to 0.98 mS/cm \nat last week shows significant reduction in the salt level and suitable for plant growth. \n \nTable 3. pH and EC parameters of Mars regolith and Earth soil \nComponent \npH \nEC \nMars regolith \n8.4 \n1.77 mS/cm \nEarth soil \n6.7 \n1.06 mS/cm \n \nIn earth soil, the pH before added amendments was 6.7 and EC was 1.06 mS/cm, which \nindicates moderate salt in the soil. Then after added amendments the Ph increased to 7 .3 \n(neutral) and EC decreased to 0.33 mS/cm shows moderate to low level of salt contents in the \nearth soil. \n \n \nTable 4. Difference in pH of soils in different treatments in first and last week \n Treatment \nMars soil \nEarth soil \nInitial pH \n(week 1) \nFinal pH \n(week 8) \nInitial pH \n(week 1) \nFinal pH \n(week 8) \nT1 \n7.20 \n6.84 \n7.0 \n6.86 \nT2 \n7.31 \n6.99 \n7.5 \n6.84",
+      "char_count": 1622,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Component",
+            "pH",
+            "EC"
+          ],
+          [
+            "Mars regolith",
+            "8.4",
+            "1.77 mS/cm"
+          ],
+          [
+            "Earth soil",
+            "6.7",
+            "1.06 mS/cm"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 12,
+      "text": "T3 \n7.15 \n7.00 \n7.5 \n6.74 \nControl \n7.41 \n6.96 \n7.5 \n6.76 \nMean \n7.97 \n6.94 \n7.37 \n6.8 \n. \n \n \nFig. 4. Observation of difference in pH in Mars regolith from week 1 to week 8 \n \nTable 4 and Figure 4 represents that the significant decrease in the pH in mars regolith after \naddition of organic amendments and different biofertilizers as treatments. Form this it clearly \ndepicts treatment with Trichoderma (T3) has more reduction in the pH range from 7.15 to 7.00 \nin mars regolith and in the earth soil the pH decrease from 7.5 to 6.74, which indicates that it \nbecomes neutral from slightly alkaline and make ideal for better plant growth. Trichoderma \nproduces many hydrolytic enzymes and hormones in addition to inducing the hormones in the \nplants. The presence of this fungi and its biochemical effects would have contributed to the \nreduction in pH. Thus the Mars regolith would definitely require microbes like Trichoderma \nfor making it vulnerable to support crop growth in Mars. \n \nTable 5. Nutrients and heavy metals in initial Martian regolith \nMars Regolith \nMineral Nutrient \nQuantity \n(mg/kg) \nOrganic matter (OM) \n0.13 % \nNitrogen (N) \n27.90 \nPhosphorus (P) \n4.55 \nPotassium (K) \n143 \n6.2\n6.4\n6.6\n6.8\n7\n7.2\n7.4\n7.6\nInitial pH (week 1)\nFinal pH (week 8)\nInitial pH (week 1)\nFinal pH (week 8)\nMars soil\nEarth soil\nControl\nT3\nT2\nT1",
+      "char_count": 1343,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 13,
+      "text": "Calcium (Ca) \n2876 \nMagnesium (Mg) \n4566 \nSodium (Na) \n384 \nCopper (Cu) \n20.02 \nIron (Fe) \n131.55 \nManganese (Mn) \n205.35 \nZinc (Zn) \n23.79 \nLead (Pb) \n26.66 \nChromium (Cr) \n37.87 \nNickel (Ni) \n375.61 \n \nTable 6. Nutrients and heavy metals after 8 weeks of crop growth in treatments \nMars regolith \nEarth soil \nMineral \nNutrient \nMT1 \n(mg/kg) \nMT2 \n(mg/kg) \nMT3 \n(mg/kg) \nM- \nControl \n(mg/kg) \nET1(mg/kg) \n(mg/kg) \nET2 \n(mg/kg) \nET3 \n(mg/kg) \nE- \nControl \n(mg/kg) \nOrganic \nmatter \n(OM) \n10.25 \n7.06 \n7.23 \n8.91 \n15.13 \n14.79 \n13.78 \n15.46 \nNitrogen \n(N) \n59.5 \n369.1 \n98.6 \n101.5 \n538.00 \n124.80 \n537.70 \n116.50 \nPhosphorus \n(P) \n183.55 \n187.38 \n194.91 \n181.96 \n207.68 \n203.66 \n214.89 \n210.77 \nPotassium \n(K) \n599 \n599 \n581 \n554 \n1076 \n1086 \n1165 \n1034 \nCalcium \n(Ca) \n2683 \n2551 \n2636 \n2698 \n2177 \n2129 \n2145 \n2342 \nMagnesium \n(Mg) \n2222 \n2135 \n2142 \n2298 \n1146 \n1110 \n1286 \n1287 \nSodium \n(Na) \n394.1 \n377.2 \n340.8 \n377.7 \n947 \n835 \n906 \n1137 \nCopper (Cu) 28.54 \n34.54 \n27.24 \n30.45 \n1.71 \n1.62 \n2.02 \n0.85 \nIron (Fe) \n28528.27 \n22863.44 \n15384.22 \n21465.71 \n15.72 \n13.70 \n16.71 \n20.51 \n \nManganese \n(Mn) \n204.95 \n167.07 \n176.77 \n237.86 \n7.63 \n6.53 \n9.69 \n947 \nZinc (Zn) \n33.12 \n36.21 \n39.12 \n35.61 \n8.28 \n8.18 \n9.34 \n10.89 \nLead (Pb) \n17.38 \n24.95 \n24.74 \n13.08 \n<DL(1.0) \n<DL(1.0) <DL(1.0) <DL(1.0) \nChromium \n(Cr) \n32.33 \n26.82 \n33.85 \n31.26 \n<DL(1.0) \n<DL(1.0) <DL(1.0) <DL(1.0) \nNickel (Ni) \n301.22 \n265.66 \n302.95 \n310.89 \n<DL(1.0) \n<DL(1.0) <DL(1.0) <DL(1.0) \n* <DL(1.0) indicates less than detection limit. \n \nGrowth Evaluation and Harvest",
+      "char_count": 1549,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 14,
+      "text": "After planting seeds of basil, the experiment was conducted during an 8-week grow period to \nend on their harvesting on March 30th. The evolution of this growth period is exemplified by \nthe timeline shown in Figure 3. for the first repetition of the Mars regolith (M) composition \nprovided with the treatment T2. \n \n \n \n \n \n \n \n \n \n \nFig. 5. Growth process of the first replica of M soil mix under T2 treatment \n \nOn the harvest day, firstly each repetition was photographed and then, plant parameters like \nplant height, foliar area, leaf count, chlorophyll concentration were measured. Then to obtain \nfresh weight of the basil, plants are harvested manually separately according to the treatment \nwise and measured its final root and shoot length. Then the shoot part is separated from the \nroot by giving a cut, harvested leaves were shade dried for 24 hrs and dehydrated for 24 hrs by \nusing hot air oven wit a temperature of 40\u00b0C. finally the dehydrated basil leaves were weighted \nagain to record their dried weight and biomass was calculated. Further the dried plant sample \nused for various analysis. \n \nPhenological Characteristics \n \nAs a part of this experiment, it was also analyzed the effect of the independent variables for the \nplant characteristics such as germination, height, leaf area, and chlorophyll content. To begin \nit was analyzed the effect of the soil amendments and the treatments in the plant germination \nas well as in the appearance of cotyledons from the seeds sown. The data distridution shown in \nSowing \nGermination \nstage \n4 leaf stage \n6 leaf stage \nInternode formation \nHarvesting",
+      "char_count": 1621,
+      "image_count": 6,
+      "tables": []
+    },
+    {
+      "page_number": 15,
+      "text": "the table below with average days for germination of all replicates in each treatment. After this \nanalysis it is possible to identify the effect of soil mixture in the days of germination. \n \n \n \nTable 7. Days to germination of Basil seeds and % germination during week 1 \nTreatments \nMars regolith \nEarth soil \nDays \nfor \nGermination \nGermination \n% \nDays \nfor \nGermination \nGermination \n% \nT1 \n3 \n72 % \n3 \n82 % \nT2 \n3 \n80 % \n3 \n92 % \nT3 \n3 \n75 % \n3 \n80 % \nT4 (Control) \n4 \n60 % \n3 \n90 % \nMean \n3.25 \n71.75 \n3 \n86 \n \n \n \nFig. 6. Germination % of Basil seeds Mars and Earth soils under different treatments \n \nTable 7 and Figure 6 depicts the result that the seed is irrigated only with the water and its \ngermination rate is more likely to depend on the soil composition. It is clearly noted that \ngermination percentage was higher in Earth soil compared to Mars soil as it contains heavy \nmetals which reduce growth. But there is only a small difference of germination % between \nthe Mars and Earth soil because of the added nutritious organic amendments by making the \nMars regolith into cultivable soil. \n0%\n20%\n40%\n60%\n80%\n100%\nT1\nT2\nT3\nT4 (CONTROL)\nGERMINATION %\nMars regolith\nEarth soil",
+      "char_count": 1194,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 16,
+      "text": "Table 8. Growth parameters of Basil plants in Mars and Earth soil under different \ntreatments on 8th week \nTreatment \nMean Shoot \nLength \n(cm) \nMean Root \nLength \n(cm) \nMean Total Length of \nPlants (cm) \nMean \nNo. of \nLeaves \nAvg Leaf \narea (cm \nsquare) \nMT1 \n6.46 \n4.03 \n10.49 \n10 \n6.5 \nMT2 \n7.08 \n4.75 \n11.83 \n10 \n6.9 \nMT3 \n7.45 \n4.16 \n11.61 \n10 \n6.6 \nMT Control \n6.41 \n3.69 \n10.1 \n8 \n4.9 \nET1 \n8.21 \n4.87 \n13.08 \n12 \n10 \nET2 \n12.88 \n6.24 \n19.13 \n12 \n10.5 \nET3 \n13.05 \n6.23 \n19.28 \n12 \n9 \nET Control \n11.28 \n6.1 \n17.38 \n10 \n8.3 \nMT1 Tto MT3: Different treatments in Marsian Regolith. ET1-ET3: Different treatments in \nEarth Soil. Control MT: Pot with Marsian Regolith without any treatments. Control ET: Pot \nwith Earth Soil without any treatments. \n \n \nFig. 7. Growth parameters of Basil plants in Mars and Earth soil under different \ntreatments on 8th week \n \nThe results presented in Table 8 and Figure 7 clearly shows that the treatment 2 with PGPB of \nMars regolith (MT2) has achieved greater plant height of 11.83 cm with root length of 4.75 cm \nand shoot length of 7.08 cm among other treatments followed by treatment with Trichoderma \nMT3 showed the total plant height of 11.61 cm. In the earth soil, treatment with Trichoderma \nET3 showed greater length of 19.28 cm with the shoot length of 13.05 cm and root length of \n6.23 cm. the second greater height was observed in treatment with PGPB ET2 respectively. \n0\n5\n10\n15\n20\n25\nMT1\nMT2\nMT3\nMT\nControl\nET1\nET2\nET3\nET\nControl\nLENGTH (cm)\nTREATMENTS\nMean Shoot Length (cm)\nMean Root Length (cm)\nMean Total Length of Plants (cm)",
+      "char_count": 1583,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 17,
+      "text": "Fig. 8. Leaf area of all treatments in the Mars regolith and Earth soil \n*In X axis 0 to 4 represents the treatments in Mars regolith (MT, MT2, MT3, M Control) and \n5 to 8 rep (dotted line) represents the treatments in Earth soil (ET1, ET2, ET3, E Control) \n \nThe number of leaves had a similar development for the Basil plants of Mars regolith except \ncontrol without influence of soil mix but the influence of treatments. In the Earth soil, all the \ntreatments except control shows similar leaf count with influence of treatments given. This \ninference is made based on the analysis of both average number of leaves counted during \nharvest. In the case of leaf area, it had a significant development among different repetitions \nfor each soil and treatment proposed for this experiment. Among the treatments in Mars \nregolith, second treatment (MT2) with PGPB shows a greater leaf area of 6.9 cm square \nfollowed by third treatment (MT3) with leaf area of 6.6 cm square. Similarly in Earth soil, ET2 \nhas greater leaf area of 10.5 cm square followed by ET1 with 10.0 cm square. The plant growth \npromoting bacteria produce hormones lie IAA and also induce the production of IAA in plants. \nThe observed growth parameters including plant height and leaf area could be attributed to the \ngrowth promoting effects of the plant growth promoting bacteria. Hence, plant growth \npromoting bacteria are essential treatments required to grow plants in the Mars soil. \n \n \n \n \n \n \n6.5\n6.9\n6.6\n4.9\n10\n10.5\n9\n8.3\n0\n2\n4\n6\n8\n10\n12\n0\n2\n4\n6\n8\n10\nAREA (CM SQUARE)\nTREATMENTS",
+      "char_count": 1559,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "",
+            "",
+            "10 10",
+            ".5",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "9 8",
+            ".3"
+          ],
+          [
+            "6. 6.5",
+            "9 6.6",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "4.",
+            "9",
+            "",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 18,
+      "text": "Yield Parameters and Physiological Characteristics \n \nTable 9. Biomass yield of Basil plants in Mars and Earth soil under different treatment \nMars Regolith \nEarth Soil \nTreatment \nTotal \nbiomass \n(g/m\u00b2) \nFresh \nweight (g) \nTreatment \nTotal \nbiomass \n(g/m\u00b2) \nFresh \nweight (g) \nMT1 \n9.90 \n8.9 \nET1 \n21.18 \n20.1 \nMT2 \n13.0 \n9.8 \nET2 \n25.54 \n25.3 \nMT3 \n12.83 \n9.4 \nET3 \n24.64 \n24 \nControl \n6.82 \n7.2 \nControl \n20.48 \n20.9 \nMean \n10.63 \n8.57 \nMean \n23.55 \n22.57 \n \n \nFig 9. Total biomass of Basil plants in treatments of Mars and Earth soil after harvest \n \nTotal biomass of the crop was recorded after harvest. The highest biomass was observed in \ntreatment 2 i.e., Mars simulant and Earth soil with organic amendments and PGPB fertilizer \n(Bacillus \nsubtilis, \nBacillus \namyloliquefaciens, \nPseudomonas \nfluorescens \nand \nMethylobacterium). Then followed by treatment 3 containing organic amendments with \nTrichoderma. These biofertilizers have potential microbes for better plant growth which were \ngrowth promotion capacity reasoned for the increased biomass. \n \n \n \n \n \n0\n5\n10\n15\n20\n25\n30\nMT1\nMT2\nMT3\nM\nControl\nET1\nET2\nET3\nE\nControl\n9.9\n13\n12.83\n6.82\n21.18\n25.54\n24.64\n20.48\nTotal biomass",
+      "char_count": 1190,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 19,
+      "text": "Table 10. Chlorophyll content in Basil plants \nMartian regolith \nEarth soil \nTreatment \nSpad value \nTreatment \nSpad value \nMT1 \n26.33 \nET1 \n28.18 \nMT2 \n27.88 \nET2 \n29.01 \nMT3 \n27.02 \nET3 \n26.37 \nControl \n24.98 \nE Control \n26.2 \nMean \n26.30 \nMean \n27.44 \n \n \nFig. 10. Measured chlorophyll concentration of Basil plants grown in Martian and \nEarth soils with treatments \n *MT1 to M control (Treatments of Martian regolith) and ET1 to E control (Treatments of \nEarth soil) \n \nAs shown in Table 10 and Figure 10, chlorophyll content of the leaves of Basil plants was \nmeasured for all treatments. MT2 (PGPB) slightly stands out above the other mixes among \nMartian regolith with a resulting SPAD of 27.88. Among Earth soil treatments, ET2 (PGPB) \nstands out above with a resulting SPAD of 29.01. This indicates a higher level of chlorophyll \nin the leaf tissue, which is often correlated with increased nitrogen content and plant \nhealth. This can be interpreted as a sign of better nutrient status and overall vigor in the plant \ncompared to other treatments. The effect of increase in chlorophyll content is due to the \nincreased growth promoted by the plant growth promoting bacteria. \n \n25.33\n27.88\n27.02\n24.98\n28.18\n29.01\n26.37\n26.2\n22\n23\n24\n25\n26\n27\n28\n29\n30\nMT1\nMT2\nMT3\nM\nControl\nET1\nET2\nET3\nE Control\nCHLOROPHYLL CONCENTRATION \n(SPAD)\nTREATMENTS",
+      "char_count": 1349,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "",
+            "",
+            "",
+            "27.02",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "24.98",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 20,
+      "text": "Net Photosynthetic Rate (NPR) is a measure of how much CO\u2082 the Basil leaves are taking up \nand converting into sugars, representing the overall photosynthetic activity of the plant. It is \nexpressed in the unit of \u03bcmol CO\u2082/m\u00b2s. A higher rate means the leaf is taking up more CO2 and \nconverting it to sugars, a measure of the plant's overall productivity. Conversely, a lower rate \nsuggests the leaf is not efficiently converting light energy into stored carbohydrates (Tianao \nWu, 2023). SPAD values were recorded, and the following equations were used to derive net \nphotosynthetic rate (NPR) and transpiration rate (T), \nNPR = 0.0049x\u00b2 + 0.038x \u2013 4.1593 ; T = 0.0094x\u00b2 + 0.1627x + 1.0563; * x indicates SPAD \nvalue. \nTable 11. Net photosynthetic rate and transpiration rate of Basil plants in Martian \nregolith and Earth soil \nMartian regolith \nEarth soil \nTreatment \nNet \nPhotosynthetic \nRate \n(NPR) \n\u03bcmol CO\u2082/m\u00b2s \nTransipation \nrate \nTreatme\nnt \nNet \nPhotosyntheti\nc Rate (NPR) \n\u03bcmol \nCO\u2082/m\u00b2s \nTransipation \nrate \nMT1 \n0.24 \n11.21 \nET1 \n0.81 \n13.11 \nMT2 \n0.72 \n12.90 \nET2 \n1.08 \n13.69 \nMT3 \n0.42 \n12.32 \nET3 \n0.26 \n11.88 \nControl \n-0.15 \n10.99 \nE \nControl \n0.21 \n11.77 \nMean \n0.23 \n11.85 \nMean \n0.59 \n12.61 \n \nFig. 11. Net photosynthetic rate and transpiration rate in the leaves of Basil plants \n \n-2\n0\n2\n4\n6\n8\n10\n12\n14\n16\nRANGE\nTREATMENTS\nNet Photosynthetic Rate (NPR)\nTransipation rate",
+      "char_count": 1393,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 21,
+      "text": "The above-mentioned table and figure depict the net photosynthetic rate of leaves in each \ntreatment measured in both Mars regolith and Earth soil. Among Mars soil treatments, MT2 \nwith PGPB showed higher and positive NPR which indicates higher photosynthetic rate by \nabsorbing more CO2 and converting into sugars for higher productivity, followed by treatments \nMT1 and MT3. The treatment with biofertilizers reduced the heavy metals concentration and \nimproved the photosynthetic rate. The treatment with Control in Mars regolith showed in \nnegative range which indicates the lower NPR and reduced productivity due to effects toxic \nmetals in Martian regolith. Moreover, it also indicates the essential role of microorganisms \n(either PGPB or Trichoderma) in improving the photosynthesis of plants. Among the Earth soil \ntreatments, all the treatments had positive and higher NPR in which treatment 2 with PGPB \nshowed greater rate than others. This could be attributed to the already existing nutrients and \nmicroorganisms in Earth soil that even in pots without additional microbes, the net \nphotosynthetic rate is on par with other treatments. The greater rate in PGPB treatment is an \nevidence to our hyphothesis that addition of mass multiplied plant growth promoting microbes \nare needed to supplement the native microbes in Earth soil for plant growth promotion and \nhigher performance of the plants. If such is the case in Earth soil, microorganisms for plant \ngrowth promotion and photosynthetic activity in Mars soil is indispensable. \n \nAnalysis of micronutrients, trace elements and heavy metals \n \nTable 12. Estimation of heavy metals in Basil plants in different treatments \nMars regolith \nEarth soil \nMineral \nNutrient \nMT1 \n(mg/kg\n) \nMT2 \n(mg/kg\n) \nMT3 \n(mg/kg\n) \nM- \nContro\nl \n(mg/kg\n) \nET1(mg/\nkg) \n(mg/kg) \nET2 \n(mg/kg\n) \nET3 \n(mg/kg\n) \nE- \nContro\nl \n(mg/kg\n) \nCadmiu\nm (Cd) \n<DL(1.\n0) \n<DL(1.\n0) \n<DL(1.\n0) \n<DL(1.\n0) \n<DL(1.0) \n<DL(1.\n0) \n<DL(1.\n0) \n<DL(1.\n0) \nMagnesi\num (Mg) \n16898 \n23213 \n14256 \n19118 \n10734 \n9549 \n10910 \n11167 \nSodium \n(Na) \n12794 \n23107 \n13713 \n10921 \n10462 \n6047 \n10111 \n11723 \nCopper \n(Cu) \n15.04 \n19.46 \n19.08 \n18.92 \n21.25 \n18.61 \n21.41 \n17.74 \nIron (Fe) \n838.27 \n879.39 \n587.19 \n878.74 \n532.35 \n507.32 \n716.83 \n435.23 \nMangane\nse (Mn) \n21.18 \n<DL(1.\n0) \n7.10 \n<DL(1.\n0) \n3.26 \n19.09 \n15.59 \n9.39",
+      "char_count": 2347,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Mars regolith",
+            "",
+            "",
+            "",
+            "",
+            "Earth soil",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Mineral Nutrient",
+            "MT1 (mg/kg )",
+            "MT2 (mg/kg )",
+            "MT3 (mg/kg )",
+            "M- Contro l (mg/kg )",
+            "ET1(mg/ kg) (mg/kg)",
+            "ET2 (mg/kg )",
+            "ET3 (mg/kg )",
+            "E- Contro l (mg/kg )"
+          ],
+          [
+            "Cadmiu m (Cd)",
+            "<DL(1. 0)",
+            "<DL(1. 0)",
+            "<DL(1. 0)",
+            "<DL(1. 0)",
+            "<DL(1.0)",
+            "<DL(1. 0)",
+            "<DL(1. 0)",
+            "<DL(1. 0)"
+          ],
+          [
+            "Magnesi um (Mg)",
+            "16898",
+            "23213",
+            "14256",
+            "19118",
+            "10734",
+            "9549",
+            "10910",
+            "11167"
+          ],
+          [
+            "Sodium (Na)",
+            "12794",
+            "23107",
+            "13713",
+            "10921",
+            "10462",
+            "6047",
+            "10111",
+            "11723"
+          ],
+          [
+            "Copper (Cu)",
+            "15.04",
+            "19.46",
+            "19.08",
+            "18.92",
+            "21.25",
+            "18.61",
+            "21.41",
+            "17.74"
+          ],
+          [
+            "Iron (Fe)",
+            "838.27",
+            "879.39",
+            "587.19",
+            "878.74",
+            "532.35",
+            "507.32",
+            "716.83",
+            "435.23"
+          ],
+          [
+            "Mangane se (Mn)",
+            "21.18",
+            "<DL(1. 0)",
+            "7.10",
+            "<DL(1. 0)",
+            "3.26",
+            "19.09",
+            "15.59",
+            "9.39"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 22,
+      "text": "Zinc \n(Zn) \n60.16 \n57.25 \n62.90 \n55.66 \n62.98 \n59.74 \n67.93 \n61.00 \nLead \n(Pb) \n<DL(1.\n0) \n<DL(1.\n0) \n<DL(1.\n0) \n<DL(1.\n0) \n<DL(1.0) \n<DL(1.\n0) \n<DL(1.\n0) \n<DL(1.\n0) \nChromiu\nm (Cr) \n<DL(1.\n0) \n<DL(1.\n0) \n<DL(1.\n0) \n<DL(1.\n0) \n<DL(1.0) \n<DL(1.\n0) \n<DL(1.\n0) \n<DL(1.\n0) \nNickel \n(Ni) \n<DL(1.\n0) \n \n<DL(1.\n0) \n<DL(1.\n0 \n<DL(1.\n0) \n \n<DL(1.0) \n<DL(1.\n0) \n<DL(1.\n0) \n<DL(1.\n0) \n* <DL(1.0) indicates less than detection limit \n \nWith the objective of checking the difference in the elements including micronutrients, trace \nelements and heavy metals in the Basil plants between treatments and control in Mars and Earth \nsoil, elemental analysis was performed. The results are presented in Table 12 which indicated \nthat there is either reduction or increase in the micronutrients and trace elements such as \nmagnesium, sodium, copper, zinc etc. In the treatments with plant growth promoting bacteria, \nthe micronutrients and trace element contents in the Basil plants increased indicating the role \nof bacteria in supplying these nutrients from the organic amendments added to the soils. \nHowever, heavy metals such as cadmium, chromium and nickel were below detectable \nquantities in both control and treatments. This indicates that although heavy metals were \npresent in the Mars soil, the plants are not absorbing. This might be due to the effect of the soil \namendments such as biodynamic manure, biochar etc added in the initial stage. \n \nMetabolic analysis of Basil plants using GC-MS \n \nBasil's phytochemical profile is characterized by the presence of rosmarinic acid, a dominant \nphenolic compound found in both leaves and stems, and eugenol, a phenolic compound with \ndiverse health-promoting properties. These compounds contribute to basil's antioxidant, anti-\ninflammatory, and antimicrobial activities, highlighting its potential health benefits \nand culinary value. The bioactive compounds were analysed only in the plants grown in \nMartian regolith.",
+      "char_count": 1959,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Zinc (Zn)",
+            "60.16",
+            "57.25",
+            "62.90",
+            "55.66",
+            "62.98",
+            "59.74",
+            "67.93",
+            "61.00"
+          ],
+          [
+            "Lead (Pb)",
+            "<DL(1. 0)",
+            "<DL(1. 0)",
+            "<DL(1. 0)",
+            "<DL(1. 0)",
+            "<DL(1.0)",
+            "<DL(1. 0)",
+            "<DL(1. 0)",
+            "<DL(1. 0)"
+          ],
+          [
+            "Chromiu m (Cr)",
+            "<DL(1. 0)",
+            "<DL(1. 0)",
+            "<DL(1. 0)",
+            "<DL(1. 0)",
+            "<DL(1.0)",
+            "<DL(1. 0)",
+            "<DL(1. 0)",
+            "<DL(1. 0)"
+          ],
+          [
+            "Nickel (Ni)",
+            "<DL(1. 0)",
+            "<DL(1. 0)",
+            "<DL(1. 0",
+            "<DL(1. 0)",
+            "<DL(1.0)",
+            "<DL(1. 0)",
+            "<DL(1. 0)",
+            "<DL(1. 0)"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 23,
+      "text": "Figure 12. GC \u2013 MS Spectrum for bioactive compounds in sample 1(MT1) \nGC-MS analysis identified several key compounds in basil. Eugenol, a phenolic compound \nwith a molecular weight of 164.2 g/mol, was most abundant at a retention time of m/z = 17.66 \nin Treatment 1 (MT1) with VAM. Rosmarinic acid, an organic acid with a molecular weight of \n360.32 g/mol, was most abundant at a retention time of m/z = 26.68. Additionally, glucose, a \ncarbohydrate with a molecular weight of 180.156 g/mol, was detected at a retention time of \n17.52. These findings highlight the presence of bioactive compounds in basil with potential \nhealth benefits.",
+      "char_count": 639,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 24,
+      "text": "Fig. 13. GC \u2013 MS chromatogram for bioactive compounds in sample 2 (MT2) \nIn this spectrum, Eugenol, a phenolic compound with a molecular weight of 164.2 g/mol, was \nmost abundant at a retention time of m/z = 17.58 in Treatment 2 (MT2) with PGPB. Rosmarinic \nacid, an organic acid with a molecular weight of 360.32 g/mol, was most abundant at a retention \ntime of m/z = 17.68. Additionally, Glucose with a molecular weight of 180.156 g/mol was \ndetected at a retention time of 26.31. then another phenolic compound, caffeic acid, with a \nmolecular weight of 180.16 g/mol at a retention time of 5.85. These findings highlight the \npresence of bioactive compounds in basil with potential health benefits.",
+      "char_count": 701,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 25,
+      "text": "Fig. 14. GC \u2013 MS chromatogram for bioactive compounds in sample 3 (MT3) \nIn this spectrum, Eugenol, a phenolic compound with a molecular weight of 164.2 g/mol, was \nmost abundant at a retention time of m/z = 17.56 in Treatment 3 (MT3) with Trichoderma \nviride. Rosmarinic acid, an organic acid with a molecular weight of 360.32 g/mol, was most \nabundant at a retention time of m/z = 15.90. Additionally, glutamic acid, a non-amino acid with \na molecular weight of 180.156 g/mol, was detected at a retention time of 147.13. These findings \nhighlight the presence of bioactive compounds in basil with potential health benefits.",
+      "char_count": 625,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 26,
+      "text": "Fig.15. GC \u2013 MS chromatogram for bioactive compounds in sample 4 (M - Control) \nIn this spectrum, only eugenol is present with a molecular weight of 164.2 g/mol, and it was \nmost abundant at a retention time of m/z = 17.58 in M-Control without any treatments. \n \nGC-MS analysis of plant samples grown in Martian soil revealed that Treatment 2 with Plant \nGrowth-Promoting Bacteria (PGPB) exhibited a more diverse and complex chromatogram, \nindicating the presence of a greater number of bioactive compounds and secondary metabolites. \nThis suggests that PGPB treatment may enhance the production of beneficial phytochemicals \nin plants grown in Martian soil. Hence, even if Basil is grown in Mars regolith, the amendments \nand treatments can help the plants not only grow well but also with same bioactive potential as \nlike the plant\u2019s growth in Earth soil.",
+      "char_count": 858,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 27,
+      "text": "CONCLUSION \n \nThis study demonstrates the potential for growing basil in Martian regolith, a crucial step \ntowards sustainable food production in space exploration. By comparing basil growth in \nMartian regolith to Earth soil and utilizing biofertilizers such as VAM, PGPB, and \nTrichoderma, with identical organic amendments across treatments, we identified the most \neffective approach for optimizing basil cultivation in Martian conditions. Our results clearly \nindicate that the application of PGPB with a bacterial consortium (Treatment 2) yielded \nsuperior outcomes across all evaluated growth parameters, including phenological and \nphysiological attributes, secondary metabolite content, photosynthetic rate, and transpiration \nrate. These findings suggest that PGPB's plant growth-promoting properties can significantly \nenhance basil's adaptability and productivity in the challenging Martian regolith environment. \n \nThe successful cultivation of Basil in Martian regolith, particularly with the enhanced \nperformance observed under PGPB treatment, opens new avenues for utilizing this crop for \nboth medicinal and culinary purposes in space missions. Basil's versatility and nutritional value \nmake it an excellent candidate for contributing to the health and well-being of astronauts, while \nalso providing fresh produce that can enhance the quality of life during long-duration space \nflights. \n \nIn conclusion, this research not only advances our understanding of plant growth in \nextraterrestrial environments but also underscores the importance of biofertilizers in improving \ncrop resilience and productivity. The insights gained from this study can inform future \nagricultural \npractices \nin \nspace, \ncontributing \nto \nthe \nsustainability \nof \nhuman \npresence beyond Earth. \n \nREFERENCES \n \nChinnannan, K., Somagattu, P., Yammanuru, H., Nimmakayala, P., Chakrabarti, M., & Reddy, \nU. K. (2024). Effects of Mars Global Simulant (MGS-1) on Growth and Physiology of \nSweet \nPotato: \nA \nSpace \nModel \nPlant. \nPlants, \n13(1). \nhttps://doi.org/10.3390/plants13010055 \nFackrell, L. E., & Schroeder, P. A. (2020). Growing Plants on Mars: Potential and Limitations \nof Martian Soil As a Plant Growth Medium Based on Results from Analogue Studies. \nASA, \nCSSA \nand \nSSSA \nInternational \nAnnual \nMeetings, \nOctober.",
+      "char_count": 2323,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 28,
+      "text": "https://scisoc.confex.com/scisoc/2020am/meetingapp.cgi/Paper/131435 \nIndira, D., & Rani, A. S. (2024). Comparative Analysis of Growth Parameters in Hydroponic \nand Soil-Grown Systems of Ocimum basilicum L . ( Basil ). \nKasiviswanathan, P., Swanner, E. D., Halverson, L. J., & Vijayapalani, P. (2022). Farming on \nMars: Treatment of basaltic regolith soil and briny water simulants sustains plant growth. \nPLoS ONE, 17(8 August), 1\u201316. https://doi.org/10.1371/journal.pone.0272209 \nKhater, E. S., Bahnasawy, A., Abass, W., Morsy, O., El-Ghobashy, H., Shaban, Y., & Egela, \nM. (2021). Production of basil (Ocimum basilicum L.) under different soilless cultures. \nScientific Reports, 11(1), 1\u201314. https://doi.org/10.1038/s41598-021-91986-7 \nKim, T. H., & Kim, S. M. (2024). Effects of SPAD value variations according to nitrogen \napplication levels on rice yield and its components. Frontiers in Plant Science, \n15(October), 1\u20138. https://doi.org/10.3389/fpls.2024.1437371 \nLiu, W., Yang, Z., Ye, Q., Peng, Z., Zhu, S., Chen, H., Liu, D., Li, Y., Deng, L., Shu, X., & \nHuang, H. (2023). Positive Effects of Organic Amendments on Soil Microbes and Their \nFunctionality \nin \nAgro-Ecosystems. \nPlants, \n12(22), \n1\u201313. \nhttps://doi.org/10.3390/plants12223790 \nMarschner, H., Dell, B. Nutrient uptake in mycorrhizal symbiosis. Plant Soil 159, 89\u2013102 \n(1994). https://doi.org/10.1007/BF00000098. \nN.M, Q. (2022). A method for measuring women climate vulnerability: a case study in \nVietnam\u2019s Mekong Delta. International Journal of Climate Change Strategies and \nManagement, 14(2), 101\u2013124. https://doi.org/10.1108/IJCCSM-05-2021-0047 \nNeukart, F. (2024). Towards sustainable horizons: A comprehensive blueprint for Mars \ncolonization. Heliyon, 10(4), e26180. https://doi.org/10.1016/j.heliyon.2024.e26180 \nOlivia, N. U., Goodness, U. C., & Obinna, O. M. (2021). Phytochemical profiling and GC-MS \nanalysis of aqueous methanol fraction of Hibiscus asper leaves. Future Journal of \nPharmaceutical Sciences, 7(1). https://doi.org/10.1186/s43094-021-00208-4 \nPetros Kubheka, B., & Weldegabir Ziena, L. (2022). Trichoderma: A Biofertilizer and a Bio-\nFungicide \nfor \nSustainable \nCrop \nProduction. \nIntechOpen. \ndoi: \n10.5772/intechopen.102405. \nSilva, J., & Uchida, R. (2000). Essential Nutrients for Plant Growth\u202f: Plant Nutrient \nManagement in Hawaii\u2019s Soils, Approaches for Tropical and Subtropical Agriculture, \n31\u201355. \nSingh, S., Devi, N. B., Divya, D., Kumar, A., Singh, S., Tyagi, G., Nath, A., & Kumar, A. \n(2024). Soil fertility management\u202f: Role of organic amendments and bio-fertilizers\u202f: A \nreview. 7(12), 766\u2013772. \nTang, L. (2025). Soil Fertility, Plant Nutrition and Nutrient Management. Plants, 14(1), 1\u20135. \nhttps://doi.org/10.3390/plants14010034 \nUchida, R. (2000). Essential Nutrients for Plant Growth: Nutrient Functions and Deficiency \nSymptoms. Plant Nutrient Management in Hawaii\u2019s Soils, Approaches for Tropical and \nSubtropical Agriculture, March, 31\u201355. \nWu, T., Zhang, W., Wu, S., Cheng, M., Qi, L., Shao, G., & Jiao, X. (2023). Retrieving rice",
+      "char_count": 3055,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 29,
+      "text": "(Oryza sativa L.) net photosynthetic rate from UAV multispectral images based on \nmachine learning methods. Frontiers in Plant Science, 13(January), 1\u201315. \nhttps://doi.org/10.3389/fpls.2022.1088499 \n \nAPPENDICES (RAW DATA) \nReplicated pot-wise pH and EC measurements before sowing and after harvest of Basil \nplants \nMars Soil \nInitial pH \nFinal pH \nEarth Soil \nInitial pH \nFinal pH \nMT1R1 \n7.2 \n6.9 \nET1R1 \n7.5 \n6.7 \nMT1R2 \n7.9 \n6.7 \nET1R2 \n7.5 \n6.8 \nMT1R3 \n7.6 \n7.0 \nET1R3 \n7.6 \n6.8 \nMT2R1 \n7.3 \n6.8 \nET2R1 \n7.5 \n6.9 \nMT2R2 \n7.7 \n6.9 \nET2R2 \n7.7 \n7.0 \nMT2R3 \n7.9 \n6.8 \nET2R3 \n7.4 \n6.5 \nMT3R1 \n7.8 \n7.0 \nET3R1 \n7.6 \n6.7 \nMT3R2 \n7.8 \n6.7 \nET3R2 \n7.7 \n7.2 \nMT3R3 \n7.6 \n6.7 \nET3R3 \n7.4 \n6.5 \nMC1R1 \n7.9 \n7.2 \nEC1R1 \n7.8 \n6.9 \nMC1R2 \n8.1 \n7.3 \nEC1R2 \n7.9 \n7.0 \nMC1R3 \n8.0 \n7.1 \nEC1R3 \n7.7. \n7.1 \n \nMars Soil \nInitial EC \nFinal EC \nEarth Soil \nInitial EC \nFinal EC \nMT1R1 \n1.76 \n0.98 \nET1R1 \n1.06 \n0.33 \nMT1R2 \n1.75 \n0.97 \nET1R2 \n1.05 \n0.34 \nMT1R3 \n1.76 \n0.97 \nET1R3 \n1.07 \n0.35 \nMT2R1 \n1.74 \n0.95 \nET2R1 \n1.09 \n0.37 \nMT2R2 \n1.73 \n0.92 \nET2R2 \n1.08 \n0.21 \nMT2R3 \n1.77 \n0.94 \nET2R3 \n1.08 \n0.25 \nMT3R1 \n1.76 \n0.96 \nET3R1 \n1.10 \n0.28 \nMT3R2 \n1.73 \n0.96 \nET3R2 \n1.07 \n0.31 \nMT3R3 \n1.75 \n0.98 \nET3R3 \n1.06 \n0.29 \nMC1R1 \n1.79 \n1.21 \nEC1R1 \n1.09 \n0.28 \nMC1R2 \n1.81 \n1.23 \nEC1R2 \n1.11 \n0.30 \nMC1R3 \n1.78 \n0.99 \nEC1R3 \n1.09 \n0.29 \n \nReplicated pot-wise germination of Basil seeds \nTreatment \nNo.of.plants \ngerminated \nTotal \nno.of \nseeds \nsown \nGermination % \nR1 \nR2 \nR3 \nR1 \u2013 R3 \nR1 \nR2 \nR3 \nMT1 \n11 \n7 \n10 \n20 \n55 \n35 \n50 \nMT2 \n12 \n14 \n11 \n20 \n60 \n70 \n55 \nMT3 \n10 \n16 \n14 \n20 \n50 \n80 \n70",
+      "char_count": 1576,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Mars Soil",
+            "Initial pH",
+            "Final pH",
+            "Earth Soil",
+            "Initial pH",
+            "Final pH"
+          ],
+          [
+            "MT1R1",
+            "7.2",
+            "6.9",
+            "ET1R1",
+            "7.5",
+            "6.7"
+          ],
+          [
+            "MT1R2",
+            "7.9",
+            "6.7",
+            "ET1R2",
+            "7.5",
+            "6.8"
+          ],
+          [
+            "MT1R3",
+            "7.6",
+            "7.0",
+            "ET1R3",
+            "7.6",
+            "6.8"
+          ],
+          [
+            "MT2R1",
+            "7.3",
+            "6.8",
+            "ET2R1",
+            "7.5",
+            "6.9"
+          ],
+          [
+            "MT2R2",
+            "7.7",
+            "6.9",
+            "ET2R2",
+            "7.7",
+            "7.0"
+          ],
+          [
+            "MT2R3",
+            "7.9",
+            "6.8",
+            "ET2R3",
+            "7.4",
+            "6.5"
+          ],
+          [
+            "MT3R1",
+            "7.8",
+            "7.0",
+            "ET3R1",
+            "7.6",
+            "6.7"
+          ],
+          [
+            "MT3R2",
+            "7.8",
+            "6.7",
+            "ET3R2",
+            "7.7",
+            "7.2"
+          ],
+          [
+            "MT3R3",
+            "7.6",
+            "6.7",
+            "ET3R3",
+            "7.4",
+            "6.5"
+          ],
+          [
+            "MC1R1",
+            "7.9",
+            "7.2",
+            "EC1R1",
+            "7.8",
+            "6.9"
+          ],
+          [
+            "MC1R2",
+            "8.1",
+            "7.3",
+            "EC1R2",
+            "7.9",
+            "7.0"
+          ],
+          [
+            "MC1R3",
+            "8.0",
+            "7.1",
+            "EC1R3",
+            "7.7.",
+            "7.1"
+          ]
+        ],
+        [
+          [
+            "Mars Soil",
+            "Initial EC",
+            "Final EC",
+            "Earth Soil",
+            "Initial EC",
+            "Final EC"
+          ],
+          [
+            "MT1R1",
+            "1.76",
+            "0.98",
+            "ET1R1",
+            "1.06",
+            "0.33"
+          ],
+          [
+            "MT1R2",
+            "1.75",
+            "0.97",
+            "ET1R2",
+            "1.05",
+            "0.34"
+          ],
+          [
+            "MT1R3",
+            "1.76",
+            "0.97",
+            "ET1R3",
+            "1.07",
+            "0.35"
+          ],
+          [
+            "MT2R1",
+            "1.74",
+            "0.95",
+            "ET2R1",
+            "1.09",
+            "0.37"
+          ],
+          [
+            "MT2R2",
+            "1.73",
+            "0.92",
+            "ET2R2",
+            "1.08",
+            "0.21"
+          ],
+          [
+            "MT2R3",
+            "1.77",
+            "0.94",
+            "ET2R3",
+            "1.08",
+            "0.25"
+          ],
+          [
+            "MT3R1",
+            "1.76",
+            "0.96",
+            "ET3R1",
+            "1.10",
+            "0.28"
+          ],
+          [
+            "MT3R2",
+            "1.73",
+            "0.96",
+            "ET3R2",
+            "1.07",
+            "0.31"
+          ],
+          [
+            "MT3R3",
+            "1.75",
+            "0.98",
+            "ET3R3",
+            "1.06",
+            "0.29"
+          ],
+          [
+            "MC1R1",
+            "1.79",
+            "1.21",
+            "EC1R1",
+            "1.09",
+            "0.28"
+          ],
+          [
+            "MC1R2",
+            "1.81",
+            "1.23",
+            "EC1R2",
+            "1.11",
+            "0.30"
+          ],
+          [
+            "MC1R3",
+            "1.78",
+            "0.99",
+            "EC1R3",
+            "1.09",
+            "0.29"
+          ]
+        ],
+        [
+          [
+            "Treatment",
+            "No.of.plants germinated",
+            "",
+            "",
+            "Total no.of seeds sown",
+            "Germination %",
+            "",
+            ""
+          ],
+          [
+            "",
+            "R1",
+            "R2",
+            "R3",
+            "R1 \u2013 R3",
+            "R1",
+            "R2",
+            "R3"
+          ],
+          [
+            "MT1",
+            "11",
+            "7",
+            "10",
+            "20",
+            "55",
+            "35",
+            "50"
+          ],
+          [
+            "MT2",
+            "12",
+            "14",
+            "11",
+            "20",
+            "60",
+            "70",
+            "55"
+          ],
+          [
+            "MT3",
+            "10",
+            "16",
+            "14",
+            "20",
+            "50",
+            "80",
+            "70"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 30,
+      "text": "M Control \n7 \n14 \n14 \n20 \n35 \n70 \n70 \nET1 \n0 \n0 \n12 \n20 \n0 \n0 \n60 \nET2 \n16 \n19 \n11 \n20 \n80 \n95 \n55 \nET3 \n14 \n16 \n11 \n20 \n70 \n80 \n55 \nE Control \n19 \n0 \n0 \n20 \n95 \n0 \n0 \n \nReplicated pot-wise growth parameters in Basil plants (4th Week) \nTreatment Shoot Length of \nPlants (cm) \nRoot Length of \nPlants (cm) \nTotal \nLength \nof \nPlants (cm) \nNo of Leaves \nR1 \nR2 \nR3 \nR1 \nR2 \nR3 \nR1 \nR2 \nR3 \nR1 R2 R3 \nMT1 \n3.5 \n4.8 \n2.3 \n1.6 \n2.8 \n1.5 \n4.4 \n7.2 \n4.6 \n6 \n6 \n4 \nMT2 \n4.3 \n3.5 \n3.7 \n2.3 \n2.4 \n2.9 \n6.3 \n6.5 \n6.2 \n4 \n6 \n6 \nMT3 \n4.6 \n4.1 \n2.8 \n2.7 \n2.5 \n1.7 \n6.3 \n6.4 \n4.2 \n4 \n4 \n4 \nM Control 3.5 \n5.1 \n2.1 \n1.4 \n2.5 \n1.6 \n6.5 \n7.1 \n4.1 \n4 \n6 \n6 \nET1 \n6.7 \n3.6 \n5.2 \n2.8 \n2.1 \n3.2 \n7.8 \n4.9 \n8.3 \n6 \n6 \n6 \nET2 \n6.8 \n6.2 \n8.1 \n3.2 \n2.5 \n3.9 \n9.4 \n8.5 \n11.4 \n6 \n6 \n6 \nET3 \n6.3 \n6.3 \n7.9 \n2.8 \n2.8 \n3.5 \n9.2 \n7.9 \n11.8 \n6 \n6 \n6 \nE Control \n4.5 \n5.1 \n5.9 \n3.7 \n2.5 \n2.8 \n10.1 \n8.6 \n8.4 \n6 \n6 \n4 \n \nReplicated pot-wise growth parameters in Basil plants (8th Week) \nTreatment \nShoot Length of \nPlants (cm) \nRoot Length of \nPlants (cm) \nTotal Length of \nPlants (cm) \nNo of Leaves \nR1 \nR2 \nR3 \nR1 \nR2 \nR3 \nR1 \nR2 \nR3 \nR1 R2 \nR3 \nMT1 \n5.4 \n8.86 \n5.12 \n3.74 4.84 3.52 \n9.14 \n13.7 \n8.64 \n11 \n11 \n8 \nMT2 \n7.98 \n6.52 \n6.74 \n4.32 4.48 5.46 \n12.3 \n11 \n12.2 \n8 \n11 \n11 \nMT3 \n6.58 \n7.92 \n4.86 \n4.78 4.56 3.14 11.36 12.48 \n8 \n8 \n8 \n8 \nM Control \n8.06 \n9.26 \n4.92 \n3.44 4.54 \n3.1 \n11.5 \n13.8 \n8.02 \n8 \n11 \n8 \nET1 \n9 \n5.61 \n10.02 4.85 3.48 6.28 13.85 \n9.09 \n16.30 11 \n11 \n11 \nET2 \n11.82 10.96 15.88 6.22 5.56 6.96 18.04 16.52 22.84 11 \n11 \n11 \nET3 \n12.38 11.84 14.94 5.82 5.84 7.04 \n18.2 \n17.68 21.98 11 \n11 \n11 \nE Control \n12.78 10.52 10.54 7.36 5.08 5.88 20.14 \n15.6 \n16.42 11 \n11 \n8 \n \nReplicated pot-wise fresh and dry weight biomass of Basil plants \nMars Soil \nFresh \nweight \nDry weight \nEarth Soil \nFresh \nweight \nDry weight \nMT1R1 \n2.8 \n0.5 \nET1R1 \n6.5 \n0.56 \nMT1R2 \n3.5 \n0.4 \nET1R2 \n7.1 \n0.84 \nMT1R3 \n2.6 \n0.4 \nET1R3 \n6.5 \n0.79 \nMT2R1 \n4.4 \n0.49 \nET2R1 \n8.0 \n0.92 \nMT2R2 \n2.8 \n0.3 \nET2R2 \n8.4 \n0.9 \nMT2R3 \n2.6 \n0.5 \nET2R3 \n8.9 \n0.88 \nMT3R1 \n3 \n0.5 \nET3R1 \n8.3 \n0.92 \nMT3R2 \n1.7 \n0.11 \nET3R2 \n6.5 \n0.6 \nMT3R3 \n4.7 \n0.15 \nET3R3 \n9.2 \n1.07 \nMC1R1 \n2.6 \n0.23 \nEC1R1 \n8.0 \n0.55 \nMC1R2 \n4 \n0.27 \nEC2R2 \n9.2 \n0.95",
+      "char_count": 2185,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "M Control",
+            "7",
+            "14",
+            "14",
+            "20",
+            "35",
+            "70",
+            "70"
+          ],
+          [
+            "ET1",
+            "0",
+            "0",
+            "12",
+            "20",
+            "0",
+            "0",
+            "60"
+          ],
+          [
+            "ET2",
+            "16",
+            "19",
+            "11",
+            "20",
+            "80",
+            "95",
+            "55"
+          ],
+          [
+            "ET3",
+            "14",
+            "16",
+            "11",
+            "20",
+            "70",
+            "80",
+            "55"
+          ],
+          [
+            "E Control",
+            "19",
+            "0",
+            "0",
+            "20",
+            "95",
+            "0",
+            "0"
+          ]
+        ],
+        [
+          [
+            "Treatment",
+            "Shoot Length of Plants (cm)",
+            "",
+            "",
+            "Root Length of Plants (cm)",
+            "",
+            "",
+            "Total Length of Plants (cm)",
+            "",
+            "",
+            "No of Leaves",
+            "",
+            ""
+          ],
+          [
+            "",
+            "R1",
+            "R2",
+            "R3",
+            "R1",
+            "R2",
+            "R3",
+            "R1",
+            "R2",
+            "R3",
+            "R1",
+            "R2",
+            "R3"
+          ],
+          [
+            "MT1",
+            "3.5",
+            "4.8",
+            "2.3",
+            "1.6",
+            "2.8",
+            "1.5",
+            "4.4",
+            "7.2",
+            "4.6",
+            "6",
+            "6",
+            "4"
+          ],
+          [
+            "MT2",
+            "4.3",
+            "3.5",
+            "3.7",
+            "2.3",
+            "2.4",
+            "2.9",
+            "6.3",
+            "6.5",
+            "6.2",
+            "4",
+            "6",
+            "6"
+          ],
+          [
+            "MT3",
+            "4.6",
+            "4.1",
+            "2.8",
+            "2.7",
+            "2.5",
+            "1.7",
+            "6.3",
+            "6.4",
+            "4.2",
+            "4",
+            "4",
+            "4"
+          ],
+          [
+            "M Control",
+            "3.5",
+            "5.1",
+            "2.1",
+            "1.4",
+            "2.5",
+            "1.6",
+            "6.5",
+            "7.1",
+            "4.1",
+            "4",
+            "6",
+            "6"
+          ],
+          [
+            "ET1",
+            "6.7",
+            "3.6",
+            "5.2",
+            "2.8",
+            "2.1",
+            "3.2",
+            "7.8",
+            "4.9",
+            "8.3",
+            "6",
+            "6",
+            "6"
+          ],
+          [
+            "ET2",
+            "6.8",
+            "6.2",
+            "8.1",
+            "3.2",
+            "2.5",
+            "3.9",
+            "9.4",
+            "8.5",
+            "11.4",
+            "6",
+            "6",
+            "6"
+          ],
+          [
+            "ET3",
+            "6.3",
+            "6.3",
+            "7.9",
+            "2.8",
+            "2.8",
+            "3.5",
+            "9.2",
+            "7.9",
+            "11.8",
+            "6",
+            "6",
+            "6"
+          ],
+          [
+            "E Control",
+            "4.5",
+            "5.1",
+            "5.9",
+            "3.7",
+            "2.5",
+            "2.8",
+            "10.1",
+            "8.6",
+            "8.4",
+            "6",
+            "6",
+            "4"
+          ]
+        ],
+        [
+          [
+            "Treatment",
+            "Shoot Length of Plants (cm)",
+            "",
+            "",
+            "Root Length of Plants (cm)",
+            "",
+            "",
+            "Total Length of Plants (cm)",
+            "",
+            "",
+            "No of Leaves",
+            "",
+            ""
+          ],
+          [
+            "",
+            "R1",
+            "R2",
+            "R3",
+            "R1",
+            "R2",
+            "R3",
+            "R1",
+            "R2",
+            "R3",
+            "R1",
+            "R2",
+            "R3"
+          ],
+          [
+            "MT1",
+            "5.4",
+            "8.86",
+            "5.12",
+            "3.74",
+            "4.84",
+            "3.52",
+            "9.14",
+            "13.7",
+            "8.64",
+            "11",
+            "11",
+            "8"
+          ],
+          [
+            "MT2",
+            "7.98",
+            "6.52",
+            "6.74",
+            "4.32",
+            "4.48",
+            "5.46",
+            "12.3",
+            "11",
+            "12.2",
+            "8",
+            "11",
+            "11"
+          ],
+          [
+            "MT3",
+            "6.58",
+            "7.92",
+            "4.86",
+            "4.78",
+            "4.56",
+            "3.14",
+            "11.36",
+            "12.48",
+            "8",
+            "8",
+            "8",
+            "8"
+          ],
+          [
+            "M Control",
+            "8.06",
+            "9.26",
+            "4.92",
+            "3.44",
+            "4.54",
+            "3.1",
+            "11.5",
+            "13.8",
+            "8.02",
+            "8",
+            "11",
+            "8"
+          ],
+          [
+            "ET1",
+            "9",
+            "5.61",
+            "10.02",
+            "4.85",
+            "3.48",
+            "6.28",
+            "13.85",
+            "9.09",
+            "16.30",
+            "11",
+            "11",
+            "11"
+          ],
+          [
+            "ET2",
+            "11.82",
+            "10.96",
+            "15.88",
+            "6.22",
+            "5.56",
+            "6.96",
+            "18.04",
+            "16.52",
+            "22.84",
+            "11",
+            "11",
+            "11"
+          ],
+          [
+            "ET3",
+            "12.38",
+            "11.84",
+            "14.94",
+            "5.82",
+            "5.84",
+            "7.04",
+            "18.2",
+            "17.68",
+            "21.98",
+            "11",
+            "11",
+            "11"
+          ],
+          [
+            "E Control",
+            "12.78",
+            "10.52",
+            "10.54",
+            "7.36",
+            "5.08",
+            "5.88",
+            "20.14",
+            "15.6",
+            "16.42",
+            "11",
+            "11",
+            "8"
+          ]
+        ],
+        [
+          [
+            "Mars Soil",
+            "Fresh weight",
+            "Dry weight",
+            "Earth Soil",
+            "Fresh weight",
+            "Dry weight"
+          ],
+          [
+            "MT1R1",
+            "2.8",
+            "0.5",
+            "ET1R1",
+            "6.5",
+            "0.56"
+          ],
+          [
+            "MT1R2",
+            "3.5",
+            "0.4",
+            "ET1R2",
+            "7.1",
+            "0.84"
+          ],
+          [
+            "MT1R3",
+            "2.6",
+            "0.4",
+            "ET1R3",
+            "6.5",
+            "0.79"
+          ],
+          [
+            "MT2R1",
+            "4.4",
+            "0.49",
+            "ET2R1",
+            "8.0",
+            "0.92"
+          ],
+          [
+            "MT2R2",
+            "2.8",
+            "0.3",
+            "ET2R2",
+            "8.4",
+            "0.9"
+          ],
+          [
+            "MT2R3",
+            "2.6",
+            "0.5",
+            "ET2R3",
+            "8.9",
+            "0.88"
+          ],
+          [
+            "MT3R1",
+            "3",
+            "0.5",
+            "ET3R1",
+            "8.3",
+            "0.92"
+          ],
+          [
+            "MT3R2",
+            "1.7",
+            "0.11",
+            "ET3R2",
+            "6.5",
+            "0.6"
+          ],
+          [
+            "MT3R3",
+            "4.7",
+            "0.15",
+            "ET3R3",
+            "9.2",
+            "1.07"
+          ],
+          [
+            "MC1R1",
+            "2.6",
+            "0.23",
+            "EC1R1",
+            "8.0",
+            "0.55"
+          ],
+          [
+            "MC1R2",
+            "4",
+            "0.27",
+            "EC2R2",
+            "9.2",
+            "0.95"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 31,
+      "text": "MC1R3 \n1.2 \n0.16 \nEC3R2 \n3.7 \n0.4 \n \nReplicated pot-wise SPAD values in Basil plants \nTreatment \nLevel of chlorophyll concentration (SPAD) \nR1 \nR2 \nR3 \nMT1 \n30.8 \n26.2 \n26.6 \nMT2 \n27.3 \n26.5 \n27.1 \nMT3 \n30.1 \n25 \n28.3 \nM Control \n29.4 \n27.9 \n28.3 \nET1 \n26.2 \n30.2 \n26.2 \nET2 \n30.6 \n25.7 \n29.6 \nET3 \n27.3 \n28.6 \n26.6 \nE Control \n30.0 \n28.6 \n28.2 \n \n \nGLIMPSES OF THE PROJECT (PHOTO GALLERY) \n \n \n \n Shade net house set up Initial set up \n \n \nMixing all amendments with mars and earth soil.",
+      "char_count": 488,
+      "image_count": 4,
+      "tables": []
+    },
+    {
+      "page_number": 32,
+      "text": "Materials used before sowing. Biofertilizers for treatments. \n \n \n \nMars Regolith Biodynamic Manure Biochar \n \n \n \n \n Peat Moss Vermicompost Cocopeat \n \n \n \n Earth Soil Weighing & Mixture of Amendments",
+      "char_count": 201,
+      "image_count": 11,
+      "tables": []
+    },
+    {
+      "page_number": 33,
+      "text": "VERMICOMPOST PRESS MUD COCOPEAT \n \n \n IRRIGATION ANALYSING PARAMETERS \n \n \n \n \nProviding Treatments for the Potted Plants.",
+      "char_count": 122,
+      "image_count": 8,
+      "tables": []
+    },
+    {
+      "page_number": 34,
+      "text": "Measuring plant height Leaf count Harvesting plants \n \n Best treatment in mars regolith (MT2) \n \n Best treatment in earth soil (ET2)",
+      "char_count": 132,
+      "image_count": 5,
+      "tables": []
+    },
+    {
+      "page_number": 35,
+      "text": "HARVEST STAGE ON THE 45TH DAY OF MARS & EARTH SOIL \nAFTER HARVEST: \n \n \n \n Package of samples Grinding plant samples \n \n \n \n Dried samples for analysis Plant sample extraction for GC-MS.",
+      "char_count": 186,
+      "image_count": 8,
+      "tables": []
+    }
+  ]
+}

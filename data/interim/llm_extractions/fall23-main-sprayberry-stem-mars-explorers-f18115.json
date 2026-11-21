@@ -1,0 +1,101 @@
+{
+  "extraction": {
+    "report_id": "fall23-main-sprayberry-stem-mars-explorers-f18115",
+    "extraction_method": "heuristic",
+    "model_name": "table-aware-lexicon-v2",
+    "celestial_body": "martian",
+    "regolith_simulant": "unspecified",
+    "regolith_simulant_raw": null,
+    "crop_common_name": "wheat",
+    "crop_scientific_name": "Triticum aestivum",
+    "crop_guild": "grain",
+    "experimental_duration_days": null,
+    "total_plants_or_pots": null,
+    "replicates_per_treatment": null,
+    "has_earth_soil_control": true,
+    "has_unamended_regolith_control": false,
+    "statistical_tests_reported": [],
+    "data_availability": "summary_means",
+    "primary_bottlenecks": [
+      "compaction_crusting",
+      "microbial_contamination",
+      "light_or_temperature_stress"
+    ],
+    "innovation_tags": [
+      "nano_fertilizer_mineral",
+      "organic_compost_manure"
+    ],
+    "key_hypothesis": null,
+    "summary_findings": "leading us to conclude that the issue needed to be addressed separately using a non-nutritional",
+    "arms": [
+      {
+        "arm_id": "arm_ctrl_earth",
+        "arm_label": "Earth Soil Control",
+        "is_control": true,
+        "control_type": "earth_soil",
+        "regolith_pct": 0.0,
+        "amendment_category": "earth_soil_control",
+        "amendment_detail": null,
+        "amendment_dose": null,
+        "germination_rate_pct": null,
+        "survival_rate_pct": null,
+        "mean_shoot_height_cm": null,
+        "mean_root_length_cm": null,
+        "mean_fresh_biomass_g": null,
+        "mean_dry_biomass_g": null,
+        "substrate_ph": null,
+        "outcome_vs_regolith_control": "not_reported",
+        "reported_effect_pct": null,
+        "evidence_quote": "growth, but these previous designs were largely based on using large amounts of Earth soil to",
+        "page_number": 2
+      },
+      {
+        "arm_id": "arm_trt_1",
+        "arm_label": "Treatment (Gypsum)",
+        "is_control": false,
+        "control_type": "none",
+        "regolith_pct": null,
+        "amendment_category": "nano_fertilizer_mineral",
+        "amendment_detail": "Gypsum",
+        "amendment_dose": null,
+        "germination_rate_pct": null,
+        "survival_rate_pct": null,
+        "mean_shoot_height_cm": null,
+        "mean_root_length_cm": null,
+        "mean_fresh_biomass_g": null,
+        "mean_dry_biomass_g": null,
+        "substrate_ph": null,
+        "outcome_vs_regolith_control": "not_reported",
+        "reported_effect_pct": null,
+        "evidence_quote": "Gypsum was chosen to be this additive; introducing Ca2+ ions from the gypsum would",
+        "page_number": 3
+      },
+      {
+        "arm_id": "arm_trt_2",
+        "arm_label": "Treatment (manure)",
+        "is_control": false,
+        "control_type": "none",
+        "regolith_pct": null,
+        "amendment_category": "organic_compost_manure",
+        "amendment_detail": "manure",
+        "amendment_dose": null,
+        "germination_rate_pct": null,
+        "survival_rate_pct": null,
+        "mean_shoot_height_cm": null,
+        "mean_root_length_cm": null,
+        "mean_fresh_biomass_g": null,
+        "mean_dry_biomass_g": null,
+        "substrate_ph": null,
+        "outcome_vs_regolith_control": "improved",
+        "reported_effect_pct": null,
+        "evidence_quote": "While not discussed above, our nutrient gel had an intense odor of manure due to the",
+        "page_number": 10
+      }
+    ]
+  },
+  "provenance_audit": {
+    "quotes_checked": 3,
+    "quotes_matched": 3,
+    "quote_match_rate": 1.0
+  }
+}

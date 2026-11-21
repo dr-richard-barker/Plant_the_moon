@@ -1,0 +1,78 @@
+{
+  "extraction": {
+    "report_id": "spring24-junior-steam-troopers-fcac12",
+    "extraction_method": "heuristic",
+    "model_name": "table-aware-lexicon-v2",
+    "celestial_body": "lunar",
+    "regolith_simulant": "unspecified",
+    "regolith_simulant_raw": null,
+    "crop_common_name": "soybean",
+    "crop_scientific_name": "Glycine max",
+    "crop_guild": "legume",
+    "experimental_duration_days": 56.0,
+    "total_plants_or_pots": null,
+    "replicates_per_treatment": null,
+    "has_earth_soil_control": false,
+    "has_unamended_regolith_control": false,
+    "statistical_tests_reported": [],
+    "data_availability": "summary_means",
+    "primary_bottlenecks": [
+      "nutrient_deficiency"
+    ],
+    "innovation_tags": [
+      "nano_fertilizer_mineral",
+      "organic_compost_manure"
+    ],
+    "key_hypothesis": "Project Hypothesis or Aim: The STEAMTroopers 24 Plant the Moon Team predicted that if we planted one",
+    "summary_findings": "Conclusion: In conclusion, after collecting growth data for eight weeks and analyzing it, we have concluded",
+    "arms": [
+      {
+        "arm_id": "arm_trt_1",
+        "arm_label": "Treatment (sulfur)",
+        "is_control": false,
+        "control_type": "none",
+        "regolith_pct": null,
+        "amendment_category": "nano_fertilizer_mineral",
+        "amendment_detail": "sulfur",
+        "amendment_dose": null,
+        "germination_rate_pct": null,
+        "survival_rate_pct": null,
+        "mean_shoot_height_cm": null,
+        "mean_root_length_cm": null,
+        "mean_fresh_biomass_g": null,
+        "mean_dry_biomass_g": null,
+        "substrate_ph": null,
+        "outcome_vs_regolith_control": "not_reported",
+        "reported_effect_pct": null,
+        "evidence_quote": "phosphorus, and potassium, but also adds sulfur and magnesium.",
+        "page_number": 1
+      },
+      {
+        "arm_id": "arm_trt_2",
+        "arm_label": "Treatment (manure)",
+        "is_control": false,
+        "control_type": "none",
+        "regolith_pct": null,
+        "amendment_category": "organic_compost_manure",
+        "amendment_detail": "manure",
+        "amendment_dose": null,
+        "germination_rate_pct": null,
+        "survival_rate_pct": null,
+        "mean_shoot_height_cm": null,
+        "mean_root_length_cm": null,
+        "mean_fresh_biomass_g": null,
+        "mean_dry_biomass_g": null,
+        "substrate_ph": null,
+        "outcome_vs_regolith_control": "not_reported",
+        "reported_effect_pct": null,
+        "evidence_quote": "We chose to test fresh chicken, cow, hog, and sheep manure.",
+        "page_number": 1
+      }
+    ]
+  },
+  "provenance_audit": {
+    "quotes_checked": 2,
+    "quotes_matched": 2,
+    "quote_match_rate": 1.0
+  }
+}

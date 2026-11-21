@@ -1,0 +1,263 @@
+{
+  "@context": "https://w3id.org/ro/crate/1.1/context",
+  "@graph": [
+    {
+      "@type": "CreativeWork",
+      "@id": "ro-crate-metadata.json",
+      "conformsTo": {
+        "@id": "https://w3id.org/ro/crate/1.1"
+      },
+      "about": {
+        "@id": "./"
+      }
+    },
+    {
+      "@id": "./",
+      "@type": "Dataset",
+      "name": "Plant the Moon Challenge FAIR Meta-Analysis (Spring 2021 \u2013 Spring 2026)",
+      "description": "Reproducible scraping, SHA-256 provenance manifest, structured extraction, and AI/ML meta-analysis of student regolith plant-growth reports from plantthemoon.com.",
+      "datePublished": "2026-11-21",
+      "license": {
+        "@id": "https://spdx.org/licenses/MIT"
+      },
+      "author": {
+        "@id": "https://orcid.org/0000-0001-5681-9857"
+      },
+      "hasPart": [
+        {
+          "@id": "CITATION.cff"
+        },
+        {
+          "@id": "codemeta.json"
+        },
+        {
+          "@id": "README.md"
+        },
+        {
+          "@id": "data/DATA_DICTIONARY.md"
+        },
+        {
+          "@id": "schemas/report_manifest.schema.json"
+        },
+        {
+          "@id": "schemas/experiment_record.schema.json"
+        },
+        {
+          "@id": "data/raw/manifest.csv"
+        },
+        {
+          "@id": "data/raw/manifest.json"
+        },
+        {
+          "@id": "data/processed/reports.csv"
+        },
+        {
+          "@id": "data/processed/reports.parquet"
+        },
+        {
+          "@id": "data/processed/trial_arms.csv"
+        },
+        {
+          "@id": "data/processed/trial_arms.parquet"
+        },
+        {
+          "@id": "data/processed/cose_ptm_explorer.json"
+        },
+        {
+          "@id": "data/processed/ontology_mappings.json"
+        },
+        {
+          "@id": "manuscript/ptm_manuscript.typ"
+        },
+        {
+          "@id": "book/_static/manuscript/Plant_the_Moon_Meta_Analysis.pdf"
+        },
+        {
+          "@id": "book/notebooks/01_corpus_eda.ipynb"
+        },
+        {
+          "@id": "book/notebooks/02_unsupervised_clustering.ipynb"
+        },
+        {
+          "@id": "book/notebooks/03_meta_analysis_ml.ipynb"
+        },
+        {
+          "@id": "book/notebooks/04_ai_synthesis_gaps.ipynb"
+        }
+      ]
+    },
+    {
+      "@id": "https://orcid.org/0000-0001-5681-9857",
+      "@type": "Person",
+      "name": "Richard J. Barker",
+      "affiliation": {
+        "@id": "https://cosecloud.com"
+      }
+    },
+    {
+      "@id": "https://cosecloud.com",
+      "@type": "Organization",
+      "name": "Collaborative Science Environment (CoSE)"
+    },
+    {
+      "@id": "CITATION.cff",
+      "@type": "TextFile",
+      "name": "CITATION.cff",
+      "description": "Citation metadata (CFF 1.2.0)",
+      "contentSize": 998,
+      "sha256": "b77be975a204087e5fa251ed7fd5e30bc10c1431fe926fb657246cc91d767798"
+    },
+    {
+      "@id": "codemeta.json",
+      "@type": "SoftwareSourceCode",
+      "name": "codemeta.json",
+      "description": "CodeMeta v3.0 metadata",
+      "contentSize": 1265,
+      "sha256": "c20cb4f95f887058f870260e8446196cb1919a58329ee1cfceb4ec586b5dd5d0"
+    },
+    {
+      "@id": "README.md",
+      "@type": "TextFile",
+      "name": "README.md",
+      "description": "Project documentation",
+      "contentSize": 2744,
+      "sha256": "bc1cccc0e1d731b1e92c231b55ddbd5a510e75387f3f41b3396f9eff8a70d02d"
+    },
+    {
+      "@id": "data/DATA_DICTIONARY.md",
+      "@type": "TextFile",
+      "name": "DATA_DICTIONARY.md",
+      "description": "FAIR data dictionary",
+      "contentSize": 5267,
+      "sha256": "973dfd6b0702b8df7861b918bc4a4bf47d7e7e6610b550754140bf4cdad87784"
+    },
+    {
+      "@id": "schemas/report_manifest.schema.json",
+      "@type": "File",
+      "name": "report_manifest.schema.json",
+      "description": "JSON Schema for scraped PDF manifest",
+      "contentSize": 2090,
+      "sha256": "6d51ade86c13c3cc225cd2ddcd6b188e87f5437c07f289957b2c7f46fdd6cac0"
+    },
+    {
+      "@id": "schemas/experiment_record.schema.json",
+      "@type": "File",
+      "name": "experiment_record.schema.json",
+      "description": "JSON Schema for structured extractions",
+      "contentSize": 5379,
+      "sha256": "c0a529524e1301a2f382d7f4df7cf09a2a1ec4985361ba900d98d1bde0dd24cc"
+    },
+    {
+      "@id": "data/raw/manifest.csv",
+      "@type": "Dataset",
+      "name": "manifest.csv",
+      "description": "Scraped awards metadata & SHA-256 PDF provenance manifest (CSV)",
+      "contentSize": 156105,
+      "sha256": "03d3db234cdbf653fe6e022831888089fd208bbf9ed2558e7d4ad99284ce4cf5"
+    },
+    {
+      "@id": "data/raw/manifest.json",
+      "@type": "Dataset",
+      "name": "manifest.json",
+      "description": "Scraped awards metadata & SHA-256 PDF provenance manifest (JSON)",
+      "contentSize": 340569,
+      "sha256": "92303a8857f72e9249541eef5cfa11afd1cf894263889468f70776b33659885b"
+    },
+    {
+      "@id": "data/processed/reports.csv",
+      "@type": "Dataset",
+      "name": "reports.csv",
+      "description": "Normalized report-level metadata & quality dataset (CSV)",
+      "contentSize": 204629,
+      "sha256": "650e133ca7f5f76f1a0f4c46431228810db0fcb2d8689831c873d3a26fdea58d"
+    },
+    {
+      "@id": "data/processed/reports.parquet",
+      "@type": "Dataset",
+      "name": "reports.parquet",
+      "description": "Normalized report-level metadata & quality dataset (Parquet)",
+      "contentSize": 94630,
+      "sha256": "fac7cfce0f38f66e17acfc7685e0eabb65d38c570b0ff8d95e7228d9fa72f2a1"
+    },
+    {
+      "@id": "data/processed/trial_arms.csv",
+      "@type": "Dataset",
+      "name": "trial_arms.csv",
+      "description": "Normalized experimental trial-arm meta-analysis table (CSV)",
+      "contentSize": 223873,
+      "sha256": "3cd27069fb8e5e24625738cb312df4cdde67b9503f968327d49ffa31db3f919e"
+    },
+    {
+      "@id": "data/processed/trial_arms.parquet",
+      "@type": "Dataset",
+      "name": "trial_arms.parquet",
+      "description": "Normalized experimental trial-arm meta-analysis table (Parquet)",
+      "contentSize": 66276,
+      "sha256": "ae2f95df79ac09ecd0ff3bfc361919a8039bba78587282b0479e8225a03c275b"
+    },
+    {
+      "@id": "data/processed/cose_ptm_explorer.json",
+      "@type": "Dataset",
+      "name": "cose_ptm_explorer.json",
+      "description": "Interactive CoSE GitPage explorer JSON bundle",
+      "contentSize": 881465,
+      "sha256": "0b0b9b2a01ab4f2f10b225e6c22da6ff1abbaa7a0a36841e9bd8c2caaa43b3a3"
+    },
+    {
+      "@id": "data/processed/ontology_mappings.json",
+      "@type": "Dataset",
+      "name": "ontology_mappings.json",
+      "description": "FAIR ontology crosswalks (NCBITaxon, ENVO, AGRO, Exolith)",
+      "contentSize": 8426,
+      "sha256": "e0c4ccbc46567bee10ce2a49eff3eafc715f45c3aa9c1c9eccd177f78abe3d99"
+    },
+    {
+      "@id": "manuscript/ptm_manuscript.typ",
+      "@type": "TextFile",
+      "name": "ptm_manuscript.typ",
+      "description": "Typst source for CoSE synthesis manuscript",
+      "contentSize": 9840,
+      "sha256": "03df872f2ea27887fbfa29d7bb01ae86827379f275e6c27b9dc7dd1ef3078c77"
+    },
+    {
+      "@id": "book/_static/manuscript/Plant_the_Moon_Meta_Analysis.pdf",
+      "@type": "File",
+      "name": "Plant_the_Moon_Meta_Analysis.pdf",
+      "description": "Compiled CoSE synthesis manuscript PDF",
+      "contentSize": 1124617,
+      "sha256": "b46876390db7f2744e21a437cef10c28331d7ebe0ae6f2a59e095ac5752abbe4"
+    },
+    {
+      "@id": "book/notebooks/01_corpus_eda.ipynb",
+      "@type": "File",
+      "name": "01_corpus_eda.ipynb",
+      "description": "Corpus provenance & scientometric EDA notebook",
+      "contentSize": 391495,
+      "sha256": "6fe50abda06c27ccf0d71bdc0bbdd7286035f5f19d2b8d3cf1736947f0aadf71"
+    },
+    {
+      "@id": "book/notebooks/02_unsupervised_clustering.ipynb",
+      "@type": "File",
+      "name": "02_unsupervised_clustering.ipynb",
+      "description": "Unsupervised NLP & experimental archetype clustering notebook",
+      "contentSize": 472220,
+      "sha256": "202bd170d86bf4bc38c6974564aa51ec92266c9a070ff148b29d4c6cc804817a"
+    },
+    {
+      "@id": "book/notebooks/03_meta_analysis_ml.ipynb",
+      "@type": "File",
+      "name": "03_meta_analysis_ml.ipynb",
+      "description": "Quantitative meta-analysis & predictive ML comparison notebook",
+      "contentSize": 253393,
+      "sha256": "88bbd0fd3439f0bbe909e231c4637db4b6c2401ee1681d8bda8e8bb174c2a75f"
+    },
+    {
+      "@id": "book/notebooks/04_ai_synthesis_gaps.ipynb",
+      "@type": "File",
+      "name": "04_ai_synthesis_gaps.ipynb",
+      "description": "Failure modes, research gaps & synthesis notebook",
+      "contentSize": 452848,
+      "sha256": "6c296cd31215af638fa01507fceadbe9dcbb00f35f2af4c32e26d0a65a94dc64"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "report_id": "fall23-main-kca-moon-planters-ed532e",
+  "sha256": "7c48d817b7e15028e6e54b56d5249e207fa89b41e075296f136661398183a6c6",
+  "page_count": 11,
+  "total_chars": 0,
+  "avg_chars_per_page": 0.0,
+  "total_images": 11,
+  "table_count": 0,
+  "parse_quality": "image_or_scanned",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "",
+      "char_count": 0,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "text": "",
+      "char_count": 0,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "text": "",
+      "char_count": 0,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "text": "",
+      "char_count": 0,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "text": "",
+      "char_count": 0,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "text": "",
+      "char_count": 0,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "text": "",
+      "char_count": 0,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "text": "",
+      "char_count": 0,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "text": "",
+      "char_count": 0,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "text": "",
+      "char_count": 0,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "text": "",
+      "char_count": 0,
+      "image_count": 1,
+      "tables": []
+    }
+  ]
+}

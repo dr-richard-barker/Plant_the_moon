@@ -1,0 +1,559 @@
+{
+  "report_id": "fall25-main-radicle-roots-ace53f",
+  "sha256": "fa1616b03ea0503abea7f5e6a12b047b772d2f8f452014cdc34cd2f49754a01f",
+  "page_count": 22,
+  "total_chars": 17241,
+  "avg_chars_per_page": 783.7,
+  "total_images": 34,
+  "table_count": 5,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "The Impact of Hydrogels and Fertilizer on \nRadish Growth in Martian Regolith \n \nRadicle Roots \n \nPlant Mars Challenge: Fall 2025 \nUndergraduate/Professional Division \nTeam #23644 \n \nFlorida Institute of Technology \nMelbourne, FL \n \nTeam Members: \nAmelia Thompson, Alex Leonard, Naomi Tomy, and Meada Watt \n \nCoach: \nShane Doyle",
+      "char_count": 327,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "text": "Introduction \nIn 1880, novelist Percy Greg wrote in his book \u201cAcross the Zodiac\u201d about a space \ntraveler who carried plants with him on his voyage to Mars, for the process of waste recycling \n(Eliot, 1986). 50 years later, the Russian scientist Konstantin Tsiolkovsky took this idea beyond \nmere science fiction and hypothesized that humans could, in fact, co-exist with plants under \nclosed conditions on Mars (Wheeler, 2010). Future Martian missions require sustainable life-\nsupport systems. An ideal life-support strategy for astronauts would be the one that utilizes in-\nsitu resources like soil, water, nutrients, and sunlight, which are available on Mars, to eliminate \nthe need for constant replenishment and to minimize the transportation costs (Kasiviswanathan et \nal., 2022). Martian soil has a low water retention capacity (Peyrusson, 2021). Mars has water \ndeposited in its equatorial regions, during the periods of high orbital obliquity, when the water at \nthe poles became unstable and was contained at the equatorial regions (Wilson, et al., 2018). Yet, \nthis water is not available for in-situ utilization. The physio-chemical characterization of the \nMartian regolith simulant MGS-1 has established the alkaline nature of Martian regolith \n(Caporale et al., 2024), with a pH above 6 due to the high concentrations of calcium perchlorate \n(Gilrain et al., 1999). Additionally, Martian regolith lacks the vital micronutrients, \nmacronutrients and organic matter, which are the essential components for the proper growth and \nyield of plants (Nadeem et al., 2018). This deficit, along with the low water retention and \nalkalinity of the soil creates a hostile environment for the growth of plants. \nThis study investigated the strategy of using hydrogels to retain water for plants on \nMartian regolith. Hydrogels are polymers that are able to absorb large volumes of water and \nretain it on the roots of the plants (Peyrusson, 2021). Likewise, by increasing the water \navailability, they allow the plants to reduce water stress and enhance plant growth even in the",
+      "char_count": 2081,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "text": "harsh environment of Mars (Montesano et al., 2015). Moreover, bone meal was utilized as the \nfertilizer for our study, as bone meal is known for its slow-release of minerals like calcium \n(Hodson et al., 2001) and phosphorus (B\u00f8en et al., 2013), which aids in cell elongation \n(Burstrom, 1968) and seed development (Malhotra et al., 2018). This study was done on Cherry-\nBelle radishes Raphanus sativus L., a small-sized red radish. It is a root vegetable crop found \nworldwide and widely used in salads. It is packed with fiber, antioxidants, vitamin C, phenolic \ncompounds and glucosinolates and can be used to reduce oxidative stress and to treat stomach \ndisorders experienced in microgravity by the astronauts (Kim et al., 2016). \nThis study tested the optimum condition for radish growth, by varying the Martian \nregolith simulant (MGS-1):potting soil ratios, and the concentration of fertilizers and hydrogels. \nWe hypothesized that the radishes grown on the 50-50 fraction of MGS-1 simulant and potting \nsoil, will show the greatest growth in terms of stem height, leaf length, radish length and \ndiameter. \n \nMeasurements and Methods \nThe pots were set up in a large grow tent that contained an LED grow light array and a \nventilation system to maintain constant growing conditions. There were 12 pots, organized into \nthree groups of 4, based on the addition to the soil-regolith mixture. Specifically, the pots with \nhydrogels and fertilizer were grouped, the pots with just fertilizer were grouped separately, and \nthe pots with no additives were grouped separately. The pots within each group were \nindividually labeled with the percent composition of the regolith and the added material. Each \ngroup was placed on a bucket lid to reduce water leakage and soil spillage to other groups. All \ngroups were placed along the right side of the grow tent, while another Plant Mars group had",
+      "char_count": 1897,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "text": "their experiment on the left side, with about a foot of space between the two experiments. A \nvisual representation of the growth setup (Figure 1). \n \n \nFigure 1 - Experimental Growth Setup. Each row varied in soil composition, and each column \nvaried in the type of soil inclusions. \n \nThe seeds were geminated in a humid environment for 1 week. They were then planted about \nhalf an inch deep and two seeds per pot with about an inch of space between them. Because of \nlack of growth and excessive mold in the pots with additives at around week 2, we replanted \nthose in the same way, except we germinated for only 2 days instead. \n \nThe radishes were watered every Tuesday and Friday with deionized water, and measurements \nwere taken on Thursdays. If there was no one available to take measurements on Thursday, \nmeasurements for that week would be made on either Tuesday or Friday. All plants were given \n100 ml of water when first planted, then the amount was reduced to 50 ml after the first week.",
+      "char_count": 1004,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "text": "The pots with hydrogels were reduced to 40 ml of water after we observed that they were being \noverwatered. The radishes received 12 hours of light every day, from 7:00 am to 7:00 pm; after \nthe time change due to daylight savings, they received light from 6:00 am to 6:00 pm. The \ntemperature of the grow tent was also monitored and kept between 20 and 25 degrees Celsius. \nAll data was recorded on a shared Google Spreadsheet. \nThe pH of the soil of each pot was measured using pH strips every week. The strips \nwould be buried about a quarter of the way into moist soil or regolith and left to sit for about a \nminute. If the soil was not sufficiently wet to take measurements, the plant would be given water \nand left to drain for a few minutes before retesting the pH. Then, we would remove the strip and \nrecord the data in the spreadsheet. \nWhile the radishes were growing, we measured their stem height using a measuring tape \nand recorded the results in the spreadsheet. The stem was measured in centimeters from the soil \nto the base of the tallest leaf. If two radishes were growing in the same pot, their heights would \nbe separated by a comma. At the end of grow week 8, the radishes were carefully uprooted, and \nthe root length was measured, along with the length and diameter of any radish vegetable \nproduced. These measurements were also done with a measuring tape in centimeters. \nThere were several constraints to the experiment, including the time frame, the amount of \nregolith supplied, and the presence of mold. During the time frame of eight weeks, only three \nsmall radishes were produced. The small harvest size was limited by the need to restart some of \nthe pots due to excessive mold. After the first week, mold began growing on the group that had \nfertilizer and the group that had fertilizer and hydrogels. We decided to replant those with the \nregolith we had left. Mold continued to grow in the new pots; however, we were able to mitigate \nand stop its growth by spraying them with a 3% hydrogen peroxide solution.",
+      "char_count": 2048,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "text": "Results and Analysis \nOver the eight-week growth period, we found that the radishes grown with no soil \ninclusions demonstrated the largest stem length root growth, radish diameter, and radish length . \nPots with fertilizer and hydrogels showed some root growth, but did not yield harvestable \nradishes. These observations did not align with our original hypothesis, which stated that \nradishes grown in pots with 50% Martian regolith and 50% potting soil would yield the largest \ndiameter. Measured stem length, root length, radish diameter, and radish length are presented in \nthe tables below. \n \n Table 1 - Radish Stem Lengths After 8 Weeks \nSoil Composition \nStem Length (cm) \nNo Inclusions Fertilizer Added Hydrogels & Fertilizer Added \n100% Regolith \n2.5 \n0.0 \n0.0 \n75% Regolith \n25% Potting Soil \n9.0 \n7.0 \n0.0 \n4.5 \n50% Regolith \n50% Potting Soil \n8.0 \n12.0 \n3.5 \n8.0 \n4.5 \n100% Potting Soil \n4.5 \n5.0 \n0.0",
+      "char_count": 915,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Soil Composition",
+            "Stem Length (cm)",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "No Inclusions",
+            "",
+            "Fertilizer Added",
+            "Hydrogels & Fertilizer Added",
+            ""
+          ],
+          [
+            "100% Regolith",
+            "2.5",
+            "",
+            "0.0",
+            "0.0",
+            ""
+          ],
+          [
+            "75% Regolith 25% Potting Soil",
+            "9.0",
+            "7.0",
+            "0.0",
+            "4.5",
+            ""
+          ],
+          [
+            "50% Regolith 50% Potting Soil",
+            "8.0",
+            "12.0",
+            "3.5",
+            "8.0",
+            "4.5"
+          ],
+          [
+            "100% Potting Soil",
+            "4.5",
+            "",
+            "5.0",
+            "0.0",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 7,
+      "text": "Table 2 - Radish Root Length After 8 Weeks. \nSoil Composition \nRoot Length (cm) \nNo Inclusions Fertilizer Added Hydrogels & Fertilizer Added \n100% Regolith \n3.5 \n0.0 \n0.0 \n75% Regolith \n25% Potting Soil \n9.5 \n7.0 \n0.0 \n9.5 \n50% Regolith \n50% Potting Soil \n16.0 \n9.5 \n3.0 \n8.0 \n8.5 \n100% Potting Soil \n6.5 \n5.5 \n0.0 \n \nTable 3 - Radish Diameter After 8 Weeks. \nSoil Composition \nRadish Diameter (cm) \nNo Inclusions Fertilizer Added Hydrogels & Fertilizer Added \n100% Regolith \n0.0 \n0.0 \n0.0 \n75% Regolith \n25% Potting Soil \n2.0 \n0.0 \n0.0 \n0.0 \n50% Regolith \n50% Potting Soil \n1.5 \n0.0 \n0.0 \n0.0 \n0.0 \n100% Potting Soil \n2.5 cm \n0.0 \n0.0",
+      "char_count": 635,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Soil Composition",
+            "Root Length (cm)",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "No Inclusions",
+            "",
+            "Fertilizer Added",
+            "Hydrogels & Fertilizer Added",
+            ""
+          ],
+          [
+            "100% Regolith",
+            "3.5",
+            "",
+            "0.0",
+            "0.0",
+            ""
+          ],
+          [
+            "75% Regolith 25% Potting Soil",
+            "9.5",
+            "7.0",
+            "0.0",
+            "9.5",
+            ""
+          ],
+          [
+            "50% Regolith 50% Potting Soil",
+            "16.0",
+            "9.5",
+            "3.0",
+            "8.0",
+            "8.5"
+          ],
+          [
+            "100% Potting Soil",
+            "6.5",
+            "",
+            "5.5",
+            "0.0",
+            ""
+          ]
+        ],
+        [
+          [
+            "Soil Composition",
+            "Radish Diameter (cm)",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "No Inclusions",
+            "",
+            "Fertilizer Added",
+            "Hydrogels & Fertilizer Added",
+            ""
+          ],
+          [
+            "100% Regolith",
+            "0.0",
+            "",
+            "0.0",
+            "0.0",
+            ""
+          ],
+          [
+            "75% Regolith 25% Potting Soil",
+            "2.0",
+            "0.0",
+            "0.0",
+            "0.0",
+            ""
+          ],
+          [
+            "50% Regolith 50% Potting Soil",
+            "1.5",
+            "0.0",
+            "0.0",
+            "0.0",
+            "0.0"
+          ],
+          [
+            "100% Potting Soil",
+            "2.5 cm",
+            "",
+            "0.0",
+            "0.0",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 8,
+      "text": "Table 4 - Radish Length After 8 Weeks. \nSoil Composition \nRadish Length (cm) \nNo Inclusions Fertilizer Added Hydrogels & Fertilizer Added \n100% Regolith \n0.0 \n0.0 \n0.0 \n75% Regolith \n25% Potting Soil \n2.5 \n0 \n0.0 \n0.0 \n50% Regolith \n50% Potting Soil \n3.0 \n0 \n0.0 \n0.0 \n0.0 \n100% Potting Soil \n3.0 \n0.0 \n0.0 \n \n \nFigure 2 - Radish growth after 8 weeks with no inclusions.",
+      "char_count": 370,
+      "image_count": 1,
+      "tables": [
+        [
+          [
+            "Soil Composition",
+            "Radish Length (cm)",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "No Inclusions",
+            "",
+            "Fertilizer Added",
+            "Hydrogels & Fertilizer Added",
+            ""
+          ],
+          [
+            "100% Regolith",
+            "0.0",
+            "",
+            "0.0",
+            "0.0",
+            ""
+          ],
+          [
+            "75% Regolith 25% Potting Soil",
+            "2.5",
+            "0",
+            "0.0",
+            "0.0",
+            ""
+          ],
+          [
+            "50% Regolith 50% Potting Soil",
+            "3.0",
+            "0",
+            "0.0",
+            "0.0",
+            "0.0"
+          ],
+          [
+            "100% Potting Soil",
+            "3.0",
+            "",
+            "0.0",
+            "0.0",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 9,
+      "text": "Figure 3 - Radish growth after 8 weeks with fertilizer added. \n \n \nFigure 4 - Radish growth after 8 weeks with fertilizer and hydrogels added.",
+      "char_count": 142,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "text": "Figure 5 - Harvested radishes after 8 weeks of growth. \n \nAdditionally, monitoring pH over the eight-week growth period revealed that pots with 100% \nand 75% Martian regolith maintained a pH of approximately 8.0, while pots with 50% regolith \nand 100% potting soil exhibited a pH range of 6.0 to 7.0. pH measurements are summarized in \nthe table below.",
+      "char_count": 352,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "text": "Table 5 - pH of Each Pot Over the 8 Week Growth Period. Pots grown with regolith are \nabbreviated with \u201cR,\u201d and pots with 100% potting soil are abbreviated with \u201cPS.\u201d \nPot \npH \nWeek 1 Week 2 Week 3 Week 4 Week 5 Week 6 Week 7 Week 8 \nNo Inclusions \n100% R \n8.0 \n8.0 \n9.0 \n8.0 \n8.0 \n8.0 \n8.0 \n8.0 \n75% R \n8.0 \n8.0 \n8.0 \n8.0 \n7.0 \n8.0 \n8.0 \n8.0 \n50% R \n7.0 \n8.0 \n7.0 \n7.0 \n7.0 \n7.0 \n8.0 \n8.0 \n100% PS \n7.0 \n7.0 \n7.0 \n7.0 \n7.0 \n7.0 \n7.0 \n7.0 \nFertilizer Added \n100% R \n8.0 \n8.0 \n8.0 \n8.0 \n8.0 \n8.0 \n8.0 \n8.0 \n75% R \n8.0 \n8.0 \n8.0 \n8.0 \n7.0 \n8.0 \n8.0 \n8.0 \n50% R \n7.0 \n8.0 \n7.0 \n7.0 \n7.0 \n7.0 \n8.0 \n7.0 \n100% PS \n7.0 \n7.0 \n7.0 \n7.0 \n7.0 \n7.0 \n7.0 \n7.0 \nFertilizer & Hydrogels Added \n100% R \n8.0 \n8.0 \n8.0 \n8.0 \n8.0 \n8.0 \n8.0 \n8.0 \n75% R \n8.0 \n8.0 \n8.0 \n8.0 \n7.0 \n7.0 \n7.0 \n7.0 \n50% R \n7.0 \n8.0 \n7.0 \n7.0 \n7.0 \n7.0 \n7.0 \n7.0 \n100% PS \n7.0 \n7.0 \n7.0 \n7.0 \n6.0 \n6.0 \n6.0 \n6.0 \n \nDiscussions and conclusion \n \nBefore planting the radishes into the pots they were germinated, during the first germination the \nseeds were left to germinate too long and mold was created. The moldy seeds and the seeds with \nlittle to no mold were picked apart and the ones with no mold were put into the pots. Each pot \ngot two seeds with an inch between them. After two weeks of watering, these plants were filled",
+      "char_count": 1287,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Pot",
+            "pH",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "Week 1",
+            "Week 2",
+            "Week 3",
+            "Week 4",
+            "Week 5",
+            "Week 6",
+            "Week 7",
+            "Week 8"
+          ],
+          [
+            "",
+            "No Inclusions",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "100% R",
+            "8.0",
+            "8.0",
+            "9.0",
+            "8.0",
+            "8.0",
+            "8.0",
+            "8.0",
+            "8.0"
+          ],
+          [
+            "75% R",
+            "8.0",
+            "8.0",
+            "8.0",
+            "8.0",
+            "7.0",
+            "8.0",
+            "8.0",
+            "8.0"
+          ],
+          [
+            "50% R",
+            "7.0",
+            "8.0",
+            "7.0",
+            "7.0",
+            "7.0",
+            "7.0",
+            "8.0",
+            "8.0"
+          ],
+          [
+            "100% PS",
+            "7.0",
+            "7.0",
+            "7.0",
+            "7.0",
+            "7.0",
+            "7.0",
+            "7.0",
+            "7.0"
+          ],
+          [
+            "",
+            "Fertilizer Added",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "100% R",
+            "8.0",
+            "8.0",
+            "8.0",
+            "8.0",
+            "8.0",
+            "8.0",
+            "8.0",
+            "8.0"
+          ],
+          [
+            "75% R",
+            "8.0",
+            "8.0",
+            "8.0",
+            "8.0",
+            "7.0",
+            "8.0",
+            "8.0",
+            "8.0"
+          ],
+          [
+            "50% R",
+            "7.0",
+            "8.0",
+            "7.0",
+            "7.0",
+            "7.0",
+            "7.0",
+            "8.0",
+            "7.0"
+          ],
+          [
+            "100% PS",
+            "7.0",
+            "7.0",
+            "7.0",
+            "7.0",
+            "7.0",
+            "7.0",
+            "7.0",
+            "7.0"
+          ],
+          [
+            "",
+            "Fertilizer & Hydrogels Added",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "100% R",
+            "8.0",
+            "8.0",
+            "8.0",
+            "8.0",
+            "8.0",
+            "8.0",
+            "8.0",
+            "8.0"
+          ],
+          [
+            "75% R",
+            "8.0",
+            "8.0",
+            "8.0",
+            "8.0",
+            "7.0",
+            "7.0",
+            "7.0",
+            "7.0"
+          ],
+          [
+            "50% R",
+            "7.0",
+            "8.0",
+            "7.0",
+            "7.0",
+            "7.0",
+            "7.0",
+            "7.0",
+            "7.0"
+          ],
+          [
+            "100% PS",
+            "7.0",
+            "7.0",
+            "7.0",
+            "7.0",
+            "6.0",
+            "6.0",
+            "6.0",
+            "6.0"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 12,
+      "text": "with mold, particularly the soil composition with hydrogels, in all probability because hydrogels \nstore moisture. The mold was addressed with hydrogen peroxide spray (3%), and seemed to get \nrid of the mold well. After about four weeks, the pots with no sign of plant growth were \nreplanted. \n \nThe pH of the no inclusion 100% potting mix stayed in the 7.0s, the pH of the no inclusion 50% \nregolith had 7.0s but a few 8.0s, and the pH of the no inclusion 75% regolith stayed in the 8.0s \nfully (Table 5). These pH results can lead to the conclusion that martian regolith is basic \ncompared to regular potting soil that is neutral. This means that changing the pH of the martian \nregolith to be more neutral may be a major contributor to plant growth in mars regolith. \n \n In total, eight plants had sprouted leaves and grown. Only three of those plants yielded radishes \nto be harvested. The three soil compositions being: No inclusion 100% potting soil, no inclusion \n50% regolith and 50% potting soil, and no inclusion 75% regolith and 20% potting soil (Table \n4). The 100% potting soil yields the largest radish with a length of 3.0cm and diameter of 2.5cm \n(Table 3 and 4). The results of the experiment lead to the conclusion that no inclusion of \nhydrogels or fertilizer and 100% potting soil will lead to the best results of radish growth. The \nhydrogels would break up the soil when they grew after being watered, which may have stunted \nthe radish growth. Fertilizer did more harm than help the radishes grow in the regolith. However, \nwhen looking at the other two radishes grown in 50% potting soil/ 50% regolith and 75% \nregolith/ 25% potting soil, it seems that even with no inclusions the radishes still grew. This can \nlead to the conclusion that radishes would be a good choice as a plant to grow in mars regolith \nbecause it has shown endearment in the regolith even in the absence of inclusions.",
+      "char_count": 1915,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 13,
+      "text": "References \n \nGeorge Eliot and Victorian Science Fiction: Daniel Deronda as Alternate History. Extrapolation 27, \n185-196(1986). \n \nDOI:10.3828/extr.1986.27.3.185 \nKasiviswanathan P, Swanner ED, Halverson LJ, Vijayapalani P (2022) Farming on Mars: Treatment of \nbasaltic regolith soil and briny water simulants sustains plant growth. PLOS ONE 17(8): \ne0272209. \nhttps://doi.org/10.1371/journal.pone.0272209 \nWheeler, R. M. (2010). Plants for human life support in space: from Myers to Mars Gravitational and \nSpace Biology, 23(2), 25+. \nhttps://www.researchgate.net/publication/228484167 \nPeyrusson F (2021) Hydrogels Improve Plant Growth in MarsAnalog Conditions.A Front Astron. Space \nSci. 8:729278. \ndoi: 10.3389/fspas.2021.729278 \nFrancesco F. Montesano, Angelo Parente, Pietro Santamaria, Alessandro Sannino, Francesco Serio \n(2015) Biodegradable Superabsorbent Hydrogel IncreasesWater Retention Properties of Growing \nMedia and Plant Growth,Agriculture and Agricultural Science Procedia,Volume 4 Pages 451-\n458 \nhttps://doi.org/10.1016/j.aaspro.2015.03.052. \nJack T. Wilson, Vincent R. Eke, Richard J. Massey, Richard C. Elphic, William C. Feldman, Sylvestre \nMaurice, Lu\u00c3s F.A. Teodoro(2018) Equatorial locations of water on Mars: Improved resolution \nmaps based on Mars Odyssey Neutron Spectrometer data,Icarus,Volume 299 Pages 148-160, \nhttps://doi.org/10.1016/j.icarus.2017.07.028.",
+      "char_count": 1391,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 14,
+      "text": "Caporale, A. G., Paradiso, R., Palladino, M., Arouna, N., Izzo, L., Ritieni, A., De Pascale, S., & Adamo, \nP. (2024). Assessment of Fertility Dynamics and Nutritional Quality of Potato Tubers in a \nCompost-Amended Mars Regolith Simulant. Plants, 13(5), 747. \nhttps://doi.org/10.3390/plants13050747 \nFarwa Nadeem ,Muhammad Asif Hanif, Muhammad Irfan Majeed and Zahid Mushtaq (2018) Role of \nmacronutrients and micronutrients in the growth and development of plants and prevention of \ndeleterious plant diseases-a comprehensive review. International Journal of Chemical and \nBiochemical Sciences 13, https://www.researchgate.net/publication/329044150 \nGilrain, M., Hogan, J., Cowan, R., Finstein, M. et al.,(1999).\"Preliminary Study of Greenhouse Grown \nSwiss Chard in Mixtures of Compost and Mars Regolith Simulant,\" SAE Technical Paper 1999-\n01-2021 \n, https://doi.org/10.4271/1999-01-2021. \nB\u00f8en, A., & Haraldsen, T. K. (2013). Meat and bone meal and biosolids as slow-release phosphorus \nfertilizers. Agricultural and Food Science, 22(2), 235-246. https://doi.org/10.23986/afsci.7498 \n \nM.E Hodson, E Valsami-Jones, J.D Cotter-Howells, W.E Dubbin, A.J Kemp, I Thornton, Warren (2001) \nEffect of bone meal (calcium phosphate) amendments on metal release from contaminated soils\u00c2 \n\u00e2\u20ac\u201d a leaching column study,Environmental Pollution, Volume 112, Issue 2, \nPages 233-243, \nISSN 0269-7491, \nhttps://doi.org/10.1016/S0269-7491(00)00116-0 \nBurstrom, H.G. (1968), Calcium and plant growth. Biological Reviews, 43: 287-316. \nhttps://doi.org/10.1111/j.1469-185X.1968.tb00962.x",
+      "char_count": 1569,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 15,
+      "text": "Malhotra, H., Vandana, Sharma, S., Pandey, R. (2018). Phosphorus Nutrition: Plant Growth in Response \nto Deficiency and Excess. In: Hasanuzzaman, M., Fujita, M., Oku, H., Nahar, K., Hawrylak-\nNowak, B. (eds) Plant Nutrients and Abiotic Stress Tolerance. Springer, Singapore \n. https://doi.org/10.1007/978-981-10-9044-8_7 \nKim J. K, Baskar T. B, Park S. U. (2016) Total Phenolic and Flavonoid Contents and Antioxidant \nActivities of Two Raphanus sativus L. cultivars (Cherry Belle and Valentine). Biosci Biotech \nRes Asia;13(1). \n https://www.biotech-asia.org/?p=7245",
+      "char_count": 566,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 16,
+      "text": "Appendix A: Growth Images \n \n \nFigure 6 - Seed germination. \n \n \nFigure 7 - Week 1 pots after seed planting. \n \n \nFigure 8 - Mold growth on originally planted seeds, prompting regermination.",
+      "char_count": 190,
+      "image_count": 3,
+      "tables": []
+    },
+    {
+      "page_number": 17,
+      "text": "Figure 9 - Week 2 growth for unmolded pots. \n \n \nFigure 10 - Week 3 growth for unmolded pots. \n \n \nFigure 11 - Week 4 growth showing replanted pots and reduced mold growth.",
+      "char_count": 172,
+      "image_count": 9,
+      "tables": []
+    },
+    {
+      "page_number": 18,
+      "text": "Figure 12 - Week 5 growth. \n \n \nFigure 13 - Week 6 growth. \n \n \nFigure 14 - Week 7 growth.",
+      "char_count": 90,
+      "image_count": 9,
+      "tables": []
+    },
+    {
+      "page_number": 19,
+      "text": "Figure 15 - Week 8 growth.",
+      "char_count": 26,
+      "image_count": 3,
+      "tables": []
+    },
+    {
+      "page_number": 20,
+      "text": "Appendix B: Raw Temperature, pH, Stem Length, and Harvest Data \n \nTable 6 - Temperature Across 8 Week Growth Period \n \n \nTable 7 - pH Reports Across 8 Week Growth Period",
+      "char_count": 169,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 21,
+      "text": "Table 8 - Stem Length Measurements Across 8 Week Growth Period",
+      "char_count": 62,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 22,
+      "text": "Table 9 - Harvesting Measurements",
+      "char_count": 33,
+      "image_count": 1,
+      "tables": []
+    }
+  ]
+}

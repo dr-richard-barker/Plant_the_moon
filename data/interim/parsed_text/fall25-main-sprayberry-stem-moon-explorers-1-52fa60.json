@@ -1,0 +1,139 @@
+{
+  "report_id": "fall25-main-sprayberry-stem-moon-explorers-1-52fa60",
+  "sha256": "1f4be07d37df02178b1bb33d242a88fd8a86c0c7c461ae9d9cf4f709d2aa00e3",
+  "page_count": 14,
+  "total_chars": 15916,
+  "avg_chars_per_page": 1136.9,
+  "total_images": 14,
+  "table_count": 3,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Sprayberry STEM Moon Explorers 1 \n \nFaven Yacob, Nathan McGar, Harlow Zellers, Omotese Aikhuele,\u202fGarrett Lynch \nTeam #23441\u202f \nHigh School Division\u202f\u202f\u202f \nSprayberry STEM Academy",
+      "char_count": 174,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "text": "Background \nScientists need to develop independent life support systems for lunar missions to achieve \nsuccessful long-term exploration because these systems will reduce the requirement for costly \nEarth-based supply deliveries. The lunar agricultural system provides astronauts with fresh food \nthrough sustainable practices which supports their physical health through nutritious food and \ntheir mental health during extended space missions (NASA, 2019). The development of \ndependable plant cultivation systems for Moon surfaces will create essential nutrients which \nenables humans to maintain health while in space. \nLunar regolith differs significantly from Earth soil in both structure and composition. It \nlacks organic matter and contains minimal bioavailable nutrients, conditions that often result in \nstunted plant growth or complete failure when conventional crops are grown directly within it. \nThe regolith surface creates difficulties for plant growth because its rocky composition blocks \nroot penetration which prevents water absorption. The current conditions of lunar regolith make \ndirect cultivation of plants in this soil type unsuccessful until scientists develop suitable \nmodifications. For this reason, selecting crops that are naturally adapted to harsh, nutrient-poor \nenvironments is essential for lunar agricultural research. \n \nIn this experiment, we use Vigna unguiculata, commonly known as cowpeas as our crop. \nThe specific root structure of cowpeas together with their ability to thrive in different \nenvironments makes them an ideal crop for lunar farming operations. The plants thrive best in \ndry environments which include hot desert areas with drought conditions and weak soil and \ninsufficient water supply and low phosphorus levels (Sheahan, 2012). The plant survives harsh \nenvironmental conditions because it developed a strong taproot which enables it to find water in",
+      "char_count": 1914,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "text": "the soil while staying stable in areas with poor nutrients and rocky surfaces (Poudel et al.,2025). \nThe characteristics of cowpeas match the difficulties which lunar regolith presents so they show \npotential for lunar soil cultivation. \n \nThe process of plant development depends on two essential factors which include soil \ncomposition and gravitational forces. On Earth, plants rely on gravitropism, the ability of roots to \nsense and grow in the direction of gravitational pull (Herranz & Medina, 2014). Plants lose their \nability to detect gravity when they experience microgravity or reduced-gravity conditions which \noccur during Moon missions where gravity operates at one-sixth of Earth's strength. Plants that \nlose their root orientation will grow randomly which leads to poor space utilization and poor soil \nattachment and reduced water and nutrient access(Kiss, 2015). Research done demonstrates that \nplant roots become smaller while the complete plant mass reduces, which would result in major \ncrop production reductions unless suitable solutions are developed (Ferl & Paul, 2016). The use \nof water resources becomes less efficient when root systems lose their ability to absorb water \neffectively which results in decreased food production for lunar space exploration. \n \nThe natural geotropic behavior of cowpeas leads their taproots to grow downward \nbecause they follow Earth's gravitational force. In the absence of a dominant gravitational cue, \nsuch as on the Moon, this natural growth behavior becomes unreliable. Roots will develop \nrandomly when there is no correct direction to follow which will decrease the productivity of \nrestricted farming areas. The success of lunar crop cultivation depends on establishing an \nalternative cue which can function as a substitute for gravity. \n \nHydrogels show promise as a solution to this issue. Hydrogels function as water-\nabsorbing polymers which possess the ability to hold substantial water content while releasing",
+      "char_count": 1989,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "text": "water at controlled rates during extended periods. In our team\u2019s previous experiment, Evaluating \nthe Comparative Advantages of Hydrogels Versus Traditional Wicking Watering Method Across \nUniform Layers of Earth and Lunar Regolith on the Growth of Vigna unguiculata (Brathwaite et \nal.,2024), hydrogels significantly improved plant growth in lunar regolith simulant by delivering \nwater precisely where it was needed. The specific water delivery system achieved two main \nbenefits which included waste reduction and enhanced resource management efficiency for \nspace-based agricultural operations. \n \nOur study explores a novel application of hydrogels, controlling root directionality. The \nplacement of hydrogels throughout the growth medium serves to establish artificial directional \nsignals which root growth will follow. Roots will tend to move toward regions with better water \naccess when there are no powerful gravitational forces present. The application of hydrogels \nthrough this method enables root organization into structured patterns which help roots adapt to \nlower gravitational forces. The ability to direct root growth would allow farmers to optimize \nspace usage and increase planting numbers which would lead to enhanced crop yields within the \nlimited lunar habitat space. The method would serve as a vital component to establish sustainable \nlunar farming operations which would enable humans to stay on the Moon permanently. \nHypothesis \nOur team predicted that Vigna unguiculata roots will grow toward the hydrogel source. \nThis experiment tests how hydrotropism influences root directionality and determines if hydrogel \nplacement is a reliable predictor of root growth patterns in lunar regolith.",
+      "char_count": 1725,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "text": "Experimental Design \n \nBased on the success of one of our previous experiments (Brathwaite et al., 2024), our team \nadopted an ant farm design. The design was successful for its visibility advantages due to the \nwindows on each side of the farm, making data collection and root health monitoring efficient. The \ncurrent design also implements the irrigation system that was refined through previous experiments \nto distribute water in a controllable way and remain accessible to the plant. The use of this irrigation \nsystem is to negate the threat water poses to plants in microgravity, as water would otherwise cling \nto the plant and deprive it of oxygen.",
+      "char_count": 658,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "text": "Each farm has a standardized watering system that utilizes hydrogel\u2019s unique ability to \ncapture/retain water as a means of a water source. This watering system connects through a back \npanel of the farm to supply equal amounts of water to the differently arranged hydrogel sources \n(Figure 1). \nEach container is made up of two 20.32 x 25.4 cm glass panes set 1.27 cm apart from each \nother and is held together by 3D printed structures made of PLA plastic, shown in Figures 2 and 3. \nEach container holds exactly one seed, this was done in response to the change in regolith volume \nnew to this years competition. A central part of the experiment was to test the effects of vertical \nhydrogel sources placed at different distances from the seed. Each trial included a wide growing \nsection and a narrow vertical hydrogel water source section, with the hydrogel placed at increasing \ndistances from the side frame: 1 inch for Trial 1, 2 inches for Trial 2. In this way, each trial\u2019s roots \nwere able to demonstrate hydrotropism at different intensities depending on its initial distance from",
+      "char_count": 1092,
+      "image_count": 4,
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "text": "the water source. As a control, there was also a third trial with a horizontal hydrogel source, in \nwhich the water was accessible evenly for our plant\u2019s roots and could follow natural growth trends. \nThough our growth period was five weeks long, our team decided to meet up 3 times per \nweek to collect data. Each time our team met up to collect data, three designated team members \nwould grab their assigned trial/farm to begin data collection for the day. Each trial was measured by \nrecording data points such as: plant height from the top of the soil in centimeters, root distance from \nthe point in which the seed was planted in centimeters, and the amount of water remaining in the \nsource beaker in milliliters to a spreadsheet for further analysis. At the end of the measuring process \nthe beaker/water source was refilled up to 250 milliliters, no matter the water volume before \nmeasuring. \nVariables \nThe independent variable in this experiment was the distance of the hydrogel from the \nplant frame. Our team conducted three trials to determine which root direction would occur when \nhydrogel was used for placement. In Trial 1, the hydrogel was positioned 1 inch from the frame. \nIn Trial 2, the hydrogel was placed 2 inches from the frame. The control trial of Trial 3 used a \nhorizontal hydrogel layer which was placed 1 inch above the growth farm. Data was collected to \ndetermine which hydrogel distance produced the most significant change in root growth and \ndirectionality in the crops. \n \nThe dependent variable was the rate and direction of root growth toward the hydrogel \nacross the three trials. Our team used qualitative and quantitative data collection methods to \nstudy plant root development at different time intervals. Our team collected measurements and \nobservations throughout Tuesdays, Wednesdays and Fridays and documented plant development",
+      "char_count": 1877,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "text": "through photographic records on these specific days. This allowed for comparison of which \nhydrogel distance had the greatest effect on plant growth under these conditions. \nAll plants were grown under a single fume hood covered with UV film to block external \nUV rays. The experiment used one plant per farm for each trial while keeping the water amount \nin beakers at 250ml with distilled water. A single growth light was provided for each trial and \nremained on throughout the school day. Vigna unguiculata was the plant species in all trials and \nwas grown in a 25% Earth soil and 75% lunar regolith soil composition. \nResults \n \n \n \n \n \nThe most important trend appeared in the root growth toward the hydrogel data. The root \nsystem in Trial 1 continued to grow without pause from October 22 until November 7 before it",
+      "char_count": 823,
+      "image_count": 3,
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "text": "became dormant until November 21 when the hydrogel reached 1 inch from the frame. The roots \nfollowed the water source because the hydrogel placement near the plant resulted in successful \nroot direction. \n \nThe root growth in Trial 2 showed an initial increase when the hydrogel was positioned 2 \ninches from the frame during the period from October 22 to October 25 but it subsequently \ndecreased until November 1 before showing some recovery during November 14. The changing \npattern of root growth indicates that increased hydrogel separation between the roots made the \ndirectional moisture signal less effective which resulted in reduced root direction accuracy. The \ncontrol trial demonstrated root growth persistence until November 7 but the roots extended \ndirectly into the ground without any orientation toward water sources thus lacking directional \ngrowth control. \nThe experiments showed that root development expanded from October 22 until \nNovember 7 before it reached a stable point which continued until November 21. The growth \nframes reached their maximum capacity at the same point in every trial which indicates their \nphysical constraints rather than plant health deterioration caused this stabilization. The plants \nmaintained their aboveground growth throughout the research period while their plants stayed in \ngood health although their seed germination took longer than anticipated. \n The research data indicates that hydrogel placement affects root growth patterns because the \nhydrogel provides the most effective root direction when it is positioned 1 inch away from the \nframe. \nAnalysis",
+      "char_count": 1619,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "text": "Week 1(10/22-10/24) \n\u2022 Trial 1 shows clear signs of root growth following a \nschool extended weekend. \n\u2022 The germinated seeds were planted approximately \nfour days prior to this observation. \n\u2022 The plant shows no signs of stress or discoloration \nalso shows no signs of stress or discoloration \n \n \nWeek 2(10/28-10/31) \n\u2022 The roots have extended their length during week \ntwo when compared to the previous measurement \nwhich shows they are growing at a fast rate. \n\u2022 The leaves have turned a darker green. \n\u2022 At this stage, there is still no clear evidence of \nroots growing toward the hydrogel; however, \noverall plant health remains exceptional despite \nbeing grown in lunar regolith.",
+      "char_count": 686,
+      "image_count": 2,
+      "tables": [
+        [
+          [
+            "Week 1(10/22-10/24) \u2022 Trial 1 shows clear signs of root growth following a school extended weekend. \u2022 The germinated seeds were planted approximately four days prior to this observation. \u2022 The plant shows no signs of stress or discoloration also shows no signs of stress or discoloration",
+            ""
+          ],
+          [
+            "Week 2(10/28-10/31) \u2022 The roots have extended their length during week two when compared to the previous measurement which shows they are growing at a fast rate. \u2022 The leaves have turned a darker green. \u2022 At this stage, there is still no clear evidence of roots growing toward the hydrogel; however, overall plant health remains exceptional despite being grown in lunar regolith.",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 11,
+      "text": "Week 3(11/3-11/7) \n\u2022 The roots begin to show a clear diagonal growth \ntrend toward the hydrogel, indicating the onset of \ndirectional root response. \n\u2022 The leaves kept their natural color and structure \nmaintaining its general health while its growth \ndirection moved toward the hydrogel. \n\u2022 Shows a start of the roots running out of room in \nthe growth frame. \n \nWeek 4(11/10-14) \n\u2022 Root growth had reached the bottom of the growth \nframes, while the diagonal growth pattern toward \nthe hydrogel was maintained. \n\u2022 Overall plant height continued to increase, and a \ngreater number of roots made direct contact with \nthe hydrogel.",
+      "char_count": 630,
+      "image_count": 2,
+      "tables": [
+        [
+          [
+            "Week 3(11/3-11/7) \u2022 The roots begin to show a clear diagonal growth trend toward the hydrogel, indicating the onset of directional root response. \u2022 The leaves kept their natural color and structure maintaining its general health while its growth direction moved toward the hydrogel. \u2022 Shows a start of the roots running out of room in the growth frame.",
+            ""
+          ],
+          [
+            "Week 4(11/10-14) \u2022 Root growth had reached the bottom of the growth frames, while the diagonal growth pattern toward the hydrogel was maintained. \u2022 Overall plant height continued to increase, and a greater number of roots made direct contact with the hydrogel.",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 12,
+      "text": "Conclusion \nOur results indicate that hydrogel placement at specific locations can establish artificial \ngrowth directions through moisture distribution, which leads roots toward specific directions \nwhen gravitational forces are weak. The experimental data obtained will help researchers design \nupcoming investigations to determine how hydrogel amount and position and water amount \naffect root growth. The study needs improvement through two main aspects which involve \ndecreasing water intake and minimizing the amount of hydrogel used. The experiment would \nproduce better evidence about hydrogel guidance, causing directionality if maintaining a fixed \n200 mL water volume at the start. Using a reduced and controlled water amount would also help \ndetermine whether directionality can be achieved with less water, making the system more cost-\nefficient and practical for future applications. The results establish essential knowledge which \nwill help scientists develop better hydrogel-based systems for space-efficient lunar crop \ncultivation. \n \nWeek 5(11/17-11/21) \n\u2022 Half of the root system established direct contact \nwith hydrogel. \n\u2022 Roots on the side closest to the hydrogel were \nnoticeably longer and more developed, while roots \non the opposite side, away from the hydrogel, \nremained smaller.",
+      "char_count": 1310,
+      "image_count": 1,
+      "tables": [
+        [
+          [
+            "Week 5(11/17-11/21) \u2022 Half of the root system established direct contact with hydrogel. \u2022 Roots on the side closest to the hydrogel were noticeably longer and more developed, while roots on the opposite side, away from the hydrogel, remained smaller.",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 13,
+      "text": "References \nBrathwaite, B., Dang, E.,Jackson, K., Jimenez, D., Lynch, G., Mayes, H., McGar, N., Tabb, \nM., Yacob,F., Zhang, J.(2024). Evaluating the comparative advantages of hydrogels versus \ntraditional wicking watering method across uniform layers of earth and lunar regolith on the \ngrowth of Vigna unguiculata \nFerl, R. J., & Paul, A. L. (2016). The effect of spaceflight on the gravity-sensing auxin gradient \nof roots: GFP reporter gene microscopy on orbit. npj Microgravity, 2, 15023. \nhttps://doi.org/10.1038/npjmgrav.2015.23 \nHerranz, R., & Medina, F. J. (2014). Cell proliferation and plant development under novel \naltered gravity environments. Plant Biology, 16(S1), 23\u201330. \nhttps://doi.org/10.1111/plb.12036 \nKiss, J. Z. (2015). Plant biology in reduced gravity on the Moon and Mars. Plant Biology, \n17(S1), 74\u201382. https://doi.org/10.1111/plb.12231 \nNASA. (2019). What is Artemis? NASA. https://www.nasa.gov/general/what-is-artemis/ \nPoudel, S., Sankarapillai, L. V., & Bheemanahalli, R. (2025, May 19). Cowpea: A nutrient-rich \npulse for extreme environments. CSA News. \nhttps://www.sciencesocieties.org/publications/csa-news/2025/may/cowpea-a-nutrient-\nrich-pulse-for-extreme-environments \nSheahan, C. M. (2012). Plant guide for cowpea (Vigna unguiculata). USDA Natural Resources \nConservation Service, Cape May Plant Materials Center. \nhttps://plants.usda.gov/DocumentLibrary/plantguide/pdf/pg_viun.pdf",
+      "char_count": 1419,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 14,
+      "text": "",
+      "char_count": 0,
+      "image_count": 0,
+      "tables": []
+    }
+  ]
+}

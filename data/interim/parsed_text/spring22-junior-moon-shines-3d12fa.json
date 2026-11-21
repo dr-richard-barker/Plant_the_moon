@@ -1,0 +1,68 @@
+{
+  "report_id": "spring22-junior-moon-shines-3d12fa",
+  "sha256": "4be971985d6f494c1167aa3e6a9db683edd9b6e5a834179bf9930c027bd3d52d",
+  "page_count": 2,
+  "total_chars": 2737,
+  "avg_chars_per_page": 1368.5,
+  "total_images": 6,
+  "table_count": 1,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Team: MoonShines!\nTeam # 9297\nElementary Division\nThe Effect of Moon Soil on Radish and Bush Bean Growth\nHYPOTHESIS\nThe MoonShines are trying to see what grows best on the moon between radish and bush bean. We are also\ntesting what the best percent is of lunar soil to Earth soil.\u00a0\nThe team\u2019s hypothesis is that the more lunar soil the plant grows in, the slower or less it will grow. We also\nthink the beans will grow better because the radishes grow more under the soil.\nMATERIALS & METHODS\nMaterials used in this experiment were the following: 10 pots (5/plant type), radish and bush bean seeds, Lunar\nsoil, earth soil (potting soil), fertilizer, plastic labels, digital food scale, ruler, and pH paper.\nA digital food scale was used to determine percentages of soil for each pot. The pots had different percentages\nof Lunar soil to earth soil but were all fertilized and watered equally. Our control was 100% earth soil.\nPot\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\nSoil\n100%\nEarth\n50%\nmoon/\n50% Earth\n66%\nmoon/\n33%\nEarth\n75%\nmoon/\n25%\nEarth\n100%\nmoon\n100%\nEarth\n50%\nmoon/\n50%\nEarth\n66%\nmoon/\n33%\nEarth\n75%\nmoon/\n25%\nEarth\n100%\nmoon\nCrop\nRadish\nRadish\nRadish\nRadish\nRadish\nBush\nbeans\nBush\nbeans\nBush\nbeans\nBush\nbeans\nBush\nbeans\nTable 1. Crop, and lunar soil to earth soil percentage per pot\nThe pots were labeled and 3 seeds of either radish or bush beans were planted. All pots were kept\nunder the same grow lights with the same amount of light per day. The team measured height of each\nplant, pH of each pot, and took pictures of the plants weekly.\nFigure 1: (A) Pots under grow lights. (B) two of the MoonShines team members observing the growth. (C) measuring plant growth. (D) Plants\ngrowing in the labeled pots.\nRESULTS\nThe pH of the soil stayed consistent throughout the experiment. It was between 7 and 9. Our tallest plant was\n15.75 inches high. It was pot #8. This surprised us because it had more lunar soil than Earth soil. The beans\nalso began growing up to 4-inch beans. Even though, the radish plants grew, but there were no radishes\nunder the soil.",
+      "char_count": 2048,
+      "image_count": 2,
+      "tables": [
+        [
+          [
+            "Pot",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ],
+          [
+            "Soil",
+            "100% Earth",
+            "50% moon/ 50% Earth",
+            "66% moon/ 33% Earth",
+            "75% moon/ 25% Earth",
+            "100% moon",
+            "100% Earth",
+            "50% moon/ 50% Earth",
+            "66% moon/ 33% Earth",
+            "75% moon/ 25% Earth",
+            "100% moon"
+          ],
+          [
+            "Crop",
+            "Radish",
+            "Radish",
+            "Radish",
+            "Radish",
+            "Radish",
+            "Bush beans",
+            "Bush beans",
+            "Bush beans",
+            "Bush beans",
+            "Bush beans"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "Team: MoonShines!\nTeam # 9297\nElementary Division\nFigure 2: The growth of the Radishes in the different pots of 10 weeks\nFigure 3: The growth of the Bush beans in different pots over 10 weeks\nCONCLUSION:\nThe team concluded that the Bush Beans would\ngrow better on the moon. They had more height\ngrowth than the radishes. They also produced\nbeans that could be eaten, while the radishes did\nnot produce any radishes under the soil. We all\nnoticed how dense the lunar soil is. We decided\nthat because it was so dense, the roots of the\nplants could not grow very well or push\nthemselves through it. That means they could\nnot get the nutrients they needed.\nFigure 4: No radishes were produced.",
+      "char_count": 689,
+      "image_count": 4,
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "report_id": "fall23-junior-sachsonville-scientists-94560e",
+  "sha256": "2a44eb95043737cc64e7d7affb4001d5a27171bf13539a7638bdef86682ff65b",
+  "page_count": 7,
+  "total_chars": 7646,
+  "avg_chars_per_page": 1092.3,
+  "total_images": 12,
+  "table_count": 11,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Plant Mars vs. Plant the Moon\nTeam Name: Sachsonvile Scientists\nTeam # 16283\nMiddle School Division\nBackground and Experimental Design:\nLast year, team Sachsonville planted in Lunar regolith. This year, the team planted in Martian regolith. The team wanted to\ncompare the growth rate of microgreens between Lunar regolith and Mars regolith.\nIndependent Variable(s)\nType of regolith\nDependant Variable(s)\nThe growth of microgreens measured in grams between Mars regolith and Lunar regolith.\nControls\n\u25cf\nThe amount of light\n\u25cf\nThe soil mixture\n\u25cf\nThe tray size\n\u25cf\nThe amount of water\n\u25cf\nBlackout period\n\u25cf\nThe weighting of each tray during blackout\nProject Hypothesis\nWill microgreens produce better in Lunar regolith than Mars regolith?\nExperimental Design and Procedures\nGrow Period #1\n1.\nMix 50% of regolith, 25% of expand and grow, and 25% potting soil.\n2.\nSeparate the regolith mix into 7 trays.\n3.\nSoak the seeds overnight.\n4.\nSpread the 6 different seeds on top of the 6 different trays.\n5.\nSpray the seeds with water\n6.\nPut the seeds in a weighted blackout for three days\n7.\nTake the seeds out of blackout\n8.\nTurn on grow lights\n9.\nWater every other day\n10. Measure and record pH weekly\n11. Harvest after 2 weeks\n12. Weigh the harvested microgreens in grams\n` Grow Period #2\n1.\nThe leftover plant matter and mixed it in with the leftover soil\n2.\nRepeat steps 3-12 in Grow Period #1\nGrow Pot Setup\n1: Broccoli",
+      "char_count": 1408,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "text": "2022 Lunar Regolith\nWeek 1\nWeek 2\nWeek 3\nWeek 4\nWeek 5\nWeek 6\n7pH\n7pH\n7pH\n8pH\n8pH\n7pH\n2023 Mars Regolith\nWeek 1 (10/6)\nWeek 2 (10/12)\nWeek 3 (10/20)\nWeek 4 (11/1)\nWeek 5 (11/7)\nWeek 6 (11/17)\n7 pH\n7.5 pH\n7 pH\n7.5 pH\n7.5 pH\n8 pH\nResults statement from Grow Period #1 (Mars 2023): During the first growth period, the broccoli grew quickly and it\nbecame very thick, which made it hard to harvest. Despite that, it grew successfully. The total weight of the broccoli was\n712 grams.\nResults statement from Grow Period #2 (Mars 2023): During the second growth period, it was growing slower than the\nfirst growth period due to the fact that the broccoli group did not soak the seeds. Despite not soaking the seeds in this\ngrowing period, the broccoli still grew successfully. The weight of the Broccoli Microgreens was 523 grams.\nComments: The Broccoli Microgreens grew successfully and astronauts will be able to eat nutritious foods in space. The\nbroccoli had a good flavor and grew perfectly. Compared to the Lunar soil last year, it weighed less compared to the Mars\nRegolith. In total, the weight of the broccoli in grams was 1,235 for this year.\n2022 Lunar\n2023 Mars\n2: Kale\n2022 Lunar Regolith\n2023 Martian Regolith\nWeek 1\nWeek 2\nWeek 3\nWeek 4\nWeek 5\nWeek 6\n7 pH\n7 pH\n7.5pH\n7.5 pH\n7.75pH\n7.75 pH\nResults statement from Grow Period #1: In the first growing period, there were some spots that did not grow as good\nas others. This was because some seeds were mixed underneath the regolith when the seeds were placed on top.\nWeek 1\nWeek 2\nWeek 3\nWeek 4\nWeek 5\nWeek 6\n7 pH\n7 pH\n9pH\n8pH\n8pH\n9pH",
+      "char_count": 1588,
+      "image_count": 2,
+      "tables": [
+        [
+          [
+            "Week1",
+            "Week2",
+            "Week3",
+            "Week4",
+            "Week5",
+            "Week6"
+          ],
+          [
+            "7pH",
+            "7pH",
+            "7pH",
+            "8pH",
+            "8pH",
+            "7pH"
+          ]
+        ],
+        [
+          [
+            "Week1(10/6)",
+            "Week2(10/12)",
+            "Week3(10/20)",
+            "Week4(11/1)",
+            "Week5(11/7)",
+            "Week6(11/17)"
+          ],
+          [
+            "7pH",
+            "7.5pH",
+            "7pH",
+            "7.5pH",
+            "7.5pH",
+            "8pH"
+          ]
+        ],
+        [
+          [
+            "Week1",
+            "Week2",
+            "Week3",
+            "Week4",
+            "Week5",
+            "Week6"
+          ],
+          [
+            "7pH",
+            "7pH",
+            "9pH",
+            "8pH",
+            "8pH",
+            "9pH"
+          ]
+        ],
+        [
+          [
+            "Week1",
+            "Week2",
+            "Week3",
+            "Week4",
+            "Week5",
+            "Week6"
+          ],
+          [
+            "7pH",
+            "7pH",
+            "7.5pH",
+            "7.5pH",
+            "7.75pH",
+            "7.75pH"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "Results statement from Grow Period #2: Growing was faster than growth period 1, and the results we got back were\noutstanding. The weight was higher and there were not as many spots that didn\u2019t grow as well.\nComments: For the second growing period, we mixed up \u00bd of the regolith mixture, and flipped the other half. Both sides\nwere just as equal. The side that was flipped, was cut in rows vertically and horizontally with a plastic knife to facilitate\ngrowth.\nLunar 2022\nMars 2023\n3: Dandelion\n2022 Lunar Regolith\nWeek 1\nWeek 2\nWeek 3\nWeek 4\nWeek 5\nWeek 6\n7pH\n7pH\n8pH\n8pH\n8pH\n8pH\nWatercress\n2023 Mars Regolith\nWeek 1\nWeek 2\nWeek 3\nWeek 4\nWeek 5\nWeek 6\nWeek 7\n7.5\n7\n7\n7.5\n8\n7.5\nResults statement from Grow Period #1: The dandelion\u2019s did not grow very much throughout the first growth period.\nThe dandelions then started to develop white fungi across the dirt and on their stems. Watercress also did not grow very\nwell in the first period.\nResults statement from Grow Period #2: There was no second growth period as the dandelions did not produce\nenough growth to harvest after the first growing period. So they just continued to grow in the first growth period.\nWatercress also did not grow very well throughout the second growth period. Watercress were harvested after the first\ngrowth period but dandelions were not harvested.\nComments: Watercress and dandelions did not grow well enough to make sure the astronauts have enough to eat.",
+      "char_count": 1436,
+      "image_count": 2,
+      "tables": [
+        [
+          [
+            "Week1",
+            "Week2",
+            "Week3",
+            "Week4",
+            "Week5",
+            "Week6"
+          ],
+          [
+            "7pH",
+            "7pH",
+            "8pH",
+            "8pH",
+            "8pH",
+            "8pH"
+          ]
+        ],
+        [
+          [
+            "Week1",
+            "Week2",
+            "Week3",
+            "Week4",
+            "Week5",
+            "Week6",
+            "Week7"
+          ],
+          [
+            "7.5",
+            "7",
+            "",
+            "7",
+            "7.5",
+            "8",
+            "7.5"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "Lunar 2022\nMars 2023\n4: Mung Bean\n2022 Lunar regolith\nWeek 1:\nWeek 2:\nWeek 3:\nWeek 4:\nWeek 5:\nWeek 6:\n8 pH\n8 pH\n7 pH\n8 pH\n8 pH\n10 pH\n2023 Mars regolith\nWeek 1\nWeek 2\nWeek 3\nWeek 4\nWeek 5\n7 pH\n7 pH\n7 pH\n7 pH\n7.5 pH\nResults statement from Grow Period #1: Using a regolith/expand-and-grow mixture, the group planted the microgreens\nin a container with drainage holes, and the beans were in a blackout period and weighed them down using a book. The\nbeans were watered daily, the pH was measured weekly. The group harvested \u00bc of the plants. The group harvested a\nsecond time as well.\nResults statement from Grow Period #2: After the group harvested the beans from Grow Period #1, the remaining soil\nwas flipped, turned over, and holes were poked in the soil. The group spread the microgreens over the newly flipped soil,\nand put the beans in a blackout period, using a book to weigh the microgreens down. Again, the plants were watered\ndaily, and the group tested the pH of the beans weekly. In week 7, the group harvested.\nComments: The Mung beans did better in the 1st growth period than the 2nd because the seeds were soaked more.\nThere was also more mold in the second growth period\n2022 Lunar\n2023 Mars",
+      "char_count": 1202,
+      "image_count": 4,
+      "tables": [
+        [
+          [
+            "Week1:",
+            "Week2:",
+            "Week3:",
+            "Week4:",
+            "Week5:",
+            "Week6:"
+          ],
+          [
+            "8pH",
+            "8pH",
+            "7pH",
+            "8pH",
+            "8pH",
+            "10pH"
+          ]
+        ],
+        [
+          [
+            "Week1",
+            "Week2",
+            "Week3",
+            "Week4",
+            "Week5"
+          ],
+          [
+            "7pH",
+            "7pH",
+            "7pH",
+            "7pH",
+            "7.5pH"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 5,
+      "text": "5: Mustard\n2023 Mars Regolith\nResults statement from Grow Period #1: The first growth period was very successful and the Mustard microgreens\ngrew a lot. There weren't very many problems.\nResults statement from Grow Period #2: In the second growth period the Mung Beans grew mold and the overall plant\ngrowth staggered. There was more open space throughout the tray and some seeds did not grow all the way. This\nhappened because the seeds were not soaked, unlike the first growth period where they were soaked.\nComments: There was no comparison of mustard in the Lunar soil.\n6: Radish\nLunar 2022\nMars 2023\nResults statement from Grow Period #1(Mars 2023): The first harvest went successfully, it weighed\n1370 grams, and took two weeks.\nResults statement from Grow Period #2(Mars 2023): The second harvest was worse than the first, this happened\nbecause the seeds were not soaked prior to planting. Another factor might have been reusing the soil from the prior\nplanting.\nWeek 1:\nWeek 2;\nWeek 3:\nWeek 4:\n(regrow)\nWeek 5:\nWeek 6:\n7 pH\n7 pH\n7.5 pH\n7.5 pH\n7.5 pH\n8 pH\nWeek 1\nWeek 2\nWeek 3\nWeek 4\nWeek 5\nWeek 6\n7pH\n8pH\n7pH\n8pH\n8pH\n7pH\nWeek 1 (9/29)\nWeek 2 ( 10/6)\nWeek 4 (10/12)\nWeek 5 (10/20)\nWeek 6 (10/26)\nWeek 7 (11/17)\n7.5\n7.25\n7\n7.5\n7.75\n7.5",
+      "char_count": 1241,
+      "image_count": 1,
+      "tables": [
+        [
+          [
+            "Week1:",
+            "Week2;",
+            "Week3:",
+            "Week4: (regrow)",
+            "Week5:",
+            "Week6:"
+          ],
+          [
+            "7pH",
+            "7pH",
+            "7.5pH",
+            "7.5pH",
+            "7.5pH",
+            "8pH"
+          ]
+        ],
+        [
+          [
+            "Week1",
+            "Week2",
+            "Week3",
+            "Week4",
+            "Week5",
+            "Week6"
+          ],
+          [
+            "7pH",
+            "8pH",
+            "7pH",
+            "8pH",
+            "8pH",
+            "7pH"
+          ]
+        ],
+        [
+          [
+            "Week1(9/29)",
+            "Week2(10/6)",
+            "Week4(10/12)",
+            "Week5(10/20)",
+            "Week6(10/26)",
+            "Week7(11/17)"
+          ],
+          [
+            "7.5",
+            "7.25",
+            "7",
+            "7.5",
+            "7.75",
+            "7.5"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 6,
+      "text": "Comments: The harvest was very successful and showed the progression over the 8 week period. The microgreens\ngrew much better when they were soaked overnight, the second harvest was not soaked.\nLunar (2022)\nMars (2023)\nComparison of Microgreen Growth in Lunar and Mars Regolith\nAnalysis and Conclusions",
+      "char_count": 302,
+      "image_count": 3,
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "text": "Overwhelmingly, the microgreens grew substantially better in the Mars regolith, than the Lunar\nregolith.\nThe astronauts would have food within 2 weeks. The regolith mix can be reused immediately after\nharvesting to grow the microgreens again. Radish, Kale and Mung Bean seemed to have the best\ngrowth in both Mars and Lunar regolith. The Mars harvest was 6,543 grams and the Lunar harvest\nwas 1,459 grams. This data proves that microgreens grow better in Mars regolith.",
+      "char_count": 469,
+      "image_count": 0,
+      "tables": []
+    }
+  ]
+}

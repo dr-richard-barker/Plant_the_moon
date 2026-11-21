@@ -1,0 +1,213 @@
+{
+  "report_id": "fall24-junior-the-major-mooners-448e60",
+  "sha256": "17b2d66983fe11a5f16a5796ffd785934108a65cbbfe6939657aa68bf2d19824",
+  "page_count": 10,
+  "total_chars": 16211,
+  "avg_chars_per_page": 1621.1,
+  "total_images": 38,
+  "table_count": 8,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "\u201cAnalysis of Urine Dilutions on the Growth of\nSwiss Chard in 50/50 Earth-Lunar Simulant\u201d\nThe MAJOR MOONERS\n8th Grade Participants\nGrace Lutheran School\nPocatello, Idaho\nDecember 2024\nBACKGROUND/REASONING: Why did you choose your experiment category (Moon simulant) and your particular\nindependent and dependent variables?\nTwo years ago our school celebrated the launch of Artemis I and was excited to follow the journey back\nto our moon. We chose the lunar simulant because we are following the Artemis mission and excited to\ncontribute in whatever way possible. We considered what it would take to grow food for astronauts in space\nand didn\u2019t want to add to the payload, so we researched low-cost, sustainable and renewable gardening\nmethods. Using urine as a fertilizer would allow the astronauts to recycle their waste and conserve precious\ncargo room. Therefore, we agreed to use urine dilutions as the independent variables in our experiment.\nUrine as a fertilizer has been utilized for many years worldwide. Rather than flushing urine away, it\ncould be used to supply precious minerals and nutrients to plants like nitrogen, phosphorus,\npotassium, magnesium, calcium, and sulfur. According to the Rich Earth Institute, one gallon of urine contains\n0.05 pounds of nitrogen, 0.008 pounds of phosphorus, and 0.017 pounds of potassium.\nIn another study\nreported by Peter Morgan, urine was applied to several crops including spinach and other nitrogen loving\nplants and plant growth was up to seven times improved. They used a 1:3 urine dilution and applied it more\nfrequently than our plans could accommodate.\nWe were also wary about using too much urine as that could\ncause nutrient burn and harm the plants.\nThe dependent variables were chosen based on the idea that the following plant growth parameters,\nplant height, leaf and stem length, number and color of leaves and overall plant mass, would show\nimprovement with the addition of urine because of its high nitrogen and mineral value. Nikhil Kishor et al.\nreported diluted urine at 30% improved plant leaf growth and amount of chlorophyll, which we understood to be\nleaf growth. Looking at photographs in other studies like Peter Morgan\u2019s, we noticed that the increase in plant\nmass was visually evident.\nInitially, we were interested in studying spinach because it has been used in a variety of space\ngardening experiments because of its reliability and nutritional value. We then discovered Swiss Chard as an\nalternative because it had a very similar germination rate but was not day-length responsive, meaning it would\nnot bolt if subject to changing environmental conditions like light and temperature. Swiss Chard is hearty, easy\nto grow, and offers more vitamin C, choline and B5 than spinach. Finally, it offers the astronauts a variety!\nVARIABLES:\nINDEPENDENT VARIABLE(s): The independent variables are the additions of urine as a fertilizer due\nto its high nitrogen content. The following dilutions of urine with distilled water will be applied to the\nseedlings twice during the growing period: Distilled water (control), Undiluted urine, 1:1, 1:4 and 1:8.\nDEPENDENT VARIABLE(s): The dependent variable is the observed growth of the Swiss Chard\nseeds. This will be measured as the height of the plant (cm), length of longest leaves (cm), length of\nstem (cm), number and color of leaves, final plant mass and overall health.",
+      "char_count": 3392,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "text": "CONTROLS/CONSTANTS:\n* soil mixture (50/50 lunar regolith simulant & Miracle Grow Garden Soil: Vegetable & Herbs)\n* 300 grams of soil mixture per pot\n* filtered water from fountain (all pots received the same amount of water)\n* two seeds per pot planted at a depth of 1/2 inch\n* same light, temperature and humidity exposure\n* Swiss Chard Ruby Red (Beta vulgaris subsp. vulgaris) from Organo Republic www.organorepublic.com\nHYPOTHESIS:\nWe think that by adding diluted urine as a source of nitrogen will enhance the growth of swiss chard because\nswiss chard is a nitrogen-needy plant. Urine is an excellent fertilizer when used correctly. According to the Rich\nEarth Institute, no standard urine:water dilution exists but a range of 1:3 to 1:5 is the most common. Therefore, we\nhypothesized that the 1:4 dilution will work best without the fear of overfertilizing the plants.\nEXPERIMENTAL RATIONAL: What is the overall value your experiment brings to the scientific community?\nBy experimenting with alternative fertilizers, lunar soils, and various vegetable species, we aim to\nprovide the scientific community with innovative options for establishing living colonies on the moon. A 50/50\nmix of lunar simulant and Earth soil can minimally support plant growth. However, when supplemented with a\n1:1 urine-to-water additive, the plants exhibited robust growth. Even weaker dilutions demonstrated enhanced\ngrowth compared to no fertilizer at all.\nUrine is an economical and accessible fertilizer that should not be overlooked. The students involved in\nthis study dedicated their time and effort in the hope that their findings will contribute to future experiments and\nsupport advancements in space exploration and sustainable farming.\nGROW POT SETUP:\nPot label:\nU1\nU2\nU3\nU4\nU5\nU6\nU7\nU8\nCA\nCB\nSubstrate\n300 g\n50/50\nsoil/lunar\nmix\n300 g\n50/50\nsoil/lunar\nmix\n300 g\n50/50\nsoil/lunar\nmix\n300 g\n50/50\nsoil/lunar\nmix\n300 g\n50/50\nsoil/lunar\nmix\n300 g\n50/50\nsoil/lunar\nmix\n300 g\n50/50\nsoil/lunar\nmix\n300 g\n50/50\nsoil/lunar\nmix\n300 g\n50/50\nsoil/lunar\nmix\n300 g\n50/50\nsoil/lunar\nmix\nAmendment\n(2x)\nPure\nUrine\nPure\nUrine\n1:8\n1:8\n1:4\n1:4\n1:1\n1:1\nnone\nnone",
+      "char_count": 2140,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Pot label:",
+            "U1",
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U6",
+            "U7",
+            "U8",
+            "CA",
+            "CB"
+          ],
+          [
+            "Substrate",
+            "300g 50/50 soil/lunar mix",
+            "300g 50/50 soil/lunar mix",
+            "300g 50/50 soil/lunar mix",
+            "300g 50/50 soil/lunar mix",
+            "300g 50/50 soil/lunar mix",
+            "300g 50/50 soil/lunar mix",
+            "300g 50/50 soil/lunar mix",
+            "300g 50/50 soil/lunar mix",
+            "300g 50/50 soil/lunar mix",
+            "300g 50/50 soil/lunar mix"
+          ],
+          [
+            "Amendment (2x)",
+            "Pure Urine",
+            "Pure Urine",
+            "1:8",
+            "1:8",
+            "1:4",
+            "1:4",
+            "1:1",
+            "1:1",
+            "none",
+            "none"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "PROCEDURES: Describe the grow setup, schedule and method your team used to test the hypothesis and record data.\nSET UP\n\u25cf\nPut on our masks and gloves and\nprep a draft free area to mix soils.\n\u25cf\nUsing a digital scale, measure and\nthoroughly mix 1500 grams each of\nlunar regolith and Miracle Grow soil\ncreating 3000 grams of soil mixture.\n\u25cf\nMeasure 300 grams of soil per pot\nand label each pair of pots as follows:\ncontrol, 1:1 urine, 1:4 urine, 1:8 urine,\npure urine.\n\u25cf\nPlant 2 SWISS CHARD seeds 1/2\ninch into each pot using a marked\nglass rod.\n\u25cf\nWater each pot with 20 ml of water.\nSpray each surface 10 times.\n\u25cf\nPut pots inside the classroom\ngreenhouse. Monitor each pot for\nsigns of germination and moisture\nlevels.\nMAINTENANCE/\nWEEKLY PROTOCOL\n\u25cf\nWater plants Mon-Wed-Fri using\ngraduated cylinders and filtered water\nfrom the hall fountain. Amount will\nchange as needed with all pots\nreceiving the same amount each time.\nAverage increase was about 10 ml\nper week.\n\u25cf\nRecord the following when watering:\nvolume of water in mL, temperature\ndegrees F using digital thermometer,\n% humidity using the digital thermometer, pH using the probe, germination and interesting observations.\n\u25cf\nRecord the following data on Wednesdays into data chart: plant height (cm), stem height (cm), longest\nleaf length (cm), # of leaves, leaf color, and overall health.\n\u25cf\nClean up area.\nFINAL DATA GATHERING\n\u25cf\nEach plant was trimmed at the very base and the mass was measured immediately in gram to lessen the\neffects of water loss. Our balance only measured the whole number. Averages were calculated.\nEXPERIMENT\n\u25cf\nObtain 100 ml clean, sterile urine sample (from a drug/medicine free adult) for use that day. Freeze the\nrest for the second application.\n\u25cf\nThe amendments were created using the following ratios:\nPure Urine (U1-2)\n1:8 (U3-4)\n1:4 (U5-6)\n1:1 (U7-8)\nControl (CA, CB)\n\u2014-\n40 ml distilled water\n20 ml distilled water\n15 ml distilled water\n20 ml distilled water\n20 ml urine\n5 ml urine\n5 ml urine\n15 ml urine\n\u2014\n\u25cf\nUse a plastic pipette to apply 20 ml of the amendment, 1 inch deep into the soil so that the urine does not\nevaporate and/or smell.\n\u25cf\nRepeat one week after initial application using thawed urine sample. Our application weeks were 5 & 6 as\nwe wanted to fertilize once they were well established.",
+      "char_count": 2290,
+      "image_count": 1,
+      "tables": [
+        [
+          [
+            "PureUrine(U1-2)",
+            "1:8(U3-4)",
+            "1:4(U5-6)",
+            "1:1 (U7-8)",
+            "Control(CA,CB)"
+          ],
+          [
+            "\u2014-",
+            "40mldistilledwater",
+            "20mldistilledwater",
+            "15mldistilledwater",
+            "20mldistilledwater"
+          ],
+          [
+            "20mlurine",
+            "5mlurine",
+            "5mlurine",
+            "15mlurine",
+            "\u2014"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "DATA COLLECTION: List and organize your results.",
+      "char_count": 48,
+      "image_count": 8,
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "text": "ANALYSIS: Summarize and draw meaning from your findings and results.\nThe pure urine and 1:1 dilution showed the\ntallest plant growth. The plant without any urine\nwas the shortest. Even though the plants were\nequidistant from the light source, this value\nwasn\u2019t as important to us because leaf growth\nwould offer more nutritional value to astronauts.\nWe were pleased to see that the control (no\nurine) had the lowest average of leaves per plant\nand the 1:1 urine dilution had the most.\nInterestingly enough the 1:4 dilution (our\nhypothesis) had the same as no urine at all and\nthe other dilutions ranked at varying degrees.\nThis confused us- and more research would\nneed to be done to explain this data set.\nInterestingly, the plant without any fertilizer\nshowed the longest stem growth. This took the\nstudents by surprise! They came to understand\nthe descriptive term \u201clegginess\u201d as a plant is\nstriving to reach the light source. The controls\nwere exposed to the exact amount of light as the\nothers, so it was probably due to nutrient\ndeficiency. All dilutions of urine had nearly the\nsame effect on stem length.",
+      "char_count": 1112,
+      "image_count": 3,
+      "tables": [
+        [
+          [
+            "",
+            "The pure urine and 1:1 dilution showed the tallest plant growth. The plant without any urine was the shortest. Even though the plants were equidistant from the light source, this value wasn\u2019t as important to us because leaf growth would offer more nutritional value to astronauts."
+          ],
+          [
+            "",
+            "We were pleased to see that the control (no urine) had the lowest average of leaves per plant and the 1:1 urine dilution had the most. Interestingly enough the 1:4 dilution (our hypothesis) had the same as no urine at all and the other dilutions ranked at varying degrees. This confused us- and more research would need to be done to explain this data set."
+          ],
+          [
+            "",
+            "Interestingly, the plant without any fertilizer showed the longest stem growth. This took the students by surprise! They came to understand the descriptive term \u201clegginess\u201d as a plant is striving to reach the light source. The controls were exposed to the exact amount of light as the others, so it was probably due to nutrient deficiency. All dilutions of urine had nearly the same effect on stem length."
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 6,
+      "text": "We were excited to see that the average longest\nleaf length belonged to the plants with the 1:4\nurine dilution, but shared that place with the 1:1\ndilution as well.\nThe plant with straight urine showed second to\nsmallest average leaf length. This we\nunderstood as too much nitrogen that can\ninterfere with photosynthetic activity.\nThe final average plant masses showed that the\n1:1 dilution produced more plant mass than any\nother dilution. We were happy to see that the\n1:4 dilution was next, and it was no surprise to\nsee the plant with no urine have the lowest\nmass.\nCONCLUSIONS: Reflect on the season- what did you learn? What\u2019s the coolest thing you discovered?\nOur data did not support our hypothesis, as the 1:4 urine-to-distilled-water ratio did not have the most\nsignificant positive effect on the growth of Swiss chard plants. Instead, the 1:1 urine dilution yielded the best\nresults, producing the highest wet mass, the longest leaves, and the greatest number of leaves.\nThe students gained valuable insights through this experiment. Many found it fascinating to learn how\nurine can benefit plant growth, even though using it was initially considered \u201cawkward\u201d for middle school\nstudents. One student was particularly impressed by the ability of a simple 50/50 mix of lunar simulant and\nEarth soil to support plant growth, especially after researching the challenging properties of lunar regolith, such\nas its pH and soil structure.\nDuring the growing phase, students observed how plants respond to environmental factors like light\nand temperature. For example, the control plants, which lacked any fertilizer, became \u201cleggier,\u201d indicating they\nwere stretching their stems to move their leaves closer to the light source and improve photosynthetic activity.\nFUTURE CONSIDERATIONS: What changes or improvements would you consider if you repeated the experiment?\nSince this was the first time conducting an experiment requiring precise measurements over a long\nperiod, we honored everyone\u2019s request to collect plant measurements. To reduce human error and\ninconsistencies, we would plan to assign specific persons to handle measurements. We also propose to\nfertilize the Swiss Chard plants weekly using pooled human urine samples. In this experiment, we only had one\nsample which allowed us to fertilize twice. Acquiring different samples would accurately reflect the situation\nastronauts would face. With the understanding that a 1:1 urine-to-water dilution produced the best results for\nSwiss chard, we are interested in testing its effectiveness on varying lunar simulant-to-Earth soil ratios. For fun,\nthe students want to test the 1:1 dilution on 100% lunar simulant.",
+      "char_count": 2681,
+      "image_count": 2,
+      "tables": [
+        [
+          [
+            "",
+            "We were excited to see that the average longest leaf length belonged to the plants with the 1:4 urine dilution, but shared that place with the 1:1 dilution as well. The plant with straight urine showed second to smallest average leaf length. This we understood as too much nitrogen that can interfere with photosynthetic activity."
+          ],
+          [
+            "",
+            "The final average plant masses showed that the 1:1 dilution produced more plant mass than any other dilution. We were happy to see that the 1:4 dilution was next, and it was no surprise to see the plant with no urine have the lowest mass."
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 7,
+      "text": "Most students were intrigued by the fact that Swiss Chard is a \u2018cold hearty\u2019 plant and wondered what\nwould happen if we changed the temperatures while using a 1:1 urine:water dilution. Our experimental setting\nwas on the warm side with temperatures between 69 and 73 degrees F. It was discussed that a lunar capsule\nwould have stable temperatures between 65 and 70 degrees F and the chard might fare better.\nThe discussion extended beyond growing crops inside a lunar module to the possibility of cultivating\ncrops directly on the moon\u2019s surface in a gardening \u2018pod.\u2019 They learned that the day/night cycle on the moon\nwould be about two weeks and proposed another experiment simulating the moon\u2019s light/day cycle.They also\nconsidered how to accommodate the great temperature changes a lunar environment would entail..\nTEAM & EXPERIMENT PHOTOS\nThe Major Mooners: Peyton Evans, Roxie Ward, Noah Hunt,\nSahaana Vikranth, Nash Hale, Jameson Clark, Owen Wells,\nTeam Coach: Cristine Casselman\nTristan Sherwin, and Alex Parker.\nMeasuring and preparing simulant\nmix for pots.\nMeasuring and preparing simulant\nmix for pots.\nPots labelled and ready to be\nplanted!\nReady and awaiting germination.",
+      "char_count": 1184,
+      "image_count": 6,
+      "tables": [
+        [
+          [
+            "Measuringandpreparingsimulant mixforpots.",
+            "Measuringandpreparingsimulant mixforpots.",
+            "Potslabelledandreadytobe planted!",
+            "Readyandawaitinggermination."
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 8,
+      "text": "Measuring and preparing the\ndiluted urine samples.\nThe diluted urine samples from left\nto right, ending with distilled water.\nThe diluted urine samples from\nleft to right, ending with distilled\nwater.\nApplying equal volumes of\namendments using a pipette.\nWEEK 1\nWEEK 2\nWEEK 3\nWEEK 4\nWEEK 5\nWEEK 6",
+      "char_count": 296,
+      "image_count": 12,
+      "tables": [
+        [
+          [
+            "Measuringandpreparingthe dilutedurinesamples.",
+            "Thedilutedurinesamplesfromleft toright,endingwithdistilledwater.",
+            "Thedilutedurinesamplesfrom lefttoright,endingwithdistilled water.",
+            "Applyingequalvolumesof amendmentsusingapipette."
+          ]
+        ],
+        [
+          [
+            "WEEK1",
+            "WEEK2"
+          ],
+          [
+            "WEEK3",
+            "WEEK4"
+          ],
+          [
+            "WEEK5",
+            "WEEK6"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 9,
+      "text": "Plant masses (wet) measured in grams.\nWork Cited\nDing, Jinghang, et al. \u201cHow to make lunar soil suitable for cultivation? \u2013 A review.\u201d Science of The Total Environment, vol.\nVolume 948, no. 174603, 2024, https://www.sciencedirect.com/science/article/abs/pii/S0048969724047521.\nAccessed August 2024.\nGasparyan, Arpi, and Elen Khachatrian. Chard vs. Spinach: Nutrition, GI, Diets, & Health. FoodStruct, 2023. Food Struct,\nhttps://foodstruct.com/compare/chard-swiss-raw-vs-spinach. Accessed 11 November 2024.\nKishor, Nikhil, et al. \u201cUse of fertilizers derived from urine as a plant growth regulator.\u201d Materials Today: Proceedings, vol.\nVolume 32,, no. Part 3, 2020, Pages 504-509,\nhttps://www.sciencedirect.com/science/article/abs/pii/S2214785320315406#:~:text=Urine%20contains%20large%\n20amounts%20of,considered%20as%20an%20organic%20fertilizer. Accessed 3 September 2024.\nKumar, Karthik, and Pallavi Suyog Uttekar (medical reviewer). \u201cWhat Does Swiss Chard Do for the Body? 10 Benefits, 4\nSide Effects.\u201d MedicineNet, https://www.medicinenet.com/what_does_swiss_chard_do_for_the_body/article.htm.\nAccessed 30 November 2024.\nWEEK 7\nWEEK 8",
+      "char_count": 1135,
+      "image_count": 4,
+      "tables": [
+        [
+          [
+            "WEEK7",
+            "WEEK8"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 10,
+      "text": "Lofgren, Kristine. \u201cHow to Grow Swiss Chard in Containers.\u201d Gardener's Path, 13 August 2023,\nhttps://gardenerspath.com/plants/vegetables/grow-swiss-chard-containers/. Accessed 3 September 2024.\nMorgan, Peter. Garden trials using urine as a plant food- Some practical methods. Sustainable Sanitation Alliance, May\n2009, https://www.susana.org/_resources/documents/default/2-998-garden-trials-using-urine-as-a-plant-food.pdf.\nAccessed September 2024.\nNoble, Sarah. \u201c05 The Lunar Regolith_noble Compressed.\u201d NASA,\nhttps://www.nasa.gov/wp-content/uploads/2019/04/05_1_snoble_thelunarregolith.pdf. Accessed 16 September\n2024.\nRafferty, John P.. \"regolith\". Encyclopedia Britannica, 17 May. 2018, https://www.britannica.com/science/regolith.\nAccessed 17 September 2024.\nRich Earth Institute, editor. \u201cFertilizer from Urine: Clean Rivers, Sustainable Farms.\u201d Guide to Using Urine Fertilizer for\nHome Gardens, Brattleboro, Rich Earth Institute, 7 May 2024,\nhttps://richearthinstitute.org/wp-content/uploads/2022/10/Guide-to-Using-Urine-Fertilizer-for-Home-Gardens-1.pdf.\nAccessed 26 August 2024.\nRoyal Museums Greenwich. \u201cHow are foods and drinks prepared for the long journey into space? How do the astronauts\neat and drink?\u201d What do astronauts eat in space?, Royal Museums Greenwich,\nhttps://www.rmg.co.uk/stories/topics/what-do-astronauts-eat-space. Accessed August 2024.\nSchuh, Marissa, and Jill MacKenzie. \u201cGrowing spinach and Swiss chard in home gardens.\u201d University of\nMinnesota Extension, reviewed in 2024,\nhttps://extension.umn.edu/vegetables/growing-spinach-and-swiss-chard#day-length-389610. Accessed\n9 December 2024.\nWikipedia contributors. \"Lunar regolith.\" Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, 6 Nov.\n2024. Web. 1 Dec. 2024.\nUnknown, \u201cHow to Plant and Grow Kale | General Planting & Growing Tips.\u201d Bonnie Plants,\nhttps://bonnieplants.com/blogs/how-to-grow/growing-kale. Accessed 14 November 2024.",
+      "char_count": 1933,
+      "image_count": 0,
+      "tables": []
+    }
+  ]
+}

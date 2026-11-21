@@ -1,0 +1,103 @@
+{
+  "extraction": {
+    "report_id": "spring26-main-the-marshroomers-d39447",
+    "extraction_method": "heuristic",
+    "model_name": "table-aware-lexicon-v2",
+    "celestial_body": "martian",
+    "regolith_simulant": "MGS-1",
+    "regolith_simulant_raw": "MGS-1",
+    "crop_common_name": "oyster mushroom",
+    "crop_scientific_name": "Pleurotus ostreatus",
+    "crop_guild": "mixed",
+    "experimental_duration_days": 56.0,
+    "total_plants_or_pots": null,
+    "replicates_per_treatment": null,
+    "has_earth_soil_control": false,
+    "has_unamended_regolith_control": false,
+    "statistical_tests_reported": [],
+    "data_availability": "summary_means",
+    "primary_bottlenecks": [
+      "compaction_crusting",
+      "nutrient_deficiency",
+      "microbial_contamination",
+      "light_or_temperature_stress"
+    ],
+    "innovation_tags": [
+      "microbial_mycorrhizal",
+      "nano_fertilizer_mineral",
+      "organic_compost_manure"
+    ],
+    "key_hypothesis": "Hypothesis: When cultivated in optimized substrates composed of powdered straw or sawdust,",
+    "summary_findings": "Discussion & Conclusions",
+    "arms": [
+      {
+        "arm_id": "arm_trt_1",
+        "arm_label": "Treatment (inoculated)",
+        "is_control": false,
+        "control_type": "none",
+        "regolith_pct": null,
+        "amendment_category": "microbial_mycorrhizal",
+        "amendment_detail": "inoculated",
+        "amendment_dose": null,
+        "germination_rate_pct": null,
+        "survival_rate_pct": null,
+        "mean_shoot_height_cm": null,
+        "mean_root_length_cm": null,
+        "mean_fresh_biomass_g": null,
+        "mean_dry_biomass_g": null,
+        "substrate_ph": null,
+        "outcome_vs_regolith_control": "not_reported",
+        "reported_effect_pct": null,
+        "evidence_quote": "Substrates were inoculated with P.",
+        "page_number": 2
+      },
+      {
+        "arm_id": "arm_trt_2",
+        "arm_label": "Treatment (gypsum)",
+        "is_control": false,
+        "control_type": "none",
+        "regolith_pct": null,
+        "amendment_category": "nano_fertilizer_mineral",
+        "amendment_detail": "gypsum",
+        "amendment_dose": null,
+        "germination_rate_pct": null,
+        "survival_rate_pct": null,
+        "mean_shoot_height_cm": null,
+        "mean_root_length_cm": null,
+        "mean_fresh_biomass_g": null,
+        "mean_dry_biomass_g": null,
+        "substrate_ph": null,
+        "outcome_vs_regolith_control": "not_reported",
+        "reported_effect_pct": null,
+        "evidence_quote": "wheat bran, and gypsum, with the dual goal of producing edible fruiting bodies and structural",
+        "page_number": 2
+      },
+      {
+        "arm_id": "arm_trt_3",
+        "arm_label": "Treatment (compost)",
+        "is_control": false,
+        "control_type": "none",
+        "regolith_pct": null,
+        "amendment_category": "organic_compost_manure",
+        "amendment_detail": "compost",
+        "amendment_dose": null,
+        "germination_rate_pct": null,
+        "survival_rate_pct": null,
+        "mean_shoot_height_cm": null,
+        "mean_root_length_cm": null,
+        "mean_fresh_biomass_g": null,
+        "mean_dry_biomass_g": null,
+        "substrate_ph": null,
+        "outcome_vs_regolith_control": "improved",
+        "reported_effect_pct": null,
+        "evidence_quote": "Mars regolith simulant ameliorated by compost as in situ cultivation substrate",
+        "page_number": 19
+      }
+    ]
+  },
+  "provenance_audit": {
+    "quotes_checked": 3,
+    "quotes_matched": 3,
+    "quote_match_rate": 1.0
+  }
+}

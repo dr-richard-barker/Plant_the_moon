@@ -1,0 +1,110 @@
+{
+  "report_id": "spring21-main-project-moonraker-194c4c",
+  "sha256": "47eb346debfcf65abd433d673853b352697c51771ae7e3ba38f7cb109fb82c58",
+  "page_count": 14,
+  "total_chars": 16193,
+  "avg_chars_per_page": 1156.6,
+  "total_images": 24,
+  "table_count": 0,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "1\nPlant Growth Research for Lunar Food Production: Testing Soil\nto Lunar Simulant Ratios with 0.3% w/w added Hydrogel\nShaina Smith, Donovan Rummel, Laura Covillon,\nSarah Pass, Lori Johnson, and Danielle Lee\nHugh Embry Library\nAuthor\u2019s Note\nCo-Contributing Authors: Shaina Smith and Donovan Rummel\nPlant Care Team Members: Laura Covillon, Sarah Pass, and Lori Johnson\nProject Liaison: Daniell Lee",
+      "char_count": 395,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "text": "Testing Soil to Lunar Simulant Ratios with 0.3% w/w added Hydrogel\n2\nI.\nIntroduction\nWith the desire for and advancement of deep space travel, the need for\ncost-effective, reliable, and sustainable extraterrestrial food production is at the forefront\nof many minds. This ability is a key component of space habitation and travel, allowing\nfor a reduced payload mass, the supplementation of crew diet, and providing\npsychological benefits (Cordova 2017). Not only that, but planting on the moon would\nprovide an easier launch point for resupply of deeper space missions.\nThe scarcity of resources on an extraterrestrial body is one of the reasons that\nwe need to explore the growth capabilities of lunar soil. Lunar regolith (LR), a simulated\nlunar soil, is a high-fidelity, mineral-based simulant appropriate to the average highlands\nlocation on the Moon (Planetary 2020) by combining both minerals and rock fragments,\nwith particles matching those of the Apollo samples.\nThe regolith itself is devoid of\nbiological nutrients and therefore, cannot grow plants on it\u2019s own. The introduction of\nhydroponic nutrients could help create viable, harvestable plants without the inclusion of\nterrestrial soil.\nThe regolith is a very dense product, allowing for very little space in between\nparticles. It becomes like concrete when water is added. This simulant also has poor\nwater holding capacity (WHC).\nTo try to combat both problems, a super absorbent\npolymer (SAP) was added to our pots. Therefore, the ultimate objective of this study is\nto address the impacts of hydroponic nutrients, in conjunction with the super absorbent\npolymer, on the ability to grow viable and harvestable kale crops in lunar regolith.",
+      "char_count": 1707,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "text": "Testing Soil to Lunar Simulant Ratios with 0.3% w/w added Hydrogel\n3\nII.\nTheory\nThe proposal for this project states that the use of a liquid fertilizer, such as a\nhydroponic nutrient, in conjunction with a superabsorbent polymer (SAP), like sodium\npolyacrylate, mixed into the lunar regolith, can achieve similar results to hydroponic\ngrowing without the need for water pumps, a cumbersome and potential point of failure.\nThe addition of SAPs to the lunar regolith could reduce or even eliminate the\nrequirement for other soil amendments due to their ability to hold and release aqueous\norganic nutrients into the regolith keeping it moist and, as the crystals dry and shrink,\ncreating cavities for gas exchange. In these cavities the roots of the plants should be\nable to bind to the SAP crystals creating a consistent source of water. Extensive\nresearch into the addition of SAPs into loess and sandy soils has proven that there are\nmany\npositive\nbenefits\nto\ntheir\ninclusion.\nThey\nincrease\nWHC,\nreduce\nevapotranspiration rates, prompt higher growth rates, bind heavy metals to mitigate their\nplant effects, and even reduce the effects of salinity (Huttermann 2009). From the study\nconducted by Abdallah, it can be concluded that as little as 0.3% w/w would be required\nto provide effective WHC (Abdallah 2019). In total, this approach would reduce the\npayload weight, as only 0.3% w/w of SAP would need to be added to the soil sample.\nSince SAPs in their dry state weigh so little, it would be a good question as to why not\ngrow crops in 100% SAP soil. As proven in Cordova\u2019s experiment, the absence of soil\npresented several growth problems.\nThese growth problems could have been due to\nmultiple factors, including overexposure to light in the root zone, restriction of oxygen in\nthe gel, or instability of roots due to the difference between gel and soil structure\n(Cordova 2017).",
+      "char_count": 1885,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "text": "Testing Soil to Lunar Simulant Ratios with 0.3% w/w added Hydrogel\n4\nSince neither 100% lunar regolith nor 100% SAP soil can produce viable plant\noffspring, it can be concluded that something else has to be added. The introduction of\nhydroponic nutrients creates an interesting experiment. Firstly, hydroponic nutrients are\navailable as a dry powder, helping to reduce payload. Secondly, they provide an easier\nnutrient delivery method than compost and terrestrial soil.\nKale was chosen as the preferred plant for several reasons.\nFirstly, kale is a\nsuperfood that has large amounts A, K, B6 and C, calcium, potassium, copper and\nmanganese.\nOne cup of raw kale has 33 calories and 7 grams of carbohydrate\n(Carruthers 2018) allowing it to be diabetes and weight friendly.\nAs well, it can be\nharvested at the young seedling or even sprout stage to provide quicker access to a\nfood source. Secondly, it favors well in hydroponic conditions and thrives in almost any\nother setup, as it does not require overly meticulous care (Cowart 2020).\nIt can be\nstarted from seeds, as was done in this project, or from mature plant cuttings and can\ngerminate in temperatures as low as 5\u2103and as high as 30\u2103.\nAs they mature, they\ncan tolerate frost, drought, and alkaline soil (Cornell 2006). Thirdly, young kale leaves\ncan be harvested within 20 to 30 days of planting.\nWith this in mind, we believe that\nkale would be the most beneficial plant to attempt to grow.",
+      "char_count": 1448,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "text": "Testing Soil to Lunar Simulant Ratios with 0.3% w/w added Hydrogel\n5\nIII.\nMaterials and Methods\nThe\nhousing\nfor\nthe\nplants\nwas\na 10\u201d x 20\u201d\npropagation tray with a humidity dome from Super Sprouter\nand each plant was planted in individual 4\u201d plastic plant\npots (figure 1) with a numbered plastic stake. The soil used\nwas Miracle-Gro Potting Mix and the SAPs used were\nMiracle-Gro Water Storing Crystals (100% polyacrylamide\ncrystals).\nThe hydroponic solution was Southern Agriculture 5-11-26 Hydroponic\nSpecial Soluble Fertilizer plus Minors.\nThis mix was\nformulated to be used in conjunction with Calcium Nitrate\n(Hi-Yield Calcium Nitrate Granules), which were added\nbased on mixing directions into distilled water.\nThe\nhydroponic nutrients available to the plant can be found in\nFigure 2 (concentrations listed are per 1000 gallons). The\nhydroponic solution was measured using a graduated\ncylinder and delivered to the plants using a pipette.\nSunlight was\nmimicked by using two red/blue LED grow lights that each had two arms\nor lights.\nThe moisture meter used was the XLUX Soil Moisture Meter (figure 4).\nIts display indicated, on a scale of 1 to 10, the moisture level of the soil. The\npH meter used was the one provided to us through the Plant the Moon Grant,\nLuster Leaf Rapitest Digital Soil pH Meter (figure 3). A ruler with Centimeter\nmarks was used to determine the growth of the plants.",
+      "char_count": 1396,
+      "image_count": 7,
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "text": "Testing Soil to Lunar Simulant Ratios with 0.3% w/w added Hydrogel\n6\nA. Procedure for Creating Pots\nEach plant was planted in individual 4\u201d plastic plant pots.\nTo help mitigate the\nlikelihood of transplant death, the original pot was used throughout the experiment.\nEach pot was filled with a different percentage of soil to lunar simulant and each pot\ncontained 0.3% hydrogel w/w. There were two control pots with 100% Miracle-Gro Potting\nMix and 0.3% hydrogel w/w, 1 pot with 100% regolith and 0.3% hydrogel w/w, and 5\npots with 10% increments of soil by volume up to 50% soil by volume.\nTo create each pot, we weighed out the appropriate amount of potting material\nbased on their individual densities and the SAP based on the combined weight of the\ntwo potting materials to achieve no more than 50% amendment by volume. In order to\nthoroughly mix the materials, each pot mixture was placed into separate resealable\nglass containers and shaken vigorously. Then, we allowed for the mixtures to settle in\norder to reduce the LR dust particles.\nEach plant was then watered with 50ml of\nhydroponic solution and placed into the propagation tray, with their coordinating number\nstake.\nTo help insure that a plant would grow, three seeds were planted in each pot.\nWhen the plants matured to sprouts, each pot was culled to the largest, singular plant.\nB. Hydroponic Solution Distribution\nDistilled water was used to help mitigate any extraneous\nnutrients\nthat\ncould\nbe\nfound\nin\nnon-distilled water.\nThe\nhydroponic mixture was mixed according to product directions into\none gallon of water.\nThe resulting solution was 4ml of hydroponic\nnutrients and 2ml of calcium nitrate that was shaken thoroughly.",
+      "char_count": 1694,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "text": "Testing Soil to Lunar Simulant Ratios with 0.3% w/w added Hydrogel\n7\nEach time that water was added to the plants, the gallon was shaken before applying\nIn order to measure the amount of water distributed, a graduated cylinder was\nused to determine the milliliters provided to each individual plant. To begin, each plant\nwas watered with 50 ml of solution. To determine if the plant needed water, a moisture\nmeter was used.\nIf the moisture meter denoted less than 5, water was added to the\nindividual plant using a pipette.\nC. Lighting Conditions\nTwo red/blue LED grow lights provided the simulated sun.\nEach\nlight had 2 arms that each provided 12 watts of energy for a total\ncombined output of 48 watts.\nTheir wavelengths were 660nm and\n460nm respectively.\nThe lights were applied in 12 hour cycles (12\nhours on, 12 hours off), as most kale like full sunlight (6+ hours)\n(Cornell 2006).\nD. ph Testing\nThe provided pH meter (fig. 3) was used once a week, per pot to determine the\nsoils levels. All of the pots measured between 6.8 to 7.0 pH every week for the entirety\nof the experiment.\nThis falls perfectly into kales desired pH levels of 6.0 to 7.5 (Cornell\n2006).\nE. Plant Growth Measurement\nThe plants were measured by a simple ruler in centimeters. The plants were\nmeasured every 3 days, prior to true leaves.\nPost true leaves appearing, the plants\nwere measured daily.\nPlants 4 and 8 were no longer measured after they died from",
+      "char_count": 1435,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "text": "Testing Soil to Lunar Simulant Ratios with 0.3% w/w added Hydrogel\n8\nculling. Plant 7 was lost due to a mishap and proper biomass measurements were not\nable to be taken.\nF. Leaf Green Material Measurements\nOn week eight of growth, final measurements were taken. All the leaves of each\nplant were measured to determine the average surface area of each plant\u2019s leaves. All\nplants were individually weighed using a gram scale.",
+      "char_count": 423,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "text": "Testing Soil to Lunar Simulant Ratios with 0.3% w/w added Hydrogel\n9\nIV.\nAnalysis and Results\nAt the conclusion of the growth period, all the plants were measured individually\nfor final height, biomass, and leaf quantity.\nThe surface area of the leaves were\nmeasured\nto\nconclude\nthe\naverage\nsurface\narea of each\nplant\u2019s leaves, as well as the total\nsurface\narea\nfor\neach\nplant\n(Figure 6).\nEach\nplant\nwas\nthen\ndepotted\nand\nweighed\nfor\nbiomass.\nDuring this step, we\ndiscovered that all of the plants\nplanted in LR containing pots had\nindeed bound to the SAP crystals in larger\nquantities than the soil based controls. We\nbelieve this is due to the restriction of space\nwithin the compacted LR, as opposed to the\nloose potting soil. This would be necessary for\nthe\nplant\nto\nreceive\nnutrients\nfrom\nthe\nHydroponic solution as the LR had no bio\navailable nutrients of its own. The two control\nplants would be able to find space provided by\nthe natural detritus inside the potting soil.",
+      "char_count": 979,
+      "image_count": 5,
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "text": "Testing Soil to Lunar Simulant Ratios with 0.3% w/w added Hydrogel\n10\nAll of the spherical structures seen in Figure 7 are SAP crystals attached to\nplant roots. In particular Number 3 had a substantially larger amount of attached\ncrystals than any other plant in this experiment. This can be seen in the \u201cFinal Photos\u201d\nalbum in the appendix.\nBased on the results of the biomass measurements, pot\nnumber 3 was able to achieve a substantial amount of growth compared to similar\nexperiments using 100% LR (Wamelink et al., 2014). It was able to grow 7 true leaves\nsimilar to our 2 controls. Number 3 also had 28.18% more leaf surface area compared\nto Number 1; however, it\u2019s average leaf surface area was 5.27% smaller. These issues\nappear to become mitigated with as little as 30% potting soil, as seen in Number 6,\nwhich achieved a larger final height than Number 3.\nNumber 6 also presented\ncomparable weight, leaf count, and a greater surface area. Number 6 had similar results\nto that of Number 2, which was our best producer. The only significant difference\nbetween the two was the total surface area of Number 2 leaves that were 69.75% larger\noverall (Figure 8). These results go towards confirming our hypotheses regarding the\ninclusion of SAP crystals as a means to replace the need for terrestrial soil entirely;\nhowever, the results of Number 6 warrants further study.",
+      "char_count": 1375,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "text": "Testing Soil to Lunar Simulant Ratios with 0.3% w/w added Hydrogel\n11\nV.\nConclusion\nIn conclusion these results confirm that the use of dry hydroponic nutrients mixed\nwith available water and SAP crystals would be a viable option for future lunar missions\ndue to their low weight and ability to produce viable crops with little to no terrestrial soil\namendments. This experiment has shown that low maintenance growing can be\nachieved through the use of SAP crystals as their water retention qualities help maintain\na steady amount of moisture in the usually dry and desiccating LR. This allows for\nessentially hydroponic growing without the reliance on pumps, water filtration systems,\nor living components in the case of aquaponics. Further avenues of research would be\nin the viability of bringing cover crop seeds along with the food crop seeds. Cover crops\nare grown once in nitrogen deficient soil then their seeds are harvested for the next\ncycle. The sprouts are then tilled into the soil to provide nutrients for food crops. Since\nour experiments showed even small amounts of organic matter can provide significantly\nbetter crops. A small amount of a cover crop, such as clover, would be all that is\nrequired. This could lead to eventually creating a self sustaining amount of organic\nmatter in the lunar soil and no longer requiring the addition of hydroponic nutrients.",
+      "char_count": 1379,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 12,
+      "text": "Testing Soil to Lunar Simulant Ratios with 0.3% w/w added Hydrogel\n12\nVI.\nReferences\nAbdallah, A. M. (2019, May 16). The effect of hydrogel particle size on water\nretention properties and availability under water stress. International Soil and\nWater Conservation Research.\nhttps://www.sciencedirect.com/science/article/pii/S2095633918301114#sec2.\nCarruthers, L. (2018, May 29). The many types, health benefits of kale. Mayo\nClinic Health System.\nhttps://www.mayoclinichealthsystem.org/hometown-health/speaking-of-health/the-\nmany-types-and-health-benefits-of-kale.\nCordova, B. A. (2017, November 17). Plant Growth Research for Food Production:\nDevelopment and Testing of Expandable Tuber Growth Module. NTRS - NASA\nTechnical Reports Server.\nhttps://ntrs.nasa.gov/api/citations/20180000597/downloads/20180000597.pdf.\nCornell. (2006). Kale Growing Guide. Explore Cornell - Home Gardening -\nVegetable Growing Guides - Growing Guide.\nhttp://www.gardening.cornell.edu/homegardening/scene57dc.html.\nCowart, T. (2020, September 28). How to Grow Hydroponic Kale: The Guide to\nGrowing Kale Hydroponically. luv2garden.com.\nhttps://luv2garden.com/hydroponic_kale.html.\nH\u00fcttermann, A., Orikiriza, L. J. B., & Agaba, H. (2009, June 4). Application of\nSuperabsorbent Polymers for Improving the Ecological Chemistry of Degraded or\nPolluted Lands. Wiley Online Library.\nhttps://onlinelibrary.wiley.com/doi/abs/10.1002/clen.200900048.\nPlanetary Simulant Database: LHS-1 Lunar Highlands Simulant. Center for Lunar\n& Asteroid Surface Science. (2020, March 24).\nhttps://sciences.ucf.edu/class/simulant_lunarhighlands.\nWamelink, G. W. W., Frissel, J. Y., Krijnen, W. H. J., Verwoert, M. R., & Goedhart,\nP. W. (2014, August 27). Can Plants Grow on Mars and the Moon: A Growth\nExperiment on Mars and Moon Soil Simulants. PLOS ONE.\nhttps://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0103138&.",
+      "char_count": 1885,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 13,
+      "text": "Testing Soil to Lunar Simulant Ratios with 0.3% w/w added Hydrogel\n13\nVII.\nAppendix\nResearch logs\nDaily Photos\nFinal Photos",
+      "char_count": 123,
+      "image_count": 4,
+      "tables": []
+    },
+    {
+      "page_number": 14,
+      "text": "Testing Soil to Lunar Simulant Ratios with 0.3% w/w added Hydrogel\n14",
+      "char_count": 69,
+      "image_count": 2,
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "report_id": "spring23-main-bse-team-2-6649e6",
+  "sha256": "4a3ac62a637f28421ad814bb8202e7d387aa4a91639e986d3988ffa87f166f53",
+  "page_count": 16,
+  "total_chars": 19931,
+  "avg_chars_per_page": 1245.7,
+  "total_images": 9,
+  "table_count": 0,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Plant the Moon Challenge\nBrown Space Engineering \u2013 Team 2\nTeam Number: 13128\nUndergraduate Challenge\n4/21/2023",
+      "char_count": 110,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "text": "Introduction\nWith the development of the Artemis program and other long duration human spaceflight\nmissions, it is becoming increasingly clear that implementing a renewable food source will be a\ncritical challenge to overcome. Since the beginning of human history, agriculture and food\npropagation have been central to the development of our species, and as we expand to the Moon\nand beyond, the same will be the case. Forgetting the large variation in temperature, lack of\natmospheric oxygen, minimal to no ground water, and intense incident radiation, the soil which\ncovers the surface of the Moon is desolate and lacks the nutrients necessary to sustain any life.\nThat being said, there are plants that can flourish in nutrient-poor environments on Earth. We aim\nto investigate those properties of cacti, one of Earth\u2019s most survivable plants, and determine\nwhether they can succeed with lunar regolith as a replacement for Earth sand. We chose to use\nthe Opuntia cactus because of its ability to produce fruit, flourish without significant nutrients,\nand propagate. Propagation is the process by which cacti and other succulents can grow from\ncuttings. This process can lead to higher crop success rates, which is a positive for extraterrestrial\ngrowth. Its ability to propagate also poses an interesting scientific challenge to explore.\nWhile it is known that cacti are able to survive in arid and nutrient-poor soil, there has\nnever been an analysis of cactus growth completed in Lunar regolith.With this experiment, we\naim to begin to lay the foundation of this work. Our goal was to test if Opuntia cactus\npropagation in lunar highland simulant is affected by different soil and nutrient conditions. We\ncompared cactus growth in a ratio of 55% Lunar simulant and soil mixture by volume to\nOpuntia\u2019s ideal growth environment, the same volumetric ratio of sand and soil. Additionally, we\ntested the effectiveness of cactus fertilizer for increasing growth. We aim to show that cactus\npropagation in lunar soil is first possible, before attempting to tackle other goals which might",
+      "char_count": 2086,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "text": "have an effect on optimizing other species' growth. In order to best prepare us for the reality of\ncrop propagation, it is important to investigate all types of crops, both the traditional and the odd.\nTheory\nAn interesting trait of succulents like cacti is their ability to reproduce both sexually via\nthe creation of seeds and asexually through propagation. Propagation is the ability to asexually\ngrow new cactus plants by planting the cutting of a mature cactus plant in ideal soil conditions.\nPast research has shown that a cacti population can be healthily grown and multiplied via this\nmethod (Finiti et al, 2013). Cactus plants ideally grow in a sandy loam, a type of soil composed\nof silt, sand, and clay. As sand and lunar regolith are similar in particulate matter size (Savio,\n1989), we came to the conclusion it could serve as a replacement for sand in a loam like soil\nmixture. This conclusion has also been proven in the research environment, with Carrier et. al.\nshowing that regolith can be a replacement for sand in a sandy soil mixture (Carrier, 2003).\nSince cacti grow in a loam environment, and regolith has shown to be a viable\nreplacement for sand in loam, we chose a cactus species as our test crop. However, to the best of\nour knowledge, no research has shown that cacti can reproduce through propagation in lunar\nregolith. The Opuntia genus has been shown to have success in a regolith environment with\nOpuntia ficus-indica (Barbary fig cactus) been seen to germinate in lunar regolith with the help\nof Endomycorrhizal Fungi (Konings-Dudin, 2014), which gave even more reason to pick a\ncactus from this genus. For this study, we chose to use the Cactaceae Opuntia (Prickly Pear), for\nits ability to grow in a low-nutrient environment, reproduce via propagation, and ability to\nproduce an edible fruit (Savio, 1989). Opuntia cactus fruit has been successfully used in",
+      "char_count": 1892,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "text": "medicine as anti-inflammatory agents, and even to treat Type 2 Diabetes (Ahmed 2005). In\naddition to producing fruit, Opuntia are extremely drought-resistant.\nWe designed this experiment to test the variability of success that Opuntia cacti would\nhave when grown in a lunar regolith environment. Due to the similarities between the standard\ngrowth condition preferences of the prickly pear cactus and the conditions we fabricated for our\nexperiment, we posit that the addition of an earth soil mix will speed up the growth process of\nthese species. We predict the biomass of our samples to increase by different extents depending\non the makeup of their growth substrate. We predict that the Opuntia will grow the best in the\nloam environment, as that is the natural and ideal environment. We expect the cacti in the\nregolith to grow, but to a lesser extent than the cacti in loam.\nResearch has shown that the usage of fertilizer in the growth process increases the\nnutritive value of these plants (Gonzalez et al., 2018). Therefore, we decided to add separate\ngroups of cacti that would be treated with fertilizer in both the regolith simulant and regular soil\nconditions of our experiment design. We predicted that the overall growth of plants would be\nhigher in the fertilizer group than in the group cacti without fertilizer.\nMeasurement Methods\nOur experimental setup consisted of 20 plants harvested in Southern California and\nshipped to Providence. 10 of the pots contained our \u201cIdeal Soil\u201d mixture which will be composed\nof 55% sand and 45% soil. The others consisted of a mixture of 55% regular soil and 45% lunar\nsimulant. We split the group of regolith mixed with soil in two: one half having no additional\nnutrients, and one with a cactus fertilizer. We left the remaining 5 regolith-filled and 5 soil-filled\npots unaltered. The plants receiving additional nutrients were treated twice a month, with 5",
+      "char_count": 1912,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "text": "milliliters of liquid fertilizer per plant. At the end of the growing period of 8 weeks, we uprooted\nour samples and took quantitative measurements of root growth and plant weight changes.\nOverall, not many measurements were needed since the only definitive goal was to get\nthe cactus to successfully grow in a regolith soil composition. Before planting, we we measured\nthe initial height and weight of each sample. The heights would provide an easy visual\nrepresentation of growth, and the weight difference would prove whether or not the cactus had\nabsorbed water, proving that the cacti weren\u2019t necessarily dead, and had the potential to grow\ngiven more time even if no visual growth was present. The weights were measured using a\nstandard scale, and the heights were measured by taking photos on a blank background with\nrulers along the side as a reference.\nPlant growth occurred in one of Brown\u2019s Plant Environmental Center Greenhouses,\nwhich was operating under their standard lighting and temperature protocols in order to optimize\nplant growth. Lighting was controlled using full spectrum growth lights, and the temperature was\ncontrolled using their system of fans and heating and cooling to keep ambient temperature\nbetween 68 and 80 degrees Fahrenheit, with moderate humidity of 30 - 40 percent.",
+      "char_count": 1306,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "text": "During the planting process, to perfect the ratios of regolith to earth soil, ideally\nmimicking the soil-to-sand ratio cacti grow in, we ran density calculations of both to solve for\nthe volumes to use in each pot. The soil which was used was ProMix HP Mycorrhizae High\nPorosity soil and sand, both provided by Brown\u2019s research greenhouse. After planting, the cacti\nwere watered to field capacity and left to begin the rooting process. Wooden stakes were added\nto support cacti and were left in the potted plants until they were uprooted.\nFor the first three weeks, the plants were watered once per week, following the guidelines\nwe found for general cactus transplanting. However, due to the visible dehydration in the cactus,\nthis was changed after 3 weeks. During the first three weeks of growth is where we saw the most\ndeath in our plants. From the fourth week onward, plants were watered twice per week for the\nremainder of the experiment. After making the change to twice per week watering, we saw much\nless plant death and poor health. The reason for the dehydration is not exactly known, but we\nimagine the cross country travel, transplantation process, and small soil volume in each pot were\nfactors that lead to increased evaporation.\nStarting on March 10th, we began fertilizing cactus plants, providing each plant in those\nexperimental groups with 5mL of Cute Farms Succulent, Cacti, and Aloe Fertilizer. This\nfertilizer contained nitrogen in the form of Ammonia and Nitrate Nitrogen. Fertilizer also\ncontained available phosphorus in the form of Phosphoric Acid, as well as potassium in the form\nof soluble Potash.\nDuring the growth phase, we collected the pH of each soil pod once per ounce after they\nwere watered. We saw no variation in soil pH throughout the entire experiment. At the end of the\ngrowth period, plants were uprooted and the soil mixture was removed from the soil. Plants were\nthen weighed and measured using the same setup as the initial measurements.",
+      "char_count": 1985,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "text": "Results\nIn all groups, growth was observed. Phylloclades that start out larger grew more over the\ncourse of the growth period than those that started out smaller. To correct for the randomness in\ninitial size, percent difference in weight was used to measure growth. As seen in Table 1, group 1\nshowed the highest growth on average, followed by group 4, group 2, and finally group 3.\nWithin each group, there were multiple deaths. Each death occurred early on, but the\ndead cacti remained in the experiment. These dead cacti lost weight over time as they decayed\nand ended with less weight than they started with. Due to this, their percent differences were\nnegative. This impacts the values shown in Table 3 (as a negative value pulls down the average\neven more than a zero value would). Each group, except group 3, had 1 death. Group 3 had 2\ndeaths.",
+      "char_count": 851,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "text": "Figure 1 displays the full distribution of percent difference in weight. Those that died can\nbe seen far below the other data points. Those that flowered are represented by a green data\npoint. In both the sand-soil and regolith-soil groups, one cacti flowered while in both of the\nfertilized groups, two cacti flowered.\nAnalysis\nThe first variable in our experiment was lunar regolith versus soil without fertilizer. Our\nexperiment demonstrates the viability of cacti growth in our regolith mixture without fertilizer,\nthough a larger sample size in the future could give us more concrete information on growth\nconditions in soil versus lunar regolith. Both the regolith mixture and soil groups without",
+      "char_count": 702,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "text": "fertilizer had one flowering plant. While the soil group had one cacti death, the regolith group\nhad two. Although the growth rate of plants in simulant was significantly lower than those in the\nsoil and sand mixture, the plants in simulant still had a positive growth rate. Given the small\nsample size of our experiment, these results reflect comparable success across soil and regolith\nwithout fertilizer. As seen in Figure 1, the growth of plants in this regolith mixture group, Group\n3, had much more variation in percentage weight difference and a slightly lower average growth\nthan that of Group 1, the soil control. Though soil provides more reliable growth conditions,\nLunar regolith is certainly viable for Opuntia Cactus growth.\nFertilizer proved to be an effective way to increase cacti growth. Relative to the growth\nrate in the simulant without fertilizer, fertilized cacti in the simulant experienced nearly 6%\nhigher growth on average. Furthermore, an additional cactus flowered in Group 4\u2014regolith\nmixture and fertilizer\u2014and one fewer died than those in Group 3\u2014regolith without fertilizer.\nFertilized cacti appeared to grow in a regolith mixture nearly if not as effectively as they did in a\nsoil-sand mixture. Their average percent growth was slightly higher (9.3% relative to 7.1%) than\nGroup 2 and the same number of cacti flowered and died in both Groups 2 and 4. These results\ntentatively indicate that cactus fertilizer is an effective way to boost cactus growth in lunar\nsimulants.\nWhile our experiment demonstrates the potential for prickly pear growth in simulant,\nincreasing the sample size could dramatically deepen experimental findings. A two-way analysis\nof variance (ANOVA) was used to measure the impact of our two experimental factors. The\nresult was that neither factor (regolith and fertilizer) had a statistically significant impact on\ngrowth of the cacti. This is most likely due to the low sample size of our experiment. It is\ndifficult to find a statistically significant result with low power.",
+      "char_count": 2034,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "text": "While the solid growth rates in cacti could indicate that cacti can be effectively grown in\nlunar regolith, it may also indicate that the simulant we used, Exolith Lab\u2019s LHS-1, did not\neffectively model the conditions that might inhibit plant growth in lunar soil. While germination\nrates for simulant and true regolith were both nearly 100% in Paul et. al. 2022, their JSC-1A\nsimulant controls demonstrated significantly stronger root growth and survivability than the\nApollo soil counterparts (4). Just like we cannot completely separate the cacti\u2019s success from\nexperimental constraints, cacti deaths may be partially due to them as well. The fact that cacti\ndied across all four groups indicates the challenge of propagating phylloclades, especially in light\nof the extended period of time that cacti spent out of the soil while traveling from California and\nlack of watering in the early weeks of the project.\nConclusion\nOur experiment demonstrated that Opuntia cuttings can be successfully propagated in a\nmajority Lunar regolith soil environment. We saw phylloclade growth, including bud and flower\ndevelopment, on plants in all groups, including both experimental groups. While the plants\ngrown in Opuntia\u2019s ideal environment without fertilizer grew more than the corresponding\nregolith group, samples in both experimental groups showed growth from the beginning of the\nexperiment. Additionally, plants in both the ideal soil and regolith groups showed bud and flower\ndevelopment, an indication of good plant health. There was plant death, but this is most likely\nattributable to issues with watering within the first weeks of the experiment as we saw no plant\ndeath after the watering schedule was changed.\nWhile the initial goal of our work was achieved, there are limitations to our work. These\ncome mostly from the small sample size and issues with watering at the beginning stage of the",
+      "char_count": 1899,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "text": "growth period. Put simply, 20 plants are not enough to gather statistically significant data on\nplant growth as there is too much plant-to-plant variation for trends to establish themselves.\nAdditionally, the issues that we encountered with watering within the first weeks could have had\nan effect on the overall results. Death, or stress that the cacti were under during the first few\nweeks of the growth period, could have had effects on the overall growth of the plants\nthroughout the entire experiment. Because of a limited supply of Opuntia phylloclades, we were\nunable to replant cacti that died during this period. Other uncertainties come from aspects of our\nexperimental design. Since our goal was a proof of concept, we did not set up systems to\nmeasure every aspect of plant growth, nor did we complete advanced plant health analysis. Our\nresults show that cacti can survive, and even grow, in a majority lunar regolith soil environment.\nThis discovery allows for further research questions to be investigated.\nWith a higher sample size, a more detailed set of analysis procedures could be performed.\nWhile Paul et. al. 2022 performs a thorough analysis of the comparison between the growth of\nArabidopsis Thaliana in lunar regolith and simulant, their experiments could be extended by\nperforming a similar procedure comparing simulant to soil. An experiment like this one, in\ncomparison to Paul et. al. 2022, could help determine the efficacy of simulant as an\nenvironmental model for plant growth in Arabidopsis Thaliana or other plants like those of the\nopuntia genus. While our experiment demonstrates the capacity for cacti to be grown in simulant,\ntesting a variety of regolith to soil ratios in both mare and highland simulants could determine\nthe minimum soil required to optimize cactus growth. While typical NDVI analysis is not\neffective on cacti, the health of samples could still be computed spectroscopically by performing\nspectral measurements in the near infrared and calculating the cacti indexes discussed in\nHartfield et al., 2022.",
+      "char_count": 2061,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 12,
+      "text": "While imperfect, the growth of cactus even in regolith and additional conditions of\ndistress demonstrates the potential role Opuntia cacti could play in space exploration and\ndiscovery. We for one cannot wait to eat some prickly pear grown fresh on the Moon.",
+      "char_count": 258,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 13,
+      "text": "References\nDavid Carrier, W. (n.d.). Particle size distribution of lunar soil | journal of geotechnical\nand ... ASCE Library. Retrieved April 21, 2023, from\nhttps://ascelibrary.org/doi/10.1061/%28ASCE%291090-0241%282003%29129%3\nA10%28956%29\nKonings-Dudin, G., Butcher, M. J., Castor-Mac\u00edas, J. A., Kohanloo, B., & Garcia, M.\n(2014, August 6). Endomycorrhizal fungi and opuntia ficus-indica seed\ngermination on a lunar regolith simulant. Advances in Microbiology. Retrieved\nApril 21, 2023, from https://www.scirp.org/html/4-2270382_48651.htm\nLopez, J. L. (2007, June 18). Use of opuntia cactus as a hypoglycemic agent in managing\ntype 2 diabetes mellitus among Mexican American patients. eScholarship. Retrieved April\n21, 2023, from https://escholarship.org/uc/item/555845bf\nFINTI, A. E. L., BOULLANI, R. E. L., AABD, N. A. I. T., MSANDA, F., SERGHINI, M.\nA., & MOUSADIK, A. E. L. (2013). In vitro propagation of three Moroccan\nprickly pear cactus opuntia and plant establishment in soil. Notulae Scientia\nBiologicae. Retrieved April 21, 2023, from\nhttps://www.notulaebiologicae.ro/index.php/nsb/article/view/8354\nGonzalez, C. L., & Arnold, L. A. (2018, October 1). Potential of fertilization to improve\nnutritive value of pricklypear cactus (Opuntia Lindheimeri Engelm.). Journal of Arid\nEnvironments. Retrieved April 21, 2023, from\nhttps://www.sciencedirect.com/science/article/pii/S0140196318310504\nSavio, Y. (1989). Prickly pear cactus production. Prickly Pear Cactus Production - Small\nFarms. Retrieved April 21, 2023, from\nhttps://sfp.ucanr.edu/pubs/brochures/Pricklypear/\nWolff, S. A., Palma, C. F., Marcelis, L., Kittang Jost, A.-I., & van Delden, S. H. (2018).\nTesting new concepts for crop cultivation in space: Effects of rooting volume and\nNitrogen availability. Life (Basel, Switzerland). Retrieved April 21, 2023, from\nhttps://pubmed.ncbi.nlm.nih.gov/30301223/\nHartfield, K., Gillan, J. K., Norton, C. L., Conley, C., & Van leeuwen, W. J. D. (2022). A\nnovel\nspectral index to identify cacti in the sonoran desert at multiple scales using multi-sensor\nhyperspectral data acquisitions. Land, 11(6), 786. https://doi.org/10.3390/land11060786\nPaul, A.-L., Elardo, S. M., & Ferl, R. (2022). Plants grown in apollo lunar regolith present",
+      "char_count": 2244,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 14,
+      "text": "stress-associated transcriptomes that inform prospects for lunar exploration.\nCommunications\nBiology, 5(1). https://doi.org/10.1038/s42003-022-03334-8\nAhmed, M. S., Tanbouly, N. D. E., Islam, W. T., Sleem, A. A., & Senousy, A. S. E. (2005).\nAntiinflammatory flavonoids fromOpuntia dillenii (Ker-Gawl) haw. flowers growing in\negypt.\nPhytotherapy Research, 19(9), 807-809. https://doi.org/10.1002/ptr.1708\nAppendices\nData\nhttps://docs.google.com/spreadsheets/d/1wC9g-M1nmHUcQboe-8pvusaziOASdt8-TJrdTb7\nKfGU/edit#gid=1262125351\nCactus Initial and Final Weight and Height Data:",
+      "char_count": 573,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 15,
+      "text": "ANOVA Data:\nPhotos",
+      "char_count": 18,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 16,
+      "text": "",
+      "char_count": 0,
+      "image_count": 2,
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "extraction": {
+    "report_id": "fall23-main-minnesota-west-bluejays-a-a49274",
+    "extraction_method": "heuristic",
+    "model_name": "table-aware-lexicon-v2",
+    "celestial_body": "lunar",
+    "regolith_simulant": "unspecified",
+    "regolith_simulant_raw": null,
+    "crop_common_name": "collard greens",
+    "crop_scientific_name": "Brassica oleracea",
+    "crop_guild": "leafy_green",
+    "experimental_duration_days": 14.0,
+    "total_plants_or_pots": null,
+    "replicates_per_treatment": null,
+    "has_earth_soil_control": false,
+    "has_unamended_regolith_control": false,
+    "statistical_tests_reported": [
+      "Standard Deviation / Error"
+    ],
+    "data_availability": "summary_means",
+    "primary_bottlenecks": [
+      "alkaline_ph",
+      "hydrophobicity_water_retention",
+      "nutrient_deficiency",
+      "light_or_temperature_stress"
+    ],
+    "innovation_tags": [
+      "other"
+    ],
+    "key_hypothesis": "We hypothesize that Collard Greens (B.",
+    "summary_findings": "high mortality rate of the plants is addressed in the discussion and conclusion section.",
+    "arms": [
+      {
+        "arm_id": "arm_trt_1",
+        "arm_label": "Treatment (regolith)",
+        "is_control": false,
+        "control_type": "none",
+        "regolith_pct": null,
+        "amendment_category": "other",
+        "amendment_detail": "regolith",
+        "amendment_dose": null,
+        "germination_rate_pct": null,
+        "survival_rate_pct": null,
+        "mean_shoot_height_cm": null,
+        "mean_root_length_cm": null,
+        "mean_fresh_biomass_g": null,
+        "mean_dry_biomass_g": null,
+        "substrate_ph": null,
+        "outcome_vs_regolith_control": "not_reported",
+        "reported_effect_pct": null,
+        "evidence_quote": "available in the composition of lunar regolith with the exception of useful nitrogen (Wamelink",
+        "page_number": 2
+      }
+    ]
+  },
+  "provenance_audit": {
+    "quotes_checked": 1,
+    "quotes_matched": 1,
+    "quote_match_rate": 1.0
+  }
+}

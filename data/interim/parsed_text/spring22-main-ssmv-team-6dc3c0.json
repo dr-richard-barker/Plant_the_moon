@@ -1,0 +1,103 @@
+{
+  "report_id": "spring22-main-ssmv-team-6dc3c0",
+  "sha256": "246807df3ff743094a2e75963e08b94e97650b0706f9050b6449f5a3d9a0c66d",
+  "page_count": 13,
+  "total_chars": 17494,
+  "avg_chars_per_page": 1345.7,
+  "total_images": 65,
+  "table_count": 0,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PtMC 2022\nGrowth of four different crop species in\nsupplemented loamy lunar regolith\nAva Thorsen Solomon Debrezion Sabina Thabit-Yousef Sara Petollari\nImage of White Buckwheat flowers grown in regolith 35 days after the start of the\nexperiment. Photo credit: Ava Thorsen, March 9, 2022\nAbstract\nThe ability to grow food on celestial bodies is essential to the long-term missions\nrequired for future space exploration. Due to the difficulty of transporting materials to\nother planets, using available regolith for food growth is vital. Our experiment analyzed the\npossibility of growing crops in lunar regolith that was modified to have a loamy texture and\nimitate the properties of Earth soil. Four different crop species were grown in both\nmodified regolith and fertile earth soil for seven weeks. Fagopyrum esculentum\n(buckwheat) plants had significantly greater biomass in lunar regolith than in earth soil. At\nthe same time, Triticum aestivum L. (wheat), Solanum lycopersicum (tomato), and Pisum\nsativum (pea) crops showed no significant difference in overall biomass. Both regolith and",
+      "char_count": 1090,
+      "image_count": 3,
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "text": "earth soil-grown crops produced flowers and fruits. Our results show that it is possible to\ngrow healthy crops in lunar regolith when modified to mimic specific attributes of fertile\nEarth soil.\nIntroduction\nHuman colonization of the moon has long been a dreamed-about possibility for the\nfuture. With new technology and scientific innovation, this dream can become a feasible\nreality; however, efficient food accessibility presents a significant problem [1]. Current\nastronauts rely heavily on dried, pre-made foods; however, these foods are not sustainable\nfor long-term missions due to nutrition and the expense of transporting them [1]. For\nhumans to live on celestial bodies such as the moon, it is vital that they are able to grow\nfood crops using materials readily available to them. The moon does not have soil, the\nusual substrate for growing crops. It instead is covered by a layer of fine dust called lunar\nregolith [2]. Lunar regolith is infertile and lacks many qualities essential for healthy plant\ndevelopment [2].\nMany studies have compared plant growth in simulated lunar regolith to plant\ngrowth in both fertile and infertile earth soil. According to Wamelink et al. 2014, lunar\nregolith simulant was less capable of producing plant growth than very infertile earth soil\n[3]. These results show that crops cannot thrive in regolith alone, which introduces the\nquestion of how regolith can be made more fertile. Wamelink et al. 2019 explored how the\naddition of organic matter affected biomass production in lunar regolith [4]. Overall,\nregolith with the addition of organic matter performed better than regolith without it;\nhowever, the amount of biomass produced by modified regolith was far smaller than the\nquantity of biomass produced by earth soil modified in the same way.\nTo effectively grow crops in regolith, more research needs to be done to figure out\nways to reduce the biomass production discrepancy between regolith and earth soil. The\ngoal of our research was to modify lunar regolith in a way that gives it properties of loamy\nearth soil. Loamy earth soil is very fertile due to its balanced variety of particle sizes that\nprovide ideal moisture and nutrient retention [5]. Modifying lunar regolith to mimic fertile\nearth soil would attempt to increase growth productivity by improving moisture retention,\nnutrient availability, and aeration. Unlike the research method used by Wamelink et al. in\n2014, we chose to use a fertile soil control because we aimed to gauge how modified\n2",
+      "char_count": 2516,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "text": "regolith compares to soil capable of ample crop production. Using this control would more\nadequately determine regolith's ability or lack thereof to support human life. We\ninvestigated whether Fagopyrum esculentum, Triticum aestivum L., Pisum sativum, and\nSolanum lycopersicum were able to grow in modified lunar regolith. It was hypothesized\nthat loamy soil constructed with 52% regolith would be able to sustain seed and plant\ndevelopment. If our findings support this hypothesis, effective crop production using lunar\nregolith is conceivable.\nMaterials and Methods\n2.1 Soils\nLHS-1 Lunar Highlands Regolith simulant was used in this experiment. It was\npurchased from Exolith Labs. Lunar regolith sampled from lunar highlands contains\nspecific minerals that can also be found in magmatic rocks on earth. The primary minerals\nwithin the regolith simulant are anthorosite and glass-rich basalt [6]. The loamy earth soil\nwas gathered at 36.12432*N, 86.82381*W, which has a soil type classified as maury silt\nloam [7]. The soil was collected at a 0-3 inch depth and had a high organic matter content.\nNo additives were combined with the earth soil at the time of planting.\nThe regolith was combined with many additives, each of which contributed to a trait\nfound in loamy earth soil. In order of concentration, the following materials were added to\nthe regolith. Specific percentages of each material used can be found in Table 1. Peat moss\nincreased the total porosity of the soil, allowing for better aeration and drainage.\nVermiculite served a similar purpose, improving drainage, aeration, and nutrient retention.\nCompost was sourced from a residential anaerobic compost pile in planting zone 7a. It\nadded organic matter and nutrients to the regolith. The clay was sourced from 36.12386*N,\n86.82377*W at a depth of seven feet. The smaller particles found in clay retain large\namounts of moisture and nutrients. GardenTone Vegetable fertilizer sourced from Epsoma\nwas used to increase the availability of usable nutrients, including Nitrogen and\nPhosphorus. The earth soil, compost and clay additives were not sterile or free from seeds\nand insects. At planting, the pH for both the earth soil control and the regolith mixture was\n6.4. The pH of the regolith mixture was lowered using white vinegar.\n3",
+      "char_count": 2301,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "text": "Table 1. The percentage of each component of the\nregolith mixture\n2.2 Species Selection\nFour species were chosen for this experiment, each from a different family. From\nthe Solanaceae family, Solanum lycopersicum or glacier tomato was selected. Pisum\nsativum (iona pea) was selected from the Fabaceae family, Triticum aestivum L. (hard red\nspring wheat) was selected from the Poaceae family, and Fagopyrum esculentum (common\nbuckwheat) was selected from the Polygonaceae family. These species were chosen due to\ntheir yield ability, preferred climate, and hardiness. They all have the potential to produce a\ngood quantity of viable crops in a relatively short period, which is important in the context\nof extraterrestrial farming. The hard red spring wheat seeds were sourced from All Good\nThings Organic Seeds, the common buckwheat seeds were sourced from Baker Creek\nHeirloom Seeds, and the two remaining seeds were sourced from Botanical Interests.\nExternal bacteria may have been present on the seeds, as it was not eradicated.\n2.3 Experimental Design\nThe growth portion of the experiment was conducted in an indoor environment, as\nsuch conditions seemed the most likely to be present in an extraterrestrial mission. The\nlocation was kept at a temperature of around 70 degrees. Plants were placed in front of an\neast-facing window, from which they received bright, indirect light each day. Additionally,\nlight was supplemented by four 100w, full-spectrum, led grow lights for six hours each day.\nFour plastic growing chambers were used to house the plants in this experiment.\nThe chambers included ventilating lids; however, the crops quickly outgrew them, and they\nwere removed after the first week. Each chamber had twelve individual units. Two\nchambers were filled with the regolith mixture, and the remaining two were filled with\nearth soil. One seed was planted per unit, and six seeds were planted per species in each\n4",
+      "char_count": 1929,
+      "image_count": 3,
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "text": "soil type. There were six replicants for each condition in this experiment. Figure 2 shows\nthe experimental setup, including where each seed was planted. The species and soil type\nlocations were not randomized, although the chambers were randomly rotated throughout\nthe experiment weekly to prevent location-related bias. The seeds were planted at the\ndepths recommended on their packages. Specific depths are detailed in table 2.\nFigure 1. A visual representation of the growing set up of the growing set up.\nThe growing period lasted for seven weeks or 49 days. During this time, the plants\nwere watered regularly with reverse osmosis water. One chamber unit from each chamber\nwould be tested for moisture level using a moisture meter every weekday. The chamber\nwould be watered if the meter indicated that the soil was moist or dry. If the meter\nindicated soil wetness, no water would be added for that day. On week two of the growing\nperiod, all plants were fertilized with a water-soluble organic fertilizer.\nTable 2. Shows the depth in which the seeds of each\nplant were planted.\n2.4 Measurements and Harvest\nDuring the growing period, several measurements were taken each week. Plant\nheight data was gathered for each plant using a centimeter ruler. Leaf count was taken\neach week, and it accounted for living leaves that had fully unfurled. Leaf count was not\ntaken for the wheat plants due to the difference in their structure. Starting on week four,\nobservations regarding the development of flowers were recorded for all plants. Flowering\nwas quantified by the presence of reproductive organs on a plant. Fruiting was recorded on\n5",
+      "char_count": 1642,
+      "image_count": 4,
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "text": "week seven of growth, and it was quantified by the presence of seeds or an encasing\nintended to house future seeds. Each week photos were taken of all plants to document\ndevelopment.\nEach specimen was harvested from its growing chamber at the end of the seventh\nweek. Excess soil was removed from the roots, and each plant was dried, first in an oven for\napproximately 1 hour at 60 degrees and then left in an open area for a week to ensure total\ndryness. From the dried specimens, both above and below-ground weight was collected.\nResults\nThe performance of the plants was measured in terms of germination rates, plant\nheight, leaf count, flowering rates, fruiting rates, and biomass. By the end of the growing\nperiod, the regolith outperformed the earth soil in terms of total germination rate (Table 3).\nThere was no significant difference between the average heights of the plants during most\nweeks of the growing period (Figure 2). Leaf count was significantly different only for the\nbuckwheat plants during the last two weeks (Figure 3). All species of plants except for\ntomatoes flowered. This included eleven out of twelve buckwheat, five out of twelve peas,\nand six out of twelve wheat plants. Two peas grown in lunar regolith produced fruits, and\nthree of the peas grown in earth soil fruited. One buckwheat plant and all wheat plants\nwere able to fruit in the earth soil, while none fruited in the regolith. No tomatoes\ndeveloped to the point of fruiting. In terms of total biomass, buckwheat growing in regolith\nsoil had a significantly higher biomass than the buckwheat growing in the earth soil.\nFurthermore, the above-ground buckwheat biomass was significantly different between the\ntwo soils (p < 0.01), as well as the below-ground biomass (p < 0.05). There was no significant\ndifference between the total biomasses of other plants (Figure 4).\nTable 3. Rates of germination for plants growing in both regolith and earth soil. Each type of soil housed 24 total plants, 6\nchamber units for each type of plant. In total, the regolith was able to have a higher germination rate than the earth soil.\n6",
+      "char_count": 2112,
+      "image_count": 3,
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "text": "Table 4. Flowering ratio and fruiting ratios for plants in earth and regolith soil. Each type of soil housed 24 total plants, 6\nchamber units for each type of plant. All wheat plants were able to flower and fruit in the earth soil, while wheat plants\ngrowing in regolith soil were unable to do so.\nFigure 2. The average heights for both earth and regolith soil for each plant. Over the 7 week growth\nperiod, weekly heights were measured and averaged so that earth soil (green) and regolith soil (black)\ngrowth could be compared for buckwheat (A), wheat (B), peas (C), and tomatoes (D). Error bars show\nstandard deviation.*p < 0.05, **p < 0.01, ***p < 0.001\n7",
+      "char_count": 658,
+      "image_count": 6,
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "text": "Figure 3. The average true leaf count for earth and regolith\nsoil for each plant (excluding wheat plants). Over the 7\ngrowth weeks, leaf count was measured and averaged so\nthat the earth soil (blue) and the regolith soil (black)\ndevelopment could be compared for peas (A),buckwheat\n(B), and tomatoes (C). Error bars show standard deviation.\n*p < 0.05, **p < 0.01, ***p < 0.001\nFigure 4. Right: The comparison between the total earth (green) and regolith (gray) biomass for each plant. The total biomass\nof the buckwheat growing in the regolith is significantly higher than the biomass of the buckwheat growing in the earth soil.\nLeft: The comparison between the biomass of the earth and regolith soil, above and below ground, where significance is\nfound. Error bars show standard deviation. *p < 0.05, **p < 0.01, ***p < 0.001\nDiscussion\nPlants grown in modified lunar regolith performed similarly to, if not better, than\nplants grown in fertile, loamy earth soil. The lack of statistical differences shows that crops\ncan grow in modified lunar regolith similarly to how they do in fertile earth soil. With more\ntesting, the solution of specific regolith modification has the potential to allow astronauts\nto grow their own fresh food on the moon. The results found in previous research contrast\nour findings. Wamelink et al. (3) and Wamelink et al. (4) reported significantly less plant\ndevelopment in lunar soil than in the unfertile earth soil control. It is believed that our\nresults differ from past findings due to the specific additives combined with regolith. Such\nadditives increased overall nutrient availability and improved the soil texture which aided in\nplant growth.\nThere were several limitations in this study, the most significant of which was water.\nDue to the varying drainage rates of the soils, some periods of dryness occured. Another\n8",
+      "char_count": 1859,
+      "image_count": 4,
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "text": "important limitation to mention was container size. The plants quickly outgrew the growing\nchambers, which may have altered growth patterns. Additionally, external seeds were not\neradicated before planting, and because of this, plants grew that were not intended as part\nof the experiment. No data was collected on these plants; however, they may have affected\nthe growth of the plants in the same chamber unit. Future research addressing such\nlimitations and increasing the sample size and diversity would be beneficial. Furthermore,\nan experiment designed to test different concentrations of regolith in the lunar regolith\nmixture would expand upon our current findings and specify precisely how much additive\nis needed for regolith to sustain viable crops.\nIn conclusion, Fagopyrum esculentum, Triticum aestivum L., Pisum sativum, and\nSolanum lycopersicum crops were able to grow and thrive in a mixture containing 52%\nlunar regolith. The data showed no significant disparity between the plants grown in\nregolith compared to those grown in earth soil. This means that this regolith mixture has\nthe potential to effectively replace earth soil as a growing medium on extraterrestrial\nbodies.\nAcknowledgements\nFirst and foremost, we thank our SSMV faculty and our project coach, Dr. Angela Eeds, for\nhelping us and monitoring our experiment. In addition, we appreciate Dr. Menton\nDeweeses' contributions. We want to thank the UT Master Gardeners Program for\nproviding beneficial information regarding soil characteristics and Exolith Labs for\nproviding the regolith simulant needed for this project. Lastly, we would like to thank the\nInstitution of Competition Sciences for giving us the opportunity to participate in this\nchallenge.\nReferences\n[1] M. Cooper, G. Douglas, and M. Perchonok, \u201cDeveloping the NASA Food System for long-duration missions,\u201d\nJournal of Food Science, vol. 76, no. 2, Mar. 2011.\n[2] D. W. Ming and D. L. Henninger, \u201cUse of lunar regolith as a substrate for plant growth,\u201d Advances in Space\nResearch, vol. 14, no. 11, 1994.\n[3] G. W. Wamelink, J. Y. Frissel, W. H. Krijnen, M. R. Verwoert, and P. W. Goedhart, \u201cCan plants grow on Mars and\nthe Moon: A growth experiment on Mars and Moon Soil Simulants,\u201d PLoS ONE, vol. 9, no. 8, Aug. 2014.\n9",
+      "char_count": 2265,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "text": "[4] G. W. W. Wamelink, J. Y. Frissel, W. H. J. Krijnen, and M. R. Verwoert, \u201cCrop growth and viability of seeds on Mars\nand Moon Soil Simulants,\u201d De Gruyter, 01-Jan-2019. [Online]. Available:\nhttps://www.degruyter.com/document/doi/10.1515/opag-2019-0051/html. [Accessed: 27-Apr-2022].\n[5] N. Bumgarner and H. Savoy, \u201cSoil Science and Plant Nutrition,\u201d in Tennessee Master Gardener Handbook, The\nUniversity of Tennessee Institute of Agriculture, Ed. Knoxville, TN: The University of Tennessee, 2018.\n[6] \u201cLHS-1 lunar highlands simulant,\u201d Exolith Lab. [Online]. Available:\nhttps://exolithsimulants.com/collections/regolith-simulants/products/lhs-1-lunar-highlands-simulant. [Accessed:\n27-Apr-2022].\n[7] Nrcs, Web soil survey - home. [Online]. Available: https://websoilsurvey.nrcs.usda.gov/app/. [Accessed:\n27-Apr-2022].\n10",
+      "char_count": 821,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "text": "Weekly Images\nWeek One:\nWeek Two:\nWeek Three:\n11",
+      "char_count": 48,
+      "image_count": 14,
+      "tables": []
+    },
+    {
+      "page_number": 12,
+      "text": "Week Four:\nWeek Five:\nWeek Six:\n12",
+      "char_count": 34,
+      "image_count": 14,
+      "tables": []
+    },
+    {
+      "page_number": 13,
+      "text": "Week Seven:\nWeek 7 Images. The top two chambers are the regolith mixture, and the bottom two are earth soil. The plant\nspecies are arranged from left to right in the following order; buckwheat, wheat, peas, tomatoes.\n13",
+      "char_count": 219,
+      "image_count": 6,
+      "tables": []
+    }
+  ]
+}

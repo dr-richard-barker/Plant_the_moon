@@ -1,0 +1,285 @@
+{
+  "report_id": "spring22-main-bio-luna-03fbf2",
+  "sha256": "0f9252a9cd6973da7273759ca99b61f6667feeb94cfe248340607747e5681b0a",
+  "page_count": 19,
+  "total_chars": 34494,
+  "avg_chars_per_page": 1815.5,
+  "total_images": 16,
+  "table_count": 2,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Plant the Moon Challenge Final Report of Team Bio Luna, New Mexico State University\nTeam ID: 9177\nTitle: Soil Amendment and Microbial Inoculation of Lunar Regolith\nTeam leaders: Mikaela Hoellrich, Maya Gabitzsch (undergrad), Kaitlin Marry (undergrad)\nTeam Members: McKenzie Stock, Jonathan Consford, Karina Tovar, Ashley Riggs, and Ryan\nSalcido\nFaculty Advisors: Dr. Nicole Pietrasiak and Dr. April Ulery",
+      "char_count": 404,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "text": "Introduction\nFuture long-term manned space missions to the Moon and other extraterrestrial bodies\nwill require a sustainable food supply. The ability to grow food in situ would be ideal for\nmaintaining human life. However, the unconsolidated rocky material found on the Moon\n(regolith) has not undergone pedogenic processes and does not possess the emergent qualities of\nsoil that allow for plant growth. Regolith is lacking in available nutrients, organic matter, and\nbiological life. Understanding how nutritious foods can be grown on these local substrates will\nfacilitate lengthier exoplanetary explorations such as near future NASA Artemis expeditions.\nResearch initiatives such as the Plant the Moon Challenge (PTMC) offer the next generation\nspace biologists and environmental scientists an opportunity to contribute their ideas in\ndeveloping innovative solutions to this challenge.\nIn Spring 2021 the NMSU Zia Luna PTMC student team carried out an experiment using\ncompost and vermiculite amended lunar regolith to grow beans, green onions, and mushrooms.\nVermiculite was used to aerate the soil and compost was used as a source of organic matter.\nWhile no growth deficiencies were observed for mushroom crops, it was noticed that the plant\ncrops suffered from what appeared to be nutrient deficiency or toxicity. However, analysis of\nleachate did not indicate particularly low concentrations of essential nutrients nor high\nconcentrations of potential toxic elements, so it was speculated that there may have been an\nimportant microbial component missing from the \u201csoil\u201d.\nOn Earth there are many beneficial microorganisms helping plants to achieve their full\npotential. Microorganisms are important for releasing and transforming nutrients into forms that\ncan be uptaken by plants. For example, symbiotic mycorrhizal fungi can tap into occluded\ninorganic phosphorus pools and extend the nutrient acquiring capacity of plants while\nrhizosphere microbes can protect the plant against disease. Some legume plants, like beans, may\nacquire rhizobia, which colonize the roots and fix nitrogen which is exchanged with the plant\nhost for carbon.\nIn this round, our 2022 student team modified the experimental design with the addition\nof microbial inoculation of only one species vs a consortium of species. The inoculants chosen\nhere were biological soil crust (biocrust) and the photosynthetic cyanobacteria species\nSymplocastrum torsivum. Cyanobacteria are key stone species in dryland soils weaving together\nsoil particles, fix carbon and nitrogen and create biocrust, a living soil aggregate. Once formed,\nbiocrusts house diverse microbial communities of other organisms such as other bacterial,\nfungal, and macroscopic taxa associated with the cyanobacteria and are responsible for nutrient\ncycling and bioweathering. The goal of this experiment was to provide insights as to what sort of\nsoil amendments should be used and what microbial communities should be encouraged when\nattempting to start a self-sustaining soil system on a space station.\nTheory\nFor this project there were two independent factors: the type of microbial inoculum and\nregolith amendment. The dependent effect of these factors was tracked through the measurement\nof plant growth (height, leaf number, total plant biomass), plant health (leaf morphology and",
+      "char_count": 3335,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "text": "damage), and regolith chemistry (pH, electrical conductivity, leachate composition). A negative\ncontrol (regolith only) and a positive control (potting soil) were used as a comparison to observe\npotential growth effect.\nSubstrate amendments: In order to support bean growth, compost was added as a source\nof organic matter under the justification that on an established space station, any excess organic\nwaste from food or horticultural practices could be added to an extant compost pile and recycled\nback into gardening. In a real situation, it would be advised to bring some amount of starter\ncompost to establish an initial crop and subsequently, plant material from previous harvests and\nfood waste could be used to establish a compost heap. The addition of vermiculite selected in\norder to provide aeration to the soil, and, in the context of a space mission, can be used as a\npacking material, acting as a buffer during shipping and thereafter being used for plant growing.\nMicrobial Inoculum: For this experiment, 3 inoculation treatments were proposed.\nInoculating with cyanobacterium Symplocastrum torsivum would demonstrate the capacity of\none organism to support plant growth through aggregate formation and the initiation of\nbioweathering. Inoculating with biocrust soil would demonstrate the capacity of a consortium of\norganisms to support plant growth through providing a multitude of biogeochemical reactions\nincluding carbon, phosphorus, and nitrogen cycling and other micro and trace nutrient cycling in\naddition to aggregate formation and bioweathering. Not inoculating pots would be a control.\nCompost also inherently hosts its own microbial consortium, however, microbes in compost are\nmostly heterotrophic bacteria, fungi and microscopic animals. A treatment of sterilized compost\nwas added to test for any aid compost microbes might render.\nOur project aim was to test a variety of experimental conditions to cultivate heirloom\nAnasazi beans (Phaseolus vulgais L.) in lunar regolith simulant. The Anasazi bean variety is a\ndrought tolerant plant crop adapted to low fertility soils and have been selected and bred under\narid climate for millennia.\nThis project had four primary hypotheses:\nH1: If nutrient content is limited in regolith, then the addition of compost will produce more\nabove ground biomass (quantified by plant height and above ground biomass weight) and overall\nhealthier crops (quantified by leaf damage area).\nH2: If nutrient content is limited and substrate is too dense in regolith, then the addition of\ncompost plus vermiculite will produce more above ground biomass (quantified by plant height\nand above ground biomass weight) and overall healthier crops (quantified by leaf damage area).\nH3: If beneficial soil microorganisms are not present in the regolith, then the inoculation of pots\nwith microorganisms will produce more above ground biomass (quantified by plant height and\nabove ground biomass weight) and overall healthier crops (quantified by leaf damage area).\nH4: If increasing microbial biodiversity increases biogeochemical functionality, then inoculating\npots with a consortium of microorganisms will produce more above ground biomass (quantified\nby plant height and above ground biomass weight) and overall healthier crops (quantified by leaf\ndamage area).",
+      "char_count": 3317,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "text": "Measurement Methods\nExperimental design: Our full factorial experimental design included two factors: a\nregolith amendment factor and a microbial inoculum factor (Table 1). Five treatments were\nassigned as regolith amendments: 100% regolith, 50% regolith + 50% vermiculite, 50% regolith\n+ 50% compost, 50% regolith + 50% autoclaved compost, 50% regolith + 25% compost + 25%\nvermiculite. For each of those regolith amendment treatments, three types of inoculation were\ncarried out: None, Symplocastrum torsivum, and biological soil crust. For each of these\nconditions, there were five replicate pots filled 500 ml substrate, except in the regolith +\nsterilized compost treatment where there were only 4 pots and one of those reps only contained\n400ml substrate material due to limited regolith material (= a total of 72 experimental pots). The\n100% regolith with no inoculation was treated as a negative control. An additional five pots were\nfilled with potting soil as a positive control (although only 3 of the 5 ended up seeded).\nTable 1. Treatment listed at the top and inoculant listed on the left. Regolith + Sterilized\nCompost treatment differs in pot number due to limited materials.\u00a0\u00a0\n\u00a0\nRegolith\nOnly\u00a0\nRegolith +\u00a0\nCompost\u00a0\nRegolith +\nSterilized\nCompost\u00a0\nRegolith +\nCompost +\nVermiculite\u00a0\nRegolith +\nVermiculite\u00a0\nSingle\nCyanobacterial\nSpecies\u00a0\n5 pots with\n500\nml\u00a0each\u00a0\n5 pots with\n500 ml each\u00a0\n3 pots with\n500 ml, 1\nwith 400\nml\u00a0\u00a0\n\u00a0\n5 pots\u00a0with\n500 ml each\u00a0\n5 pots with\n500 ml each\nBiocrust\u00a0\n(mixed species)\u00a0\n5 pots with\n500\nml\u00a0each\u00a0\n5 pots with\n500 ml each\n3 pots with\n500 ml, 1\nwith 400 m\n\u00a0\n5 pots\u00a0with\n500 ml each\u00a0\n5 pots with\n500 ml each\nNone\u00a0\n5 pots with\n500\nml\u00a0each\u00a0\n5 pots with\n500 ml each\n3 pots with\n500 ml, 1\nwith 400 m\u00a0\n5 pots\u00a0with\n500 ml each\u00a0\n5 pots with\n500 ml each\nBiocrust samples were collected from the Jornada LTER, NM (32\u00b030\u201937.2\u201d N;\n-106\u00b044\u201932\u201d W). We collected lichen crusts focusing on Clavascidium spp. and Peltula spp., two\ncommon biocrust lichens, for our experiment. Biocrust samples were homogenized by gently\ncrushing the soil crust aggregates through a 2 mm sieve. Biomass of the cyanobacterium species\nSymplocastrum torsivum was grown in liquid Z8 media (Carmichael 1986) in flasks starting as a\nsubculture from the terrestrial cyanobacterial culture collection of the NMSU Dryland Microbes\nlab.\nThe experiment began on February 7. We used 9cm x 9cm x 13cm square tapered pots. A\ncoffee filter was placed as a liner within each pot to minimize loss of substrate from the drainage\nholes. Regolith-only pots were filled with 500ml of material measured in a 250ml graduated\ncylinder, which was filled and tapped against the counter until the material settled and refilling to\n250ml to standardize volume. The same procedure was carried out for all pots filled with 50%",
+      "char_count": 2802,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "",
+            "Regolith Only",
+            "Regolith + Compost",
+            "Regolith + Sterilized Compost",
+            "Regolith + Compost + Vermiculite",
+            "Regolith + Vermiculite"
+          ],
+          [
+            "Single Cyanobacterial Species",
+            "5 pots with 500 ml each",
+            "5 pots with 500 ml each",
+            "3 pots with 500 ml, 1 with 400 ml",
+            "5 pots with 500 ml each",
+            "5 pots with 500 ml each"
+          ],
+          [
+            "Biocrust (mixed species)",
+            "5 pots with 500 ml each",
+            "5 pots with 500 ml each",
+            "3 pots with 500 ml, 1 with 400 m",
+            "5 pots with 500 ml each",
+            "5 pots with 500 ml each"
+          ],
+          [
+            "None",
+            "5 pots with 500 ml each",
+            "5 pots with 500 ml each",
+            "3 pots with 500 ml, 1 with 400 m",
+            "5 pots with 500 ml each",
+            "5 pots with 500 ml each"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 5,
+      "text": "regolith and 50% amendment (by volume) but adding 250ml of regolith only. Pots with the\nvermiculite and compost amendment were filled with 50% regolith (250ml), 25% compost, and\n25% vermiculite (125ml for each). Measured volumes of regolith material were poured into a\nlarge plastic bag and shaken to homogenize and loosen the material before pouring into pots. The\ncompost added was sourced from the NMSU Compost Club\u2019s compost pile and sterilized\ncompost was autoclaved twice before addition to pots. Pots were placed into 40oz Ziplock bags\nin order to catch draining leachate for analysis. Three Anasazi beans (Phaseolus vulgais L.) were\nplanted at 2cm and carefully buried. Pots were watered with 80ml initially and 10ml added until\nleachate began draining from the bottom of the pot.\nAfter watering, assigned microbial pots were inoculated (Fig. 1). Approximately 9ml of\ncrushed biocrust was sprinkled on the moist surface of biocrust treatment pots. Biomass of the\ncyanobacterium species Symplocastrum torsivum was teased apart with sterile tweezers, gently\napplied to the pot, and spread across the surface of the single cyanobacterial treatment pots (no\nmore than 3g added).\nFigure 1. Initial inoculation treatments for regolith only immediately after application.\nAfter the initial watering and leachate analysis, leachate was collected on the Tuesday of\nweeks 3, 6, 8 and 10. Pots were placed into 40oz Ziplock bags to catch the leachate. 60ml of\nwater was added to each pot and allowed to drain for five hours. The bags were then collected,\nand the five replicates of each treatment were composited into a 250ml flask to have enough\nvolume to conduct analysis. Each composite sample was then partitioned into two 25ml vials.\nOne vial was preserved with 1+1 trace pure HNO3 until the pH is less than 2 to bring the\nelements into solution. Leachate was analyzed for 28 elements (Al, As, B, Ba, Be, Cd, Co, Cr,\nFe, Mn, Mo, Ni, Pb, Se, Tl, V, Zn, Bi, Ca, Li, Mg, P, Sr, K, Si, Na, S, Cu) via Perkin Elmer\nOptima 4300DV ICP-OES Method EPA 200.7. The second vial is analyzed within two days of\ncollection via the Technicon Autoanalyzer method EPA 353.2 for nitrate composition and\nmethod SM 4500 Cl-E for chloride. The leachate was also analyzed for pH and EC using",
+      "char_count": 2270,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "text": "Fisherbrand accument Benchtop Laboratory Meter and methods EPA 150.1 for pH and SM\n2510B for EC.\nPots were initially placed under grow lights in a laboratory growth room (Fig. 2) and\nwatered every other day with 30ml with a 16hr/8hr light dark cycle. One replicate of each\ntreatment plus a positive control were blocked on a tray flat (Fig. 2) Growth room temperature\nwas measured at ~20-25\u02daC throughout the day. After 5 days (20 ml) of Z8 media was added to\nassist in the growth of algae. Culling took place after any one plant in each pot was taller than\n5cm, plants were cut back to the surface of soil with scissors sterilized with ethanol.\nFigure 2. Tray containing all treatments in week 1.\nAfter 2 weeks, pots were moved to the greenhouse (Fig. 3 B-D) where they were watered\nwith 60ml every day, unless pots appeared damp at the surface. In the greenhouse, trays were\nrotated every week to combat uneven lighting. During the greenhouse move one of those control\nplants snapped and died shortly after. After 3 weeks 50ml of Hoagland solution was added as a\nfertilizer to each pot. Only one addition of fertilizer was added to support the plants while the\nalgae was slowly establishing at the surface of the pots.",
+      "char_count": 1219,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "text": "Figure 3. A) Plants after 2 weeks. B) Plants after 3 weeks. C) Plants after 8 weeks. D) Plants\nafter 10 weeks.\nEmergence of the beans was tracked daily. Every Monday, plant height and leaf number\nwere measured and recorded (until week 7 for height and week 6 for leaf number). Plant height\nwas measured from the base of soil to the apical meristem.\nMeasurement of pH was carried out at the beginning, in the middle and end of the\nexperiment to minimize disruption of microbial biomass (week 1, week 6, and week 10). In order\nto collect pH, a pH probe was pressed to the surface of water saturated regolith until\nmeasurement stabilized.\nAt the conclusion of the experiment on April 15th, plant height, root weight, extent of\nalgal colonization, bean size, bean count, bean weight, quantification of rhizobia colonization,\nand above ground biomass were examined. Extent of algal colonization was assessed by imaging\nthe surface of every pot and making a visual assessment of: No cover, partial cover, or total algal\ncover. For microscopic investigation of microbial cover, each pot in reps 3 and 5 was sampled\nusing sterile technique. A sterile 0.5cm circular cookie cutter was used to collect 3 <0.5cm\u00b3 soil\ncores, samples were stored at 4\u02daC until imaged with inverted Zeiss Axiovert 100 microscope.\nAbove ground biomass was separated out into beans, stem, and leaves and preserved for plant\ntissue analysis. Roots were carefully separated from surrounding soil and washed for 10 sec in\nphosphate free soap (micro 90) diluted with reverse osmosis (RO) water and 10 sec in RO water.\nSurface and subsurface biomass were left to air dry for future tissue analysis. Roots were\nadditionally weighed after a week of drying.",
+      "char_count": 1716,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "text": "Analysis of all plant data was carried out in R studio (1.4.1717) (R 4.1.2). An anova was\ncarried out for analysis of pH differences within each week data was collected. Leachate\nchemistry data was explored with a principal component analysis in order to categorize\ndifferences in grouping trends. Specific leachate analysis was carried out in Excel.\nAnalysis & Results\nThe percentage of emergent plants was greatest in the control, followed by treatment\nRVC and RV, R, RC, and RS, respectively (Fig. 4B). Microbial inoculation showed no difference\nin plant emergence (Fig. 4A).\nFigure 4. Percentage of plants that emerged from each treatment, where Ctrl is potting soil\npositive control, R is regolith only, RC is 50% regolith + 50% compost, RS is 50% regolith +\n50% sterilized compost, RV is 50% regolith + 50% vermiculite, and RVC is 50% regolith + 25%\nvermiculite + 25% compost. None indicates no microbial inoculation, Algae indicates inoculation\nwith cyanobacteria Symplocastrum torsivum, and Biocrust indicates inoculation with biocrust.\nFor pH in week 1, the potting soil control (Ctrl) treatment was significantly different\nfrom all other treatments (<0.0005), RB was significantly different from RA and RCN (<0.05),\nand RVCB was significantly different from RA and RVCN (<0.05). For pH in week 6, the\npotting control (Ctrl) was significantly different from all other treatments (<0.05). For pH in\nweek 10, the potting soil control (Ctrl) was significantly different from all other samples (<0.05),\nexcept RSA, RVA, and RVB (Fig 5, Table 2).",
+      "char_count": 1550,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "text": "Figure 5. pH for Week 1 (top), Week 6 (middle), Week 10 (bottom), where Ctrl is potting soil\npositive control, R is regolith only, RC is 50% regolith + 50% compost, RS is 50% regolith +\n50% sterilized compost, RV is 50% regolith + 50% vermiculite, and RVC is 50% regolith + 25%\nvermiculite + 25% compost. None indicates no microbial inoculation, Algae indicates inoculation\nwith cyanobacteria Symplocastrum torsivum, and Biocrust indicates inoculation with biocrust.",
+      "char_count": 466,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "text": "Table 2. pH for Weeks 1, 6, and 10 where Ctrl is potting soil positive control, R is regolith only,\nRC is 50% regolith + 50% compost, RS is 50% regolith + 50% sterilized compost, RV is 50%\nregolith + 50% vermiculite, and RVC is 50% regolith + 25% vermiculite + 25% compost. N\nindicates no microbial inoculation; A indicates inoculation with cyanobacteria Symplocastrum\ntorsivum, and B indicates inoculation with biocrust.\nTreatment\nWeek 1\nWeek 6\nWeek 10\nCtrl\n5.96\n5.78\n6.48\nRA\n6.96\n7.39\n7.88\nRB\n7.54\n7.50\n7.71\nRN\n7.46\n7.62\n7.93\nRCA\n7.22\n8.00\n7.60\nRCB\n7.40\n8.00\n7.66\nRCN\n6.90\n7.81\n7.54\nRSA\n7.13\n7.60\n7.30\nRSB\n7.38\n8.03\n7.56\nRSN\n7.10\n7.80\n7.89\nRVA\n7.26\n7.35\n7.28\nRVB\n7.40\n7.37\n7.43\nRVN\n7.24\n7.38\n7.69\nRVCA\n7.08\n7.68\n7.70\nRVCB\n7.60\n8.14\n7.87\nRVCN\n7.02\n7.95\n7.98\nAn anova was run for each plant measurement (plant height, root biomass, bean biomass,\nand total above ground biomass) using treatment as an explanatory variable. There were no\nsignificant differences (height P=0.37, root biomass P=0.63, bean biomass P=0.063), except in\ntotal above ground biomass where treatment was significant (P=0.04), but there were no\nindividual differences within the data. Generally for biomass measurements, trends remained\nbroadly similar whether total above ground biomass, bean biomass, or stem only biomass was\nthe focus (Fig. 6). The greatest average biomass (for bean and total) after the potting soil control\nwas seen in the RVC treatments (Fig. 6A, D). The biomass found in RVC treatments was similar\nto the biomass measures found in RC and RS treatments, however, these treatments only had one\nrep due to low instances of emergence. Treatments RV and R had the second lowest and lowest\nbiomass measurements, respectively. Root biomass of RVC was highly variable but included\npots with the greatest amount of root biomass (Fig. 6C). Treatments RVC, RV, RS, and potting\nsoil control overlapped in their root biomass for Algal and Biocrust inoculation but treatment RV\nwith no inoculation had lower root biomass. Treatment R had the lowest root biomass averages,\nwith the treatment with no inoculation being the lowest of the inoculations.",
+      "char_count": 2130,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Treatment",
+            "Week 1",
+            "Week 6",
+            "Week 10"
+          ],
+          [
+            "Ctrl",
+            "5.96",
+            "5.78",
+            "6.48"
+          ],
+          [
+            "RA",
+            "6.96",
+            "7.39",
+            "7.88"
+          ],
+          [
+            "RB",
+            "7.54",
+            "7.50",
+            "7.71"
+          ],
+          [
+            "RN",
+            "7.46",
+            "7.62",
+            "7.93"
+          ],
+          [
+            "RCA",
+            "7.22",
+            "8.00",
+            "7.60"
+          ],
+          [
+            "RCB",
+            "7.40",
+            "8.00",
+            "7.66"
+          ],
+          [
+            "RCN",
+            "6.90",
+            "7.81",
+            "7.54"
+          ],
+          [
+            "RSA",
+            "7.13",
+            "7.60",
+            "7.30"
+          ],
+          [
+            "RSB",
+            "7.38",
+            "8.03",
+            "7.56"
+          ],
+          [
+            "RSN",
+            "7.10",
+            "7.80",
+            "7.89"
+          ],
+          [
+            "RVA",
+            "7.26",
+            "7.35",
+            "7.28"
+          ],
+          [
+            "RVB",
+            "7.40",
+            "7.37",
+            "7.43"
+          ],
+          [
+            "RVN",
+            "7.24",
+            "7.38",
+            "7.69"
+          ],
+          [
+            "RVCA",
+            "7.08",
+            "7.68",
+            "7.70"
+          ],
+          [
+            "RVCB",
+            "7.60",
+            "8.14",
+            "7.87"
+          ],
+          [
+            "RVCN",
+            "7.02",
+            "7.95",
+            "7.98"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 11,
+      "text": "Figure 6. Total above ground biomass (A), plant height at week 10 (B), dry root biomass (C), and\nbean biomass (D) grouped by Amendment, where Ctrl is potting soil positive control, R is\nregolith only, RC is 50% regolith + 50% compost, RS is 50% regolith + 50% sterilized compost,\nRV is 50% regolith + 50% vermiculite, and RVC is 50% regolith + 25% vermiculite + 25%",
+      "char_count": 365,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 12,
+      "text": "compost. None indicates no microbial inoculation, Algae indicates inoculation with\ncyanobacteria Symplocastrum torsivum, and Biocrust indicates inoculation with biocrust.\nThe presence of rhizobia formed nodules (Fig. 7) was noted in 100% of Ctrl pots with\nlive plants (2), rhizobia were noted in none of the R or RS pots, 50% of RC pots with plants (2\npots), 33.4% of RV pots with plants (4 out of 11), and 45.5% of RVC pots with plants (5 out of\n11).\nFigure 7. Tally of pots with rhizobia presence, where Ctrl is potting soil positive control,where\nCtrl is potting soil positive control, R is regolith only, RC is 50% regolith + 50% compost, RS is\n50% regolith + 50% sterilized compost, RV is 50% regolith + 50% vermiculite, and RVC is 50%\nregolith + 25% vermiculite + 25% compost. No Plant indicates no emergent plant within the pot,\nNo Rhizobia indicates plant presence but no nodules, Rhizobia indicates the presence of nodules.\nThe first flowers were spotted in week 7 and beans began developing shortly after. Our\nexperiment could have been terminated in week 8 or 9 based on the apparent life cycle of these\nplants. By the end of 10 weeks most plants appeared to be at the end of their life (Fig 8C).\nPossibly, the plants could have lived longer if not for nutrient issues, leaf spotting was first\nnoticed in week 5 and after 6 weeks leaves were falling off plants to the extent that leaf counting\nwas halted (Fig. 8B).\nFigure 8. A) Roots emerging before the stem. B) Leaf spotting. C) Week 10 tray.",
+      "char_count": 1506,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 13,
+      "text": "PCA plot grouping was strongest according to week, pots becoming more and more\nsimilar (as demonstrated by narrowing ellipses in (Fig. 9) as weeks went on. Component 1\nexplained 56.2% of variability and eas strongly correlated with Mg, EC, Bi, Ca, NO3, Sr, K, Na,\nBa, PB, S, Cd, Chloride, B, Li, P, As, Mn, and pH (-0.998, -0.997, -0.997, -0.996. -0.99, -0.99,\n-0.99, -0.99, -0.99, -0.98, -0.97, -0.95, -0.94, -0.94, -0.84, -0.86, -0.75, -0.71, and 0.71,\nrespectively). Component 2 explained 12.6% of variability and was moderately to strongly\ncorrelated with Fe, Co, Ni, Cr, Zn, and Si (correlation of 0.91, 0.8, 0.79, 0.73, 0.69, and 0.54,\nrespectively).\nThe leachate data was reviewed for trends and possible indicators of plant growth\nlimiters. Most macro and micronutrients decreased after successive watering events. Two\nmacronutrients, phosphorus and nitrate, were of particular interest. The phosphorus\nconcentration was below 20 ppm from the beginning of the growing period and the nitrate\nconcentration was below 5 ppm in all treatments except the control by day 36 (Fig. 10). These\nnutrient levels are insufficient for most crop plants. Additionally, leachate aluminum\nconcentration increased in all treatments, exceeding 2 ppm by day 36 except for RC. Aluminum\nis toxic to most plants and may have unfavorable effects on plant growth.\nFigure 9. PCA plot for leachate analysis where groups are colored according to the week\ncollected (weeks 1, 3, 6, and 8) and points are named according to treatment.",
+      "char_count": 1512,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 14,
+      "text": "Figure 10. Leachate Aluminum (Top), Phosphorus (Middle), and Nitrate (Bottom) concentrations\n(ppm) over the course of the experiment, where R indicates Regolith only, RC indicates Regolith\n+ Compost, RV indicates Regolith + Vermiculite, RCV indicates Regolith + Compost +\nVermiculite, and PS indicates potting soil. Each treatment was a composite sample.\nNearly all tested samples were colonized by diatoms and green algae (Fig. 11), likely\nacquired from the air inside the greenhouse or from the greenhouse tap water. Evidence of",
+      "char_count": 530,
+      "image_count": 3,
+      "tables": []
+    },
+    {
+      "page_number": 15,
+      "text": "colonization by filamentous cyanobacteria and fungi were also found across an assortment of\ntreatments without any strong pattern. This lack of pattern indicates widespread cross\ncontamination of pots. All reps were held in one tray, making it easy for contamination while\nwatering or by airflow. If this experiment were to be repeated, more biomass should be used to\nensure strong establishment in pots that were inoculated to contrast to the slow contamination of\nother pots. Establishment of visible algal cover was greatest in biocrust inoculated pots (Fig. 12,\n13), but there appeared to be more instances of algal establishment in the non-inoculated pots\nthan those inoculated with Symplocastrum torsivum.\nFigure 11. Images taken with a Zeiss Axiovert 100 microscope. A) Diatoms at 100x. B)\nNematoad 40x. C) Filamentous cyanobacteria 40x. D) Fungi 100x. E) Green algae 40x. F)\nFilamentous cyanobacteria 40x.\nFigure 12. Tally of pots with categories of algal cover, grouped by type of inoculum where None\nindicates no inoculation, Algae indicates inoculation with cyanobacteria Symplocastrum\ntorsivum, and Biocrust indicates inoculation with biocrust and where Missing indicates that the",
+      "char_count": 1192,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 16,
+      "text": "picture of algal cover was missing, None indicates no visible cover, Partial indicates patchy\npartial cover, and Total indicates substantial cover.\nFigure 13. A) Initial inoculation treatments for regolith only immediately after application. B-C)\nTwo pots were algae visibly established at the surface. RB2 after 3 weeks (D) and after 10 weeks\n(E) to show that the regolith material coated the added soil.\nDiscussion & Conclusions\nThis year our student team competed in the plant the moon challenge for the 2nd time.\nMany observations and patterns seen during last year\u2019s experiment of bean seedling emergence,\nearly establishment, and overall plant growth in lunar regolith were supported with data obtained\nthis year. However, we gained new insights into the specific constraints of plant growth in\nregolith, regolith chemistry, and the types of microbes that can colonize this material.\nEmergence\nA greater percentage of emergent plants in RV and RVC than other treatments (Fig. 4B)\nis likely due to the presence of vermiculite providing more pore space aerating the soil. It was\nnoted that in a number of pots (RN3, RVB3, RA3, RCN4, RVCN1, RVCB2, RVCN3), roots\nemerged before the stem of the plant (Fig. 8A). One possible explanation could be that the\nregolith material was so dense and difficult to penetrate that the path of least resistance was\nupward to the surface. The low number of emergent plants in RC and RS and R may likely be\ndue to the density of the material suffocating the plants before they could break the surface. The\naddition of organic matter in treatments RC and RS may have exacerbated seedling mortality by",
+      "char_count": 1634,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 17,
+      "text": "introducing microbes that rotted the seedlings in contrast to the R treatment which had more\ninstances of emergence.\nLeaf damage\nExtensive leaf damage was seen across all treatments, including the potting soil controls.\nOne possible explanation for the damage could be over/underwatering of some pots. The regolith\nmaterial alone holds water for extended periods of time without allowing for drainage,\nmeanwhile, amended samples each had different water holding capacity. All pots were watered\nwith the same amount, possibly leading to the development of anoxic zones within some\ntreatments. When cutting open pots for root analysis some pots (especially the RS treatment)\nsmelled like hydrogen sulfide, which suggests the development of anaerobic activity. In the case\nof leaf damage in the potting soil controls, a lack of watering was the likely culprit because the\npotting soil dried so much more quickly. Another possibility for leaf damage in treatments would\nbe aluminum toxicity and/or nitrogen and phosphorus deficiency as indicated by leachate\nanalysis (Fig. 10). Additionally, the 1st week of leachate analysis was the most dissimilar to the\nfollowing weeks and indicates that with successive watering nutrient composition became more\nand more similar (Fig. 9) likely because nutrients were being flushed from the regolith.\nBiomass\nNo difference in above ground biomass between RVC, RC, and RS was detected (Fig.\n6A) due to only one rep exiting in the latter two treatments as a product of low emergence (Fig.\n4B). However, the fact that these three treatments had similar levels of biomass in comparison to\nthe lower biomass in RV and R suggests that the addition of compost as a soil amendment\nincreases plant biomass. Additionally, treatment RV had the second lowest biomass measures\nnext to the lowest biomass measures seen in treatment R, suggesting that the density of the\nmaterial also had some impact on the plant\u2019s capacity for growth, possibly interfering with plant\nnutrient uptake. Root biomass in treatment RV was similar to that of RVC, RC and RS, while\ntreatment R had the lowest root biomass averages (Fig. 6C). This indicates that the presence of\nvermiculite and compost were beneficial for root growth. There was an indication that\ninoculation may have benefited root growth as in treatments R and RV the no inoculation\ntreatments had the lowest biomass levels.\nMicrobes\nThe presence of root nodules was expected in the potting soil and treatments with\ncompost (RVC and RC) because those treatments would contain an assortment of soil microbes,\nrhizobia among them. However, nodules were also observed in the RV treatment (though not in\nthe RS or R treatments). This may indicate that there are Rhizobia associated with the bean seeds\nthemselves that establish when conditions are optimal (as they may have been RV due to aeration\nby vermiculite).\nInoculation treatments did not have a significant effect on our response variables\nmeasured, except possibly root biomass. These treatments could have had an effect if more\ninoculum material was added. No more than 3g of algae were added to each pot.This was not",
+      "char_count": 3139,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 18,
+      "text": "enough algae biomass to cover the entire surface and when water was applied, the algae became\ncoated with the fine particles of the regolith (Fig. 13). We recommend future experiments to add\nmore biomass, perhaps in combination with some inert material like small glass beads to allow\nthe algae to colonize the surface of the pot. Similarly, only 9ml of biocrust was applied to each\npot, only enough to cover the surface (less than 2 mm). Again, when watered, the material was\ncoated by the fine particles of the regolith. The biocrust microbial consortia established on the\nregolith better than the algae (Fig. 12)and was able to establish a surface aggregate in a number\nof pots. To assess this treatment again, more biocrust material should be applied to the surface of\nthe pot. Additionally, a number of pots with no inoculation were colonized by algae and\ninvestigation with the microscope indicated widespread contamination between treatments. In\norder to prevent contamination, a downward facing fan may be required to prevent the spread to\nalgae, separation of treatments into different locations, or application of substantially more\nbiomass. In future experiments would also benefit from a standardized method of crust\nestablishment assessment. The surface of each pot should be allowed to dry completely before\nthe end of the experiment in order to test surface stability for biocrust formation.\nHypotheses\nH1: If nutrient content is limited in regolith, then the addition of compost will produce more\nabove ground biomass (quantified by plant height and above ground biomass weight) and overall\nhealthier crops (quantified by leaf damage area).\nAbove ground biomass and bean biomass was greater in treatments including compost (RVC,\nRC, and RS (though there was only 1 RS rep)), than those without (R and RV). By the time of\nthe experiment conclusion many plants were so damaged that proper analysis to quantify leaf\ndamage was not possible.\nH2: If nutrient content is limited and substrate is too dense in regolith, then the addition of\ncompost plus vermiculite will produce more above ground biomass (quantified by plant height\nand above ground biomass weight) and overall healthier crops (quantified by leaf damage area).\nAbove ground biomass and bean biomass was greater in RVC treatments on average than RV and\nR treatments, however RVC treatments were the most variable in their results. RV biomass was\ngreater than negative control (R). RV and RVC also had greater instances of emergence than\nother treatments. This indicates that the substrate was dense enough to effect emergence and\ngrowth and plants benefited from the combination of compost and vermiculite.\nH3: If beneficial soil microorganisms are not present in the regolith, then the inoculation of pots\nwith microorganisms will produce more above ground biomass (quantified by plant height and\nabove ground biomass weight) and overall healthier crops (quantified by leaf damage area).\nThere was no significant effect of inoculation on any of the measured values, above ground\nbiomass aside from some indication of increased root biomass in R and RV treatments.\nH4: If increasing microbial biodiversity increases biogeochemical functionality, then inoculating\npots with a consortium of microorganisms will produce more above ground biomass (quantified",
+      "char_count": 3329,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 19,
+      "text": "by plant height and above ground biomass weight) and overall healthier crops (quantified by leaf\ndamage area).\nNot enough microbial inoculum may have been used to investigate plant growth promoting or\ninhibiting effects of soil microbes. Contamination led to colonization throughout treatments.\nConclusions\nThe addition of vermiculite led to increased emergence and plant biomass likely due to\nincrease of pore space in the regolith material. The addition of compost produced more biomass\nin surviving plants. The combination of regolith and compost produced the most favorable\nconditions for plant growth. The inoculation treatments had no significant effect, likely because\nnot enough microbial biomass was used in each pot to establish distinctive treatments. Future\nexperiments should focus on adding additional amendments or fertilizing in order to eliminate\ntoxins and deliver plants limited nutrients like nitrate and phosphate nutrients. A standardized\nwatering regime would also be desired to balance the amount of water being delivered to\ntreatments with different water holding capacities. Additionally, future experiments involving\ninoculation should add a greater amount of inoculum to the surface of pots or use amendment\nthat will stop the regolith from coating and \u201cswallowing\u201d all microbial additions. Although this\nexperiment has concluded for the sake of this competition, further analysis of plant tissue and the\nweek 10 leachate analysis will still be carried out by students working on funded projects.\nAcknowledgements\nWe wish to thank Dr. Geno Picchioni for use of greenhouse space, lab resources, and\nplant knowledge; Dr. Jose Ortega-Carranza for assistance setting up the light shelves and insights\nabout bean germination; Dr. Stephen Hanson for use of his light incubator and trays; Barbara\nHunter for analyzing our leachate samples; the NM Space Grant Consortium, NMSU URS AMP,\nand NMSU MARC programs for financial assistance.\nReferences\nAppendices\nAll data associated with this project can be found at:\nhttps://github.com/mhoellrich/PTMC-Spring-2022",
+      "char_count": 2078,
+      "image_count": 0,
+      "tables": []
+    }
+  ]
+}

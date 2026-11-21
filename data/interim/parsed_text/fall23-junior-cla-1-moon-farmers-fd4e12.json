@@ -1,0 +1,73 @@
+{
+  "report_id": "fall23-junior-cla-1-moon-farmers-fd4e12",
+  "sha256": "987982cb05b10546b6a1037489cbcef2b3f8fda7865da7c1ed275b266b78982a",
+  "page_count": 4,
+  "total_chars": 4476,
+  "avg_chars_per_page": 1119.0,
+  "total_images": 15,
+  "table_count": 2,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Team Name: CLA 1, Moon Farmers \nTeam #: 16299 \nChallenge Division: Elementary \nTeam Members: Seraphine Potts, Karleigh Long, Jack Powell, Xane Long, Ledger Ward \nTeam Facilitators: Kitty Ward, Beverly Mouton (Roi S Wood Campus, Joplin School District, \nJoplin MO) \n \nHow do additives affect Green Bean growth in \nLunar Simulant? \nBackground: We chose to try several different ratios of commercial potting soil, lunar simulant \n(which we refer to as \u2018moon dust\u2019), perlite, sand. With some of our pots, we added osmocote to \nhelp facilitate growth. Our thinking with the sand and perlite was that the perlite would lighten \nthe weight of the soil and therefore make it act more like the weight of the soil on the moon. We \nobviously have no way to test this, but thought it would be a good addition to our experiment. \nWe used the same thinking with the sand since it would make the soil heavier. We wanted to \nsee which soil would grow better, heavy or light. We also have several ratios of simulant to soil, \nto test which ratio was the best growing medium. We randomly assigned ratios to our pots. \n \nIndependent Variables: Our independent variables were the ratios of the following in each pot: \nMoon Simulant, Potting Soil, Perlite, Sand, Osmocote. \nEach of our pots had different ratios and not all the same substances were put in each pot. Our \nthinking was that we could use perlite to simulate lighter soil to account for less gravity on the \nmoon. We also were thinking that sand would make the soil heavier if needed on the moon. \nThe potting soil has organic matter in it to accommodate for the lack of organic matter in the \nmoon simulant. And finally we thought the osmocote could give our green bean plants a little \nboost. Also we measured how much water we used to water the plants (\u00bc cup every week at \nthe beginning, but every other day as the plants began to grow) \n \nDependent Variables: Each week we measured the following: Plant height, # of leaves, # of \nblossoms, # of successful blossoms (bean pods). \n \nControl: Our control plant was 50% soil and 50% moon simulant. (no other substances) \nOur other soil compositions were as follows: \nPot #1 (4 seeds) \nPot #2 (4 seeds) \nPot #3 (4 seeds) \nPot #4 (4 seeds) \nPot #5 (4 seeds) \n*Control Pot \n50%Commercial \u2018seed \nstarting\u2019 potting soil \n70% Commercial \u2018seed \nstarting\u2019 potting soil \n50% Commercial \u2018seed \nstarting\u2019 potting soil \n50% Commercial \u2018seed \nstarting\u2019 potting soil \n50% Commercial \u2018seed \nstarting\u2019 potting soil \n30% Lunar simulant \n25% Lunar simulant \n25% Lunar simulant \n25% Lunar simulant \n50% Lunar Simulant \n \n \n1 TBSP Osmocote \n25% Perlite \n25% sand \n25% Perlite \n \n \n1 TBSP Osmocote \n \nPot #6 (4 seeds) \nPot #7 (4 seeds) \nPot #8 (4 seeds) \nPot #9 (4 seeds) \nPot #10 (4 seeds) \n50% Commercial \u2018seed \nstarting\u2019 potting soil \n25% Commercial \u2018seed \nstarting\u2019 potting soil \n25% Commercial \u2018seed \nstarting\u2019 potting soil \n50%Commercial \u2018seed \nstarting\u2019 potting soil \n100% Lunar simulant \n \n1 TBSP Osmocote \n25% Lunar simulant \n50% Lunar Simulant \n50% Lunar Simulant \n50% Lunar Simulant \n25% sand \n25% Perlite \n25% Perlite \n1 TBSP Osmocote \n1 TBSP Osmocote \n \n1 TBSP Osmocote",
+      "char_count": 3154,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Pot #1 (4 seeds)",
+            "Pot #2 (4 seeds)",
+            "Pot #3 (4 seeds)",
+            "Pot #4 (4 seeds)",
+            "Pot #5 (4 seeds)"
+          ],
+          [
+            "*Control Pot 50%Commercial \u2018seed starting\u2019 potting soil 50% Lunar Simulant",
+            "70% Commercial \u2018seed starting\u2019 potting soil 30% Lunar simulant 1 TBSP Osmocote",
+            "50% Commercial \u2018seed starting\u2019 potting soil 25% Lunar simulant 25% Perlite",
+            "50% Commercial \u2018seed starting\u2019 potting soil 25% Lunar simulant 25% sand",
+            "50% Commercial \u2018seed starting\u2019 potting soil 25% Lunar simulant 25% Perlite 1 TBSP Osmocote"
+          ]
+        ],
+        [
+          [
+            "Pot #6 (4 seeds)",
+            "Pot #7 (4 seeds)",
+            "Pot #8 (4 seeds)",
+            "Pot #9 (4 seeds)",
+            "Pot #10 (4 seeds)"
+          ],
+          [
+            "50% Commercial \u2018seed starting\u2019 potting soil 25% Lunar simulant 25% sand 1 TBSP Osmocote",
+            "25% Commercial \u2018seed starting\u2019 potting soil 50% Lunar Simulant 25% Perlite",
+            "25% Commercial \u2018seed starting\u2019 potting soil 50% Lunar Simulant 25% Perlite 1 TBSP Osmocote",
+            "50%Commercial \u2018seed starting\u2019 potting soil 50% Lunar Simulant 1 TBSP Osmocote",
+            "100% Lunar simulant 1 TBSP Osmocote"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "Our Hypothesis:Based on our understanding that the lunar soil had no organic matter, we \nhypothesized that the combination of substances in pot #2 would yield the most growth and \nproduce. \n \nOur Procedures and Measurements: We measured our plants each Friday. We measured the \nheight of each plant, we counted the number of leaves, we counted the number of blossoms \nand the number of successful blossoms (green beans). We watered the plants each week at \nthe beginning of the experiment, but at the plants grew we increased the watering schedule to \nevery other day. \n \nWhat Happened?: Our hypothesis turned out to be wrong. We found that Pot #7 was the most \nproductive pot and the only one to produce a green bean. We also observed that Pot # 10 (the \npot with only moon simulant and osmocote actually grew beyond germination, which we didn\u2019t \nexpect. Several of our observations and comments about these results were: \u201cI think the \nastronauts should take osmocote to enhance the growth of the plants, it\u2019s lighter and takes up \nless space than soil\u201d and \u201cSince #7 is the productive one, this should be the ratio that the \nastronauts use\u201d. We also found out that as the plants grew, the PH levels in the soil decreased. \n \nPot 1 \nPot 2 \n \n \n \n \n \n \n \n \n \n \n \nPot 3 \nPot 4 \n \nPot 5 \nPot 6",
+      "char_count": 1291,
+      "image_count": 6,
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "text": "Pot 7 \nPot 8 \n \n \nPot 10 \nPot 9",
+      "char_count": 31,
+      "image_count": 6,
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "text": "",
+      "char_count": 0,
+      "image_count": 3,
+      "tables": []
+    }
+  ]
+}

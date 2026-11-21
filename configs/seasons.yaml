@@ -1,0 +1,100 @@
+# Plant the Moon Challenge Awards Archive Targets (Spring 2021 - Spring 2026)
+base_url: "https://plantthemoon.com"
+discover_additional_seasons: true
+
+seasons:
+  - season: "Spring 2026"
+    slug: "spring26"
+    year: 2026
+    term: "Spring"
+    order: 12
+    main_url: "https://plantthemoon.com/awards-spring26/"
+    junior_url: "https://plantthemoon.com/jr/awards-spring26/"
+
+  - season: "Fall 2025"
+    slug: "fall25"
+    year: 2025
+    term: "Fall"
+    order: 11
+    main_url: "https://plantthemoon.com/awards-fall25/"
+    junior_url: "https://plantthemoon.com/jr/awards-fall25/"
+
+  - season: "Spring 2025"
+    slug: "spring25"
+    year: 2025
+    term: "Spring"
+    order: 10
+    main_url: "https://plantthemoon.com/awards-spring25/"
+    junior_url: "https://plantthemoon.com/jr/awards-spring25/"
+
+  - season: "Fall 2024"
+    slug: "fall24"
+    year: 2024
+    term: "Fall"
+    order: 9
+    main_url: "https://plantthemoon.com/awards-fall24/"
+    junior_url: "https://plantthemoon.com/jr/awards-fall24/"
+
+  - season: "Spring 2024"
+    slug: "spring24"
+    year: 2024
+    term: "Spring"
+    order: 8
+    main_url: "https://plantthemoon.com/awards-spring24/"
+    junior_url: "https://plantthemoon.com/jr/awards-spring24/"
+
+  - season: "Fall 2023"
+    slug: "fall23"
+    year: 2023
+    term: "Fall"
+    order: 7
+    main_url: "https://plantthemoon.com/awards-fall23/"
+    junior_url: "https://plantthemoon.com/jr/awards-fall23/"
+
+  - season: "Spring 2023"
+    slug: "spring23"
+    year: 2023
+    term: "Spring"
+    order: 6
+    main_url: "https://plantthemoon.com/awards-spring23/"
+    junior_url: "https://plantthemoon.com/jr/awards-spring23/"
+
+  - season: "Fall 2022"
+    slug: "fall22"
+    year: 2022
+    term: "Fall"
+    order: 5
+    main_url: "https://plantthemoon.com/awards-fall22/"
+    junior_url: "https://plantthemoon.com/jr/awards-fall22/"
+
+  - season: "Spring 2022"
+    slug: "spring22"
+    year: 2022
+    term: "Spring"
+    order: 4
+    main_url: "https://plantthemoon.com/awards-spring22/"
+    junior_url: "https://plantthemoon.com/jr/awards-spring22/"
+
+  - season: "Fall 2021"
+    slug: "fall21"
+    year: 2021
+    term: "Fall"
+    order: 3
+    main_url: "https://plantthemoon.com/awards-fall21/"
+    junior_url: "https://plantthemoon.com/jr/awards-fall21/"
+
+  - season: "Summer 2021"
+    slug: "summer21"
+    year: 2021
+    term: "Summer"
+    order: 2
+    main_url: "https://plantthemoon.com/awards-summer21/"
+    junior_url: "https://plantthemoon.com/jr/awards-summer21/"
+
+  - season: "Spring 2021"
+    slug: "spring21"
+    year: 2021
+    term: "Spring"
+    order: 1
+    main_url: "https://plantthemoon.com/awards-spring21/"
+    junior_url: "https://plantthemoon.com/jr/awards-spring21/"

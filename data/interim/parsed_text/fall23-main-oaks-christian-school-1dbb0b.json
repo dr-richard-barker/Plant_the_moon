@@ -1,0 +1,100 @@
+{
+  "report_id": "fall23-main-oaks-christian-school-1dbb0b",
+  "sha256": "9d1f14efcdbb76cbd3ed1ea169aa1aa19c4fca392a0098917703ad9337c501e4",
+  "page_count": 8,
+  "total_chars": 5527,
+  "avg_chars_per_page": 690.9,
+  "total_images": 9,
+  "table_count": 2,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Challenge: Plant the Moon Challenge Fall 2023\nDivision: High School\nTeam: Oaks Christian School\nTeam ID: 16354\nOptimizing Garden Cress growth in Lunar Regolith Soil using an Automated Watering\nSystem.\nParticipants:\nPatrick Udomphornvirat (Project President/Admin)\nRyan Duswalt (Project Coach/Advisor)\nLars Dau (Project VP)\nTye Denny (Software Engineering)\nPreston Hall (Electrical Engineering)\nJack Weber (Mechatronics Engineering)\nJayden Leal (Data Collection)\nIan Ardalan (Data Analysis)\nAllie Smith (Experimental Report)\nMichelle Flores, Bharadee Udomphornvirat (Financial Support)\nBackground:\nWhile pursuing sustainable living on the Moon, developing efficient agricultural practices\nis imperative, especially for astronauts who are expecting to station long-term on the lunar\nsurface. Fortunately, NASA\u2019s Artemis program aims to establish a semi-permanent lunar base,\nwhich highlights the need for self-sufficient food production. Our primary focus became\nnutritionally beneficial and small-scale crops like mini potatoes. However, as our experiment\nprogressed, we found that the mini-potatoes lacked any sign of growth. To combat this, we\nshifted in focus and explored alternative options, such as the Garden Cress (Lepidium sativum),\nwhich is known for its rapid growth and nutritional value: calorically low, packs vitamins A, C,\nand K, and contains omega-3 fatty acids. Garden Cress also has been shown to aid immunity,\nprevent diseases, facilitate organ function, decrease inflammation, and cater to heart health.\nFurthermore, we used our team\u2019s specific interest in engineering to integrate an automated\nwatering system, designed using the Arduino Uno Rev3 microcontroller board. The irrigation\nsystem helped address the challenges in lunar farming, like irregular water supply and extreme\nenvironmental conditions. Furthermore, this experiment was a great opportunity to pursue our\nengineering passions, allowing us to blend botany and technology to engender sustainable\nextraterrestrial agriculture.\nHypothesis:\nAs we increase the plant\u2019s hydration and water, the Garden Cress will show increased signs of\ngrowth.",
+      "char_count": 2126,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "text": "Parameters:\nRemaining constant for every part, our experimental design began with planting the\nGarden Cress (Lepidium sativum), farming with a 1:1 ratio of moon stimulant and soli stimulant,\neach approximately 230mL in volume. Our indoor UV light rested at approximately level 100,\nand our pH level at 7pH was measured using the pH soil level meter provided. We\u2019ve included\nthe circuit diagram for our automated watering system below, its components being the Arduino\nboard, wires, relay box, 9V battery, valve (motor), and a perforated pipe (connected to the pipe)\nVariables:\nOur Independent Variable is the quantity of water we administered to the plants. Our Dependent\nVariable is the plant\u2019s growth, the responsive measure to the changes in water quantity. Finally,\nour Control Variables are the consistency in pot size, uniformity of plant species, soil\ncomposition, and level of sunlight exposure.\nProcedures:\n1. Soak the Garden Cress seeds in a bowl of water for 24 hours (without sunlight)\n1. Prepare a mixture of 50% moon simulant and 50% soil, then mix them equally into the\npots.\n2. Place one spoon of seeds 1 inch below the surface of the soil in the pot\n3. Place each pot under one hole of the pipe in order\n4. Start the watering system (using the C++ code provided below)",
+      "char_count": 1285,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "text": "void setup() {\npinMode(13, OUTPUT); // Set pin 13 as an output\n}\nvoid loop() {\ndigitalWrite(13, HIGH); // Valve opens\ndelay(10000); // Wait for 10 seconds\ndigitalWrite(13, LOW); // Valve closes\ndelay(86400000); // Wait for 24 hours (86400000 milliseconds)\n}\nAmount of water per pot (approx.):\nPot 1: No water\nPot 2: 1 tablespoon and 2 teaspoons\nPot 3: 4 tablespoons\nPot 4: 6 tablespoons\nPot 5: 8 tablespoons\nPot 6: One cup\nPot 7: 300 mL\nPot 8: 500 mL\nPot 9: 700 mL\nResults:",
+      "char_count": 473,
+      "image_count": 1,
+      "tables": [
+        [
+          [
+            "void setup() {"
+          ],
+          [
+            "pinMode(13, OUTPUT); // Set pin 13 as an output"
+          ],
+          [
+            "}"
+          ]
+        ],
+        [
+          [
+            "void loop() {"
+          ],
+          [
+            "digitalWrite(13, HIGH); // Valve opens"
+          ],
+          [
+            "delay(10000); // Wait for 10 seconds"
+          ],
+          [
+            "digitalWrite(13, LOW); // Valve closes"
+          ],
+          [
+            "delay(86400000); // Wait for 24 hours (86400000 milliseconds)"
+          ],
+          [
+            "}"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "Conclusion:\nOur Hypothesis has been sustained. The plants receiving the highest water quantity\nexhibited the most growth and leaf production. We discovered that this result was due to soil\nmoistness, and the Cress\u2019s low fertilizer requirements in regards to the short growing time for",
+      "char_count": 284,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "text": "plants. This outcome supports our previous conjecture that plant growth would be directly\nproportional to water quantity. Throughout the experiment, we have also uncovered that the\nplant\u2019s growth is quicker within the first couple of days of farming, as represented in the\nlogarithmic line of best fit.\nNevertheless, it is crucial to acknowledge the potential for errors. This is evident in the\ninitial interpretation of the plant growth graph, where the stems were reported as shorter than\nprevious days. This observation necessitates a thorough examination to identify and rectify any\nerrors that may have affected the accuracy of our discoveries.\nThis expirament was a valuable learning opportunity for our entire team, extending\nbeyond the realms of software engineering, mechatronics engineering, electrical engineering, and\ndata analysis. Beyond technical skills, the project provided a valuable lesson in fostering\ncollaboration and building rapport with our peers. Working collectively, we honed our ability to\ncollaboratively develop and implement efficient agricultural practices, highlighting the\nimportance of teamwork in the pursuit of innovative solutions.\nImage of the automated watering system in action:\nMore below:",
+      "char_count": 1232,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "text": "Close-up image of the Arduino circuit:\nMore below:",
+      "char_count": 50,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "text": "Image of experiment start:\nMore Below:",
+      "char_count": 38,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "text": "Image of all pots after the experiment:",
+      "char_count": 39,
+      "image_count": 1,
+      "tables": []
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "extraction": {
+    "report_id": "fall21-junior-team-nafsa-f12b80",
+    "extraction_method": "heuristic",
+    "model_name": "table-aware-lexicon-v2",
+    "celestial_body": "lunar",
+    "regolith_simulant": "unspecified",
+    "regolith_simulant_raw": null,
+    "crop_common_name": "microgreens",
+    "crop_scientific_name": null,
+    "crop_guild": "microgreen",
+    "experimental_duration_days": 14.0,
+    "total_plants_or_pots": null,
+    "replicates_per_treatment": null,
+    "has_earth_soil_control": false,
+    "has_unamended_regolith_control": false,
+    "statistical_tests_reported": [],
+    "data_availability": "summary_means",
+    "primary_bottlenecks": [
+      "nutrient_deficiency",
+      "root_restriction"
+    ],
+    "innovation_tags": [
+      "vermicompost_aquaculture",
+      "nano_fertilizer_mineral"
+    ],
+    "key_hypothesis": "Driving Question/Project Hypothesis",
+    "summary_findings": "Team NAFSA (Fall 2021) investigated microgreens in lunar regolith.",
+    "arms": [
+      {
+        "arm_id": "arm_trt_1",
+        "arm_label": "Treatment (worm castings)",
+        "is_control": false,
+        "control_type": "none",
+        "regolith_pct": null,
+        "amendment_category": "vermicompost_aquaculture",
+        "amendment_detail": "worm castings",
+        "amendment_dose": null,
+        "germination_rate_pct": null,
+        "survival_rate_pct": null,
+        "mean_shoot_height_cm": null,
+        "mean_root_length_cm": null,
+        "mean_fresh_biomass_g": null,
+        "mean_dry_biomass_g": null,
+        "substrate_ph": null,
+        "outcome_vs_regolith_control": "not_reported",
+        "reported_effect_pct": null,
+        "evidence_quote": "addition of worm castings to the Lunar Regolith sediment sample.",
+        "page_number": 1
+      },
+      {
+        "arm_id": "arm_trt_2",
+        "arm_label": "Treatment (sulfur)",
+        "is_control": false,
+        "control_type": "none",
+        "regolith_pct": null,
+        "amendment_category": "nano_fertilizer_mineral",
+        "amendment_detail": "sulfur",
+        "amendment_dose": null,
+        "germination_rate_pct": null,
+        "survival_rate_pct": null,
+        "mean_shoot_height_cm": null,
+        "mean_root_length_cm": null,
+        "mean_fresh_biomass_g": null,
+        "mean_dry_biomass_g": null,
+        "substrate_ph": null,
+        "outcome_vs_regolith_control": "not_reported",
+        "reported_effect_pct": null,
+        "evidence_quote": "worm castings which contains iron, sulfur, calcium, nitrogen, phosphorus, and potassium.",
+        "page_number": 2
+      }
+    ]
+  },
+  "provenance_audit": {
+    "quotes_checked": 2,
+    "quotes_matched": 2,
+    "quote_match_rate": 1.0
+  }
+}

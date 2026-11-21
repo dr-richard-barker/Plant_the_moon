@@ -1,0 +1,159 @@
+{
+  "report_id": "fall22-junior-team-insight-efd709",
+  "sha256": "116dbee96c0bdf3f0531118683daf53e37543d3920469760ab2230c7cf73833a",
+  "page_count": 6,
+  "total_chars": 6386,
+  "avg_chars_per_page": 1064.3,
+  "total_images": 23,
+  "table_count": 6,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Team Name: InSight \n \n \nTeam Number: 11429 \nChallenge Division: Plant Mars \nRationale/Background: \nThis project would positively impact society by helping the NASA with their research on Mars. One day people \nwill go to Mars and they are going to need things to eat. Growing their own food will help the explorers to get \nimportant nutrients and will help them to be more interested in what they are eating. It will be important to \nknow what plants can grow in Martian Regolith. \nAccording to Growing radishes in home gardens | UMN Extension radishes grow in three to five weeks. We \nfound that radishes have nutrients humans need to survive, like antioxidants, and minerals like calcium and \npotassium. These nutrients help lower high blood pressure. Radishes also are a source of nitrates that can \nimprove blood flow. \nWhat is good about radishes are that you can eat them raw, and they do not have to be cooked. So, when men \nand women go to Mars, radishes could be a plant that would be valuable to grow. \nExperimental Parameters: \nResearch Question: What type of fertilizer helps radishes grow best in Martian regolith? \nIndependent (manipulated) variable: Type of fertilizer \nDependent (outcome) variable: Height of plant and Mass \nControlled variables (constants): type of seeds, pots, amount of regolith \nControl group: Radish grown without fertilizer \n \nProject Hypothesis/AIM: \nIf we use all-purpose fertilizer, then the radish will grow better because it had all the nutrients that the radish \nplants would need. \nExperimental Design Procedures: \n \n1. Get out all materials \n2. Put together plant stand. \n A. Put the tray on bottom level (this will hold the plant) \n B. Put tray on top to provide stability. \n C. Hang light fixture from top rails. Hang the light from the seventh chain. \n3. Put on goggles, lab coat, mask \n4. Label 4 containers Bone meal, All purpose fertilizer, manure, and Aluminum sulfate \n5. Get the regolith ready. \nA. Mix 240 ml of the Martian regolith with 20 ml of bone meal fertilizer and then put mix into labeled \ncontainer (3X, once for each pot) \nB. Mix 240 ml of the Martian regolith with 20 ml of all-purpose fertilizer and then put mix into labeled \ncontainer (3X, once for each pot) \nC. Mix 240 ml of Martian regolith with 20 ml of manure and then put mix into labeled container (3X, once \nfor each pot) \nD. Mix 240 ml of Martian regolith with 20 ml of manure and then put mix into labeled container (3X, once \nfor each pot) \n6. Test the soil for pH using a pH test kit. \n7. Record the pH. Test pH. once a week",
+      "char_count": 2557,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "This project would positively impact society by helping the NASA with their research on Mars. One day people"
+          ],
+          [
+            "will go to Mars and they are going to need things to eat. Growing their own food will help the explorers to get"
+          ],
+          [
+            "important nutrients and will help them to be more interested in what they are eating. It will be important to"
+          ],
+          [
+            "know what plants can grow in Martian Regolith."
+          ]
+        ],
+        [
+          [
+            "According to Growing radishes in home gardens | UMN Extension radishes grow in three to five weeks. We"
+          ],
+          [
+            "found that radishes have nutrients humans need to survive, like antioxidants, and minerals like calcium and"
+          ],
+          [
+            "potassium. These nutrients help lower high blood pressure. Radishes also are a source of nitrates that can"
+          ],
+          [
+            "improve blood flow."
+          ]
+        ],
+        [
+          [
+            "What is good about radishes are that you can eat them raw, and they do not have to be cooked. So, when men"
+          ],
+          [
+            "and women go to Mars, radishes could be a plant that would be valuable to grow."
+          ]
+        ],
+        [
+          [
+            "If we use all-purpose fertilizer, then the radish will grow better because it had all the nutrients that the radish"
+          ],
+          [
+            "plants would need."
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "8. Label the pots by treatment group. \n \nA. label three pots, bone meal, A, B, and C \n \nB. label three pots, all-purpose fertilizer. A, B, C \n \nC. label three pots, manure, A,B, C \n \nD. label three pots, aluminum sulfate, A, B, C \n \nE. label three pots, Martian regolith, A, B, C \n9. Put 240 grams of the correct regolith mixture in each of the labeled pots. \n10. Get out the seeds. \n11. Poke 9 holes in the regolith mixtures with a pencil each about 1 cm deep. \n12. Place 2 seeds in each hole. \n13. Cover the seeds with the regolith mixture. Tap the regolith to make sure there are no air bubbles. \n14. Water the seeds with 50 mL of water. \n15. Use a random number generator to determine the placement of the pots in the plant stand. \n16. Turn on the lights. Keep the lights on for ____ hours per day. \n17. Record observations. \n18. Observe the plants daily and record observations. \n19. Once plants grow, record the height of the biggest plant in the pot. \n20. Water plants as needed, recording the amount of water given. \n \nObservations/Data \nWe digitally collected data on the amount of water put into each pot, the height of the tallest plant in each pot, \nthe amount of sunlight the plants received each day, and the pH levels. \nBook 3.xlsx \n \nWe also wrote qualitative descriptions of our plants in our log books:",
+      "char_count": 1320,
+      "image_count": 3,
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "text": "Results \n \nMass of plants at harvest: \n \nPlant/Pot \nNumber \nType of Fertilizer \nMass of plants in \ngrams \n#3 \nmanure \n12 grams \n#4 \nSoil acidifier \n0.5 grams \n#8 \nmanure \n9 grams \n#9 \nmanure \n17 grams \n#11 \nSoil acidifier \n1 gram \n#12 \nBone meal \n9 grams \n \nHeight of Tallest Plants by Fertilizer Type \n \nType of \nFertilizer \nHeight in centimeters \nBone meal \n1.5 cm. \nmanure \n8.6 cm. \nSoil acidifier \n2.3 cm \nAll purpose \n0.0 cm. \n \nGraph \n \n \n \n \n \nPlant Mars \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Type of Fertilizer",
+      "char_count": 520,
+      "image_count": 1,
+      "tables": [
+        [
+          [
+            "Plant/Pot Number",
+            "Type of Fertilizer",
+            "Mass of plants in grams"
+          ],
+          [
+            "#3",
+            "manure",
+            "12 grams"
+          ],
+          [
+            "#4",
+            "Soil acidifier",
+            "0.5 grams"
+          ],
+          [
+            "#8",
+            "manure",
+            "9 grams"
+          ],
+          [
+            "#9",
+            "manure",
+            "17 grams"
+          ],
+          [
+            "#11",
+            "Soil acidifier",
+            "1 gram"
+          ],
+          [
+            "#12",
+            "Bone meal",
+            "9 grams"
+          ]
+        ],
+        [
+          [
+            "Type of Fertilizer",
+            "Height in centimeters"
+          ],
+          [
+            "Bone meal",
+            "1.5 cm."
+          ],
+          [
+            "manure",
+            "8.6 cm."
+          ],
+          [
+            "Soil acidifier",
+            "2.3 cm"
+          ],
+          [
+            "All purpose",
+            "0.0 cm."
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "Results \nIt was not expected that the plants would grow so rapidly by the day. A pattern that was noticed was that the best-\ngrowing plants had a neutral to high PH level. It can be inferred from the graph that manure plants grew best by far. An \nerror that could have affected the data was not measuring the height of the plants exactly. This could have affected the \ndata just a bit because the overall height would have been the same. \nThe hypothesis is if we use all-purpose fertilizer the radish will grow best in the Martian regolith because it has all the \nnutrients it needs. The hypothesis stating that all-purpose fertilizer will help the radishes grow best was not supported \nby the results. The experiment did not provide this evidence because all- purpose fertilizer lacked nutrients that the \nradish needed to grow. \nThe results from this experiment are that the manure fertilizer helped the radish grow the tallest and heaviest possibly \nbecause manure contains nitrogen and phosphorus and other crucial nutrients for radish. This result did not meet the \nexpectation because we expected the radish to be fully developed but, most of the nutrients went to the leaves which \ndid not leave enough for the radish to fully develop the roots. The data varied by the day. The data was supported by \nour research that manure was a great fertilizer for radish. Some error was not measuring the height of the plants \nexactly. This could have affected the data just a bit because the overall height would have been the same, something I \nwould have done differently is to add a small amount of fertilizer to help the plant absorb more nutrients. This \nexperiment can be extended to next year. The experiment is valuable for the future of humankind by helping research \nwhat type of fertilizer grows plants best in Martian regolith. \nPhotographs \n \n \n \n \n \n \n \nPreparing the pots.",
+      "char_count": 1884,
+      "image_count": 4,
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "text": "Preparing pots Preparing plant stand. Labeling pot position.",
+      "char_count": 60,
+      "image_count": 8,
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "text": "Massing plants. \n \n \n \n \n \n \n \n \n \n \n \n \nLogo",
+      "char_count": 45,
+      "image_count": 7,
+      "tables": []
+    }
+  ]
+}

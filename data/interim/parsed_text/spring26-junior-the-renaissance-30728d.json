@@ -1,0 +1,103 @@
+{
+  "report_id": "spring26-junior-the-renaissance-30728d",
+  "sha256": "970afe8ad2d84be229665c557a07c0b2eac6ae1bf298c5fed878645873bad7d3",
+  "page_count": 13,
+  "total_chars": 13151,
+  "avg_chars_per_page": 1011.6,
+  "total_images": 30,
+  "table_count": 0,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "\ud83c\udf31 PTMC Jr. Final Project Report \nTeam Name: The Renaissance \nTeam Members: Harlem Phipps, Sydney Brooks, Avery Brooks \nChallenge Division: Middle School \nOptimizing Lunar Regolith for Purple Radish Microgreen Growth \nUsing Nutrient and Drainage System Design \n\ud83c\udfa5 Video Documentation / YouTube Links \nSection \nTime-lapse Video Evidence \n\u25cf\u200b Round 1 Timelapse Video: https://youtu.be/UbLDxbNbbas?si=3SqgCt6xpZ3m5yZJ \n\u25cf\u200b Round 2 Timelapse Video: https://youtu.be/EC7cOYS79wc?si=d7j1UqIMzXJ_FHw2 \n\u25cf\u200b Round 3 Timelapse Video: https://youtu.be/iEW1RVMo-Wo?si=dvtuZRQHzOs_8IYQ \nBackground \nOur team chose the Plant the Moon Challenge because future Artemis missions will require \nastronauts to grow food in environments where normal Earth soil is not available. We wanted to \ninvestigate whether lunar regolith simulant could be improved enough to support fast, \nnutrient-dense crops that might help feed astronauts on the Moon. \nWe selected Purple Radish microgreens because they grow quickly in about 7\u20138 days, are \nnutrient-dense, and can produce harvests in a short time. We also wanted to explore whether \nmicrogreens could serve as the first stage of a multi-stage lunar growing system, where some \nplants are harvested early for nutrition, some are grown to maturity for food, and some are \ngrown to the seed-producing stage for future planting. \n1",
+      "char_count": 1346,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "text": "\ud83d\udcf7Team photo \n \n \ud83d\udcf7 Purple radish seed packet + mediums \n \n \n \nExperimental Rationale \nThis experiment brings value to the scientific community because it explores not only whether \nplants can grow in lunar regolith simulant, but how the regolith can be engineered to grow \nbetter. Rather than stopping at a simple comparison between Burpee potting mix and lunar \nregolith, our team tested how drainage design, moisture management, and hydroponic nutrients \ncould improve crop performance. \nOur project also contributes to space agriculture research by showing that the most important \nchallenge may not be just \u201csoil quality,\u201d but how water and nutrients are delivered during \ndifferent plant growth stages, especially during germination. \n\ud83d\udcf7Side-by-side photo of Burpee trays (green) and lunar regolith trays (blue) \n2",
+      "char_count": 817,
+      "image_count": 4,
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "text": "Hypothesis \nIf lunar regolith simulant is improved with MaxiGro hydroponic nutrients and a drainage system \nthat keeps the seed layer moist but not oversaturated, then Purple Radish microgreens will grow \nbetter than in untreated lunar regolith and may grow nearly as well as or better than those \ngrown in Burpee Natural & Organic Potting Mix, which served as the Earth-based control \ngrowing medium. \nIndependent Variable \nThe independent variable was the growing system used with the lunar regolith simulant, \nincluding: \n\u25cf\u200b untreated lunar regolith \n\u25cf\u200b regolith with MaxiGro hydroponic nutrient solution \n\u25cf\u200b regolith with two different drainage system designs \n\u25cf\u200b regolith with an optimized root-zone moisture system \nFor comparison, Burpee Natural & Organic Potting Mix served as the Earth-based control \ngrowing medium. \nDependent Variables \nThe dependent variables measured were: \n\u25cf\u200b germination success \n\u25cf\u200b survival rate \n\u25cf\u200b harvest yield (mL of harvested microgreens) \n\u25cf\u200b visible growth speed \n\u25cf\u200b overall plant health and vigor \nTime-lapse videos and photos were also used to compare: \n\u25cf\u200b speed of germination \n3",
+      "char_count": 1121,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "text": "\u25cf\u200b growth progression \n\u25cf\u200b tray consistency \n\u25cf\u200b and visible root-zone performance \nControls / Constants \nThe following variables were kept as consistent as possible across all rounds: \n\u25cf\u200b same seed type: Purple Radish \n\u25cf\u200b same seed amount: 1/2 tablespoon per tray \n\u25cf\u200b same amount of growing medium: 3/4 cup per tray \n\u25cf\u200b same tray size and tray style \n\u25cf\u200b same light source \n\u25cf\u200b same general grow location \n\u25cf\u200b same approximate grow period (7\u20138 days) \n\u25cf\u200b same harvesting method \n\u25cf\u200b same documentation methods (photos, video, timelapse) \nTray Color Coding \n\u25cf\u200b Green trays = Burpee Natural & Organic Potting Mix control \n\u25cf\u200b Blue trays = Lunar regolith simulant \nGrow Pot Setup \nEach tray contained: \n\u25cf\u200b 3/4 cup of growing medium \n\u25cf\u200b 1/2 tablespoon of Purple Radish seeds \nBurpee Control Trays (Green) \nContained: \n\u25cf\u200b Burpee Natural & Organic Potting Mix only \nLunar Regolith Trays (Blue) \nContained: \n\u25cf\u200b lunar regolith simulant \n\u25cf\u200b later rounds also included: \n4",
+      "char_count": 955,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "text": "\u25cb\u200b MaxiGro hydroponic nutrient solution \n\u25cb\u200b mesh screen barriers \n\u25cb\u200b pea gravel drainage layers \n\u25cb\u200b lower liquid reservoir system \nDrainage Design 1 \n\u25cf\u200b mesh screen and pea gravel placed inside the upper tray beneath the regolith \nDrainage Design 2 \n\u25cf\u200b mesh screen placed at the bottom of the upper tray \n\u25cf\u200b pea gravel placed in a second tray underneath \n\u25cf\u200b lower tray acted as a nutrient/moisture reservoir \n\u25cf\u200b roots could grow downward toward liquid while seeds stayed less saturated \n\ud83d\udcf7 Drainage Design 1 and 2 \n \n \nMaxiGro Nutrient Solution Preparation \nIn Rounds 2 and 3, our team prepared a MaxiGro hydroponic nutrient solution using 1 \ntablespoon per 1 gallon of water. This provided essential nutrients that lunar regolith does not \ncontain, such as nitrogen, phosphorus, and potassium. \n5",
+      "char_count": 796,
+      "image_count": 5,
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "text": "The solution was applied by pouring it into the lower reservoir and lightly spraying the surface to \nsupport germination. This allowed roots to grow downward toward nutrients while keeping seeds \nmoist. \nPlants grown with MaxiGro showed stronger roots, faster growth, and higher yields than \nthose grown with water alone, especially when combined with our drainage system, which \nprevented oversaturation and improved nutrient access. \n\ud83d\udcf7 Maxi Grow Solution \n \nProcedures \nThe experiment was conducted in three rounds. \nRound 1 \u2013 Baseline Comparison \nThe team compared: \n\u25cf\u200b Burpee Natural & Organic Potting Mix \n\u25cf\u200b untreated lunar regolith simulant \nEach tray received: \n\u25cf\u200b approximately 1/2 cup of water \nThis round was used to observe baseline differences in survival, growth, and moisture behavior. \nRound 2 \u2013 Drainage System Comparison \nThe team tested four lunar regolith trays using: \n\u25cf\u200b MaxiGro hydroponic nutrient solution \n\u25cf\u200b two different drainage system designs \nSetup: \n6",
+      "char_count": 982,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "text": "\u25cf\u200b 2 trays used Drainage Design 1 \n\u25cf\u200b 2 trays used Drainage Design 2 \nFor lunar regolith trays: \n\u25cf\u200b approximately 1/2 cup of MaxiGro solution \n\u25cf\u200b plus 4 top sprays per tray to keep the seed zone moist \nThis round tested whether the position of the water relative to the seeds and roots affected \ngrowth. \nRound 3 \u2013 Optimized System \nIn Round 3, all four lunar regolith trays used: \n\u25cf\u200b lunar regolith simulant \n\u25cf\u200b MaxiGro nutrient solution \n\u25cf\u200b Drainage Design 2 (the strongest-performing design from Round 2) \nFor each lunar regolith tray: \n\u25cf\u200b approximately 1/2 cup of MaxiGro solution \n\u25cf\u200b plus 4 top sprays per tray \nThis round tested whether the strongest-performing design from Round 2 would produce more \nrepeatable results. \nWatering / Moisture Management Protocol \nWatering was adjusted based on the moisture behavior of each growing medium. \nBurpee Natural & Organic Potting Mix \nThe Burpee control trays generally required watering approximately once every 2\u20133 days, using \nabout 100 mL per tray. The Burpee potting mix absorbed water effectively and released \nmoisture more slowly over time. \nLunar Regolith Simulant \nThe lunar regolith trays generally required daily moisture support, averaging approximately 40 \nmL per day or equivalent moisture support through the lower reservoir system and top sprays. \nThe regolith dried out more quickly at the surface and required more frequent moisture \nmanagement. \n7",
+      "char_count": 1418,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "text": "Important Moisture Observation \nIn Round 2, two lunar regolith trays performed poorly because the seeds sat too directly in \npooled MaxiGro solution. This suggested that Purple Radish seeds performed best when kept \nmoist, but not submerged. \n\ud83d\udcf7 Photo showing a pooled liquid problem in the failed Round 2 tray \n \nData Collection \nData was collected using: \n\u25cf\u200b tray-by-tray harvest yield (mL) \n\u25cf\u200b survival counts \n\u25cf\u200b visual growth observations \n\u25cf\u200b germination timing observations \n\u25cf\u200b photo documentation \n\u25cf\u200b 8-day timelapse videos for each round \nEach timelapse covered approximately: \n\u25cf\u200b 8 total days \n\u25cf\u200b including 2\u20133 days of germination \nThe team also used: \n\u25cf\u200b a Wyze security camera placed at Harlem\u2019s house \n\u25cf\u200b the Wyze app for remote observation \n\u25cf\u200b weekly Google Meet check-ins for collaborative monitoring and experiment review \nBecause the experiment was conducted at Harlem\u2019s house, Sydney and Avery participated by: \n8",
+      "char_count": 929,
+      "image_count": 3,
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "text": "\u25cf\u200b monitoring trays through the camera app \n\u25cf\u200b attending weekly Google Meet meetings \n\u25cf\u200b coming in person for major plantings and harvests \nThis allowed the team to work collaboratively even when not all members were physically \npresent. \n\ud83d\udcf7 Photo of team on Google Meet and Wyze Camera Set Up \n \nResults \nHarvest Yield Results (mL) \nRound \nMedium \nTray \n1 \nTray \n2 \nTray \n3 \nTray \n4 \nTotal Yield \n(mL) \nAverage Yield per \nTray (mL) \nRound \n1 \nBurpee \nControl \n62 \n64 \n57 \n69 \n252 \n63.0 \nRound \n1 \nLunar \nRegolith \n45 \n10 \n5 \n3 \n63 \n15.75 \nRound \n2 \nBurpee \nControl \n67 \n56 \n70 \n69 \n262 \n65.5 \nRound \n2 \nLunar \nRegolith \n6 \n3 \n72 \n77 \n158 \n39.5 \nRound \n3 \nBurpee \nControl \n75 \n74 \n80 \n78 \n307 \n76.75 \nRound \n3 \nLunar \nRegolith \n79 \n87 \n20 \n78 \n264 \n66.0 \n \nSurvival / Performance Summary \n9",
+      "char_count": 789,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "text": "Round \nMedium \nSurvival \nRate \nStrong \nPerformance Rate \nNotes \nRound \n1 \nBurpee \nControl \n100% \n100% \nAll trays grew well \nRound \n1 \nLunar \nRegolith \n25% \n25% \nPoor drainage and overwatering \nlimited survival \nRound \n2 \nBurpee \nControl \n100% \n100% \nConsistent growth \nRound \n2 \nLunar \nRegolith \n100% \n50% \n2 trays underperformed due to \npooled MaxiGro at seed level \nRound \n3 \nBurpee \nControl \n100% \n100% \nStrongest Burpee round \nRound \n3 \nLunar \nRegolith \n100% \n75% \nOptimized setup produced strong \nresults in 3/4 trays \n \nKey Quantitative Findings \n\u25cf\u200b Round 1 lunar regolith yield: 63 mL \n\u25cf\u200b Round 3 lunar regolith yield: 264 mL \n\u25cf\u200b Total lunar regolith yield improvement: +201 mL \n\u25cf\u200b Overall increase from Round 1 to Round 3: 319% \nComparison to Burpee Control \n10",
+      "char_count": 769,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "text": "\u25cf\u200b Round 1: lunar regolith achieved 25% of Burpee control yield \n\u25cf\u200b Round 2: lunar regolith achieved 60.3% of Burpee control yield \n\u25cf\u200b Round 3: lunar regolith achieved 86.0% of Burpee control yield \nTimelapse Observation \nThe lunar regolith trays generally germinated 12\u201336 hours slower than the Burpee control \ntrays. However, in healthy trays, growth accelerated after roots extended downward into the \nMaxiGro nutrient reservoir. \n\ud83d\udcf7Round 1 harvest photo: Burpee vs lunar \n \n \n\ud83d\udcf7Round 2 side-by-side comparison: Design 1 vs Design 2 \n \n \n\ud83d\udcf7 Round 3 tray comparison \n \n11",
+      "char_count": 570,
+      "image_count": 4,
+      "tables": []
+    },
+    {
+      "page_number": 12,
+      "text": "\ud83d\udcf7Harvest measuring / weighing photo \n \n \nAnalysis \nOur data showed that lunar regolith improved a lot over time. In Round 1, it only produced 63 \nmL compared to 252 mL in the Burpee soil, and only about 25% of the trays did well. By Round \n3, it produced 264 mL, which was about 86% of the Burpee yield\u2014a huge 319% improvement. \nThis showed that regolith isn\u2019t just \u201cbad soil.\u201d The real problem was how water and nutrients \nwere delivered, especially at the beginning. \nFrom our timelapse videos, we saw two clear growth phases. During germination, regolith was \nslower by about 12\u201336 hours, which made early growth harder. But once roots reached the \nnutrient reservoir, growth sped up a lot\u2014and some trays even caught up to the Burpee soil. \nThe best system kept seeds moist (not soaked), separated them from standing water, and let \nroots grow down into nutrients. This means growing plants on the Moon might depend more on \nhow we design the system than the regolith itself. \n\ud83d\udcf7 Root photo showing roots reaching downward into the reservoir \n \n12",
+      "char_count": 1049,
+      "image_count": 7,
+      "tables": []
+    },
+    {
+      "page_number": 13,
+      "text": "Conclusions \nOur hypothesis was supported. When we improved the lunar regolith with MaxiGro nutrients and \na better drainage system, the plants grew much better. By the final round, the regolith trays \nproduced 264 mL compared to 307 mL in the Burpee soil, reaching about 86% of the control. \nOne of the coolest things we discovered was that regolith didn\u2019t work well at first\u2014but got much \nbetter once the roots reached the nutrient reservoir. This shows that plants on the Moon might \nneed different systems for early growth versus later growth. \nOverall, we learned that growing food in lunar regolith is possible\u2014but only if the system is \ncarefully designed to control moisture, drainage, and nutrients. \n \nFuture Considerations \nIf we repeated this experiment, we would improve it by: \n\u25cf\u200b measuring germination timing more precisely \n\u25cf\u200b measuring root length \n\u25cf\u200b testing different spray amounts during the first 72 hours \n\u25cf\u200b testing different depths of pea gravel \n\u25cf\u200b testing different nutrient concentrations \n\u25cf\u200b testing separate systems for germination vs later growth \nWe also want to continue exploring our multi-stage lunar food system idea: \n1.\u200b harvest some plants early as microgreens \n2.\u200b grow some into full edible plants \n3.\u200b grow some to the seed-producing stage for future crops \nWe began exploring this by attempting to grow some harvested microgreens into full plants. \nAlthough that test was not successful because of under-watering, we believe this could become \na promising next step in building a more sustainable lunar growing system. \n\ud83d\udcf7 Photo of the full-grown radish attempt \n \n \n13",
+      "char_count": 1610,
+      "image_count": 2,
+      "tables": []
+    }
+  ]
+}

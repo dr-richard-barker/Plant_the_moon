@@ -1,0 +1,801 @@
+{
+  "report_id": "spring21-main-titan-agri-5b98b1",
+  "sha256": "ad4c8ca0366c9c76212529bb085527dd8ea21454500cafb168c39c41f9a7fe1a",
+  "page_count": 11,
+  "total_chars": 17101,
+  "avg_chars_per_page": 1554.6,
+  "total_images": 1,
+  "table_count": 16,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Ramaswamy et al. 1 \n*pranavram2006@gmail.com **rohan.v.ravindran@gmail.com \nMAXIMIZING PLANT GROWTH IN REGOLITH FOR LUNAR DAYS \nPranav Ramaswamy*, Rohan Ravindran**, Ankit Panda, Yash Sawhney, Ethan Ho, Kalp Soni, \nShahoj Makkapati, Pramodh Pappu and Ashwin Sivaprakash \nTeam Mentor: Dr. Sandhya Balasubramanian \nPlant the Moon Challenge Final Report \nApril 30, 2021 \nBackground \nHumans and the Moon have a long-standing bond. While we marveled at it for centuries \nfrom afar, NASA\u2019s ambitious moon missions are putting it well within our reach for long term \nmissions. As budding scientists, we are aspiring to facilitate future generations to become truly a \nmulti-planet species. Equipping early lunar settlers and researchers to harness the moon\u2019s \nresources to become self-sustaining will enhance capabilities to lengthen mission durations and \neventually successful inhabitation of the moon. Apart from problems associated with lack of a \nsignificant atmosphere while growing plants on the moon, humans must overcome several \nfactors that can inhibit plant growth including the alkalinity, lack of nutrients, and moisture \nretention of the regolith. In addition, a unique challenge that is faced while growing plants on the \nMoon is the length of the lunar day. The lunar day is the period of time for the moon to complete \none rotation on its axis with respect to the Sun and lasts for 29 days,12 hours and 44 minutes. \nDuring the length of the lunar day, the face of the moon locked to the earth\u2019s surface remains \nexposed to the sun for about 14 days and the other side is exposed to the sun for the next 14 days. \nOur project is focused on understanding factors that can potentially enhance plant yield during \nthe lunar day.",
+      "char_count": 1735,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "text": "Ramaswamy et al. 2 \n \nMaximizing yield of plants with nutritious value depends on strategic selection of plant species \nand identifying optimal growth conditions. Analysis of prior literature showed that choice of \nplant species was dependent on four key categories: speed of growth, space needed for growth, \nnutritional value, and resilience to harsh conditions. Garden cress excels in each of these \ncategories. Cress grows quickly which provides humans quick crop yield after fifteen to twenty \ndays and was vital for our experimentation. Cress is also known to be easy to plant, harvest and \nmonitor. The plant\u2019s resistance to alkalinity and its ability to grow in confined spaces also served \nas key selection criteria. Cress is also very nutritious as it contains vitamin A, vitamin C and \nvitamin K. Hence, garden cress was selected as one of the most suitable plant for \nexperimentation in regolith. \nExperimental Design \nOur experiment was conducted using a total of twelve (12) pots spread across three (3) \ngrowth sites. Each site had 4 pots - one control comprising 100% soil and three treatment mixes \ncomprising varying mixes of regolith and soil. The ratio of soil to regolith across were as follows \n- one pot with 50% regolith and 50% soil, one pot with 62.5% regolith and 37.5% soil and one \npot with 75% regolith and 25% soil. Total volume of soil or regolith soil mix was maintained at \n600 ml across all pots. Two grams of cress seeds was soaked in paper towels for twenty-four (24) \nhours to promote germination, and then planted the resulting sprouts split equally across the four \npots (Table 1). \nType \n (Treatment vs. Control) \nMix Proportion (Soil to \nRegolith) \nPercentage soil \nPercentage Regolith \nTreatment \n50-50 \n50.00 \n50.00 \nTreatment \n37.5 - 62.5 \n37.50 \n62.50 \nTreatment \n25-75 \n25.00 \n75.00",
+      "char_count": 1829,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Type (Treatment vs. Control)",
+            "Mix Proportion (Soil to Regolith)",
+            "Percentage soil",
+            "Percentage Regolith"
+          ],
+          [
+            "Treatment",
+            "50-50",
+            "50.00",
+            "50.00"
+          ],
+          [
+            "Treatment",
+            "37.5 - 62.5",
+            "37.50",
+            "62.50"
+          ],
+          [
+            "Treatment",
+            "25-75",
+            "25.00",
+            "75.00"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "Ramaswamy et al. 3 \n \nControl \n100-0 \n100.00 \n0.00 \nTable 1: Regolith to soil proportion variation across control and treatment groups \n \nTo observe the plant yield under the conditions of the Moon\u2019s lunar day, the growth cycle \nwas set at 28 days from date of planting. Visual growth confirmation was conducted daily. The \nplants were not invasively measured during the growth phase. Garden cress were harvested on \nday 28 and measured (root to tip) for weight and height. \nHypothesis \nFirst, the goal of the Plant the Moon project was to understand the effects of using regolith as the \ngrowth medium. We believe that variations in the soil to regolith percentage will impact the plant \nyield. We hypothesized that there would be significant differences in plant yield (plant height \nand plant weight) based on the regolith- soil mix ratio. Beyond the mix proportions of soil and \nregolith, we sought to explore the key experimental parameters that can contribute to improving \nplant yield. \nIndependent Variables \nWater: 30 ml of water added was varied across 3 levels \u2013 twice a day, daily and alternate days. \nAverage moisture of both control and treatment mixes were recorded as moist (3.5 and 4) on the \nRapitest digital meter. \nFertilizer: The regolith lacks many necessary nutrients that soil normally provides for plants like \nnitrogen. Thus, we added ammonium sulfate to our soil in order to accomplish both of these \ntasks at once. See Table 3. Ammonium sulfate lowers the pH of the regolith to healthy levels for \nthe plants and provides them with an excess of nitrogen they desperately require. All 4 pots in \nsite 1 received 0.25 cup mixed in 30 ml water in a single day. Fertilizer of 0.25 cup mixed in \nwater and administered in 2 installments over a 2-day period in site 2. Two pots in site 3 received",
+      "char_count": 1818,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Control",
+            "100-0",
+            "100.00",
+            "0.00"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "Ramaswamy et al. 4 \n \nfertilizer, one pot received 0.375 cup mixed in 30 ml water and received 0.125 cup with 30 ml \nwater. All fertilizer additions in site 3 was on a single day. \nLight: The amount and intensity of sunlight accessible on the moon differs greatly from that of \nthe Earth. A lunar day is 29.53 Earth days long or 708.7 hours consisting of 14.5 days of sunlight \nand 14.5 days of darkness (NASA). If sunlight from the moon was to be utilized, then the plants \nwould require some form of shield to filter out harmful radiation. Hence, a lab setting where both \nlight color and light intensity can be controlled would both simplify the growing experience for \nthe plants and could be tailor made to fit the lighting needs of the individual species. According \nto a study conducted on the effect of different lights on plant growth, blue and red light is \nnecessary for a better and more complete growth of plants. Many grow lights on the market \ntoday specialize in providing plants with these colors of light making them perfect for use in a \nmoon setting especially if they can be compacted and stored easily. \nSite Location 1 \n \nSite Location 2 \n \nSite Location 3 \nNatural Light: NO \n \nNatural Light: YES \n \nNatural Light: NO \nPot 1 \nPot 4 \n \nPot 2 \nPot 5 \n \nPot 3 \nPot 6 \nPot 7 \nPot 10 \n \nPot 8 \nPot 11 \n \nPot 9 \nPot 12 \nArtificial Light: 400 lumens \n \nArtificial Light: 400 lumens \n \nArtificial Light: 600 lumens \nWeek 1: light per day: 12 hrs \n \nWeek 1: light per day: 12 hrs \n \nWeek 1: light per day: 12 hrs \nWeek 2: light per day: 9 hrs \n \nWeek 2: light per day: 12 hrs \n \nWeek 2: light per day: 9 hrs \nWeeks 3 & 4 : light per day: 6 hrs \n \nWeeks 3 & 4: light per day: 12 hrs \n \nWeeks 3 & 4: light per day: 9 hrs \nTable 2: Exposure to Natural and Artificial light during experimentation",
+      "char_count": 1807,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Site Location 1",
+            "",
+            "Site Location 3",
+            ""
+          ],
+          [
+            "Natural Light: NO",
+            "",
+            "Natural Light: NO",
+            ""
+          ],
+          [
+            "Pot 1",
+            "Pot 4",
+            "Pot 3",
+            "Pot 6"
+          ],
+          [
+            "Pot 7",
+            "Pot 10",
+            "Pot 9",
+            "Pot 12"
+          ],
+          [
+            "Artificial Light: 400 lumens",
+            "",
+            "Artificial Light: 600 lumens",
+            ""
+          ],
+          [
+            "Week 1: light per day: 12 hrs",
+            "",
+            "Week 1: light per day: 12 hrs",
+            ""
+          ],
+          [
+            "Week 2: light per day: 9 hrs",
+            "",
+            "Week 2: light per day: 9 hrs",
+            ""
+          ],
+          [
+            "Weeks 3 & 4 : light per day: 6 hrs",
+            "",
+            "Weeks 3 & 4: light per day: 9 hrs",
+            ""
+          ],
+          [
+            "Table 2: Exposure to Natural and Artificial light during experimentation",
+            "",
+            "",
+            ""
+          ]
+        ],
+        [
+          [
+            "Site Location 2",
+            ""
+          ],
+          [
+            "Natural Light: YES",
+            ""
+          ],
+          [
+            "Pot 2",
+            "Pot 5"
+          ],
+          [
+            "Pot 8",
+            "Pot 11"
+          ],
+          [
+            "Artificial Light: 400 lumens",
+            ""
+          ],
+          [
+            "Week 1: light per day: 12 hrs",
+            ""
+          ],
+          [
+            "Week 2: light per day: 12 hrs",
+            ""
+          ],
+          [
+            "Weeks 3 & 4: light per day: 12 hrs",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 5,
+      "text": "Ramaswamy et al. 5 \n \nWe experimented with both lighting formats to determine the least wasteful and most effective \none and also varied the duration of lighting to best match the conditions plants would face on the \nmoon. We varied the length of exposure to natural light as well as lengths and intensity of grow \nlight (Table 2). We changed the intensity, duration, and types of light sources. Pots 1, 4, 7 and 10 \nreceived 12 hours of 400 lumens of 40 watt red-blue light, while pots 3, 6, 9, and 12 received 12 \nhours of 600 lumens of 60 watt red-blue light. On the other hand, pots 2, 5, 8, and 11 received a \ncombination of 24 hours of light: 12 hours of 400 lumens of 40-watt red light and 12 hours of \nsunlight. Having these different variables in the lights allowed us to study the effect of light \nintensities, durations, and the type of light on the growth of garden cress. \nDependent Variables: \nYield of garden cress was measured both in terms of plant height and harvested weight. While \nharvested plant is widely prevalent, plant height is an accepted measure to estimate crop yield or \nbio-mass. \nMeasurement: \nDuring the growth phase, visual confirmation of plant growth and survival were completed on a \ndaily basis. Plants were not subjected to any invasive measurement techniques, and also due to \nthe brevity of their growth cycle. Plant growth was measured in terms of the mass and a stem \nheight at the end of the growth period. \nControls: \nAverage room temperature was maintained between 68.5 \u2013 70 F across the sites and average \nroom humidity was recorded between 26 -29 % across the three site locations. \nAverage Humidity: The temperature affects the plant\u2019s processes, such as photosynthesis, \ntranspiration, respiration and germination. In our experiment, the temperature was held at 18-22",
+      "char_count": 1818,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "text": "Ramaswamy et al. 6 \n \ndegrees Celsius. This temperature allowed us to imitate what the conditions are like on the moon \nwith the resources we had. The next constant variable is the humidity of the air encroaching the \nplants. If there is too much humidity, mold and bacteria will be given a good place to grow. If \nthere is too little humidity, then the plants will have a lot of trouble removing carbon from the \natmosphere. \nPo\nt \nID \nSite \nLocation \nCode \nMix \nProportion \n(Soil to \nRegolith) \nAverage \nRoom \nTemp \nMeasure \nof water \nadded \nFrequency of \nwater addition \nAverage \nSoil PH \nAverage \nMoisture \nMeasurement \nAverage \nRoom \nHumidity \nQuantity \nof \nfertilizer \nused (g) \n1 \nRR \n50-50 \n68.5 \n30 ml \nDaily \n6.95 \n3.54 \n26.91 \n0.25 \n2 \nPR \n50-50 \n70 \n30 ml \nAlternate \ndays \n7.50 \n3.00 \n28.46 \n0.25 \n3 \nKS \n50-50 \n67 \n30 ml \nTwice a day \n7.13 \n3.00 \n27.46 \n0.25 \n4 \nRR \n37.5 - 62.5 \n68.5 \n30 ml \nDaily \n6.96 \n3.68 \n26.83 \n0.25 \n5 \nPR \n37.5 - 62.5 \n70 \n30 ml \nAlternate \ndays \n7.50 \n3.00 \n28.50 \n0.25 \n6 \nKS \n37.5 - 62.5 \n67 \n30 ml \nTwice a day \n7.25 \n3.00 \n27.46 \n0.25 \n7 \nRR \n25-75 \n68.5 \n30 ml \nDaily \n6.98 \n3.93 \n26.83 \n0.25 \n8 \nPR \n25-75 \n70 \n30 ml \nAlternate \ndays \n7.25 \n3.00 \n28.58 \n0.25 \n9 \nKS \n25-75 \n67 \n30 ml \nTwice a day \n7.13 \n3.00 \n27.46 \n0.375 \n10 \nRR \n100-0 \n68.5 \n30 ml \nDaily \n6.91 \n5.43 \n26.83 \n0.25 \n11 \nPR \n100-0 \n70 \n30 ml \nAlternate \ndays \n7.00 \n4.71 \n28.50 \n0.25 \n12 \nKS \n100-0 \n67 \n30 ml \nTwice a day \n7.00 \n4.00 \n27.46 \n0.125 \nTable 3: Experimental conditions utilized for growth garden cress \n \nAverage pH across site locations and pots were in the range of 6.9 to 7.5. The addition of \nammonium sulfate 7 did not alter the pH across sites and pots. \nResults \nOver the growth cycle, the influence of the parameters on the growth of garden across the 12 \npots in 3 site locations are presented in Table 4 and Figure 1. Mean and standard deviation of \nplant height is presented in Table 5. The results of one-way ANOVA show an overall significant \ndifference between the four types of regolith-soil mixes with regard to plant height (Table 5 ;F= \n13.43 ; df= 3 ; p<.05). The results of post hoc Bonferroni show significant plant height difference \nbetween pots with zero regolith and all three pots with regolith mixed along with the soil (Table",
+      "char_count": 2281,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Po t ID",
+            "Site Location Code",
+            "Mix Proportion (Soil to Regolith)",
+            "Average Room Temp",
+            "Measure of water added",
+            "Frequency of water addition",
+            "Average Soil PH",
+            "Average Moisture Measurement",
+            "Average Room Humidity",
+            "Quantity of fertilizer used (g)"
+          ],
+          [
+            "1",
+            "RR",
+            "50-50",
+            "68.5",
+            "30 ml",
+            "Daily",
+            "6.95",
+            "3.54",
+            "26.91",
+            "0.25"
+          ],
+          [
+            "2",
+            "PR",
+            "50-50",
+            "70",
+            "30 ml",
+            "Alternate days",
+            "7.50",
+            "3.00",
+            "28.46",
+            "0.25"
+          ],
+          [
+            "3",
+            "KS",
+            "50-50",
+            "67",
+            "30 ml",
+            "Twice a day",
+            "7.13",
+            "3.00",
+            "27.46",
+            "0.25"
+          ],
+          [
+            "4",
+            "RR",
+            "37.5 - 62.5",
+            "68.5",
+            "30 ml",
+            "Daily",
+            "6.96",
+            "3.68",
+            "26.83",
+            "0.25"
+          ],
+          [
+            "5",
+            "PR",
+            "37.5 - 62.5",
+            "70",
+            "30 ml",
+            "Alternate days",
+            "7.50",
+            "3.00",
+            "28.50",
+            "0.25"
+          ],
+          [
+            "6",
+            "KS",
+            "37.5 - 62.5",
+            "67",
+            "30 ml",
+            "Twice a day",
+            "7.25",
+            "3.00",
+            "27.46",
+            "0.25"
+          ],
+          [
+            "7",
+            "RR",
+            "25-75",
+            "68.5",
+            "30 ml",
+            "Daily",
+            "6.98",
+            "3.93",
+            "26.83",
+            "0.25"
+          ],
+          [
+            "8",
+            "PR",
+            "25-75",
+            "70",
+            "30 ml",
+            "Alternate days",
+            "7.25",
+            "3.00",
+            "28.58",
+            "0.25"
+          ],
+          [
+            "9",
+            "KS",
+            "25-75",
+            "67",
+            "30 ml",
+            "Twice a day",
+            "7.13",
+            "3.00",
+            "27.46",
+            "0.375"
+          ],
+          [
+            "10",
+            "RR",
+            "100-0",
+            "68.5",
+            "30 ml",
+            "Daily",
+            "6.91",
+            "5.43",
+            "26.83",
+            "0.25"
+          ],
+          [
+            "11",
+            "PR",
+            "100-0",
+            "70",
+            "30 ml",
+            "Alternate days",
+            "7.00",
+            "4.71",
+            "28.50",
+            "0.25"
+          ],
+          [
+            "12 KS 100-0 67 30 ml Twice a day 7.00 4.00 27.46 0.125 Table 3: Experimental conditions utilized for growth garden cress",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 7,
+      "text": "Ramaswamy et al. 7 \n \n5). Though the mean yield on the 75% regolith mix pot was the lowest at 2.3, but there was no \nsignificant difference in yield between the pots with 50%, 62.5% or 75% regolith mixture. \n \n \nPot ID \nSite Location Code \nMix Proportion \n(Soil to Regolith) \nPlant final height (cm) \nPlant Final Weight (g) \n1 \nRR \n50-50 \n2.0 \n17 \n2 \nPR \n50-50 \n2.0 \n5 \n3 \nKS \n50-50 \n3.2 \n5 \n4 \nRR \n37.5 - 62.5 \n2.2 \n6 \n5 \nPR \n37.5 - 62.5 \n1.5 \n2 \n6 \nKS \n37.5 - 62.5 \n3.8 \n5 \n7 \nRR \n25-75 \n1.6 \n8 \n8 \nPR \n25-75 \n1.8 \n1 \n9 \nKS \n25-75 \n3.5 \n5 \n10 \nRR \n100-0 \n7.2 \n24 \n11 \nPR \n100-0 \n8.9 \n8 \n12 \nKS \n100-0 \n5.8 \n10 \nTable 4: Plant yield at harvest after 29 lunar days \n \nN \nMean \nStd. Deviation \nStd. Error \n95% Confidence Interval for \nMean \nMinimum \nMaximum \nLower Bound \nUpper Bound \n100% soil \n3 \n7.300 \n1.5524 \n.8963 \n3.444 \n11.156 \n5.8 \n8.9 \n25% Soil \n3 \n2.300 \n1.0440 \n.6028 \n-.294 \n4.894 \n1.6 \n3.5 \n37.5% Soil \n3 \n2.500 \n1.1790 \n.6807 \n-.429 \n5.429 \n1.5 \n3.8 \n50% Soil \n3 \n2.400 \n.6928 \n.4000 \n.679 \n4.121 \n2.0 \n3.2 \nTotal \n12 \n3.625 \n2.4275 \n.7008 \n2.083 \n5.167 \n1.5 \n8.9 \nTable 5: Descriptive Statistics of plant height",
+      "char_count": 1126,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Pot ID",
+            "Site Location Code",
+            "Mix Proportion (Soil to Regolith)",
+            "Plant final height (cm)",
+            "Plant Final Weight (g)"
+          ],
+          [
+            "1",
+            "RR",
+            "50-50",
+            "2.0",
+            "17"
+          ],
+          [
+            "2",
+            "PR",
+            "50-50",
+            "2.0",
+            "5"
+          ],
+          [
+            "3",
+            "KS",
+            "50-50",
+            "3.2",
+            "5"
+          ],
+          [
+            "4",
+            "RR",
+            "37.5 - 62.5",
+            "2.2",
+            "6"
+          ],
+          [
+            "5",
+            "PR",
+            "37.5 - 62.5",
+            "1.5",
+            "2"
+          ],
+          [
+            "6",
+            "KS",
+            "37.5 - 62.5",
+            "3.8",
+            "5"
+          ],
+          [
+            "7",
+            "RR",
+            "25-75",
+            "1.6",
+            "8"
+          ],
+          [
+            "8",
+            "PR",
+            "25-75",
+            "1.8",
+            "1"
+          ],
+          [
+            "9",
+            "KS",
+            "25-75",
+            "3.5",
+            "5"
+          ],
+          [
+            "10",
+            "RR",
+            "100-0",
+            "7.2",
+            "24"
+          ],
+          [
+            "11",
+            "PR",
+            "100-0",
+            "8.9",
+            "8"
+          ],
+          [
+            "12",
+            "KS",
+            "100-0",
+            "5.8",
+            "10"
+          ]
+        ],
+        [
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "95% Confidence Interval for",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Mean",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "N",
+            "Mean",
+            "Std. Deviation",
+            "Std. Error",
+            "Lower Bound",
+            "Upper Bound",
+            "Minimum",
+            "Maximum"
+          ],
+          [
+            "100% soil",
+            "3",
+            "7.300",
+            "1.5524",
+            ".8963",
+            "3.444",
+            "11.156",
+            "5.8",
+            "8.9"
+          ],
+          [
+            "25% Soil",
+            "3",
+            "2.300",
+            "1.0440",
+            ".6028",
+            "-.294",
+            "4.894",
+            "1.6",
+            "3.5"
+          ],
+          [
+            "37.5% Soil",
+            "3",
+            "2.500",
+            "1.1790",
+            ".6807",
+            "-.429",
+            "5.429",
+            "1.5",
+            "3.8"
+          ],
+          [
+            "50% Soil",
+            "3",
+            "2.400",
+            ".6928",
+            ".4000",
+            ".679",
+            "4.121",
+            "2.0",
+            "3.2"
+          ],
+          [
+            "Total",
+            "12",
+            "3.625",
+            "2.4275",
+            ".7008",
+            "2.083",
+            "5.167",
+            "1.5",
+            "8.9"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 8,
+      "text": "Ramaswamy et al. 8 \n \n \nFigure 1: Pots 2, 5, 8 and 11 on day 14 \n \nANOVA \nPlant final height (cm) \n \nSum of Squares \ndf \nMean Square \nF \nSig. \nBetween Groups \n54.082 \n3 \n18.027 \n13.428 \n.002 \nWithin Groups \n10.740 \n8 \n1.343 \n \nTotal \n64.822 \n11 \n \n \nTable 5: Analysis of variance of plant height \nMultiple Comparisons \nDependent Variable: Plant final height (cm) \n(I) Mix \nProportion \n(J) Mix \nProportion \nMean \nDifference \n(I-J) \nStd. Error \nSig. \n95% Confidence Interval \nLower Bound \nUpper Bound \nBonferroni \n100% soil \n2 \n5.0000* \n.9460 \n.004 \n1.709 \n8.291 \n3 \n4.8000* \n.9460 \n.006 \n1.509 \n8.091 \n4 \n4.9000* \n.9460 \n.005 \n1.609 \n8.191 \n25% Soil \n1 \n-5.0000* \n.9460 \n.004 \n-8.291 \n-1.709 \n3 \n-.2000 \n.9460 \n1.000 \n-3.491 \n3.091 \n4 \n-.1000 \n.9460 \n1.000 \n-3.391 \n3.191",
+      "char_count": 770,
+      "image_count": 1,
+      "tables": [
+        [
+          [
+            "3",
+            "18.027",
+            "13.428"
+          ],
+          [
+            "8",
+            "1.343",
+            ""
+          ],
+          [
+            "11",
+            "",
+            ""
+          ]
+        ],
+        [
+          [
+            "Dependent Variable: Plant final height (cm)",
+            "",
+            ""
+          ],
+          [
+            "",
+            "(I) Mix",
+            "(J) Mix"
+          ],
+          [
+            "",
+            "Proportion",
+            "Proportion"
+          ]
+        ],
+        [
+          [
+            ".9460",
+            ".004",
+            "1.709"
+          ],
+          [
+            ".9460",
+            ".006",
+            "1.509"
+          ],
+          [
+            ".9460",
+            ".005",
+            "1.609"
+          ],
+          [
+            ".9460",
+            ".004",
+            "-8.291"
+          ],
+          [
+            ".9460",
+            "1.000",
+            "-3.491"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 9,
+      "text": "Ramaswamy et al. 9 \n \n37.5% Soil 1 \n-4.8000* \n.9460 \n.006 \n-8.091 \n-1.509 \n2 \n.2000 \n.9460 \n1.000 \n-3.091 \n3.491 \n4 \n.1000 \n.9460 \n1.000 \n-3.191 \n3.391 \n50% Soil \n1 \n-4.9000* \n.9460 \n.005 \n-8.191 \n-1.609 \n2 \n.1000 \n.9460 \n1.000 \n-3.191 \n3.391 \n3 \n-.1000 \n.9460 \n1.000 \n-3.391 \n3.191 \n*. The mean difference is significant at the 0.05 level. \nTable 6: Comparison of plant yield mean difference across mix proportions \n \nAs mentioned in the hypothesis, the purpose of this analysis is to examine whether the \nexperimental variables predict plant yield, both in terms of plant height and harvested plant \nweight. A linear regression was conducted to estimate the linear equation that predicts levels of \nplant yield among the pots with varying the regolith-soil mixes. Prior to conducting the analysis, \nseveral descriptive statistics and graphs were generated. \nA Pearson correlation coefficient and a scatter plot show a significant linear relationship between \nthe variables of interest and plant yield. The results of the multiple regression analysis revealed \nthat three of the six factors emerged as significant predicators of plant height (F = 23.04; p< \n0.05). Average moisture in the soil, total light hours and light level (lumens) were the strongest \npredictors of plant height. Multicollinearity was not found to exist. Similar regression analysis \nfor predicting plant weight did not yield any significant results. \n \nModel \nPlant Height \nStandardized \nCoefficients \nt \nSig. \nCollinearity Statistics \nB \nStd. \nError \nBeta \nTolerance \nVIF \n(Constant) \n-7.475 17.258 \n-.433 \n.683 \n \nPercentage Regolith \n.012 \n.020 \n.152 \n.637 \n.552 \n.122 \n8.206 \nLight level(lumens) \n.016 \n.004 \n.633 \n4.238 \n.008 \n.313 \n3.199 \nTotal Light Hours \n.010 \n.002 \n.767 \n4.117 \n.009 \n.201 \n4.971 \nAverage Soil pH \n-1.190 \n2.250 \n-.101 \n-.529 \n.620 \n.191 \n5.229 \nAverage Moisture \nMeasurement \n2.599 \n.742 \n.855 \n3.504 \n.017 \n.117 \n8.536",
+      "char_count": 1922,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            ".9460",
+            ".006",
+            "-8.091"
+          ],
+          [
+            ".9460",
+            "1.000",
+            "-3.091"
+          ],
+          [
+            ".9460",
+            "1.000",
+            "-3.191"
+          ],
+          [
+            ".9460",
+            ".005",
+            "-8.191"
+          ],
+          [
+            ".9460",
+            "1.000",
+            "-3.191"
+          ],
+          [
+            ".9460",
+            "1.000",
+            "-3.391"
+          ]
+        ],
+        [
+          [
+            "Model",
+            "Plant Height",
+            "",
+            "Standardized Coefficients",
+            "t",
+            "Sig.",
+            "Collinearity Statistics",
+            "",
+            ""
+          ],
+          [
+            "",
+            "B",
+            "Std. Error",
+            "Beta",
+            "",
+            "",
+            "Tolerance",
+            "",
+            "VIF"
+          ],
+          [
+            "(Constant)",
+            "-7.475",
+            "17.258",
+            "",
+            "-.433",
+            ".683",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Percentage Regolith",
+            ".012",
+            ".020",
+            ".152",
+            ".637",
+            ".552",
+            ".122",
+            "8.206",
+            ""
+          ],
+          [
+            "Light level(lumens)",
+            ".016",
+            ".004",
+            ".633",
+            "4.238",
+            ".008",
+            ".313",
+            "3.199",
+            ""
+          ],
+          [
+            "Total Light Hours",
+            ".010",
+            ".002",
+            ".767",
+            "4.117",
+            ".009",
+            ".201",
+            "4.971",
+            ""
+          ],
+          [
+            "Average Soil pH",
+            "-1.190",
+            "2.250",
+            "-.101",
+            "-.529",
+            ".620",
+            ".191",
+            "5.229",
+            ""
+          ],
+          [
+            "Average Moisture Measurement",
+            "2.599",
+            ".742",
+            ".855",
+            "3.504",
+            ".017",
+            ".117",
+            "8.536",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 10,
+      "text": "Ramaswamy et al. 10 \n \nInteraction \u2013 Light X % \nRegolith \n-7.156E-\n5 \n.000 \n-.445 \n-1.711 \n.148 \n.103 \n9.709 \np< 0.05 \n \nTable 7: Results of regression analysis \n \nConclusion \nThe results of this study indicate that the key parameters that enhance plant (Cress) yield are average \nmoisture content, total duration and intensity of light during the growth cycle. Since the intensity and \nduration of light is a critical parameter that affects plant growth, matching the growth cycles with lunar \nday can ensure high plant yield. Moreover, the growth of Cress did not vary significantly based on \nvariations in the composition of soil to regolith. This implies that significant plant yield can be achieved \neven with very high levels of regolith. Indeed, this is not very surprising in light of the currently accepted \nhypothesis on the origins of moon. The \u2018Giant Impact Hypothesis\u2019 suggest that the moon was formed \nfrom debris ejected by a large off-center collision of the proto-Earth with a mars sized planetesimal. The \ncomposition of regolith is expected to be similar to that of soil providing the possibility for supporting \nplant growth. This study has not considered the effect of gravity or the atmospheric conditions of the \nmoon. These will have a profound on plant yield. The reuse of regolith-soil mix over multiple growth \ncycles should also be investigated. \n \nReferences: \nTransactions of the ASABE. 62(2): 393-404. (doi: 10.13031/trans.13067) @2019. = Cotton yield \nestimation \nAjdanian, Ladan, Mehdi Babaei, and Hossein Aroiee. \"The growth and development of cress \n(Lepidium sativum) affected by blue and red light.\" Heliyon 5.7 (2019): e0210 \n Wikipedia contributors. \"Lunar day.\" Wikipedia, The Free Encyclopedia. Wikipedia, The Free \nEncyclopedia, 5 Dec. 2020. Web. 1 May. 2021. \nCanup, R.; Asphaug, E. \"Origin of the Moon in a giant impact near the end of the Earth's \nformation\" Nature. 412 (6848): 708\u2013712, (2001).",
+      "char_count": 1940,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Interaction \u2013 Light X % Regolith",
+            "-7.156E- 5",
+            ".000",
+            "-.445",
+            "-1.711",
+            ".148",
+            ".103",
+            "9.709"
+          ],
+          [
+            "p< 0.05",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        [
+          [
+            "Transactions of the ASABE. 62(2): 393-404. (doi: 10.13031/trans.13067) @2019. = Cotton yield"
+          ],
+          [
+            "estimation"
+          ]
+        ],
+        [
+          [
+            "Ajdanian, Ladan, Mehdi Babaei, and Hossein Aroiee. \"The growth and development of cress"
+          ],
+          [
+            "(Lepidium sativum) affected by blue and red light.\" Heliyon 5.7 (2019): e0210"
+          ],
+          [
+            "Wikipedia contributors. \"Lunar day.\" Wikipedia, The Free Encyclopedia. Wikipedia, The Free"
+          ],
+          [
+            "Encyclopedia, 5 Dec. 2020. Web. 1 May. 2021."
+          ],
+          [
+            "Canup, R.; Asphaug, E. \"Origin of the Moon in a giant impact near the end of the Earth's"
+          ],
+          [
+            "formation\" Nature. 412 (6848): 708\u2013712, (2001)."
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 11,
+      "text": "Ramaswamy et al. 11 \n \n https://svs.gsfc.nasa.gov/12739",
+      "char_count": 55,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "https://svs.gsfc.nasa.gov/12739"
+          ]
+        ]
+      ]
+    }
+  ]
+}

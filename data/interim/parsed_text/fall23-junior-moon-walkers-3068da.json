@@ -1,0 +1,79 @@
+{
+  "report_id": "fall23-junior-moon-walkers-3068da",
+  "sha256": "71c9febcf4308c89f59b55857954c03ab1bfd79b2872ce1ddf7914ad70a64dce",
+  "page_count": 4,
+  "total_chars": 5348,
+  "avg_chars_per_page": 1337.0,
+  "total_images": 21,
+  "table_count": 1,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PTMC \nMoon Walkers \nTeam ID#16286 \n \n \n\u25cf Sept. 13, 2023 - Construction team puts together the \ngreenhouse and sets it up outside near the Sensory \nGarden. We placed it against the side of the school \nbuilding to keep it from being blown over by the wind. \n\u25cf Sept. 20, 2023 \u2013 Through research we learned that the \nmoon soil has a high pH. To learn about \npH we conducted experiments testing pH \nusing lemons and baking soda with \nlitmus paper. We researched how farmers lower soil pH by adding Sulfur. \nWe decided to add Sulfur to the moon regolith. We also came up with our \nhypothesis, variables, controls, and our experimental design. Each student \nwas assigned a job and group to work with. Our Photo/Video team was \nresponsible for planting the control pot, so they would not come into \ncontact with the moon regolith soil and transfer it to the iPad. Other \nstudents were randomly assigned a pot to plant. We created teams, so \nthat everyone would have a job to do. \n \nSept 27, 2023: Planting our pots. \nDescriptive Name: Will different amounts of sulfur \nchange the pH balance of moon and promote \nsunflower growth? \nHypothesis: If \u00bd tsp. of Sulfur is added to moon \nregolith, then the pH level will be lowered, and \nsunflowers will grow. \nIndependent Variable: Amount of Sulfur \nDependent Variable: pH level and plant growth \nMeasurements: We measured the height in \ncentimeters, and we counted the number of leaves \non each plant. We measured once a week \n(Wednesday) and kept track of the weather. We also measured the pH level at the beginning \nand end of our experiment. \nControl: Dwarf Sunflower seeds grown in 100% potting soil and no sulfur. \nConstants: All plants were housed in a greenhouse outside. All plants received 100mL of \ndistilled water weekly and all pots were kept in the same environment and temperature.",
+      "char_count": 1832,
+      "image_count": 7,
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "text": "PTMC \nMoon Walkers \nTeam ID#16286 \n \n \nControl \nPot \nPot \n1 \nPot \n2 \nPot \n3 \nPot \n4 \nPot \n5 \nPot \n6 \nPot \n7 \nPot \n8 \nPot \n9 \n100% \nPotting \nsoil \n50% Reg \n50% PS \n\u00bd t. S \n50% Reg \n50% PS \n\u00bd t. S \n50% Reg \n50% PS \n\u00bd t. S \n50% Reg \n50% PS \n1/4 t. S \n50% Reg \n50% PS \n1/4 t. S \n50% Reg \n50% PS \n1/4 t. S \n50% Reg \n50% PS \n1/8 t. S \n50% Reg \n50% PS \n1/8 t. S \n50% Reg \n50% PS \n1/8 t. S \nDwarf \nSunflower \nDwarf \nSunflower \nDwarf \nSunflower \nDwarf \nSunflower \nDwarf \nSunflower \nDwarf \nSunflower \nDwarf \nSunflower \nDwarf \nSunflower \nDwarf \nSunflower \nDwarf \nSunflower \n*We did the same set-up for our replant. We used plastic cups and punched holes in the bottom \nfor drainage. \nDescribe what happened? \n\u25cf Our class meets once a week on Wednesdays, so we watered \nour plants with 100mL of distilled water, measured growth of \nheight in centimeters, and counted leaf growth. Plants were \nhoused in our greenhouse. We decided to check the pH \nbalance again at the end of our growth period. \n\u25cf During our Fall Break, our teacher watered and measured our plants for us. \n\u25cf We met on Oct. 18. With only one plant growing, we decided to \nreplant. Our teacher pulled us out of classes on Thursday, Oct. \n19 to replant. We chose to keep our original plants to see what \nwould happen. We used the remainder of our moon regolith that \nwas left outside next to our greenhouse. During a heavy rain, \nwater got into the bag. Our replant was much easier due to the \nmoon regolith being wet. We thought this might give us better \nresults on our second set of plants. \n\u25cf After our replant, we had two pots that grew. Our control pot grew 3 cm with six leaves, \nand pot #9 with 1/8tsp. of Sulfur grew 2cm with 4 leaves. Both plants died three weeks \nafter the replant. \n \n*By Week 8, Pot #1 was dead. *By Week 8, Pot #1 was dead. \n** Due to the age of the children and their experience with data charts, we chose to use only the \nbeginning, midpoint, and end stages of growth.",
+      "char_count": 1953,
+      "image_count": 5,
+      "tables": [
+        [
+          [
+            "Control Pot",
+            "Pot 1",
+            "Pot 2",
+            "Pot 3",
+            "Pot 4",
+            "Pot 5",
+            "Pot 6",
+            "Pot 7",
+            "Pot 8",
+            "Pot 9"
+          ],
+          [
+            "100% Potting soil",
+            "50% Reg 50% PS \u00bd t. S",
+            "50% Reg 50% PS \u00bd t. S",
+            "50% Reg 50% PS \u00bd t. S",
+            "50% Reg 50% PS 1/4 t. S",
+            "50% Reg 50% PS 1/4 t. S",
+            "50% Reg 50% PS 1/4 t. S",
+            "50% Reg 50% PS 1/8 t. S",
+            "50% Reg 50% PS 1/8 t. S",
+            "50% Reg 50% PS 1/8 t. S"
+          ],
+          [
+            "Dwarf Sunflower",
+            "Dwarf Sunflower",
+            "Dwarf Sunflower",
+            "Dwarf Sunflower",
+            "Dwarf Sunflower",
+            "Dwarf Sunflower",
+            "Dwarf Sunflower",
+            "Dwarf Sunflower",
+            "Dwarf Sunflower",
+            "Dwarf Sunflower"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "PTMC \nMoon Walkers \nTeam ID#16286 \n \n \nWhat Would We Do Differently? \n\u25cf Add more sulfur. \n\u25cf Use something different instead of sulfur. \n\u25cf Move our greenhouse to the other side of the school \nwhere it would receive more sunlight. There wasn\u2019t much \nsunlight on the side where we had it located due to the \nshadow of the school building. \n\u25cf Water 2x a week instead of 1x. \n\u25cf Move our greenhouse indoors. We had some very cold \nand freezing temperatures. \n\u25cf Set up a rain barrel to collect rainwater. \nWhat Did We Learn? \n\u25cf How to plant seeds. \n\u25cf It will not be easy to grow crops on the moon. \n\u25cf How to measure with a ruler using centimeters. \n\u25cf How to measure with a graduated cylinder. \n\u25cf How to track the weather. \n\u25cf How to read a multimeter probe. \n\u25cf How to set-up a graph. \nCoolest Thing We Discovered \n\u25cf We learned about pH levels, acids, and bases. \n\u25cf We also learned about the surface of the moon and its environment. \nWhat Would You Tell Others About Your Experiment? \n\u25cf Make sure you put your plants in a sunny spot and check the temperature. \n\u25cf Give extra water. \n\u25cf Use safety procedures. \n\u25cf Mix potting soil and moon regolith together well. We recommend buckets and garden \nspades. \n \n\u25cf Final Grow Set-up",
+      "char_count": 1214,
+      "image_count": 4,
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "text": "PTMC \nMoon Walkers \nTeam ID#16286 \n \n \n \n \n \n \n \n \n \n \n** Due to the age of the children and their experience with data charts, we chose to use only the \nbeginning, midpoint, and end stages of growth. \n \n \n \n*Every plant registered a 7.9 pH balance at the beginning and end of both our original plants and our \nreplants. \n \nFinal Growth & pH Balance",
+      "char_count": 349,
+      "image_count": 5,
+      "tables": []
+    }
+  ]
+}

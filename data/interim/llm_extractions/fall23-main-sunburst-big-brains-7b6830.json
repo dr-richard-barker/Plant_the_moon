@@ -1,0 +1,78 @@
+{
+  "extraction": {
+    "report_id": "fall23-main-sunburst-big-brains-7b6830",
+    "extraction_method": "heuristic",
+    "model_name": "table-aware-lexicon-v2",
+    "celestial_body": "lunar",
+    "regolith_simulant": "unspecified",
+    "regolith_simulant_raw": null,
+    "crop_common_name": "spinach",
+    "crop_scientific_name": "Spinacia oleracea",
+    "crop_guild": "leafy_green",
+    "experimental_duration_days": null,
+    "total_plants_or_pots": null,
+    "replicates_per_treatment": null,
+    "has_earth_soil_control": true,
+    "has_unamended_regolith_control": false,
+    "statistical_tests_reported": [],
+    "data_availability": "qualitative_only",
+    "primary_bottlenecks": [
+      "compaction_crusting",
+      "hydrophobicity_water_retention"
+    ],
+    "innovation_tags": [
+      "organic_compost_manure"
+    ],
+    "key_hypothesis": "Our team hypothesized that the soil composition with the organic compost would have the most",
+    "summary_findings": "At the conclusion of this experiment, results showed that no plants germinated in the",
+    "arms": [
+      {
+        "arm_id": "arm_ctrl_earth",
+        "arm_label": "Earth Soil Control",
+        "is_control": true,
+        "control_type": "earth_soil",
+        "regolith_pct": 0.0,
+        "amendment_category": "earth_soil_control",
+        "amendment_detail": null,
+        "amendment_dose": null,
+        "germination_rate_pct": null,
+        "survival_rate_pct": null,
+        "mean_shoot_height_cm": null,
+        "mean_root_length_cm": null,
+        "mean_fresh_biomass_g": null,
+        "mean_dry_biomass_g": null,
+        "substrate_ph": null,
+        "outcome_vs_regolith_control": "not_reported",
+        "reported_effect_pct": null,
+        "evidence_quote": "What soil additive (Organic Compost, Liquid Fertilizer, or Potting Soil) will be most effective",
+        "page_number": 2
+      },
+      {
+        "arm_id": "arm_trt_1",
+        "arm_label": "Treatment (Compost)",
+        "is_control": false,
+        "control_type": "none",
+        "regolith_pct": null,
+        "amendment_category": "organic_compost_manure",
+        "amendment_detail": "Compost",
+        "amendment_dose": null,
+        "germination_rate_pct": null,
+        "survival_rate_pct": null,
+        "mean_shoot_height_cm": null,
+        "mean_root_length_cm": null,
+        "mean_fresh_biomass_g": null,
+        "mean_dry_biomass_g": null,
+        "substrate_ph": null,
+        "outcome_vs_regolith_control": "not_reported",
+        "reported_effect_pct": null,
+        "evidence_quote": "What soil additive (Organic Compost, Liquid Fertilizer, or Potting Soil) will be most effective",
+        "page_number": 2
+      }
+    ]
+  },
+  "provenance_audit": {
+    "quotes_checked": 2,
+    "quotes_matched": 2,
+    "quote_match_rate": 1.0
+  }
+}

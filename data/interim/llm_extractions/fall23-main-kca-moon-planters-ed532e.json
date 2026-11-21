@@ -1,0 +1,54 @@
+{
+  "extraction": {
+    "report_id": "fall23-main-kca-moon-planters-ed532e",
+    "extraction_method": "heuristic",
+    "model_name": "table-aware-lexicon-v2",
+    "celestial_body": "lunar",
+    "regolith_simulant": "unspecified",
+    "regolith_simulant_raw": null,
+    "crop_common_name": "mung bean",
+    "crop_scientific_name": "Vigna radiata",
+    "crop_guild": "legume",
+    "experimental_duration_days": null,
+    "total_plants_or_pots": null,
+    "replicates_per_treatment": null,
+    "has_earth_soil_control": false,
+    "has_unamended_regolith_control": false,
+    "statistical_tests_reported": [],
+    "data_availability": "charts_only",
+    "primary_bottlenecks": [],
+    "innovation_tags": [
+      "other"
+    ],
+    "key_hypothesis": null,
+    "summary_findings": "Can mung bean sprouts grow successfully with lunar regolith to help support astronauts living on the Moon?",
+    "arms": [
+      {
+        "arm_id": "arm_trt_1",
+        "arm_label": "Treatment (regolith)",
+        "is_control": false,
+        "control_type": "none",
+        "regolith_pct": null,
+        "amendment_category": "other",
+        "amendment_detail": "regolith",
+        "amendment_dose": null,
+        "germination_rate_pct": null,
+        "survival_rate_pct": null,
+        "mean_shoot_height_cm": null,
+        "mean_root_length_cm": null,
+        "mean_fresh_biomass_g": null,
+        "mean_dry_biomass_g": null,
+        "substrate_ph": null,
+        "outcome_vs_regolith_control": "not_reported",
+        "reported_effect_pct": null,
+        "evidence_quote": null,
+        "page_number": null
+      }
+    ]
+  },
+  "provenance_audit": {
+    "quotes_checked": 0,
+    "quotes_matched": 0,
+    "quote_match_rate": null
+  }
+}

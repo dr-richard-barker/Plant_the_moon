@@ -1,0 +1,79 @@
+{
+  "extraction": {
+    "report_id": "fall22-junior-team-insight-efd709",
+    "extraction_method": "heuristic",
+    "model_name": "table-aware-lexicon-v2",
+    "celestial_body": "martian",
+    "regolith_simulant": "unspecified",
+    "regolith_simulant_raw": null,
+    "crop_common_name": "radish",
+    "crop_scientific_name": "Raphanus sativus",
+    "crop_guild": "root",
+    "experimental_duration_days": null,
+    "total_plants_or_pots": null,
+    "replicates_per_treatment": null,
+    "has_earth_soil_control": false,
+    "has_unamended_regolith_control": true,
+    "statistical_tests_reported": [],
+    "data_availability": "summary_means",
+    "primary_bottlenecks": [
+      "alkaline_ph",
+      "nutrient_deficiency",
+      "heavy_metals_or_salinity"
+    ],
+    "innovation_tags": [
+      "organic_compost_manure"
+    ],
+    "key_hypothesis": "Project Hypothesis/AIM:",
+    "summary_findings": "found that radishes have nutrients humans need to survive, like antioxidants, and minerals like calcium and",
+    "arms": [
+      {
+        "arm_id": "arm_ctrl_regolith",
+        "arm_label": "Unamended Regolith Control",
+        "is_control": true,
+        "control_type": "unamended_regolith",
+        "regolith_pct": 100.0,
+        "amendment_category": "none_control",
+        "amendment_detail": null,
+        "amendment_dose": null,
+        "germination_rate_pct": null,
+        "survival_rate_pct": null,
+        "mean_shoot_height_cm": null,
+        "mean_root_length_cm": null,
+        "mean_fresh_biomass_g": null,
+        "mean_dry_biomass_g": null,
+        "substrate_ph": null,
+        "outcome_vs_regolith_control": "neutral",
+        "reported_effect_pct": null,
+        "evidence_quote": null,
+        "page_number": null
+      },
+      {
+        "arm_id": "arm_trt_1",
+        "arm_label": "Treatment (manure)",
+        "is_control": false,
+        "control_type": "none",
+        "regolith_pct": null,
+        "amendment_category": "organic_compost_manure",
+        "amendment_detail": "manure",
+        "amendment_dose": null,
+        "germination_rate_pct": null,
+        "survival_rate_pct": null,
+        "mean_shoot_height_cm": 8.6,
+        "mean_root_length_cm": null,
+        "mean_fresh_biomass_g": null,
+        "mean_dry_biomass_g": null,
+        "substrate_ph": null,
+        "outcome_vs_regolith_control": "not_reported",
+        "reported_effect_pct": null,
+        "evidence_quote": "Label 4 containers Bone meal, All purpose fertilizer, manure, and Aluminum sulfate",
+        "page_number": 1
+      }
+    ]
+  },
+  "provenance_audit": {
+    "quotes_checked": 1,
+    "quotes_matched": 1,
+    "quote_match_rate": 1.0
+  }
+}

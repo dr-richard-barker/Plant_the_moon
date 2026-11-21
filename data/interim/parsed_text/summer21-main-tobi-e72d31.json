@@ -1,0 +1,384 @@
+{
+  "report_id": "summer21-main-tobi-e72d31",
+  "sha256": "4f3de7fe6647a62911c7586b5d55ede8586bda94d9aa828c46906c430d829e76",
+  "page_count": 9,
+  "total_chars": 10001,
+  "avg_chars_per_page": 1111.2,
+  "total_images": 9,
+  "table_count": 5,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PLANT MARS CHALLENGE \nTEAM \n: TOBI \nTEAM ID \n: 8146 \nDIVISION \n: HIGH SCHOOL \n \nTITLE : \n \nGrowth and development of water spinach (Ipomoea aquatica sp.) cultivated in different \ncomposition of Earth-Mars Simulant with additional bio-fertilizer \n \nBACKGROUND : \nMars has been a target for human colonization for centuries. However, there is a huge \namount of problems should be solved in order to provide suitable environment supporting basic \nneed for human survival (Staedter, 2020). Basically, human need food and oxygen for survival \nand both of them can provide by plant. \nThere are four element needed by plant to growth including water, mineral, light and \nCO2. Plant absorb mineral from soil along with water. Beside of it mineral composition, soil \nalso need to be porous enough to support root growth and has pH between 5-7 (Taiz and Zeiger, \n2002). However, MGS-1 Mars Global Simulant fine granule, and transform to solid and less \nporous soil when mix with water. Moreover, mineral composition of mars soil doesn\u2019t fit with \nplant requirement. \nMixing different type of soil usually do by farmer in order to create soil which perfectly \nmatch to plant need. Mixing Mars Simulant with earth soil might improve increase the \nopportunity to growth plant in the mars using mars soil. Additionally, some microorganism in \nthe soil well known to improve plant ability absorbing mineral from the soil. In this research, \nthe effect of different MGS-1 Mars Global Simulant to Earth soil ratio to plant growth were \nevaluated. In addition, solution containing mixture of microbe which support plant growth was \nadded to irrigating solution. \n \nHYPOTHESES: \nThe concentration of earth soil in earth soil-Mars simulant mixture and Bio Fertilizer has a positive \ncorrelation with Ipomoea aquatica sp. plant growth",
+      "char_count": 1813,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "text": "EXPERIMENT DESIGN: \n \nFigure 1. Experimental design \nThe experimental were conducted from July 5 , 2021 and end on August 9, 2021. The \nbasic design of the experiment is to be a basic simulation of an indoors, mars base, crop farm. \nSo we have designed this experiment to be as accurate as we can to an indoor mars base \nenvironment (Fig. 1). \nPlant used in this experiment was water spinach (Ipomoea aquatica sp.) which came from \nagriculture shop. The plant were divided into seven groups and cultured according to Fig 2. \nEach seed was germinated into seven different pots containing either earth soil or different \ncombination of earth soil and mars simulant (100 % earth soil (100E), 50% earth soil (50E), \n40% earth soil (40E), 30% earth soil (30E), 20% earth soil (20E), 10% earth soil (10E), 100 % \nMars simulant (100M)). All plant were illuminated continuously using 7 watt LED lamp which \nset about 15 cm from each pot. To accommodate energy requirement for photosynthesis, the \nposition of lamp was changed as the plant grow taller. Plants were irrigated using bio-fertilizer. \nSoil pH was regularly monitor every week. \n \nFig 2. Plant culture condition. Red arrow indicated the position of LED lamp.All plant are \nirrigated twice a day (7 am and 7 pm). ;W = water; B = Biofertilizer.",
+      "char_count": 1295,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "text": "Plant growth were determined by measure the height of each plant weekly and measure \nthe inter nodes in every stem at the end of experiment. Additionally, leave colour were record \nevery week started at day 14 and root structures were recorded at the end of experiment. Leave \ncolour was measured qualitatively by comparing leave colour with standard colour paper. \nWater displacement method was used to measure root volume. \n \nINDEPENDENT VARIABLES OR PARAMETERS: \nPercentage of Earth Soil in each pot \n \nDEPENDENT VARIABLE: \nHeight of the plant, weight of the plant, pH of soil and colour of true leaves \n \nCONTROLS Variable: \nControl variable include irrigation, light radiation. \n \nAdditives: Bio Fertilizer \nRhizobium sp. : 2.85 x 107 CFU/ml \n \nPenicillium sp. : 1.97 x 106 CFU/ml \nAzotobacter sp. : 1.14 x 108 CFU/ml \n \nLactobacillus sp. : 2.00 x 108 CFU/ml \nPseudomonas sp. : 8.5 x 108 CFU/ml \npH \n: 5.86 \nNote: We have decided to use bio fertilizer as an additive to improve the quality of the mars \nsimulant, minimizing the amount of mass needed to be transported. This is just a simple \nsimulation but a step that NASA could take is to make a fertilizer on the mars. \n \nResult and discussion \nPlant growth depend or several factor such as light intensity, and CO2, water, and \nmineral availability (Taiz and Zeiger, 2002). All of the plant in this experiment were growing \nin the same environment condition, except soil composition. If there are different growth and \ndevelopment between plants, it must be the contribution of soil mixture characteristic and \nmineral content. \nThe composition of earth soil in the mixture affected plant growth (Fig 2, 3 and \nappendix Table 4) and development (appendix Fig 7). Plant growth were reduced when the \ncomposition of earth soil in the mixture also reduce. Observation done on the height of the \nplant showed earth soil less than 40% in the mixture significantly inhibit plant growth (Fig 2, \n3 and Appendix Table 4). Plant cultivated in the mixture contain at least 40% of earth soil has",
+      "char_count": 2043,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "text": "the height of the plant as tall as 100 % earth soil on day 35 (table 4). At 35 day after \ngermination, plant cultivated in earth soil and mixture with 40% earth soil have similar \ndevelopmental stage with plant cultivated at 100 % earth soil as indicated by the number of \nnode developed in each plants. In contrast, 100% Mars-simulant adversely affect plant \ndevelopment (Fig 2). \n \n \nFigure 2. Plant morphology after cultivated in 100% earth soil (100E), 40% earth soil (40E) \nand 100 Mars-simulant (100M). n = node; r = root, l = leaf, cy = cotyledon. \n \n \nFig 3. Plant growth for 35 days in various earth soil and Mars-simulant mixture. \nInhibition in plant growth and development might result of mineral deficiency or \nlimited in soil mineral content or soil texture. Mineral deficiency can be detected by observing",
+      "char_count": 820,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "text": "the colour of the leave. Our result show no different in leave colour were observed between \nplant with indicated no mineral deficiency were experienced by any plant (Appendix Table 2). \nIt seemingly that reduction of plant growth in this research were caused by limited amount of \nmineral available to support plant growth. This idea was support by fact that Mars simulant \nthen to sink and solidified in the bottom of container and cannot be penetrate by plant roots. \nPlant cultivated in the mixture containing 40% of earth soil has numerous lateral root close to \nthe surface where earth soil mostly accumulated. This is contrast with plant growth in 100% \nearth soil which had long primary root and more distribute lateral root (Fig. 2). Plant that \ngrowth under limited mineral tend to increase root growth in order to increase mineral \nacquisition and reduced it shoot growth (Taiz and Zeiger, 2002). Additionally, plant growth \nalso affected by soil pH . Our result show any correlation between soil pH and plant growth \n(table 3). The best pH for Ipomoea aquatica sp. is 5 - 7 . In this experiment, plant in 50 % earth \nsoil was dead on day 17 after germination because the quality of the seed is not good. \n \nConclusion \nThe concentration of earth soil in earth soil-Mars simulant mixture and Bio Fertilizer has a \npositive correlation with Ipomoea aquatica sp. plant growth with maximal growth were reach \nin 40 % earth soil and 60 % Mars Simulant ratio. \n \nFUTURE EXPERIMENT IMPROVEMENT: \n- \nChange the size of container which using a bigger one \n- \nIncrease the Quantity (mass of mixture) in every pot \n- \nAdd another type of biofertilizer \n- \nTrial to do experiment with the other plant seed (tomatoes, radish, etc.) \nReferences \nStaedter, T. (2020). Mars Exploration? 3 Problems Science Needs to Solve First. Available at \nhttps://now.northropgrumman.com/mars-exploration-3-problems-science-needs-to-solve-\nfirst/ \nTaiz, L and Zeiger, E. (2002). Plant Physiology 3rd ed. Sinauer Associate.",
+      "char_count": 2004,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "text": "Appendix \nTable 1. Watering and Biofertilizer adding system \n \nDay \nTime \n100 % \nearth \nsoil \n \n50 % \nearth \nsoil \n \n40 % \nearth \nsoil \n \n30 % \nearth \nsoil \n \n20 % \nearth \nsoil \n \n10 % \nearth \nsoil \n \n100 % \nmars \nsimulant \n \n \n \nW \n(mL) \nB \n(mL) \nW \n(mL) \nB \n(mL) \nW \n(mL) \nB \n(mL) \nW \n(mL) \nB \n(mL) \nW \n(mL) \nB \n(mL) \nW \n(mL) \nB \n(mL) \nW \n(mL) \nB \n(mL) \n1-35 \n7 am \n1 \n2 \n1 \n2 \n1 \n2 \n1 \n2 \n1 \n2 \n1 \n2 \n1 \n2 \n \n7 pm \n1 \n2 \n1 \n2 \n1 \n2 \n1 \n2 \n1 \n2 \n1 \n2 \n1 \n2 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nNote: \nW: water \nB : Biofertilizer \n \n \n \n \n \n \n \n \nTable 2. The effect of soil mixture on leave colour \nDay \n \n \nPantone \n \n \n \n \n \n100 % earth soil \n50 % earth soil \n40 % earth soil \n30 % earth soil \n20 % earth soil \n10 % earth soil \n100 % mars \nsimulant \n14 \n370 C \n370 C \n370 C \n370 C \n370 C \n370 C \n370 C \n21 \n370 C \nna \n370 C \n370 C \nna \n370 C \n370 C \n28 \n370 PC \nna \n370 PC \n370 C \nna \nna \n370 C \n35 \n371 PC \nna \n371 C \nna \nna \nna \n370 C \n \nTable 3. The effect of soil mixture on soil pH \nDay \n \n \n \npH \n \n \n \n \n100 % earth soil \n50% earth soil \n40 % earth soil \n30 % earth soil \n20 % earth soil \n10 % earth soil \n100 % mars \nsimulant \n0 \n5 \n7 \n7 \n7.5 \n8 \n8 \n8 \n7 \n5 \n7 \n7 \n7.5 \n8 \n8 \n8 \n14 \n5 \n7 \n7 \n7.5 \n8 \n8 \n8 \n21 \n5 \n7 \n7 \n7.5 \n8 \n8 \n8 \n28 \n5 \n7 \n7 \n7.5 \n8 \n8 \n8 \n35 \n5 \n7 \n7 \n75 \n8 \n8 \n8 \n \nTable 4. The effect of soil mixture on Height of the plant \nDay \n \n \n \nHeight of plant \n(cm) \n \n \n \n \n100 % earth soil \n50% earth soil \n40 % earth soil \n30 % earth soil \n20 % earth soil \n10 % earth soil \n100 % mars \nsimulant \n7 \n4.5 \n4 \n3.5 \n2.4 \n1.8 \n0 \n0 \n14 \n5 \n4.2 \n4 \n3 \n1 \n1.5 \n2 \n21 \n15 \nna \n11.5 \n3.5 \nna \n2.5 \n2 \n28 \n22 \nna \n21.5 \n3.5 \nna \nna \n2 \n35 \n30 \nna \n30 \nNa \nna \nna \n2",
+      "char_count": 1677,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Day",
+            "Time",
+            "100 % earth soil",
+            "",
+            "50 % earth soil",
+            "",
+            "40 % earth soil",
+            "",
+            "30 % earth soil",
+            "",
+            "20 % earth soil",
+            "",
+            "10 % earth soil",
+            "",
+            "100 % mars simulant",
+            ""
+          ],
+          [
+            "",
+            "",
+            "W (mL)",
+            "B (mL)",
+            "W (mL)",
+            "B (mL)",
+            "W (mL)",
+            "B (mL)",
+            "W (mL)",
+            "B (mL)",
+            "W (mL)",
+            "B (mL)",
+            "W (mL)",
+            "B (mL)",
+            "W (mL)",
+            "B (mL)"
+          ],
+          [
+            "1-35",
+            "7 am",
+            "1",
+            "2",
+            "1",
+            "2",
+            "1",
+            "2",
+            "1",
+            "2",
+            "1",
+            "2",
+            "1",
+            "2",
+            "1",
+            "2"
+          ],
+          [
+            "",
+            "7 pm",
+            "1",
+            "2",
+            "1",
+            "2",
+            "1",
+            "2",
+            "1",
+            "2",
+            "1",
+            "2",
+            "1",
+            "2",
+            "1",
+            "2"
+          ]
+        ],
+        [
+          [
+            "Day",
+            "Pantone",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "100 % earth soil",
+            "50 % earth soil",
+            "40 % earth soil",
+            "30 % earth soil",
+            "20 % earth soil",
+            "10 % earth soil",
+            "100 % mars simulant"
+          ],
+          [
+            "14",
+            "370 C",
+            "370 C",
+            "370 C",
+            "370 C",
+            "370 C",
+            "370 C",
+            "370 C"
+          ],
+          [
+            "21",
+            "370 C",
+            "na",
+            "370 C",
+            "370 C",
+            "na",
+            "370 C",
+            "370 C"
+          ],
+          [
+            "28",
+            "370 PC",
+            "na",
+            "370 PC",
+            "370 C",
+            "na",
+            "na",
+            "370 C"
+          ],
+          [
+            "35",
+            "371 PC",
+            "na",
+            "371 C",
+            "na",
+            "na",
+            "na",
+            "370 C"
+          ]
+        ],
+        [
+          [
+            "Day",
+            "pH",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "100 % earth soil",
+            "50% earth soil",
+            "40 % earth soil",
+            "30 % earth soil",
+            "20 % earth soil",
+            "10 % earth soil",
+            "100 % mars simulant"
+          ],
+          [
+            "0",
+            "5",
+            "7",
+            "7",
+            "7.5",
+            "8",
+            "8",
+            "8"
+          ],
+          [
+            "7",
+            "5",
+            "7",
+            "7",
+            "7.5",
+            "8",
+            "8",
+            "8"
+          ],
+          [
+            "14",
+            "5",
+            "7",
+            "7",
+            "7.5",
+            "8",
+            "8",
+            "8"
+          ],
+          [
+            "21",
+            "5",
+            "7",
+            "7",
+            "7.5",
+            "8",
+            "8",
+            "8"
+          ],
+          [
+            "28",
+            "5",
+            "7",
+            "7",
+            "7.5",
+            "8",
+            "8",
+            "8"
+          ],
+          [
+            "35",
+            "5",
+            "7",
+            "7",
+            "75",
+            "8",
+            "8",
+            "8"
+          ]
+        ],
+        [
+          [
+            "Day",
+            "Height of plant (cm)",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "100 % earth soil",
+            "50% earth soil",
+            "40 % earth soil",
+            "30 % earth soil",
+            "20 % earth soil",
+            "10 % earth soil",
+            "100 % mars simulant"
+          ],
+          [
+            "7",
+            "4.5",
+            "4",
+            "3.5",
+            "2.4",
+            "1.8",
+            "0",
+            "0"
+          ],
+          [
+            "14",
+            "5",
+            "4.2",
+            "4",
+            "3",
+            "1",
+            "1.5",
+            "2"
+          ],
+          [
+            "21",
+            "15",
+            "na",
+            "11.5",
+            "3.5",
+            "na",
+            "2.5",
+            "2"
+          ],
+          [
+            "28",
+            "22",
+            "na",
+            "21.5",
+            "3.5",
+            "na",
+            "na",
+            "2"
+          ],
+          [
+            "35",
+            "30",
+            "na",
+            "30",
+            "Na",
+            "na",
+            "na",
+            "2"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 7,
+      "text": "Table 5. The effect of soil mixture on Weight of the plant \nDay \n Weight ( mg) \n \n \n100 % earth soil \n40 % earth soil \n35 \n900 \n900",
+      "char_count": 131,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Day",
+            "Weight ( mg)",
+            ""
+          ],
+          [
+            "",
+            "100 % earth soil",
+            "40 % earth soil"
+          ],
+          [
+            "35",
+            "900",
+            "900"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 8,
+      "text": "Measurement: \n \nFigure 3. Preparation of pH measurement \n \n \nFigure 4. Measurement of plant height \n \n \nFigure 5. Measurement of leaf colour \n \n \nFigure 6. Measurement of plant weight",
+      "char_count": 183,
+      "image_count": 4,
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "text": "Figure 7. Measurement of inter node",
+      "char_count": 35,
+      "image_count": 1,
+      "tables": []
+    }
+  ]
+}

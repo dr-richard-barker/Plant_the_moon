@@ -1,0 +1,177 @@
+{
+  "report_id": "spring23-junior-penguin-power-e7d8b3",
+  "sha256": "6792ceeb4de1c097e6acede1ed66b31fe2f999cb89a8b5db72cb8161d357f534",
+  "page_count": 8,
+  "total_chars": 14105,
+  "avg_chars_per_page": 1763.1,
+  "total_images": 152,
+  "table_count": 4,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Title and Team: Dux Carota Anti-Earth Gardening Association\nTeam Number: 5\nChallenge Division: Middle School\nTeam members names: Leonardo Dinner, Ellie Chong, Elliot Phanthanusorn, Kayla Ong, Sam \nBarnhoorn\nRabbit Manure: a viable candidate for soil enhancement and legume success in\nlunar regolith simulant\nBackground\nThe whirlwind advancement in technology since the 1969 lunar landing has brought humanity\ncloser to their dreams of colonies in space and on the moon. As missions increase in length, astronauts\nlook to minimize the amount of food and fuel they have to pack (Earth payload) in order to stay alive.\nPlants, which can generate both oxygen and food, would be desirable during extended stays in these\nextraterrestrial environments. After the Apollo 11 mission, NASA studied samples of collected moon\nrock, known as lunar regolith, to determine if plants were able to use it in place of Earth soil. The lunar\nregolith was analyzed and then used to plant a variety of plants. Unfortunately, plants showed severe\nstress and stunted growth in this regolith, possibly due to a lack of nutrients, oxidative stress, and toxic\nsalts and metals. Since the supply of lunar regolith was limited, a lunar regolith simulant was developed\nin order to conduct more research. [https://exolithsimulants.com/] Duri et al. discovered that organic\nmaterial such as compost and manure were able to encourage better plant growth. As the simulants did\nnot have many nutrients, they acted mainly as a mechanical anchorage for roots. The optimal ratio of\norganic matter to simulant seemed to range between 1:1 to 3:1. The authors concluded organic matter\nincreased growth success by increasing water and/or nutrient availability to the plant. [Duri et al, 2022]\nThis study aims to explore the use of rabbit manure as both organic matter and nutrient source.\nRabbit manure comes in the form of dry pellets, which break down quickly, does not burn plants\nbecause it does not contain as much ammonia as other manures, and has a reduced amount of\npathogens or antibiotics. Despite its high nitrogen, phosphorus, and potassium percentages, rabbit\nmanure does not smell strongly, and is easy to handle. It can thus be used as packing material or even\nreplace foam cushions, reducing its payload impact on space missions. Previous studies revealed that\nplants grown in lunar regolith had stunted root growth, and an upregulation of two genes associated\nwith phosphate starvation. Rabbit manure has one of the highest percentages of bioavailable\nphosphorus, which roots need for optimal growth. Thus, rabbit manure has the potential to increase\nsuccessful plant growth in lunar regolith simulant.\nExperimental Design:\nWhile a ratio of 30:70 of regolith to organic matter was found to be the optimal conditions from\nthe manure study [Caporale et al, 2023], the constraints of Plant the Moon challenge indicated that 50%\nof the material for planting must be lunar regolith in order to minimize any payload transported from\nEarth. Exolith LHS1, a high-fidelity moon dirt simulant was used to mimic lunar regolith. Six pots with\n450mL capacity per cup were filled with varying concentrations of lunar regolith, potting soil, and\nrabbit manure. The first pot, a control, was composed of 50% simulant and 50% potting soil. The\nsecond pot was also a control, and consisted of 50% potting soil and 50% rabbit manure. The third pot\nhad 50% simulant, 40% potting soil, and 10% rabbit manure. The fourth pot had 50% simulant, 30%\npotting soil, and 20% rabbit manure. The fifth pot had 50% simulant, 10% potting soil, and 40% rabbit\nmanure. The sixth pot had 50% simulant and 50% rabbit manure. A second set of the same",
+      "char_count": 3688,
+      "image_count": 19,
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "text": "concentrations was set up, giving 12 pots total. 5 seeds per pot were planted, in order to harvest at\ndifferent periods during the growth cycle to evaluate plant health and development. Purple bush beans\nwere chosen due to their ability to sprout, provide nourishment (all parts of the plant are edible and\nbeans provide protein as well as fiber and vitamins), and are hardy and do not need additional supports.\nTable 1 below summarizes the growing conditions. See Figure 1 in Photos at the end of the report for a\npicture of the set-up.\nTable 1: Growing Conditions\nThe samples were initially watered once a week by gently soaking the entire sample in water\nand removing excess water. As the plants grew larger and required more water, more frequent watering\nwas done for weeks 6, 7, and 8. On week 3, the plants were hardened outside in the sun for 2 hours in\nthe morning during the day. After this was done, the plants were placed in direct sunlight during the day\nfor weeks 4-8. Plants remained indoors at night.\nHypothesis\nWe think bush bean seeds grown in lunar regolith enriched with rabbit manure will grow more,\nand have longer, more robust root systems. This is because rabbit manure acts as a fertilizer for both\nnitrogen and phosphorus. Thus, rabbit manure will reverse the nitrogen/phosphorus starved conditions\nof regolith soil by providing bioavailable nutrients for the plants.\nIndependent Variables/Dependent Variables:\nThe independent variable, or what is varied during this experiment is the amount of rabbit\nmanure. The dependent variable is the length of root and stem of the bean plant. The controlled\nconstant will be the lunar regolith simulant. \nMeasurement and Procedures:\nAs the growing period was 8 weeks, root measurements were taken for weeks 1, 3, 5, 7 and 8. \nHowever, visual inspection could be done every week. When measurement was taken, the biomass \n(root+stem+leaves) was harvested by physically removing one plant from the container, placed next to \na ruler and measured. Not all samples germinated and every effort was made to find the plant. \nRegolith, Soil, and Rabbit Manure (RM)\nSample\n1\n2\n3\n4\n5\n6\nRegolith (cups)\n1\n0\n1\n1\n1\n1\nPotting Soil (cups)\n1\n1\n0.8\n0.6\n0.2\n0\nRabbit Manure (cups)\n0\n1\n0.2\n0.4\n0.8\n1\nSample\nLabel\n1\nControl 1: No RM\n2\nControl 2: No Regolith\n3\n10% by vol RM\n4\n20% by vol RM\n5\n40% by vol RM\n6\n50% by vol RM",
+      "char_count": 2365,
+      "image_count": 19,
+      "tables": [
+        [
+          [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          [
+            "1",
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+          ],
+          [
+            "1",
+            "1",
+            "0.8",
+            "0.6",
+            "0.2",
+            "0"
+          ],
+          [
+            "0",
+            "1",
+            "0.2",
+            "0.4",
+            "0.8",
+            "1"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "Unfortunately a few samples which did not germinate decomposed and not all biomass samples \nwere able to be located. Weeks 1, 5, and 8 were photographed in order to record visual differences of \nthe plants in different soil proportion environments.\nThe pH of the soil was measured for weeks 1 and 8. \nControls:\nIn order to keep the amount of lunar regolith consistent, there were two controls. The first \ncontrol of 0% rabbit manure (RM) had 1 cup lunar regolith and 1 cup potting soil with no amendments.\nThe second control had 1 cup rabbit manure and 1 cup potting soil. This second control is how the plant\nwould do on Earth, so in case there were any problems with the potting soil, rabbit manure, or growing \ncontainers used.\nResults:\nDuring the initial planting, the pH of the soil was measured to be 8.5 for all samples which \ncontained lunar regolith. The water used to wet the soil had a pH of 7.5. Control 2 of potting soil and \nRM had a pH of 7.1. \nAfter 1 week of watering, germination (seed sprouting) was measured and presented in Table 2 \nbelow. Some seeds had floated to the top despite being planted at a depth of 1 inch. The lunar regolith \nwas not only hydrophobic, but also seemed to either push the seeds to the top or to sink them too far to \nbe found. Control sample 2, 20% RM, and 50% RM samples all showed signs of germination \n(beginning of the lengthening of the hypocotyl, branching out of the first root). In the sample \ncontaining 40%, fungus had begun to grow.\nTable 2: Week 1 Observations\nIn week 2, the first leaves could be seen in Control Sample 2, 40% RM, and 50% RM. Despite \nthe fungus, the 40% RM had some growth. The fungal samples were isolated to prevent further \nspread. It was discovered that the 50% RM sample had twice the amount of expected bean plants, and \nwas possibly double-planted during the initial planting stage. \nIn week 3, some seeds in the 10% sample were seen to be decomposing, although no fungus \ngrew in the sample. This observation was interesting because it was possible the lunar regolith was \npreventing fungus growth. Some activity was observed in the 20% and 40% sample, but already much \nslower than the control. Some root activity was observed in the 20% and 40% sample, but already \nmuch slower than the control. Some fungus was observed in the 50% RM sample, but the plants were \ngrowing vigorously and did not seem to be affected by the fungus.\nIn week 4, the fungus was present in the 40% and 50% RM samples. The plants in the 40% RM \nseemed much weaker and were on the verge of dying, but the 50% did not seem affected.\nWeek 1 Observations\nSample\nGerminated? (Y/N)\nLength of Root (cm)\nComments\n1\nN\n0\n2\nY\n0.5\n3\nN\n0\n4\nY\n0.5\n5\nN\n0\nFungus\n6\nY\n0.5",
+      "char_count": 2718,
+      "image_count": 19,
+      "tables": [
+        [
+          [
+            "Sample Germinated? (Y/N) Length of Root (cm) Comments"
+          ],
+          [
+            "1 N 0 2 Y 0.5 3 N 0 4 Y 0.5 5 N 0 Fungus 6 Y 0.5"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "In week 5, an unfortunate mechanical injury happened to the 50% RM sample and is noted here,\nas it did not grow as vigorously as expected for week 7. Control 2 had a normal expected growth \npattern, with a more dense root ball, longer stem and larger leaves. There was no activity detected in \nthe 10% and in fact all the seeds were missing. The 20% and 40% RM had noticeable but retarded \ngrowth.\nIn week 6, the plants in the 40% RM sample began to wilt. It was not able to be determined \nwhether this was due to fungus or lunar regolith stress. The 20% RM sample could be visually seen to \nattempt to grow out of the soil and spread its first leaves. It was noted that perhaps the challenge of \ngrowing through the soil and not germination resulted in a lack of successful plants for the 10 and 20 \npercent sample.\nIn week 7, possibly due to the rains and outdoor conditions, the fungus retreated and was almost\nundetectable. However, the sample of 40% RM continued to do poorly. The plants in 20% RM were \nalive and attempting to bend out of the regolith mixture, but seemed to have difficulties. The \nspecimens were curved in nature, and too weak to straighten out.\nIn week 8, the last observation period, the plants were lined up and photos were taken of the \nroot length and plant length of all the samples. The control with just lunar regolith and potting soil, \n10%, and 20% failed to successfully grow. The 20% RM was able to stay alive, but the plant was \nwarped in a circle and the leaves did not spread out. The control with potting soil and RM, 40% and \n50% RM were able to grow, although the 40% was affected by fungus and died by week 8. The 50% \nRM was able to grow but the leaves and roots were not as healthy or long as the control. However, \nthey seemed to be robust enough to produce bean fruit, should the experiment have continued. The pH \nof the final plants were 8.0 for samples 1, 3 and 4, 7.4 for samples 4-5, and 7.1 for the control sample.\nThe observations are presented in Tables 3 and 4 below.\nTable 3: Week 2-8 Observations on Root Length\nSNF= Seed not found/recorded\nTable 4: Week 2-8 Observations on length of plant (root not included)\nConclusions: \nWe found germination and plant growth was possible using lunar regolith simulant as long as \n20-50% of rabbit manure was used. The more RM, the better the growth and health of the plant, even \nat full rabbit manure (no potting soil). Just potting soil+lunar regolith simulant without RM was \nunsuccessful in sustaining plant growth. Our hypothesis that RM provided nutrients such as nitrogen \nWeek 2-8 Length of Root (cm)\nWeek 1\nWeek 2\nWeek 3\nWeek 4\nWeek 5\nWeek 6\nWeek 7\nWeek 8\nComments\nSample\n1\n0\n0\nSNF\nSNF\nSNF\n2\n0.5\n2.5\n5\n4.5\n5\n3\n0\nSNF\nSNF\nSNF\nSNF\n4\n0.5\n0.5\n1\nSNF\n2.5\n5\nSNF\n1\n1.5\n2\n2.5\nFungus issue week 3-8\n6\n0.5\n1\n3\n3.5\n4\nFungus issue week 6-8\nWeek 2-8 Length of Plant (cm)\nWeek 1\nWeek 2\nWeek 3\nWeek 4\nWeek 5\nWeek 6\nWeek 7\nWeek 8\nComments\nSample\n1\n0\n0\n0\n0\n0\n2\n0\n2.5\n17.8\n21\n25\n3\n0\n0\n0\n0\n0\n4\n0\n0\n3.75\n4.5\n5\nGrew in circle\n5\n0\n1\n4\n4.5\n12.5\nFungus issue week 3-8\n6\n0\n1\n12.7\n12.7\n12.7\nFungus issue week 6-8",
+      "char_count": 3089,
+      "image_count": 19,
+      "tables": [
+        [
+          [
+            "",
+            "Week 1 Week 2 Week 3 Week 4 Week 5 Week 6 Week 7 Week 8 Comments",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Sample 1 2 3 4 5 6",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "0 0.5 0 0.5 SNF 0.5",
+            "",
+            "0 2.5 SNF 0.5 1 1",
+            "",
+            "SNF 5 SNF 1 1.5 3",
+            "",
+            "SNF SNF 4.5 5 SNF SNF SNF 2.5 2 2.5 Fungus issue week 3-8 3.5 4 Fungus issue week 6-8"
+          ]
+        ],
+        [
+          [
+            "",
+            "Week 1 Week 2 Week 3 Week 4 Week 5 Week 6 Week 7 Week 8 Comments",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Sample 1 2 3 4 5 6",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "0 0 0 0 0 0",
+            "",
+            "0 2.5 0 0 1 1",
+            "",
+            "0 17.8 0 3.75 4 12.7",
+            "",
+            "0 0 21 25 0 0 4.5 5 Grew in circle 4.5 12.5 Fungus issue week 3-8 12.7 12.7 Fungus issue week 6-8"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 5,
+      "text": "and phosphorous, not just organic matter to retain moisture is correct. Sterilization of the RM would be\na critical requirement, as the fungus present in RM appears to be deadly to new plants. However, if the \nplant survived after 5 weeks or was not exposed until then, there seemed to be a resistance to the \nfungus which would then be destroyed or minimized by solar radiation. It is of interest to note that no \nfungus grew in the samples that had a larger percentage of lunar regolith, suggesting its use as a \nfungicide. The bean plants used were able to survive in varying degrees, and could additionally be \nused as green fertilizer even if they did not provide food. This is important in the first stage of planting\non the moon, as the availability of nutrients and soil would be limited. \nPhotos:\nInitial Planting:",
+      "char_count": 823,
+      "image_count": 19,
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "text": "Week 1:\nWeek 5:\nControl 1: Seed not found\nControl 2: \n40%\n50%:\n10%: Seed not found\n20%:",
+      "char_count": 87,
+      "image_count": 19,
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "text": "Week 8:\nControl 1: Seed not found\nControl 2: \n40%:\n10% Seed not found\n20%:\n50%\nExtra:\nDue to the interest from this project, a field trip to the NASA Jet Propulsion Laboratory was organized \nand 2 of the students toured the campus, learning about different projects and rovers.\nFunding Statement\nThe lunar regolith simulant was supported by the CA Space Grant Consortium. The rabbit manure was \nobtained from Captain Carrots (Scientific latin name: Dux Carota) over the course of 1 month. All \nother materials were purchased by the authors of this paper.",
+      "char_count": 554,
+      "image_count": 19,
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "text": "Team Dux Carota, AESA (#13156), we\u2019re\nplanting the moon!\nReferences:\nDuri, Luigi & Caporale, Antonio & Rouphael, Youssef & Vingiani, Simona & Palladino, Mario & De \nPascale, Stefania & Adamo, Paola. (2022). The Potential for Lunar and Martian Regolith Simulants to \nSustain Plant Growth: A Multidisciplinary Overview. Frontiers in Astronomy and Space Sciences. 8. 1-\n16. 10.3389/fspas.2021.747821. \nCaporale, Antonio & Palladino, Mario & De Pascale, Stefania & Duri, Luigi & Rouphael, Youssef & \nAdamo, Paola. (2023). How to make the Lunar and Martian soils suitable for food production - \nAssessing the changes after manure addition and implications for plant growth. Journal of \nEnvironmental Management. 325. 116455. 10.1016/j.jenvman.2022.116455. \nhttps://exolithsimulants.com/",
+      "char_count": 781,
+      "image_count": 19,
+      "tables": []
+    }
+  ]
+}

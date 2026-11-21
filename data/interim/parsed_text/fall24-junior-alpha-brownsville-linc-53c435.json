@@ -1,0 +1,68 @@
+{
+  "report_id": "fall24-junior-alpha-brownsville-linc-53c435",
+  "sha256": "a12d4079cd3c84533b3be6428c8977b4c6122b4a591472abeb5c830f189d3565",
+  "page_count": 8,
+  "total_chars": 3268,
+  "avg_chars_per_page": 408.5,
+  "total_images": 5,
+  "table_count": 0,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Alpha Brownsville- 2nd Grade\nPTMC Jr. Final Project Report: Growing Radishes in Lunar Simulant\nTeam Name: Lunar Radish Growers\nBackground/Reasoning\nRadishes were chosen due to their fast-growing nature, typically ready for harvest within 20\u201330\ndays, aligning with the 8-week grow period. Our experiment aimed to investigate the impact of\nvarying soil compositions and amendments on radish growth in lunar regolith simulant,\nsimulating lunar farming conditions.\nHypothesis\nWe hypothesized that radishes grown in a mixture of 50% lunar simulant and 50% earth soil\nwith additional compost and bone meal would exhibit the best growth in terms of sprout count,\nplant height, and leaf development compared to other compositions.\nIndependent Variable\n\u25cf\nSoil composition: Varying percents of lunar simulant, earth soil, compost, and bone meal.\nDependent Variable\n\u25cf\nPlant growth, measured by:\n\u25cb\nSprout count\n\u25cb\nPlant height\n\u25cb\nLeaf count and condition\n\u25cb\nRadish formation (presence and size)\nControls/Constants\n\u25cf\nLight: 12-hour day/night cycle using grow lights.\n\u25cf\nWater: 1 ounce every 3 days (increased after Week 7 to address wilting).\n\u25cf\nTemperature: room temperature.\n\u25cf\nSeeds: Same radish variety.",
+      "char_count": 1188,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "text": "Procedures\n1.\nSetup:\n\u25cb\nPrepared six pots with the following compositions:\n\u25a0\nPot 1 (Control): 100% earth soil\n\u25a0\nPot 2: 75% lunar simulant, 15% earth soil, 10% earthworm casings, 1 cup\ncompost, 1 tablespoon bone meal\n\u25a0\nPot 3: 75% lunar simulant, 15% earth soil, 10% earthworm casings (no\ncompost or bone meal)\n\u25a0\nPot 4: 50% lunar simulant, 40% earth soil, 10% earthworm casings, 1 cup\ncompost, 1 tablespoon bone meal\n\u25a0\nPot 5: 50% lunar simulant, 40% earth soil, 10% earthworm casings (no\ncompost or bone meal)\n\u25a0\nPot 6: 100% lunar simulant\n2.\nPlanting: Planted 3 radish seeds in each pot. Thinned to the healthiest sprout\npost-germination.\n3.\nMeasurements: Monitored weekly for:\n\u25cb\nSprout count\n\u25cb\nPlant height\n\u25cb\nLeaf count\n\u25cb\nRadish formation\n4.\nAdjustments: Increased watering post-Thanksgiving break due to wilting.\nData Collection",
+      "char_count": 827,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "text": "",
+      "char_count": 0,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "text": "",
+      "char_count": 0,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "text": "",
+      "char_count": 0,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "text": "",
+      "char_count": 0,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "text": "",
+      "char_count": 0,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "text": "Analysis\n\u25cf\nBest Growth: Pot 5 demonstrated the tallest height (6 cm), but Pot 4 had the highest\nsprout count by Week 2. However, no radishes formed in any pot.\n\u25cf\nAmendments: Pots with compost and bone meal (Pots 2 and 4) showed healthier\nleaves and better sprouting compared to those without.\n\u25cf\nChallenges: Watering inconsistencies during Thanksgiving break led to wilting,\nimpacting final growth outcomes.\nConclusions\nOur hypothesis was partially supported. While Pot 5 achieved the best height, the lack of radish\nformation suggests that even the best soil amendments were insufficient for radish development\nin lunar simulant. Nutrient adding appears critical but needs further refinement.\nFuture Considerations\n\u25cf\nTest additional amendments to improve nutrient availability.\n\u25cf\nExperiment with more consistent watering schedules to prevent stress.\n\u25cf\nExplore different crops better suited to low-nutrient conditions.\nReflection\nThis experiment highlighted the complexities of growing crops in simulated lunar soil. The most\nsurprising discovery was the difference in sprouting between pots with and without\namendments. Our study contributes to understanding the challenges of lunar agriculture and the\nimportance of soil amendments for future missions.",
+      "char_count": 1253,
+      "image_count": 0,
+      "tables": []
+    }
+  ]
+}

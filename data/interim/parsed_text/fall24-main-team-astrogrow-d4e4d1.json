@@ -1,0 +1,480 @@
+{
+  "report_id": "fall24-main-team-astrogrow-d4e4d1",
+  "sha256": "b416553e741901aacb7eacfdca9bddb8c51fc561ad539a380d8aa1269020e800",
+  "page_count": 12,
+  "total_chars": 10707,
+  "avg_chars_per_page": 892.2,
+  "total_images": 11,
+  "table_count": 2,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Plant the Moon Challenge Final Report \nTeam Name: Astrogrow Team ID #: 19032 \nCoach Name: Jiang Li Challenge Division: High School \n \nIntroduction \nNASA (the National Aeronautics and Space Administration) is developing the Artemis \nprogram with the goal of establishing the first long-term lunar base settlement on the \nMoon, which will become a stepping stone for Mars development. Artemis astronauts will \ncarry plants to the moon to study plant growth on a lunar surface, using resources found on \nthe Moon to develop food sources. \nThe Plant the Moon challenge is a competition to grow edible plants on lunar regolith (the \nmoon's top layer of dust and gravel), measuring the capability of lunar regolith for growing \ncrops. The knowledge gathered can contribute to establishing a base on the moon for \nfurther space research and exploration. \nPrior experiments show that growth is challenging on lunar soil. It does not contain the \ncarbon and nitrogen that plants need and its phosphorus is mostly inaccessible [1], \nalthough scientists at the University of Florida have successfully grown the \nplant Arabidopsis in lunar soil collected on the Apollo 11, 12 and 17 missions [2]. However, \nit isn\u2019t an edible plant, and it is also proved that most crops cannot grow in 100% lunar \nregolith. To grow edible crops in lunar regolith, various experiments done in previous Plant \nthe Moon Challenge seasons show that the most common ways are to add various \nadditives to the lunar soil. \nThe Southern CASE Research Team used 50%-85% peat moss as an additive [3]. \nThe Ozarks Team used a mixture of 50% regolith and 50% mycorrhizal fungi [4]. \nThe West Bluejays - D team used 50% lunar regolith and 50% of a topsoil mixture with \nvarying urea fertilizer levels [5]. \nThe KCA Moon Planters team\u2019s research shows if regolith is mixed with 33.3% seed starter \n(organic compost) with the proper water amount, mung bean sprouts will grow well [6]. \nThe Sunburst Big Brains team used different additives (organic compost, liquid fertilizer, \npotting soil at varying percentages) which showed that 30%-40% organic compost mixed \nwith lunar regolith produces encouraging results [7].",
+      "char_count": 2174,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "text": "The Minnesota West Bluejays team successfully used 25% topsoil and 75% lunar regolith \nwith various types of solid nitrogen sources [8]. \nWhile additives seem to be necessary, we plan to utilize less additives with the goal of \ngrowing crops in largely extraterrestrial soil. We plan to use 33% compost mixed with moon \nregolith (a 1:2 ratio) for our experiment. \n \nPurpose \nThe purpose of this experiment is to determine if companion planting can improve lunar \nsoil and utilize lunar space at the same efficiency as Earth soil. \nBenefit of companion planting: \nIn farm practices, people found growing several types of crops near one another can \nenhance crop production. Utilizing companion planting is not only beneficial for your \nplants, but also helps maximize your space. \n \nExperimental Parameters \nVariables: Because there is so much variation, each group will have two pots so we can \ntake the average for better comparison \nIndependent variables: \nLight and water amount, temperature, lunar regolith mixture with potatoes and soybeans \nDependent variables: \nPlant growth: plant\u2019s growth rate and height, number of leaves, and life length \nControl Variables: \n100% compost soil with potatoes and soybeans \n \nProject Hypothesis \nWe expect that the pots with potato planted with a companion crop (soybeans) will have \nbetter or equal growth to pots with the two crops planted separately, as measured by plant",
+      "char_count": 1416,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "text": "height over the growth period. Even if they have the same growth for both, planting them \ntogether utilizes the space better than planting the two different crops separately. \n \nExperimental Design & Procedures \nBecause of weather variations in California over the duration of the experiment, the \noutdoor temperature will be cold, especially at night, which will affect the plants\u2019 abilities \nto grow. The experiment will thus be set up indoors and inside a temperature chamber with \ngrowing lights to keep them warm at nighttime. This will help to determine if potatoes grown \nwith companion crops will have an advantage in lunar regolith. \n1. Set up a growth temperature chamber to keep a constant temperature over fall and \nwinter, using grow lights for 24 hours to simulate a lunar greenhouse which can use \nsolar power to maintain light all day for growth acceleration.",
+      "char_count": 875,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "text": "2. Use 100% compost soil for the control groups. For the groups containing the lunar \nregolith, create a soil mixture with a 1:2 ratio of compost soil to lunar regolith. \n3. Soak the seeds in a bowl of water for 24 hours (without sunlight). \n4. Plant the seeds in the pots. \n5. Check and document pH, temperature, and moisture 2 times a week. \n 4-in-1 meter to measure the parameters to make sure the environment is optimal for \nplant growth \n \n \n \n \n6. Document plant height and leaf number each week. \n7. Analyze data at the end of the experiment. \n \nGroups: \nIn total, 2 pots as the controls and 2 for comparison \n1. Control groups (100% compost soil) \nPotato seeds planted with soybean seeds (2 pots) \n \n2. Test groups (33% compost and 66% lunar regolith) \nPotato seeds planted with soybean seeds (2 pots) s \n \nGrowing report and challenge",
+      "char_count": 843,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "text": "From week 1-3, the main challenges we experienced were: \n\u2022 Most of the potted seeds we brought from Amazon didn\u2019t germinate or died soon \nafter germination \n\u2022 We dug out the seeds that didn\u2019t germinate and found that most of them were rotten \n \nRotten soybean seed \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\u2022 Two of the soybean seeds germinated in week 2 but died after one week. After \ndigging them out, we found that they developed 7-centimeter roots but no leaves, \nmeaning that they died after all the nutrition was consumed by the seed.",
+      "char_count": 530,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "text": "\u2022 One soybean seed growing in the mixed lunar regolith (POT 3) germinated and grew \nwell, reaching abut 25cm by Week 5, but none of the soybeans in the Earth soil have \ngrown, implying that the root cause of the seeds failing to thrive is not the mixed \nlunar soil but the seed quality \n \n \n \n\u2022 To combat this, we bought another batch of seeds from Home Depot to start again \nin Week 3 to improve seed germination. Though the standard procedure is to bury \nthe seeds at a depth of 1-2 cm, the lunar regolith has a very high density after \nwatering which makes it difficult for the seeds to break past the surface during \ngrowth. Instead, we buried the seeds at a shallower depth of 0.5 cm and covered \nthem with mulch to help maintain moisture. Also, we noticed that the lunar regolith \ndoes not retain much water or air which are vital to seed growth. To fix this issue, we \nused a 3D-printer to print tubes with holes and inserted them in the lunar regolith \nsoil to improve retention.",
+      "char_count": 987,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "text": "Tube SolidWorks 3D Model and Cross Section \n \nFinal Printed Tube (Using the Bambu A1 Combo Model 3D-printer) \n \n \n\u2022 Following these improvements, we observed that some pots of soybeans and \npotatoes successfully began to germinate and grow.",
+      "char_count": 240,
+      "image_count": 3,
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "text": "Test Data and Analysis \n \nPotato and Bean Group (Control 100% Earth Soil) \n100% \nEarth Soil \npH \nTemperature Moisture \nLevel \nPlant \nHeight(cm) \nNumber of \nLeaves \nWeek 1 \n6.7 \n25C \n29% \nBean \n0 \n0 \nPotato \n0 \n0 \nWeek 1 \nMID \n6.6 \n24C \n30% \nBean \n0 \n0 \nPotato \n0 \n0 \nWeek 2 \n6.8 \n25C \n32% \nBean \n1.5 \n3 \nPotato \n2 \n3 \nWeek 2 \nMID \n \n25C \n33% \nBean \n3.5 \n5 \nPotato \n3 \n3 \nWeek 3 \n6.6 \n \n24C \n35% \n \nBean \n5.5 \n5 \nPotato \n5 \n4 \nWeek 3 \nMID \n6.7 \n25C \n32% \nBean \n6.5 \n6 \nPotato \n12 \n5 \nWeek 4 \n6.8 \n25C \n31% \nBean \n7 \n6 \nPotato \n13.5 \n7 \nWeek 4 \nMID \n6.7 \n24C \n30% \nBean \n7.5 \n7 \nPotato \n15 \n7 \nWeek 5 \n6.5 \n \n25C \n33% \n \nBean \n7.5 \n10 \nPotato \n16 \n10 \nWeek 5 \nMID \n6.7 \n24C \n32% \nBean \n8 \n10 \nPotato \n18 \n12",
+      "char_count": 705,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "100% Earth Soil",
+            "pH",
+            "Temperature",
+            "Moisture Level",
+            "Plant",
+            "Height(cm)",
+            "Number of Leaves"
+          ],
+          [
+            "Week 1",
+            "6.7",
+            "25C",
+            "29%",
+            "Bean",
+            "0",
+            "0"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "Potato",
+            "0",
+            "0"
+          ],
+          [
+            "Week 1 MID",
+            "6.6",
+            "24C",
+            "30%",
+            "Bean",
+            "0",
+            "0"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "Potato",
+            "0",
+            "0"
+          ],
+          [
+            "Week 2",
+            "6.8",
+            "25C",
+            "32%",
+            "Bean",
+            "1.5",
+            "3"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "Potato",
+            "2",
+            "3"
+          ],
+          [
+            "Week 2 MID",
+            "",
+            "25C",
+            "33%",
+            "Bean",
+            "3.5",
+            "5"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "Potato",
+            "3",
+            "3"
+          ],
+          [
+            "Week 3",
+            "6.6",
+            "24C",
+            "35%",
+            "Bean",
+            "5.5",
+            "5"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "Potato",
+            "5",
+            "4"
+          ],
+          [
+            "Week 3 MID",
+            "6.7",
+            "25C",
+            "32%",
+            "Bean",
+            "6.5",
+            "6"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "Potato",
+            "12",
+            "5"
+          ],
+          [
+            "Week 4",
+            "6.8",
+            "25C",
+            "31%",
+            "Bean",
+            "7",
+            "6"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "Potato",
+            "13.5",
+            "7"
+          ],
+          [
+            "Week 4 MID",
+            "6.7",
+            "24C",
+            "30%",
+            "Bean",
+            "7.5",
+            "7"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "Potato",
+            "15",
+            "7"
+          ],
+          [
+            "Week 5",
+            "6.5",
+            "25C",
+            "33%",
+            "Bean",
+            "7.5",
+            "10"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "Potato",
+            "16",
+            "10"
+          ],
+          [
+            "Week 5 MID",
+            "6.7",
+            "24C",
+            "32%",
+            "Bean",
+            "8",
+            "10"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "Potato",
+            "18",
+            "12"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 9,
+      "text": "Potato and Bean Group (Control 100% Earth Soil) \n (35% Compost and 65% regolith) \n35% Compost \nand 65% regolith \npH \nTemperature Moisture \nLevel \nPlant \nHeight(cm) Number \nof \nLeaves \nWeek 1 \n6.4 \n25C \n28% \nBean \n0 \n0 \nPotato 0 \n0 \nWeek 1 MID \n6.5 \n24C \n30% \nBean \n0 \n0 \nPotato 0 \n0 \nWeek 2 \n6.3 \n25C \n30% \nBean \n0 \n0 \nPotato 0 \n0 \nWeek 2 MID \n6.4 \n25C \n34% \nBean \n1.5 \n2 \nPotato 1 \n3 \nWeek 3 \n6.3 \n \n24C \n36% \n \nBean \n2.5 \n3 \nPotato 2 \n3 \nWeek 3 MID \n6.5 \n25C \n34% \nBean \n3.5 \n5 \nPotato 2 \n5 \nWeek 4 \n6.2 \n25C \n30% \nBean \n3.6 \n5 \nPotato 2.5 \n5 \nWeek 4 MID \n6.4 \n24C \n32% \nBean \n4.5 \n7 \nPotato 3 \n5 \nWeek 5 \n6.3 \n \n25C \n31% \n \nBean \n4.6 \n7 \nPotato 3 \n7 \nWeek 5 MID \n6.4 \n24C \n35% \nBean \n5 \n9 \nPotato 3.5 \n7",
+      "char_count": 706,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "35% Compost and 65% regolith",
+            "pH",
+            "Temperature",
+            "Moisture Level",
+            "Plant",
+            "Height(cm)",
+            "Number of Leaves"
+          ],
+          [
+            "Week 1",
+            "6.4",
+            "25C",
+            "28%",
+            "Bean",
+            "0",
+            "0"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "Potato",
+            "0",
+            "0"
+          ],
+          [
+            "Week 1 MID",
+            "6.5",
+            "24C",
+            "30%",
+            "Bean",
+            "0",
+            "0"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "Potato",
+            "0",
+            "0"
+          ],
+          [
+            "Week 2",
+            "6.3",
+            "25C",
+            "30%",
+            "Bean",
+            "0",
+            "0"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "Potato",
+            "0",
+            "0"
+          ],
+          [
+            "Week 2 MID",
+            "6.4",
+            "25C",
+            "34%",
+            "Bean",
+            "1.5",
+            "2"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "Potato",
+            "1",
+            "3"
+          ],
+          [
+            "Week 3",
+            "6.3",
+            "24C",
+            "36%",
+            "Bean",
+            "2.5",
+            "3"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "Potato",
+            "2",
+            "3"
+          ],
+          [
+            "Week 3 MID",
+            "6.5",
+            "25C",
+            "34%",
+            "Bean",
+            "3.5",
+            "5"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "Potato",
+            "2",
+            "5"
+          ],
+          [
+            "Week 4",
+            "6.2",
+            "25C",
+            "30%",
+            "Bean",
+            "3.6",
+            "5"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "Potato",
+            "2.5",
+            "5"
+          ],
+          [
+            "Week 4 MID",
+            "6.4",
+            "24C",
+            "32%",
+            "Bean",
+            "4.5",
+            "7"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "Potato",
+            "3",
+            "5"
+          ],
+          [
+            "Week 5",
+            "6.3",
+            "25C",
+            "31%",
+            "Bean",
+            "4.6",
+            "7"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "Potato",
+            "3",
+            "7"
+          ],
+          [
+            "Week 5 MID",
+            "6.4",
+            "24C",
+            "35%",
+            "Bean",
+            "5",
+            "9"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "Potato",
+            "3.5",
+            "7"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 10,
+      "text": "",
+      "char_count": 0,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "text": "Conclusion \n \n1) Companion planting is a valid method to grow two different plants in a limited \nspace, allowing more efficient use of space. However, stronger growing lights are \nneeded to provide adequate light for both plants and better water management. \n2) Using tubes with holes can help distribution of water and air through the lunar \nregolith to reduce seed death and improve plant growth. \n3) When comparing plant height and leaf numbers, 100% earth soil has much better \ngrowth than the lunar regolith mixture. \n4) We noticed that seeds planted in lunar regolith have much higher rotten seed rates \n(2 out 4) vs. 100% earth soil (1 out 4). \n5) To plant in lunar regolith, the seeds should be buried at a shallower depth than in \nearth soil to improve seed germination. \n \nFuture Discussions \n \n1) More research and experimentation should be conducted to find the best addition \nto lunar regolith to improve water and air retention. The next step we suggest is to try \ntoilet paper or even small foam balls as additives \n2) Our experiment was limited by a small growth population and thus cannot be \nconfidently generalized to all experiments. Further research with more control and \nexperiment groups are needed to develop a better understanding. \n3) Future experimentation with various types of plants for companion planting will \nallow for a more in-depth comprehension of the ideal combination for plant growth \nin lunar regolith.",
+      "char_count": 1444,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 12,
+      "text": "References \n[1] The Lunar Regolith \nhttps://www.nasa.gov/wp-content/uploads/2019/04/05_1_snoble_thelunarregolith.pdf \n[2]. Plants grown in Apollo lunar regolith present stress-associated transcriptomes \nthat inform prospects for lunar exploration \nhttps://www.nature.com/articles/s42003-022-03334-8 \n[3] http://plantthemoon.com/wp-content/uploads/2024/04/Southern-CASE-Research-\nTeam.pdf \n[4] http://plantthemoon.com/wp-content/uploads/2024/04/Ozarks.pdf \n[5] http://plantthemoon.com/wp-content/uploads/2024/04/Minnesota-West-Bluejays-D-\nTeam.pdf \n[6] http://plantthemoon.com/wp-content/uploads/2024/04/KCA-Moon-Planters.pdf \n[7 http://plantthemoon.com/wp-content/uploads/2024/04/Sunburst-Big-Brains.pdf \n[8] http://plantthemoon.com/wp-content/uploads/2024/04/Minnesota-West-Bluejays.pdf",
+      "char_count": 787,
+      "image_count": 0,
+      "tables": []
+    }
+  ]
+}

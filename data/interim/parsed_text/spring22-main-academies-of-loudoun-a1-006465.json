@@ -1,0 +1,1449 @@
+{
+  "report_id": "spring22-main-academies-of-loudoun-a1-006465",
+  "sha256": "da20afc7653ea9589f8810addee898dd16e0fdbb041ea69de3429dbdb1001566",
+  "page_count": 18,
+  "total_chars": 20159,
+  "avg_chars_per_page": 1119.9,
+  "total_images": 13,
+  "table_count": 17,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Investigating the Growth of Green Bean Plants in Lunar Regolith Supplemented with Urea \nAcademy of Science \n \n \nS. Rao, M. Dasari, E. Garcia, M. Li, T. Manu, M. Payne, E. Ymeri, L. Acker, A. Chatterjee, M. Wang, N. \nMolina, M. Tyagi, A. Pamulapati, E. Bogusz, M. Vemulapalli, N. Freire, S. Byreddy, V. Rathakrishnan, P. \nMondreti, R. Govardhanam, S. Laks, T. Chitturi, A. Muju, D. Joshi, B. Alluri, S. Bhaskaruni, S. Nadimpalli, \nS. Sadhu, W. Stehn, S. Khan, M. Sosale, D. Admala, R. Kalluri, R. Singh, V. Togaru, R. Kulkarni, M. Lu \nTeam Name: Lean Green Demoons \nTeam Number: 9287 \nChallenge Category: High School \nChallenge Identification: Plant the Moon",
+      "char_count": 657,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "text": "1 | Background: \n \nOne of the primary challenges impeding the ability for astronauts to return to the Moon \nand continue exploration of the lunar surface is the issue of resources, particularly food. \nEspecially for long-duration missions, it is unattainable for astronauts to bring all the necessary \nfood or water, which greatly hinders the potential crew size and the length of the stay. Therefore, \neffective use of lunar resources is essential for efficient missions to the Moon. This study aims to \ninvestigate the growth of green beans in lunar regolith supplemented with urea and potting soil. \n \nGreen beans are nutrient dense and can easily be grown in less desirable conditions. They \nare a rich source of folic acid, which helps oxygenate the blood, and contain high amounts of \nprotein, which is beneficial for energy sustenance, and fiber, which aids digestion and lowers \ncholesterol. Green beans also contain vitamins A, C, and K, which are powerful antioxidants. \nThese factors make green beans advantageous to sustain human inhabitation on lunar soil. \nThe key ingredients in potting soil\u2014such as 60-70% processed forest products, \nsphagnum peat moss, perlite, fertilizer, and a wetting agent\u2014help the plant grow healthy root \nsystems, which is vital to the longevity and durability of plants (Wamelink, 2019). \nThe inclusion of urea in this potting soil is to test whether green beans can be grown in \nhuman urine. Urea is a nitrogen based fertilizer that can help plants grow in nutrient-lacking \nsoils. A study conducted by Wageningen University and Research verified the idea that green \nbeans can grow efficiently in lunar regolith, after the addition of human urine (Wamelink, 2020). \nAdditionally, a study done in Cairo by the National Research Center supports this theory as they \nwere able to grow sweet peppers in clay loam fertilized with urea and increased the plants\u2019 \nlength, number of leaves and shoots, and weight (El-Al, 2009). Furthermore, urea is easily \naccessible to astronauts, making it an ideal additive to lunar regolith (Stephens, 2018).",
+      "char_count": 2081,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "text": "2 | Experimental Design: \n \nThis study was conducted in the Academies of Loudoun greenhouse. First, six pots with \nvarying concentrations of moon soil, potting soil, and urea were placed aside. The first pot, a \ncontrol, was composed of 50% moon soil and 50% potting soil (BM1), while the second pot, also \na control, was composed of 75% moon soil and 25% potting soil. The third pot had 50% moon \nsoil, 49.5% potting soil, and 0.5% urea. The fourth pot had 0.5% urea (Easy Peasy Urea \nFertilizer, Easy Peasy Plants), but 75% moon soil and 24.5% potting soil. Group 5 was \ncomposed of 50% moon soil, 48% potting soil and 2% urea. Finally, Group 6 also had 2% urea, \nbut 75% moon soil and 23% potting soil. \n \nIn order to plant these pots, 0.5 kg of lunar regolith was added to each of the pots. The \namounts of each component were calculated by multiplying the aforementioned proportions by a \ntotal of 800 mL. For example, since the total volume was 800 mL, to calculate how much moon \nsoil to add for the first pot, 0.50 was multiplied by 800 mL, so the total moon soil added was 400 \nmL. The moon soil was then measured using a 1000 mL beaker to ensure accurate volume. \nThen, three green beans were placed in each pot. After potting, the soil was first drenched with \nfiltered greenhouse water, and then subsequently watered with half cup of spring water every 2-4 \ndays. Finally, urea was added on top to the pots 3, 4, 5, and 6 based on the concentrations \ndetermined before. Data collection occurred weekly to measure plant mass, the length and height \nof the leaves, and the pH. \n \nHowever, after a few weeks of data collection, it was observed that the urea stunted the \ngrowth of the seeds in the pots 3, 4, 5, and 6, which led to the decision to plant three new pots, \none control pot of 50% lunar regolith and 50% potting soil, and two experimental pots each with \n\u00bd teaspoon of urea. In the new pots, urea was added after the first true leaves formed onto the",
+      "char_count": 1972,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "text": "top of the soil to reduce the risk of fertilizer scalding. To ensure the seeds grew properly, the urea \nwas left around the drip line of the plants, compared to what was done the first time, which was \nmixing the urea with the soil inside the pot. The proportion of soil in all three new pots was kept \nconstant at 50% lunar regolith and 50% potting soil because those green beans grew the best \nfrom the original pots. \n3 | Hypothesis: \n \nThe original hypothesis was that if green beans are grown in lunar regolith enriched with \n48% potting soil and 2% urea, the plant will grow more efficiently, in comparison to the growth \nof the green beans grown in the control soils or with less of the additives. This is because in \naddition to the presence of moisture retention and numerous nutrients in potting soil, the addition \nof urea acts as a fertilizer by providing nutrients to further enrich the regolith. \nAfter replanting, it was hypothesized that the pots with \u00bd a teaspoon of urea and 50% \nlunar regolith and 50% potting soil would grow the most efficiently compared to the control pot, \nbecause the new method of mixing the urea in would be more effective. \n4 | Independent Variable or Parameters: \nThe independent variables are soil amendments, namely urea fertilizer and potting soil, \nboth chosen due to their nutritional benefits and effectiveness in previous studies. \n5 | Dependent Variable: \n \nThe dependent variable in this study is the growth of the green beans. The mass of the \nbeans and the height and length of the leaves were measured to analyze overall bean growth. \n6 | Measurements: \n \nThe plant mass (measured in grams with an electronic scale), length and height of the \nlongest leaf (measured in centimeters using a ruler), and pH (measured by inserting a pH meter",
+      "char_count": 1793,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "text": "into the soil) were determined at the end of each week before watering to minimize error from \nwater weight. At the end of the ten week experimental period, the dry mass, length and height of \nthe longest leaf, and pH of the green bean crops were measured to make final conclusions. \n7 | Controls: \n \nThe control groups for this experiment are the pots with only moon (or lunar) soil and \npotting soil. They contain no urea, so can be used as comparison in order to assess our results. \n8 | Results: \n8.1 | Writer Observations: \n \nDuring the latter half of the experimental period, several members of the writing group \nvisited the greenhouse to oversee the data collection process and recorded notable observations. \nOverall, factors that could contribute to error in the data and results were thoroughly controlled \nand thought of prior to the experiment. This included the care taken by the waterers to uniformly \ndistribute the water over the pots, as to not disturb the soil; the measurement process of leaf \nlength and water application; and the use of a pH probe to measure said variable. \n8.2 | Data: \n \nThe collected data was compiled into the following tables: \nTable 1: Change in Mass of Pots (g) over time \nTime: \nChange in Mass (g) \nPot 1 \nPot 2 \nPot 3 (control) \nWeek 6 \n50.37 \n47.35 \n19.95 \nWeek 7 \n84.85 \n87.31 \n88.65 \nWeek 8 \n39.34 \n42.7 \n1.63 \nTotal \n174.56 \n177.36 \n110.23",
+      "char_count": 1391,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "",
+            "Change in Mass (g)",
+            "",
+            ""
+          ],
+          [
+            "Time:",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "Pot 1",
+            "Pot 2",
+            "Pot 3 (control)"
+          ],
+          [
+            "Week 6",
+            "50.37",
+            "47.35",
+            "19.95"
+          ],
+          [
+            "Week 7",
+            "84.85",
+            "87.31",
+            "88.65"
+          ],
+          [
+            "Week 8",
+            "39.34",
+            "42.7",
+            "1.63"
+          ],
+          [
+            "Total",
+            "174.56",
+            "177.36",
+            "110.23"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 6,
+      "text": "Table 2: Plant Height (cm) over time \n# of days \nHeight (cm) \nPot 1 \nPot 2 \nPot 3 (control) \n8 \n0 \n0 \n0 \n12 \n0.9 \n4.5 \n7.6 \n14 \n1.2 \n6 \n10 \n16 \n7 \n7.6 \n12.4 \n22 \n10.3 \n9 \n15.8 \n \nTable 3: Leaf Length (cm) over time \n# of days \nLeaf Length (cm) \nPot 1 \nPot 2 \nPot 3 (control) \n12 \n0 \n0 \n0 \n14 \n0 \n0 \n4.5 \n16 \n3.2 \n2.8 \n7.9 \n22 \n6.7 \n4.7 \n9 \n \n \nNote that in the following table, the data in red shows a break in the trend. \nTable 4: pH of the Soil over time \nTime: \npH \nPot 1 \nPot 2 \nPot 3 (control) \nWeek 6 \n6 \n6 \n6 \nWeek 7 \n7.9 \n7.9 \n7.5 \nWeek 8 \n7 \n7 \n6.9 \nWeek 9 \n7.8 \n7.9 \n8",
+      "char_count": 578,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "",
+            "Height (cm)",
+            "",
+            ""
+          ],
+          [
+            "# of days",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "Pot 1",
+            "Pot 2",
+            "Pot 3 (control)"
+          ],
+          [
+            "8",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "12",
+            "0.9",
+            "4.5",
+            "7.6"
+          ],
+          [
+            "14",
+            "1.2",
+            "6",
+            "10"
+          ],
+          [
+            "16",
+            "7",
+            "7.6",
+            "12.4"
+          ],
+          [
+            "22",
+            "10.3",
+            "9",
+            "15.8"
+          ]
+        ],
+        [
+          [
+            "",
+            "Leaf Length (cm)",
+            "",
+            ""
+          ],
+          [
+            "# of days",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "Pot 1",
+            "Pot 2",
+            "Pot 3 (control)"
+          ],
+          [
+            "12",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "14",
+            "0",
+            "0",
+            "4.5"
+          ],
+          [
+            "16",
+            "3.2",
+            "2.8",
+            "7.9"
+          ],
+          [
+            "22",
+            "6.7",
+            "4.7",
+            "9"
+          ]
+        ],
+        [
+          [
+            "",
+            "pH",
+            "",
+            ""
+          ],
+          [
+            "Time:",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "Pot 1",
+            "Pot 2",
+            "Pot 3 (control)"
+          ],
+          [
+            "Week 6",
+            "6",
+            "6",
+            "6"
+          ],
+          [
+            "Week 7",
+            "7.9",
+            "7.9",
+            "7.5"
+          ],
+          [
+            "Week 8",
+            "7",
+            "7",
+            "6.9"
+          ],
+          [
+            "Week 9",
+            "7.8",
+            "7.9",
+            "8"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 7,
+      "text": "8.3 | Results: \n \nThe data above was then graphed: \nGraph 1: Change in Mass per Pot (g) Graph 2: Plant Height (cm) \n \nGraph 3: Leaf Length (cm) Graph 4: pH of the Soil",
+      "char_count": 167,
+      "image_count": 4,
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "text": "8.4 | Statistics: \nTable 5: Kruskal-Wallis Test for Pot Weight \nKruskal-Wallis Test (Nonparametric ANOVA) \n \nThe P value is 0.4360, considered not significant. \nVariation among column medians is not significantly greater than expected by chance. \nThe P value is exactly correct (no approximations). \n \n \nCalculation detail & Summary of Data: \n \nGroup \nNumber of \nPoints \nSum of Ranks Mean of Ranks \nMedian \nMinimum \nMaximum \nNew Pot 1 \n4 \n34.000 \n8.500 \n894.43 \n801.63 \n976.19 \nNew Pot 2 \n4 \n21.000 \n5.250 \n813.51 \n722.50 \n722.50 \nNew Pot 3 (C) \n4 \n23.000 \n5.750 \n814.22 \n749.94 \n860.17 \nKruskal-Wallis Statistic KW = 1.885 \nPost tests were not calculated because the P value was greater than 0.05. \n \n \nTable 6: Kruskal-Wallis Test for Plant Height \n \nKruskal-Wallis Test (Nonparametric ANOVA) \n \nThe P value is 0.6162, considered not significant. \nVariation among column medians is not significantly greater than expected by chance. \nThe P value is approximate (from chi-square distribution) because at least one column has two or \nmore identical values. \n \nCalculation detail & Summary of Data: \n \nGroup \nNumber of \nPoints \nSum of Ranks Mean of Ranks \nMedian \nMinimum \nMaximum \nNew Pot 1 \n7 \n69.000 \n9.857 \n0.90 \n0.00 \n10.30 \nNew Pot 2 \n7 \n72.500 \n10.357 \n4.50 \n0.00 \n9.00 \nNew Pot 3 (C) \n7 \n89.500 \n12.786 \n7.60 \n0.00 \n15.80 \n \nKruskal-Wallis Statistic KW = 0.9685 (corrected for ties) \nPost tests were not calculated because the P value was greater \nthan 0.05.",
+      "char_count": 1465,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "The P value is 0.4360, considered not significant."
+          ],
+          [
+            "Variation among column medians is not significantly greater than expected by chance."
+          ],
+          [
+            "The P value is exactly correct (no approximations)."
+          ]
+        ],
+        [
+          [
+            "",
+            "Number of",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Group",
+            "",
+            "Sum of Ranks",
+            "Mean of Ranks",
+            "Median",
+            "Minimum",
+            "Maximum"
+          ],
+          [
+            "",
+            "Points",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "New Pot 1",
+            "4",
+            "34.000",
+            "8.500",
+            "894.43",
+            "801.63",
+            "976.19"
+          ],
+          [
+            "New Pot 2",
+            "4",
+            "21.000",
+            "5.250",
+            "813.51",
+            "722.50",
+            "722.50"
+          ],
+          [
+            "New Pot 3 (C)",
+            "4",
+            "23.000",
+            "5.750",
+            "814.22",
+            "749.94",
+            "860.17"
+          ],
+          [
+            "Kruskal-Wallis Statistic KW = 1.885",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Post tests were not calculated because the P value was greater than 0.05.",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        [
+          [
+            "The P value is 0.6162, considered not significant."
+          ],
+          [
+            "Variation among column medians is not significantly greater than expected by chance."
+          ],
+          [
+            "The P value is approximate (from chi-square distribution) because at least one column has two or"
+          ],
+          [
+            "more identical values."
+          ]
+        ],
+        [
+          [
+            "",
+            "Number of",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Group",
+            "",
+            "Sum of Ranks",
+            "Mean of Ranks",
+            "Median",
+            "Minimum",
+            "Maximum"
+          ],
+          [
+            "",
+            "Points",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "New Pot 1",
+            "7",
+            "69.000",
+            "9.857",
+            "0.90",
+            "0.00",
+            "10.30"
+          ],
+          [
+            "New Pot 2",
+            "7",
+            "72.500",
+            "10.357",
+            "4.50",
+            "0.00",
+            "9.00"
+          ],
+          [
+            "New Pot 3 (C)",
+            "7",
+            "89.500",
+            "12.786",
+            "7.60",
+            "0.00",
+            "15.80"
+          ]
+        ],
+        [
+          [
+            "Kruskal-Wallis Statistic KW = 0.9685 (corrected for ties)"
+          ],
+          [
+            "Post tests were not calculated because the P value was greater"
+          ],
+          [
+            "than 0.05."
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 9,
+      "text": "Table 7: Kruskal-Wallis Test for Leaf Length \n \nKruskal-Wallis Test (Nonparametric ANOVA) \n \nThe P value is 0.6168, considered not significant. \nVariation among column medians is not significantly greater than expected by chance. \n \nThe P value is approximate (from chi-square distribution) because at least one column has two or \nmore identical values. \n \n \nCalculation detail & Summary of Data: \n \nGroup \nNumber of \nPoints \nSum of Ranks Mean of Ranks \nMedian \nMinimum \nMaximum \nNew Pot 1 \n7 \n72.500 \n10.357 \n0.00 \n0.00 \n6.70 \nNew Pot 2 \n7 \n70.500 \n10.071 \n0.00 \n0.00 \n4.70 \nNew Pot 3 (C) \n7 \n88.000 \n12.571 \n0.00 \n0.00 \n9.00 \n \nKruskal-Wallis Statistic KW = 0.9664 (corrected for ties) \nPost tests were not calculated because the P value was greater than 0.05. \n \n \n9 | Discussion & Conclusions: \n \nOnce results were compiled, a Kruskal-Wallis test was performed on the biomass, height, \nand leaf length data. A Kruskal-Wallis test is used for two or more different samples (in this case \nthe varying concentrations of urea). The Kruskal-Wallis is appropriate for when the data is not \ndistributed normally. For the biomass data, the resulting P value was 0.4360, which is greater \nthan the alpha value of 0.05. The null hypothesis stated that the median biomass of each of the \nthree pots was equal, and the P value states that there is a 43.60% chance of obtaining the results \nfound. This is greater than the alpha value of 0.05, so the difference in biomass was not \nsignificant enough to reject the null hypothesis. Similarly, when the Kruskal Wallis test was \nperformed on the height of the plants in each pot, there was a resulting P value of 0.6162. Once \nagain, the P value was greater than 0.05, indicating that the null hypothesis failed to be rejected",
+      "char_count": 1765,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "The P value is 0.6168, considered not significant."
+          ],
+          [
+            "Variation among column medians is not significantly greater than expected by chance."
+          ]
+        ],
+        [
+          [
+            "The P value is approximate (from chi-square distribution) because at least one column has two or"
+          ],
+          [
+            "more identical values."
+          ]
+        ],
+        [
+          [
+            "",
+            "Number of",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Group",
+            "",
+            "Sum of Ranks",
+            "Mean of Ranks",
+            "Median",
+            "Minimum",
+            "Maximum"
+          ],
+          [
+            "",
+            "Points",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "New Pot 1",
+            "7",
+            "72.500",
+            "10.357",
+            "0.00",
+            "0.00",
+            "6.70"
+          ],
+          [
+            "New Pot 2",
+            "7",
+            "70.500",
+            "10.071",
+            "0.00",
+            "0.00",
+            "4.70"
+          ],
+          [
+            "New Pot 3 (C)",
+            "7",
+            "88.000",
+            "12.571",
+            "0.00",
+            "0.00",
+            "9.00"
+          ]
+        ],
+        [
+          [
+            "Kruskal-Wallis Statistic KW = 0.9664 (corrected for ties)"
+          ],
+          [
+            "Post tests were not calculated because the P value was greater than 0.05."
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 10,
+      "text": "and that the median height of each of the three pots were equal. Lastly, the P value calculated for \nthe leaf length data was 0.6168. Since this value was also greater than 0.05, there was not enough \nevidence to reject the null hypothesis and the median leaf length for each pot was equal. The \nresults of all three statistical tests implied that the presence of urea mixed with lunar regolith did \nnot contribute to any significant differences in biomass, height of the plant, or leaf length \nbetween the control and experimental groups. \n \nWhile completing the Kruskal Wallis test, it was assumed that all samples were random \nand that allocation to the experimental group was random. All samples were independent of one \nanother and the measurement scale was ordinal or could be ranked. Additionally, it was assumed \nthat the data was continuous. During the experiment itself, it was assumed that all plants received \nthe same amount of light and that no other external factors impacted any changes in the \ndependent variables (biomass, plant height, or leaf length). \nDuring this course of this study, the research group determined that urea was not suitable \nfor bean plant growth. Urea has shown to be a nitrogen-rich fertilizer and can therefore stunt the \ngrowth of green beans and other legumes. This is because beans have the ability to take in \nnitrogen themselves and release it into the soils, causing an excess buildup of nitrogen \n(Reinprecht et al., 2020). An excess amount of nitrogen can lead to less beans being produced \nand too much leaf growth in comparison. This was supported by the results in Graph 1, as there \nwas a more significant change in biomass between weeks 6 and 7 in Pots 1 and 2, than in Pot 3. \nPot 3 was the control variable and did not contain an urea. However, Pots 1 and 2, as part of the \nexperimental group did contain larger amounts of urea in comparison. Pots 1 and 2 likely had \nless growth overall than did Pot 3, which contained a smaller amount of nitrogen. In future",
+      "char_count": 2018,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "text": "experiments when growing green beans in lunar regolith, a different additive should be \nconsidered due to the nature of urea and its compatibility with certain crops. \n \nAdditionally, there may have been issues with the water retention of the lunar regolith \nand soil mixture. Overwatering would limit the amount of oxygen in the soil needed for proper \ngreen bean growth. In the event that there was too much water present, the soil mixture would \nconstantly be wet and there would not be enough air pockets for adequate plant growth. Pots 1-3 \nwere all watered with spring water every 2 days and so there were no discrepancies between the \ncontrol and experimental group. However, an excess amount of water may have contributed to a \nlesser number of beans present on the plants themselves. When conducting future experiments, \nthe amount of water to be added should be adjusted according to the porosity of the soil mixture. \nThis can be done by further researching the individual particle size of each component of the \ngrowth medium and observing the amount of water it is able to absorb. \n \nAnother change in the experiment was that all groups contained 50% soil and 50% lunar \nregolith. In this case, the control group became the group that did not have any urea \nsupplemented. This potentially weakened the final results as we were not able to compare the \ngrowth of the green beans in the soil and lunar regolith mixture versus in just lunar regolith or \njust soil. However, the green beans were still able to grow significantly in the lunar regolith and \nsoil mixture, which was the desired outcome.",
+      "char_count": 1609,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 12,
+      "text": "References \nEl-Al, F. (2009). Effect of urea and some organic acids on plant growth, fruit yield and its \nquality \nof sweet pepper (Capsicum annum). Research Journal of Agriculture and Biological \nSciences. http://www.aensiweb.net/AENSIWEB/rjabs/rjabs/2009/372-379.pdf \nStephens, C. (2018, February 27). Urine urea nitrogen test: Purpose, procedure, and results \\ \n \nHealthline. https://www.healthline.com/health/urea-nitrogen-urine \nReinprecht, Y., Schram, L., Marsolais, F., Smith, T.H., Hill, B., & Pauls, K.P. (2020). Effects of \nNitrogen Application on Nitrogen Fixation in Common Bean Production. Frontiers in Plant \nScience, 11. https://www.frontiersin.org/article/10.3389/fpls.2020.01172 \nUrea fertilizer. (n.d.). Easy Peasy Plants. https://www.easypeasyplants.com/products/urea \nWamelink, dr.ir. G. W. W. (W. (2020, March 3). First Bean Harvest on martian and lunar soil \nfertilized with urine. WUR. https://www.wur.nl/en/news-wur/Show/First-bean-harvest-\non-martian-and-lunar-soil-fertilised-with-urine.htm \nWamelink, G. W. W., Frissel, J. Y., Krijnen, W. H. J., & Verwoert, M. R. (2019). Crop growth \nand viability of seeds on Mars and Moon soil simulants. Open Agriculture, 4(1), 509\u2013\n516. https://doi.org/10.1515/opag-2019-0051",
+      "char_count": 1240,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 13,
+      "text": "10 | Appendix: \n10.1 | Raw Data \n \n \n \n \nCONTROL \n(50-50) \nCONTROL \n(75-25) \n0.5% \nUREA (50-\n50) \n0.5% \nUREA (75-\n25) \n2% UREA \n(50-50) \n2% \nUREA \n(75-25) \nShrika \nWeek 1 \n \nPot 1 \nPot 2 \nPot 3 \nPot 4 \nPot 5 \nPot 6 \nBhargav\ni \nPlant \nMass (g) \n961.46 \n1142.41 \n998.01 \n1085.9 \n941 \n1195.43 \n \n \n \n \n \n \n \n \n \nWeek 2 \nWeek 2 \n \nPot 1 \nPot 2 \nPot 3 \nPot 4 \nPot 5 \nPot 6 \nThrisha \npH \n3 \n3 \n3 \n1.5 \n8.5 \n9 \nAnya \nPlant \nMass (g) \n1000 \n1250 \n1095 \n1100 \n1050 \n1225 \n \n \n \n \n \n \n \n \n \nWeek 3 \nWeek 3 \n \nPot 1 \nPot 2 \nPot 3 \nPot 4 \nPot 5 \nPot 6 \nDwij \npH \n7 \n7 \n6.5 \n7.5 \n5 \n5 \nSahvir \nPlant \nMass (g) \n1033.29 \n1287.35 \n1146.48 \n1123.52 \n1101.73 \n1246.84 \n \n \n \n \n \n \n \n \n \nWeek 4 \nWeek 4 \n \nPot 1 \nPot 2 \nPot 3 \nPot 4 \nPot 5 \nPot 6 \nBhargav\ni \npH \n7 \n6.8 \n6.5 \n6.4 \n5.1 \n5.2 \nShrika \nPlant \nMass (g) \n971.21 \n1233.91 \n1060.71 \n1088.86 \n1055.65 \n1231.77 \n \n \n \n \n \n \n \n \n \nWeek 5 \nWeek 5 \n \nPot 1 \nPot 2 \nPot 3 \nPot 4 \nPot 5 \nPot 6 \nThrisha \npH \n7.6 \n7.1 \n7 \n5 \n6.5 \nAnya \nPlant \nMass (g) \n889.72 \n1156.67 \n1009.91 \n1048.36 \n1008.77 \n1190.4",
+      "char_count": 1036,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "",
+            "",
+            "",
+            "CONTROL (50-50)",
+            "CONTROL (75-25)",
+            "0.5% UREA (50- 50)",
+            "0.5% UREA (75- 25)",
+            "2% UREA (50-50)",
+            "2% UREA (75-25)"
+          ],
+          [
+            "Shrika",
+            "",
+            "",
+            "Pot 1",
+            "Pot 2",
+            "Pot 3",
+            "Pot 4",
+            "Pot 5",
+            "Pot 6"
+          ],
+          [
+            "Bhargav i",
+            "Week 1",
+            "Plant",
+            "961.46",
+            "1142.41",
+            "998.01",
+            "1085.9",
+            "941",
+            "1195.43"
+          ],
+          [
+            "",
+            "",
+            "Mass (g)",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Week 2",
+            "",
+            "",
+            "Pot 1",
+            "Pot 2",
+            "Pot 3",
+            "Pot 4",
+            "Pot 5",
+            "Pot 6"
+          ],
+          [
+            "Thrisha",
+            "",
+            "pH",
+            "3",
+            "3",
+            "3",
+            "1.5",
+            "8.5",
+            "9"
+          ],
+          [
+            "",
+            "Week 2",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Anya",
+            "",
+            "Plant",
+            "1000",
+            "1250",
+            "1095",
+            "1100",
+            "1050",
+            "1225"
+          ],
+          [
+            "",
+            "",
+            "Mass (g)",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Week 3",
+            "",
+            "",
+            "Pot 1",
+            "Pot 2",
+            "Pot 3",
+            "Pot 4",
+            "Pot 5",
+            "Pot 6"
+          ],
+          [
+            "Dwij",
+            "",
+            "pH",
+            "7",
+            "7",
+            "6.5",
+            "7.5",
+            "5",
+            "5"
+          ],
+          [
+            "",
+            "Week 3",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Sahvir",
+            "",
+            "Plant",
+            "1033.29",
+            "1287.35",
+            "1146.48",
+            "1123.52",
+            "1101.73",
+            "1246.84"
+          ],
+          [
+            "",
+            "",
+            "Mass (g)",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Week 4",
+            "",
+            "",
+            "Pot 1",
+            "Pot 2",
+            "Pot 3",
+            "Pot 4",
+            "Pot 5",
+            "Pot 6"
+          ],
+          [
+            "Bhargav i",
+            "",
+            "",
+            "7",
+            "6.8",
+            "6.5",
+            "6.4",
+            "5.1",
+            "5.2"
+          ],
+          [
+            "",
+            "Week 4",
+            "pH",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Shrika",
+            "",
+            "Plant",
+            "971.21",
+            "1233.91",
+            "1060.71",
+            "1088.86",
+            "1055.65",
+            "1231.77"
+          ],
+          [
+            "",
+            "",
+            "Mass (g)",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Week 5",
+            "",
+            "",
+            "Pot 1",
+            "Pot 2",
+            "Pot 3",
+            "Pot 4",
+            "Pot 5",
+            "Pot 6"
+          ],
+          [
+            "Thrisha",
+            "",
+            "pH",
+            "7.6",
+            "7.1",
+            "",
+            "7",
+            "5",
+            "6.5"
+          ],
+          [
+            "",
+            "Week 5",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Anya",
+            "",
+            "Plant",
+            "",
+            "1156.67",
+            "1009.91",
+            "1048.36",
+            "1008.77",
+            "1190.4"
+          ],
+          [
+            "",
+            "",
+            "Mass (g)",
+            "889.72",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 14,
+      "text": "Pots 1-3 \nreplanted \n \n \n50/50 soil/regolith \n \n \n \n \n50-50 \ncontrol \n75-25 \ncontrol \nNew Pot 1 New Pot 2 \nNew Pot 3 \n(control) \n \nWeek 6 \nWeek 6 \n \nPot 1 \nPot 2 \nPot 3 \nPot 4 \nPot 5 \n \nDwij \npH \n6 \n6 \n6 \n6 \n6 \nSahvir \nPlant \nMass (g) \n855.09 \n1160.48 \n801.63 \n722.5 \n749.94 \n \n \n \n \n \n \n \n \n \nWeek 7 \nWeek 7 \n \nPot 1 \nPot 2 \nPot 3 \nPot 4 \nPot 5 \n \nBhargav\ni \npH \n7.9 \n7.6 \n7.9 \n7.9 \n7.5 \nShrika \nPlant \nMass (g) \n819.09 \n1109.66 \n852 \n769.85 \n769.89 \n \n \n \n \n \n \n \n \n \nWeek 8 \nWeek 8 \n \nPot 1 \nPot 2 \nPot 3 \nPot 4 \nPot 5 \n \nThrisha \npH \n7.4 \n7 \n7 \n6.9 \nAnya \nPlant \nMass (g) \n975.91 \n1225.52 \n936.85 \n857.16 \n858.54 \n \n \n \n \n \n \n \n \n \nWeek 9 \nWeek 9 \n \nPot 1 \nPot 2 \nPot 3 \nPot 4 \nPot 5 \n \nDwij \npH \n7.5 \n7.8 \n7.8 \n7.9 \n8 \nSahvir \nPlant \nMass (g) \n1058.02 \n1283.97 \n976.19 \n899.86 \n860.17 \n \n \n \n \n \n \n \n \n \nNote: The stats test for the mass only included data of the replanted plants.",
+      "char_count": 886,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "",
+            "Pots 1-3 replanted",
+            "",
+            "",
+            "",
+            "50/50 soil/regolith",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "50-50",
+            "75-25 control",
+            "New Pot 1",
+            "New Pot 2",
+            "New Pot 3 (control)",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "control",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Week 6",
+            "",
+            "",
+            "Pot 1",
+            "Pot 2",
+            "Pot 3",
+            "Pot 4",
+            "Pot 5",
+            ""
+          ],
+          [
+            "Dwij",
+            "",
+            "pH",
+            "6",
+            "6",
+            "6",
+            "6",
+            "6",
+            ""
+          ],
+          [
+            "",
+            "Week 6",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Sahvir",
+            "",
+            "Plant",
+            "855.09",
+            "1160.48",
+            "801.63",
+            "722.5",
+            "749.94",
+            ""
+          ],
+          [
+            "",
+            "",
+            "Mass (g)",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Week 7",
+            "",
+            "",
+            "Pot 1",
+            "Pot 2",
+            "Pot 3",
+            "Pot 4",
+            "Pot 5",
+            ""
+          ],
+          [
+            "Bhargav i",
+            "",
+            "",
+            "7.9",
+            "7.6",
+            "7.9",
+            "7.9",
+            "7.5",
+            ""
+          ],
+          [
+            "",
+            "Week 7",
+            "pH",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Shrika",
+            "",
+            "Plant",
+            "819.09",
+            "1109.66",
+            "852",
+            "769.85",
+            "769.89",
+            ""
+          ],
+          [
+            "",
+            "",
+            "Mass (g)",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Week 8",
+            "",
+            "",
+            "Pot 1",
+            "Pot 2",
+            "Pot 3",
+            "Pot 4",
+            "Pot 5",
+            ""
+          ],
+          [
+            "Thrisha",
+            "",
+            "pH",
+            "7.4",
+            "",
+            "7",
+            "7",
+            "6.9",
+            ""
+          ],
+          [
+            "",
+            "Week 8",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Anya",
+            "",
+            "Plant",
+            "975.91",
+            "1225.52",
+            "936.85",
+            "857.16",
+            "858.54",
+            ""
+          ],
+          [
+            "",
+            "",
+            "Mass (g)",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Week 9",
+            "",
+            "",
+            "Pot 1",
+            "Pot 2",
+            "Pot 3",
+            "Pot 4",
+            "Pot 5",
+            ""
+          ],
+          [
+            "Dwij",
+            "",
+            "pH",
+            "7.5",
+            "7.8",
+            "7.8",
+            "7.9",
+            "8",
+            ""
+          ],
+          [
+            "",
+            "Week 9",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Sahvir",
+            "",
+            "Plant",
+            "1058.02",
+            "1283.97",
+            "976.19",
+            "899.86",
+            "860.17",
+            ""
+          ],
+          [
+            "",
+            "",
+            "Mass (g)",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 15,
+      "text": "CONTROL \n(50-50) \nCONTROL \n(75-25) \n0.5% UREA \n(50-50) \n0.5% UREA \n(75-25) \n2% UREA \n(50-50) \n2% UREA \n(75-25) \nDate \n \nPot 1 \nPot 2 \nPot 3 \nPot 4 \nPot 5 \nPot 6 \n2/23 \nHeight (cm) \n3 \n1 \n0 \n0 \n0 \n0 \nLength of \nLeaf (cm) \n2.5 \n0 \n0 \n0 \n0 \n0 \n \n \n \n \n \n \n \n \n3/1 \nHeight (cm) \n13 \n10 \n0 \n0 \n0 \n0 \nLength of \nLeaf (cm) \n7.7 \n7 \n0 \n0 \n0 \n0 \n \n \n \n \n \n \n \n \n3/3 \nHeight (cm) \n14 \n11.3 \n0 \n0 \n0 \n0 \nLength of \nLeaf (cm) \n8.7 \n7.1 \n0 \n0 \n0 \n0 \n \n \n \n \n \n \n \n \n3/10 \nHeight (cm) \n14.5 \n10 \n0 \n0 \n0 \n0 \nLength of \nLeaf (cm) \n9.4 \n9.3 \n0 \n0 \n0 \n0 \n3/18 \nHeight (cm) \n14 \n11 \n0 \n0 \n0 \nLength of \nLeaf (cm) \n6.5 \n7 \n0 \n0 \n0 \n \n \n \n \n \n \n \n \n3/22 \nHeight (cm) \n21.5 \n14.5 \n0 \n0 \n0 \nLength of \nLeaf (cm) \n10 \n10.6 \n0 \n0 \n0 \n \n \n \n \n \n \n \n \n3/24 \nHeight (cm) \n23.4 \n16.3 \n0 \n0 \n0 \nLength of \nLeaf (cm) \n10.4 \n10.6 \n0 \n0 \n0 \n \n \n \n \n \n \n \n \n3/28 \nHeight (cm) \n23.9 \n15.7 \n0.9 \n4.5 \n7.6 \nLength of \nLeaf (cm) \n10.4 \n10 \n0 \n0 \n0",
+      "char_count": 910,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "",
+            "",
+            "CONTROL (50-50)",
+            "CONTROL (75-25)",
+            "0.5% UREA (50-50)",
+            "0.5% UREA (75-25)",
+            "2% UREA (50-50)",
+            "2% UREA (75-25)"
+          ],
+          [
+            "Date",
+            "",
+            "Pot 1",
+            "Pot 2",
+            "Pot 3",
+            "Pot 4",
+            "Pot 5",
+            "Pot 6"
+          ],
+          [
+            "2/23",
+            "Height (cm)",
+            "3",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "",
+            "Length of",
+            "2.5",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "",
+            "Leaf (cm)",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "3/1",
+            "Height (cm)",
+            "13",
+            "10",
+            "0",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "",
+            "Length of",
+            "7.7",
+            "7",
+            "0",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "",
+            "Leaf (cm)",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "3/3",
+            "Height (cm)",
+            "14",
+            "11.3",
+            "0",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "",
+            "Length of",
+            "8.7",
+            "7.1",
+            "0",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "",
+            "Leaf (cm)",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "3/10",
+            "Height (cm)",
+            "14.5",
+            "10",
+            "0",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "",
+            "Length of",
+            "9.4",
+            "9.3",
+            "0",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "",
+            "Leaf (cm)",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "3/18",
+            "Height (cm)",
+            "14",
+            "11",
+            "0",
+            "0",
+            "0",
+            ""
+          ],
+          [
+            "",
+            "Length of",
+            "6.5",
+            "7",
+            "0",
+            "0",
+            "0",
+            ""
+          ],
+          [
+            "",
+            "Leaf (cm)",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "3/22",
+            "Height (cm)",
+            "21.5",
+            "14.5",
+            "0",
+            "0",
+            "0",
+            ""
+          ],
+          [
+            "",
+            "Length of",
+            "10",
+            "10.6",
+            "0",
+            "0",
+            "0",
+            ""
+          ],
+          [
+            "",
+            "Leaf (cm)",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "3/24",
+            "Height (cm)",
+            "23.4",
+            "16.3",
+            "0",
+            "0",
+            "0",
+            ""
+          ],
+          [
+            "",
+            "Length of",
+            "10.4",
+            "10.6",
+            "0",
+            "0",
+            "0",
+            ""
+          ],
+          [
+            "",
+            "Leaf (cm)",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "3/28",
+            "Height (cm)",
+            "23.9",
+            "15.7",
+            "0.9",
+            "4.5",
+            "7.6",
+            ""
+          ],
+          [
+            "",
+            "Length of",
+            "10.4",
+            "10",
+            "0",
+            "0",
+            "0",
+            ""
+          ],
+          [
+            "",
+            "Leaf (cm)",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 16,
+      "text": "3/30 \nHeight (cm) \n21.5 \n15.5 \n1.2 \n6 \n10 \nLength of \nLeaf (cm) \n9.6 \n9.8 \n0 \n0 \n4.5 \n \n \n \n \n \n \n \n \n4/1 \nHeight (cm) \n26.3 \n14.3 \n7 \n7.6 \n12.4 \nLength of \nLeaf (cm) \n10.4 \n9.9 \n3.2 \n2.8 \n7.9 \n \n \n \n \n \n \n \n \n4/7 \nHeight (cm) \n22.8 \n14.9 \n10.3 \n9 \n15.8 \nLength of \nLeaf (cm) \n10.5 \n6.7 \n4.7 \n9 \n \n10.2 | Images \n \nImage 1: Academies of Loudoun Greenhouse \n \n \nImage 2: Doing Calculations for Soil Proportions",
+      "char_count": 409,
+      "image_count": 2,
+      "tables": [
+        [
+          [
+            "3/30",
+            "Height (cm)",
+            "21.5",
+            "15.5",
+            "1.2",
+            "6",
+            "10",
+            ""
+          ],
+          [
+            "",
+            "Length of",
+            "9.6",
+            "9.8",
+            "0",
+            "0",
+            "4.5",
+            ""
+          ],
+          [
+            "",
+            "Leaf (cm)",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "4/1",
+            "Height (cm)",
+            "26.3",
+            "14.3",
+            "7",
+            "7.6",
+            "12.4",
+            ""
+          ],
+          [
+            "",
+            "Length of",
+            "10.4",
+            "9.9",
+            "3.2",
+            "2.8",
+            "7.9",
+            ""
+          ],
+          [
+            "",
+            "Leaf (cm)",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "4/7",
+            "Height (cm)",
+            "22.8",
+            "14.9",
+            "10.3",
+            "9",
+            "15.8",
+            ""
+          ],
+          [
+            "",
+            "Length of",
+            "10.5",
+            "",
+            "6.7",
+            "4.7",
+            "9",
+            ""
+          ],
+          [
+            "",
+            "Leaf (cm)",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 17,
+      "text": "Image 3: Creating Soil Mixture \n \n \n \n \n \n \n \n \n \n \n \n \n \nImage 4: Initial Planting \n \n \nImage 5: Data Collection",
+      "char_count": 113,
+      "image_count": 3,
+      "tables": []
+    },
+    {
+      "page_number": 18,
+      "text": "Image 6: Watering \n \n \nImage 7: Replanting \n \n \n \nImage 7: Replanting",
+      "char_count": 69,
+      "image_count": 4,
+      "tables": []
+    }
+  ]
+}

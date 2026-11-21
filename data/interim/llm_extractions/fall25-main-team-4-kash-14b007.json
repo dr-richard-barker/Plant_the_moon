@@ -1,0 +1,81 @@
+{
+  "extraction": {
+    "report_id": "fall25-main-team-4-kash-14b007",
+    "extraction_method": "heuristic",
+    "model_name": "table-aware-lexicon-v2",
+    "celestial_body": "martian",
+    "regolith_simulant": "unspecified",
+    "regolith_simulant_raw": null,
+    "crop_common_name": "cowpea",
+    "crop_scientific_name": "Vigna unguiculata",
+    "crop_guild": "legume",
+    "experimental_duration_days": 60.0,
+    "total_plants_or_pots": null,
+    "replicates_per_treatment": null,
+    "has_earth_soil_control": false,
+    "has_unamended_regolith_control": false,
+    "statistical_tests_reported": [
+      "Standard Deviation / Error"
+    ],
+    "data_availability": "summary_means",
+    "primary_bottlenecks": [
+      "compaction_crusting",
+      "nutrient_deficiency"
+    ],
+    "innovation_tags": [
+      "microbial_mycorrhizal",
+      "synthetic_fertilizer_hydroponic"
+    ],
+    "key_hypothesis": "nutrient-supportive environment that is predicted to yield stronger plant growth, more nodules,",
+    "summary_findings": "nearly three years, during which astronauts face muscle loss, radiation exposure, and overall",
+    "arms": [
+      {
+        "arm_id": "arm_trt_1",
+        "arm_label": "Treatment (inoculation)",
+        "is_control": false,
+        "control_type": "none",
+        "regolith_pct": null,
+        "amendment_category": "microbial_mycorrhizal",
+        "amendment_detail": "inoculation",
+        "amendment_dose": null,
+        "germination_rate_pct": null,
+        "survival_rate_pct": null,
+        "mean_shoot_height_cm": null,
+        "mean_root_length_cm": null,
+        "mean_fresh_biomass_g": null,
+        "mean_dry_biomass_g": null,
+        "substrate_ph": null,
+        "outcome_vs_regolith_control": "not_reported",
+        "reported_effect_pct": null,
+        "evidence_quote": "inoculation in legumes is the development of root nodules, which house nitrogen-fixing bacteria.",
+        "page_number": 1
+      },
+      {
+        "arm_id": "arm_trt_2",
+        "arm_label": "Treatment (NPK)",
+        "is_control": false,
+        "control_type": "none",
+        "regolith_pct": null,
+        "amendment_category": "synthetic_fertilizer_hydroponic",
+        "amendment_detail": "NPK",
+        "amendment_dose": null,
+        "germination_rate_pct": null,
+        "survival_rate_pct": null,
+        "mean_shoot_height_cm": null,
+        "mean_root_length_cm": null,
+        "mean_fresh_biomass_g": null,
+        "mean_dry_biomass_g": null,
+        "substrate_ph": null,
+        "outcome_vs_regolith_control": "not_reported",
+        "reported_effect_pct": null,
+        "evidence_quote": "fluorescens, NK inoculated with Bradyrhizobium and Pseudomonas putida, and NPK inoculated",
+        "page_number": 3
+      }
+    ]
+  },
+  "provenance_audit": {
+    "quotes_checked": 2,
+    "quotes_matched": 2,
+    "quote_match_rate": 1.0
+  }
+}

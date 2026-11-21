@@ -1,0 +1,2310 @@
+{
+  "report_id": "fall22-main-team-saiph-5d3941",
+  "sha256": "1ccae46b9a2483c373092c35ea6c081b26fa62cd65368f06d482983313c9e6a4",
+  "page_count": 35,
+  "total_chars": 51035,
+  "avg_chars_per_page": 1458.1,
+  "total_images": 127,
+  "table_count": 37,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Plant the Moon \nPlant Mars\nTeam Saiph\nFall 2022",
+      "char_count": 47,
+      "image_count": 1,
+      "tables": [
+        [
+          [
+            "Plant the Moon Plant Mars",
+            ""
+          ],
+          [
+            "",
+            "Team Saiph Fall 2022"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "Soil Development, Worm Survivability and Growth of Plants in\nLava Rock and Regolith\nPlant Mars and Plant the Moon Challenges\nFall 2022 Undergrad/Professional\n10197 & 10196\nTeam Saiph\nBrian Grandin, Anne Wong, Wyatt Grandin\n1",
+      "char_count": 224,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "text": "Table of contents\nIntroduction\n3\nTheory\n3\nRegolith\n3\nLava rock and volcanic ash\n4\nWorms, recycled organic material, fungi & bacteria\n4\nWhat we are testing\n4\nVisuals: Plants and volcanoes on Earth (1)\n5\nVisuals: Plants and volcanoes on Earth (2)\n6\nVisuals: Ash and lava rock on the Moon\n7\nVisuals: Ash and lava rock on Mars\n8\nStudy Methodology\n9\nPots and grow station setup\n9\nPot and regolith preparation\n9\nPlanting and plant care\n9\nMeasurement methods\n9\nStudy Visuals\n10\nMoon pot set up\n10\nMars pot set up\n11\n3D printed pot\n12\nMoon and Mars growth charts\n13\nFinal Moon plants and soil\n14\nFinal Mars plants and soil\n15\nDiscussion\n16\nFindings\n16\nConclusion\n17\nLimitations\n17\nFuture questions and ideas\n17\nWork Cited\n18\nAppendix\n21\nMoon plant growth visual timeline\n21\nMars plant growth visual timeline\n22\nMoon observations / water and fertilization schedule\n23\nMars observations / water and fertilization schedule\n29\n2",
+      "char_count": 916,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "text": "Introduction\nLiving amongst the stars is developing into an attentable reality rather than a faraway\ndream. Space is becoming more accessible with technological advancements and new players\ntransforming the industry; bringing down exorbitant costs and opening up opportunities to those\noutside of government space agencies. Space tourism, exploration, habitation, mining, and\nmanufacturing all lie in our not too distant future. Even considering the technological\nadvancements over the last centuries, those who venture into space will share many challenges\nof the old day explorers. Health, shelter, and food all will be paramount as space explorers\nconfront inhospitable environments far from home.\nThe next steps on our journey to off Earth settlements are the Moon and Mars. Due to\nthe distance from Earth, high cost of transport, and time needed to deliver additional supplies\nutilization of as many in-situ resources as possible will be required. It will not be feasible for a\ncontinuous supply of food to be brought from Earth. Food will need to be grown.\nSpace habitats will have temperature regulation, water, oxygen, carbon dioxide, and\nnitrogen. Plants grown in the habitats will also need soil, grow lights, and grow pots. Grow pots\nmay be 3D printed using in-situ regolith. Fertilizer and grow lights will need to be brought from\nEarth. We can start to create soil using vesicular basalt, referred to as lava rock in the rest of\nthis study, and regolith. Both lava rock and regolith are available in-situ. Worms, recycled\norganic matter, fungi, and bacteria that can be generated locally will also help to transform the\nregolith. As the regolith sees more growth cycles and develops into something more similar to\nfertile Earth soil, the hope is only recycled local organic matter and in-situ fertilizer, from volcanic\nash or another local source, should be needed as an amendment.\nTheory\nRegolith\nThe soil on Earth has many differences from the regolith on the Moon and Mars, partly\nbecause they do not have the same processes that Earth continuously cycles through. It does\nnot rain, which erodes and transforms Earth\u2019s soil. The nitrogen cycle is very different on the\nMoon and Mars due to the absence of organic matter. The regolith has also been exposed to\ndifferent forces than we see on Earth, as both the Moon and Mars are exposed to more\nradiation, have less dense, differently composed atmospheres1, and have lower gravity.\nThere are however commonalities shared with the soil on Earth. Besides reactive\nnitrogen, which is a component of the nitrogen cycle and essential for most if not all life on\nEarth2, all minerals needed for plant growth are likely present in both Maritan and Moon regolith\n(Wamelink et al. pg 1). Plants were able to germinate and grow in simulated Mars and Moon\nregolith without addition of nutrients (Wamelink et al. pg 5), though the Earth derived simulants\nmay not fully replicate toxicity or other issues we may encounter when working with in-situ\nregolith. Recently, a plant (Arabidopsis thaliana) has been successfully grown in true Lunar\nregolith using an MS nutrient solution (Paul et al. pg 1, 7). An MS nutrient solution is a plant\ngrowth medium used in laboratories and is similar to liquid fertilizer. Arabidopsis thaliana\u2019s\ngrowth was described as challenging, but plants were nonetheless able to grow (Paul et al. pg\n1).\n2 Earth has organisms that are not linked to a food chain that is dependent on photosynthesis (University of Hawai\u02bbi at M\u0101noa; Weird\nScience: Hydrothermal Vents and Cold Seeps), and are not dependent on the nitrogen cycle to the same degree as their sun\ndependent friends.\n1 The moon has an atmosphere, though an extremely thin one (NASA; Is There an Atmosphere on the Moon?)\n3",
+      "char_count": 3760,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "text": "Lava rock and volcanic ash\nVolcanoes built the lush Hawaiian landscape and the fertile lands of Pompeii. Volcanoes \nhave made the most productive lands on Earth. Mars and the Moon both have a volcanic \nhistory. Lava rock and volcanic ash are present on both and may serve as a valuable in-situ \nresource for future explorers. Vesicular basalt, referred to as lava rock in this study, serves as a \nsoil amendment that increases water absorbency, reduces soil compaction, and increases soil \naeration. Team Rainbird saw root surfacing, likely due to soil density of the simulated Lunar \nregolith, which may have been worse without added compost (Team Rainbird 5:32). In this \nstudy, lava rock is used to decrease soil density while increasing aeration and water absorption.\nLava rocks may also break down into nutrients that can be used by plants, though that \nprocess takes anywhere from a few to hundreds of years (University of California). It is likely \nthat volcanic ash deposits are also accessible on the Moon and Mars. On Earth volcanic ash \nhas transformed into a form that can be utilized by plants in a shorter timespan than lava rock \n(Fisher et al. pg 240). The transformation into a plant usable form is by no means \ninstantaneous, and trying to grow plants in volcanic ash has been compared to growing plants in \nstyrofoam (Fisher et al. pg 241). The timeline for both volcanic ash and rock\u2019s transformation \ninto a plant usable form is heavily influenced by atmospheric and geological factors (Fisher et al. \npg 241). Ways to speed volcanic ash and rock\u2019s transformation into a form that can be easily \nutilized by plants will be tested in future studies.\nWorms, recycled organic material, fungi & bacteria\nWorms, fungi, and bacteria should be a part of any off Earth settlements, as they play an \nessential role in the nitrogen cycle. The nitrogen cycle produces plant-available nitrogen, which \nis not thought to be present in off-Earth regolith. In-situ regolith may have other differences to \nthe Earth derived simulant that could impact organisms\u2019 survivability. Possible issues include the \n\u2018sharper\u2019 regolith on the Moon (ESA) and high levels of radiation impacting the surface layers of \nregolith on both the Moon and Mars. The use of compost bins may avoid these issues. Barring \nany unforeseen effects of the Lunar and Martian environments (ie; lower gravity), worms, \nbacteria, and fungi should be able to become self-sustaining in some form of a compost bin \nusing plant, food and/or human waste. The compost could then be mixed with regolith, though \nthe plants would ultimately face the same issues when growing in the regolith.\nAs attempted in this and another experiment (Wamelink et al. pg 238), worms can be \nintroduced into the regolith itself along with organic matter. Once introduced, the worms may be \nable to become self-sustaining in the regolith. Fungi and bacteria are also being introduced into \nthe regolith in this experiment. These additions may help to kick start the nitrogen cycle, and \nprovide an avenue outside of fertilization for plant usable nitrogen to be maintained while starting \nthe regolith on a path to transforming into something closer to fertile soil.\nWhat we are testing\nWe are investigating if:\n\u25cf\nplants can grow in simulated regolith and lava rock without any soil amendments.\n\u25cf\nsoil amendments (dried plant matter, mycorrhizal fungi, liquid microbial inoculant,\nliquid fertilizer and worms) impact plant growth.\n\u25cf\nsoil amendments (dried plant matter, mycorrhizal fungi, liquid microbial inoculant,\nliquid fertilizer and worms) impact simulated regolith development.\n\u25cf\nvarying simulated regolith to lava rock ratios impacts plant growth.\n\u25cf\nworms can survive in simulated regolith and lava rock.\n4",
+      "char_count": 3762,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "text": "Above: Vineyard at the ruin city of Pompeii. \nPompeii was part of a region that has very fertile \nsoil due to volcanic ash from Mount Vesuvius\u2019 \nerupting (Omeka-Wellesley College). Pompeii was \ndestroyed by the eruption of Vesuvius in the year \n79 AD. \nLeft: Noni (Morinda citrifolia) is a versatile plant \nthat can grow in lava flows and tolerate a variety \nof conditions, including brackish, or somewhat \nsalty, water. Polynesian voyagers are thought to \nhave taken the plant with them when exploring \nand settling the Pacific (University of Hawaii). The \nplant has a variety of uses. The fruit and leaves \nare edible, though the fruit\u2019s smell has been \ndescribed as less than desirable.\nImage source: Scot Nelson / Flikr\n5",
+      "char_count": 725,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "text": "Above: The Eldraun Lava Field in Iceland was created in an \nimmensely devastating eruption in 1783 and 1784. Moss now \nblankets the lava field. Moss gets nutrients and water through \nits leaves and stem (Nordstrom pg 9) and nitrogen from \ncyanobacteria (Liu and Rousk pg 149). \nRight: Mt St Helens. Wildflowers, some of which are \nnitrogen-fixing, grow in volcanic ash and rock distributed by \na cataclysmic eruption in 1980 (Karras). \n6",
+      "char_count": 437,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "text": "Above: 18 images taken by the Galileo \nspacecraft were combined to make this \nview looking down on the north pole of the \nmoon. Lava plains of the Marginis and \nSmythii basins and the Humboldtianum \nBasin, which is partly filled with dark \nvolcanic deposits, are visible. \nImage source: NASA / The Moon from \nAbove\nLeft: Vesicular basalt from the moon. \nImage source: NASA / Mare Basalt \nVolcanism\n7",
+      "char_count": 399,
+      "image_count": 2,
+      "tables": [
+        [
+          [
+            "Above: 18 images taken by the Galileo spacecraft were combined to make this view looking down on the north pole of the moon. Lava plains of the Marginis and Smythii basins and the Humboldtianum Basin, which is partly filled with dark volcanic deposits, are visible. Image source: NASA / The Moon from Above"
+          ]
+        ],
+        [
+          [
+            "The Moon from",
+            ""
+          ]
+        ],
+        [
+          [
+            "Mare Basalt",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 9,
+      "text": "Above: This image was \ntaken by the Mars Express \nHigh Resolution Stereo \nCamera of Meridiani Planum \non Mars. The black areas \nare likely composed of \nvolcanic ash-rich sediments. \nImage source: ESA / \nVolcanic ash in Meridiani \nPlanum\nRight: The basalt rocks \nshown have many small \nholes or vesicles. This image \nwas taken by the Spirit rover \nin the basin south of \n\"Husband Hill.\" \nImage source: Gusev Lava \nRocks\n8",
+      "char_count": 420,
+      "image_count": 2,
+      "tables": [
+        [
+          [
+            "Volcanic ash in Meridiani",
+            "",
+            ""
+          ],
+          [
+            "",
+            "Planum",
+            ""
+          ]
+        ],
+        [
+          [
+            "Gusev Lava",
+            "",
+            ""
+          ],
+          [
+            "",
+            "Rocks",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 10,
+      "text": "Study Methodology\nPots and grow station setup\nGrow pots consisting of 4 pieces were 3D printed using polylactic acid filament (see pot\nvisual page 12). Each grow pot has its own individual height adjustable full spectrum grow light.\nThe maximum measured lux on the grow lights was approximately 18,000 lx. The pots were set\nup in a temperature controlled house. The pot location received no direct natural sunlight.\nPot and regolith preparation\nThe Purdue Interplanetary and Space Agriculture Team encountered stunted growth and\nbrowning on the plants, after wash out of the simulated Mars regolith the plants growth\nappeared healthy and normal (Bailey et al. pg 13-14). Therefore simulated Mars regolith was\nrinsed with water several times prior to potting. Note this type of treatment may eliminate water\nsoluble percolates thought to be in true Martian regolith. The simulated Lunar regolith was not\nrinsed prior to potting. The organic material used was taken from a watermelon plant. The vine\nand leaves were cut into fine pieces and dried in a very warm California sun.\nBoth Mars and Moon plants had two controls. One control pot used only potting soil and\nlava rock. The other control pot used only simulated regolith and lava rock. Non-control pots\nconsisted of simulated regolith and lava rock in varying ratios. Dried plant matter, mycorrhizal\nfungi (Trifecta Myco Supreme), liquid microbial inoculant (FoxFarm Microbrew), liquid fertilizer\n(FoxFarm Grow Big) and red wriggler worms were all introduced to the non-control pots.\nFor more details on pot preparation and composition, see Moon pot set up (page 10)\nand Mars pot set up (page 11).\nPlanting and plant care\nBoth pok choi and avalanche beet seeds were soaked in water 24 hours before planting.\nThe seeds were covered with a thin layer of simulated regolith/soil when planting in the pot.\nPlants were gradually thinned out until only one pok choi and one beet remained in each pot.\nThe grow pot\u2019s top portion was removed once the plants reached a height beyond the middle\nsection. The plants are in a temperature controlled house, watered daily, and received 12 hours\nof light each day at the full spectrum plant light\u2019s maximum brightness. Aside from adding liquid\nfertilizer into the non-control pots prior to planting, fertilization for the non-control plants was\ndone according to FoxFarm\u2019s feeding schedule.\nMeasurement methods\n\u25cf\nVisual comparison of simulated regolith at experiment start and end\n\u25cf\nVisual count of living worms at experiment start and end\n\u25cf\nPlant weight and appearance at the end of experiment\n\u25cf\nPlant appearance and height throughout experiment\n9",
+      "char_count": 2637,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "text": "Controls\nC1A & C2A\nTest Plants\nM1, M2 & M3\nor\n+\n+\n+\n+\n+\n+\n+\nMoon pot set up\nFoxfarm Ocean Forest Potting \nSoil\nSimulated Lunar Regolith\nSimulated Lunar Regolith\nTrifecta Myco Supreme \nMycorrhizal Fungi\nBlack Lava Rock\nDried Watermelon Vine and \nLeaves\nBlack Lava Rock\n5 Red Wriggler Worms\nFoxfarm Microbrew & Grow \nBig Liquid Fertilizers\n10",
+      "char_count": 340,
+      "image_count": 8,
+      "tables": [
+        [
+          [
+            "",
+            "or",
+            ""
+          ],
+          [
+            "Foxfarm Ocean Forest Potting Soil",
+            "",
+            "Simulated Lunar Regolith"
+          ],
+          [
+            "",
+            "+",
+            ""
+          ]
+        ],
+        [
+          [
+            "",
+            "+",
+            ""
+          ],
+          [
+            "Trifecta Myco Supreme Mycorrhizal Fungi",
+            "",
+            "Simulated Lunar Regolith"
+          ]
+        ],
+        [
+          [
+            "+"
+          ]
+        ],
+        [
+          [
+            "Black Lava Rock"
+          ]
+        ],
+        [
+          [
+            "Dried Watermelon Vine and Leaves"
+          ]
+        ],
+        [
+          [
+            "Black Lava Rock"
+          ]
+        ],
+        [
+          [
+            "Foxfarm Microbrew & Grow Big Liquid Fertilizers"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 12,
+      "text": "Controls\nC1B & C2B\nTest Plants\nMa1, Ma2 & Ma3\nor\n+\n+\n+\n+\n+\n+\n+\nMars pot set up\nFoxfarm Ocean Forest Potting \nSoil\nSimulated Mars Regolith\nSimulated Mars Regolith\nTrifecta Myco Supreme \nMycorrhizal Fungi\nRed Lava Rock\nDried Watermelon Vine and \nLeaves\nRed Lava Rock\n5 Red Wriggler Worms\nFoxfarm Microbrew & Grow \nBig Liquid Fertilizers\n11",
+      "char_count": 337,
+      "image_count": 8,
+      "tables": [
+        [
+          [
+            "",
+            "or",
+            ""
+          ],
+          [
+            "Foxfarm Ocean Forest Potting Soil",
+            "",
+            "Simulated Mars Regolith"
+          ],
+          [
+            "",
+            "+",
+            ""
+          ]
+        ],
+        [
+          [
+            "",
+            "+",
+            ""
+          ],
+          [
+            "Trifecta Myco Supreme Mycorrhizal Fungi",
+            "",
+            "Simulated Mars Regolith"
+          ]
+        ],
+        [
+          [
+            "+"
+          ]
+        ],
+        [
+          [
+            "Red Lava Rock"
+          ]
+        ],
+        [
+          [
+            "Dried Watermelon Vine and Leaves"
+          ]
+        ],
+        [
+          [
+            "Red Lava Rock"
+          ]
+        ],
+        [
+          [
+            "Foxfarm Microbrew & Grow Big Liquid Fertilizers"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 13,
+      "text": "Stackable grow pot\nBottom section\nFor growing medium\nMiddle section\nFor plant / grow light\nTop section\nFor plant / grow light\nInsert for watering\n12",
+      "char_count": 148,
+      "image_count": 1,
+      "tables": [
+        [
+          [
+            "",
+            "Top section For plant / grow light"
+          ]
+        ],
+        [
+          [
+            "",
+            "Middle section For plant / grow light"
+          ]
+        ],
+        [
+          [
+            "Insert for w",
+            "atering"
+          ]
+        ],
+        [
+          [
+            "",
+            "Bottom section For growing medium"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 14,
+      "text": "Growth charts\nMars pok choi\nMars beet\nLunar pok choi\nLunar beet\n13",
+      "char_count": 66,
+      "image_count": 2,
+      "tables": [
+        [
+          [
+            "Mars beet",
+            "Mars pok choi"
+          ]
+        ],
+        [
+          [
+            "Lunar beet",
+            "Lunar pok choi"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 15,
+      "text": "C1A\nControl-regolith\n1.3 Regolith/rock ratio \nM2\n.8 Regolith/rock ratio \nC2A\nControl-potting soil\n.4 Soil/rock ratio \nM1\n1.3 Regolith/rock ratio \nM3\n1.0 Regolith/rock ratio \nFinal Moon plants\nSoil\nLava Rock\nPlant weight and yield per Earth derived gram of materials\nPlant mass: 58g\nSoil\nLava Rock\nPlant mass: 11g\nSoil\nLava Rock\nSurviving worms: 1\nPlant mass: 15g\nSoil\nPlant mass: 14g\nLava Rock\nLava Rock\nSoil\nPlant mass: <1g\n14",
+      "char_count": 427,
+      "image_count": 18,
+      "tables": [
+        [
+          [
+            "C1A Control-regolith 1.3 Regolith/rock ratio",
+            "M1 1.3 Regolith/rock ratio",
+            "M3 1.0 Regolith/rock ratio",
+            "M2 .8 Regolith/rock ratio",
+            "C2A Control-potting soil .4 Soil/rock ratio"
+          ],
+          [
+            "Plant mass: <1g",
+            "Plant mass: 11g",
+            "Plant mass: 14g",
+            "Plant mass: 15g",
+            "Plant mass: 58g"
+          ],
+          [
+            "Soil",
+            "Soil",
+            "Soil",
+            "Soil",
+            "Soil"
+          ],
+          [
+            "Lava Rock",
+            "Lava Rock",
+            "Lava Rock",
+            "Lava Rock",
+            "Lava Rock"
+          ],
+          [
+            "",
+            "",
+            "",
+            "Surviving worms: 1",
+            ""
+          ]
+        ],
+        [
+          [
+            "",
+            "Plant weight and yield per Earth derived gram of materials"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 16,
+      "text": "C1B\nControl-regolith\n1.4 Regolith/rock ratio \nMa2\n.7 Regolith/rock ratio \nC2B\nControl-potting soil\n.4 Soil/rock ratio \nMa1\n1.4 Regolith/rock ratio\nMa3\n1.0 Regolith/rock ratio \nFinal Mars plants\nSurviving worms: 1\nSoil\nLava Rock\nPlant weight and yield per Earth derived gram of materials\nPlant mass: 66g\nSoil\nLava Rock\nPlant mass: 9g\nSoil\nLava Rock\nSurviving worms: 3\nPlant mass: 13g\nSoil\nPlant mass: 6g\nLava Rock\nLava Rock\nSoil\nPlant mass: <1g\n15",
+      "char_count": 446,
+      "image_count": 19,
+      "tables": [
+        [
+          [
+            "Final Mars plants C1B C2B Ma1 Ma3 Ma2 Control-regolith Control-potting soil 1.4 Regolith/rock ratio 1.0 Regolith/rock ratio .7 Regolith/rock ratio 1.4 Regolith/rock ratio .4 Soil/rock ratio Plant mass: <1g Plant mass: 9g Plant mass: 6g Plant mass: 13g Plant mass: 66g Soil Soil Soil Soil Soil Lava Rock Lava Rock Lava Rock Lava Rock Lava Rock Surviving worms: 1 Surviving worms: 3"
+          ],
+          [
+            "Plant weight and yield per Earth derived gram of materials"
+          ],
+          [
+            "15"
+          ]
+        ],
+        [
+          [
+            "C1B Control-regolith 1.4 Regolith/rock ratio",
+            "Ma1 1.4 Regolith/rock ratio",
+            "Ma3 1.0 Regolith/rock ratio",
+            "Ma2 .7 Regolith/rock ratio",
+            "C2B Control-potting soil .4 Soil/rock ratio"
+          ],
+          [
+            "Plant mass: <1g",
+            "Plant mass: 9g",
+            "Plant mass: 6g",
+            "Plant mass: 13g",
+            "Plant mass: 66g"
+          ],
+          [
+            "Soil",
+            "Soil",
+            "Soil",
+            "Soil",
+            "Soil"
+          ],
+          [
+            "Lava Rock",
+            "Lava Rock",
+            "Lava Rock",
+            "Lava Rock",
+            "Lava Rock"
+          ],
+          [
+            "",
+            "Surviving worms: 1",
+            "",
+            "Surviving worms: 3",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 17,
+      "text": "Discussion\nFindings\nThis study demonstrated that plants had stunted growth in simulated regolith and lava \nrock without any soil amendments. The study also demonstrated that both the simulated \nregolith to lava rock ratio and use of soil amendments has an impact on plant growth, a limited \namount of worms were able to survive in both the Martian and Lunar simulated regolith, and the \nregolith appears to be on a path to developing into something more similar to fertile soil under \nthe right conditions. More detailed findings covering the \u2018what we are testing\u2019 section are \noutlined below. Also refer to final Moon plants (page 14), final Mars plants (page 15), and Moon \nand Mars growth charts (page 13) for visual details of the findings.\nPlants grew in simulated regolith and lava rock without any soil amendments, however \nthe plant growth was stunted. The Mars beet was almost entirely wilted when the study ended. \nThe beets grew to a maximum height of 7 cm while the pok choi reached a maximum height of 8 \ncm. The control pot's plants had a combined weight of less than 1 gram when the study \nconcluded.\nAdding the soil amendments positively impacted Lunar and Mars plant growth when \ncompared to the regolith controls. The test pots\u2019 pok choi and beet had a combined weight \nranging from 6 g to 15 g at experiment end, which is greater than the regolith control pots\u2019 \nweights of less than 1 g.\nThe soil amendments also impacted regolith development. The regolith control pots\u2019 soil \nat experiment end appeared almost unchanged, as both the Martian and Lunar soils were \nextremely dense with little organic matter. The test pots\u2019 soil had more organic matter, and was \nless dense, when compared to the regolith control pots. This may have been due to more plant \nroots in the soil, however the organic materials mixed in at experiment start were found fully \ndecomposed in 4 of the 6 test pots at experiment end.\nThe simulated regolith to lava rock ratios appears to impact plant growth. The Lunar \nplant with the highest amount of lava rock had the greatest mass of the Lunar test pots, while \nthe Lunar plant with the highest amount of regolith had the lowest mass of the test pots. The \nMars plant with the highest amount of lava rock also had the greatest mass of the Mars test pots. \nMars test pot Ma3 had the lowest mass of the Mars test pot group but did not have the highest \namount of regolith. The watermelon leaves and vine that was used as organic matter for pot \nMa3 was not dried and had to be freshly harvested at the time of pot set up. This may have \nimpacted the soil, as the soil had a foul smell for the first several weeks of the study and plant \ngrowth was hindered up until the final weeks of the study.\nThe survival rate of worms in the test pots was low. The lunar test pots had one \nsurviving worm, while the Martian test pots had a total of four surviving worms. The Lunar pots \nwere set up earlier than the Mars pots. The lunar worm was in the pot for 69 days, while the 3 \nMars\u2019 worms were in the pots for 57 days. Each group started with 15 worms, or 5 worms per \ntest pot. Even considering the low survival rate, this shows that worms still have a chance of \nsurvival in simulated regolith and lava rock. More research is needed considering limitations of \nthis study. The soil was hand sifted to find surviving worms and better methods should be \nutilized in future studies to ensure all worms are counted. There could also be other factors at \nplay besides the simulated regolith that are contributing to the low survival rate. Perhaps there \nwas not enough organic matter introduced into the pots to sustain all the worms. For the lunar \npots, the two pots with higher amounts of regolith had watermelon vine and leaves that were not \nfully decomposed and these pots also did not have any worms at experiment end. It is possible\n16",
+      "char_count": 3878,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 18,
+      "text": "that the higher amount of regolith, and resulting higher soil density, had a negative impact on the \nworms\u2019 survivability and also limited decomposition of the watermelon vine and leaves.\nThe control pots with potting soil and lava rock had the greatest plant mass in this study. \nThe plant mass of both control pots was approximately four times as much as the highest \nweighted test pots. However, logistical metrics beyond total plant mass should be considered. \nAt the onset, resources like potting soil and liquid fertilizer will probably need to be continuously \nbrought from Earth. Looking from another perspective, all test pots outperformed the controls in \nterms of plant mass generated per gram of Earth derived materials. The contrast is stark as the \ntest pot plant yield per gram of Earth material ranges from 9 g to 21 g, while the potting soil \ncontrol pots yielded 0.29 g and 0.44 g per gram of Earth material (see \u2018plant weight and yield \nper Earth derived gram of materials\u2019 section on pages 14 and 15). The potting soil would have \nto be reused multiple times in order to compare to the test pot's yield per Earth derived gram of \nmaterials.\nConclusion\nBased on this study, plants will be able to grow in both Lunar and Martian regolith with \nlava rock and soil amendments, including liquid fertilizer. The regolith can also be started on a \npath of transforming into a form that resembles fertile Earth soil. Furthermore, worms can likely \nsurvive in the regolith provided the right conditions. This is important as worms play an \nessential role in the nitrogen cycle and soil health. From a logistical perspective, higher yield \nper Earth derived gram of material can be achieved using liquid fertilizer mixed with in-situ \nregolith and lava rock rather than potting soil mixed with lava rock. Optimizing the ratio of \nregolith to lava rock and increasing sample size numbers in future studies could solidify findings \nfrom the current study.\nLimitations\n\u25cf\nPlants on Mars and the Moon will be exposed to factors we cannot easily replicate on\nEarth (ie; less gravity, more and different types of radiation, etc).\n\u25cf\nLunar and Martian regolith simulants may not fully replicate the regolith we will encounter\non the Moon and Mars.\n\u25cf\nVesicular basalt on the Moon and Mars may not be present in a form similar to that used\nin this study.\n\u25cf\nThere may be differences between the water used in this study and water that is\navailable on Mars and the Moon.\n\u25cf\nSample size is low in this exploratory study, and a larger study with greater sample size\nis needed.\nFuture questions and ideas\n\u25cf\nEvaluate methods to speed volcanic ash and rock\u2019s transformation into a form that can\nbe easily utilized by plants and consider how those methods may be impacted by lower\ngravity.\n\u25cf\nFurther assess the optimum regolith to lava rock ratio for plant growth. Lower and/or\ndifferent ratios should be tested.\n17",
+      "char_count": 2905,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 19,
+      "text": "\u25cf\nIn terms of regolith development, a highly subjective visual approach was used to\nmeasure changes in soil. More robust measurement methods are needed to understand\nsoil development over a single and multiple growth periods.\n\u25cf\nEvaluate how to improve worm survivability and improve study methodology.\n\u25cf\nLava tubes could provide a place to grow off-Earth, possibly even using regolith placed\ndirectly on the tube\u2019s floor, with artificial lighting. Assess methods to seal off Earth lava\ntubes. Also evaluate gas and water permeability along with maintenance of desired\ntemperature and pressure.\n\u25cf\nResearch ideal canoe plants (bamboo, noni, nitrogen fixing starter plants, etc). Plants\nmay be utilized for more than solely food, and other possible uses should be considered\n(ie; for building materials, medicinal, regolith development, soil health, etc).\nWork Cited\nBailey, Josh, et al. Effects of Aeration on Soybean Plant Growth in Lunar and Martian Regolith.\n2022. Plant the moon,\nhttps://plantthemoon.com/wp-content/uploads/2022/05/Purdue-Interplanetary-and-Space\n-Agriculture.pdf.\nESA. \u201cESA - The toxic side of the Moon.\u201d European Space Agency,\nhttps://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_si\nde_of_the_Moon. Accessed 14 October 2022.\nFisher, Richard V., et al. Volcanoes: Crucibles of Change. Princeton University Press, 1998.\nKarras, Christy. \u201cTake a wildflower hike through the volcanic St. Helens landscape.\u201d The Seattle\nTimes, 26 July 2017,\nhttps://www.seattletimes.com/life/travel/take-a-wildflower-hike-among-the-volcanic-st-hel\nens-landscape/. Accessed 14 October 2022.\nLiu, Xin, and Kathrin Rousk. \u201cThe moss traits that rule cyanobacterial colonization.\u201d Annals of\nBotany, vol. 129, no. 2, 2022, pp. 147\u2013160. Journal of Ecology,\nhttps://doi.org/10.1093/aob/mcab127.\n18",
+      "char_count": 1815,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 20,
+      "text": "NASA. \u201cIs There an Atmosphere on the Moon?\u201d NASA, 12 April 2013,\nhttps://www.nasa.gov/mission_pages/LADEE/news/lunar-atmosphere.html. Accessed 24\nOctober 2022.\nNASA. \u201cScientists Grow Plants in Lunar Soil.\u201d NASA, 12 May 2022,\nhttps://www.nasa.gov/feature/biological-physical/scientists-grow-plants-in-soil-from-the-m\noon. Accessed 14 October 2022.\nNordstrom, Ulrica. Moss: From Forest to Garden: A Guide to the Hidden World of Moss. WW\nNorton, 2019.\nOmeka-Wellesley College. The Founding and History of Pompeii until 79 AD,\nhttp://omeka.wellesley.edu/piranesi-rome/exhibits/show/discovery-of-pompeii-and-hercu/f\nounding-pompeii. Accessed 14 October 2022.\nPaul, Anna-Lisa, et al. \u201cPlants grown in Apollo lunar regolith present stress-associated\ntranscriptomes that inform prospects for lunar exploration.\u201d Communications Biology, vol.\n5, no. 382 (2022), 2022. Communications Biology,\nhttps://www.nature.com/articles/s42003-022-03334-8.\nTeam Rainbird. \u201cPlant the Moon with Team Rainbird! EP 4.\u201d YouTube, 13 March 2021,\nhttps://www.youtube.com/watch?v=Rk7FFNINixo. Accessed 15 October 2022.\nUniversity of California. \u201cUCSB Science Line.\u201d UCSB Science Line, 21 March 2017,\nhttp://scienceline.ucsb.edu/getkey.php?key=5796. Accessed 1 November 2022.\nUniversity of Hawaii. \u201cThe Noni Website - Natural Habitats.\u201d CTAHR, 7 December 2006,\nhttps://www.ctahr.hawaii.edu/noni/natural_habitats.asp. Accessed 14 October 2022.\nUniversity of Hawai\u02bbi at M\u0101noa. \u201cWeird Science: Hydrothermal Vents and Cold Seeps.\u201d\nUniversity of Hawaii at Manoa,\nhttps://manoa.hawaii.edu/exploringourfluidearth/biological/aquatic-plants-and-algae/ener\ngy-acquisition/weird-science-hydrothermal-vents-and-cold-seeps. Accessed 24 October\n2022.\n19",
+      "char_count": 1706,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 21,
+      "text": "Wamelink, Gerrit Willem Wieger, et al. \u201cGrowth of Rucola on Mars soil simulant under the\ninfluence of pig slurry and earthworms.\u201d Open Agriculture, vol. 7, no. 1, 2022, pp.\n238-248. https://journals.plos.org/, https://doi.org/10.1515/opag-2022-0079.\nWamelink, GWW, et al. \u201cCan Plants Grow on Mars and the Moon: A Growth Experiment on\nMars and Moon Soil Simulants.\u201d PLoS ONE, vol. 9, no. (8), 2014, pp. 1-9.\nhttps://journals.plos.org/, https://doi.org/10.1371/journal.pone.0103138.\n20",
+      "char_count": 483,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 22,
+      "text": "C1A\n1.3\nM2\n.8\nC2A\n.4\nM1\n1.3\nM3\n1.0\nMoon timeline\n9/26\n10/4\n9/26\n10/4\n10/15\n10/15\n10/31\n10/31\n11/10\n11/10\n21",
+      "char_count": 107,
+      "image_count": 25,
+      "tables": []
+    },
+    {
+      "page_number": 23,
+      "text": "C1B\n1.4\nMa2\n.7\nC2B\n.4\nMa1\n1.4\nMa3\n1.0\nMars timeline\n9/26\n10/4\n9/26\n10/4\n10/15\n10/15\n10/31\n10/31\n11/10\n11/10\n22",
+      "char_count": 110,
+      "image_count": 25,
+      "tables": []
+    },
+    {
+      "page_number": 24,
+      "text": "Moon observations / water and fert schedule\nPlant\nDate\nMeasure Feed\nFeed Type\nGrow light\nComment\nC1A\n9/10/2022 20 mL\nWater\nPot set up\nC2A\n9/10/2022 20 mL\nWater\nPot set up\nM1\n9/10/2022 20 mL\nMicrobrew Water\nDilution/GrowBig Water Dilution\nPot set up\nM2\n9/10/2022 20 mL\nMicrobrew Water\nDilution/GrowBig Water Dilution\nPot set up\nM3\n9/10/2022 20 mL\nMicrobrew Water\nDilution/GrowBig Water Dilution\nPot set up\nC1A\n9/11/2022 20 mL\nWater\nStart max bright / 8 hr day\nC2A\n9/11/2022 20 mL\nWater\nStart max bright / 8 hr day\nM1\n9/11/2022 20 mL\nWater\nStart max bright / 8 hr day\nM2\n9/11/2022 20 mL\nWater\nStart max bright / 8 hr day\nM3\n9/11/2022 20 mL\nWater\nStart max bright / 8 hr day\nC1A\n9/12/2022 20 mL\nWater\nC2A\n9/12/2022 20 mL\nWater\nM1\n9/12/2022 20 mL\nWater\nM2\n9/12/2022 20 mL\nWater\nM3\n9/12/2022 20 mL\nWater\nC1A\n9/13/2022 20 mL\nWater\nC2A\n9/13/2022 20 mL\nWater\nM1\n9/13/2022 20 mL\nWater\nM2\n9/13/2022 20 mL\nWater\nM3\n9/13/2022 20 mL\nWater\nC1A\n9/14/2022 20 mL\nWater\nNo smell\nC2A\n9/14/2022 20 mL\nWater\nEarthy smell\nM1\n9/14/2022 20 mL\nWater\nEarthy smell\nM2\n9/14/2022 20 mL\nWater\nEarthy smell\nM3\n9/14/2022 20 mL\nWater\nEarthy smell\nC1A\n9/15/2022 20 mL\nWater\nC2A\n9/15/2022 20 mL\nWater\nM1\n9/15/2022 20 mL\nWater\nM2\n9/15/2022 20 mL\nWater\nM3\n9/15/2022 20 mL\nWater\nC1A\n9/16/2022 20 mL\nWater\nC2A\n9/16/2022 20 mL\nWater\nM1\n9/16/2022 20 mL\nWater\nM2\n9/16/2022 20 mL\nWater\nM3\n9/16/2022 20 mL\nWater\nC1A\n9/17/2022 20 mL\nWater\nC2A\n9/17/2022 20 mL\nWater\nM1\n9/17/2022 20 mL\nWater\nM2\n9/17/2022 20 mL\nWater\nM3\n9/17/2022 20 mL\nWater\nC1A\n9/18/2022 20 mL\nWater\nC2A\n9/18/2022 20 mL\nWater\nM1\n9/18/2022 20 mL\nWater\nM2\n9/18/2022 20 mL\nWater\nM3\n9/18/2022 20 mL\nWater\nC1A\n9/19/2022 20 mL\nWater\nC2A\n9/19/2022 20 mL\nWater\nM1\n9/19/2022 20 mL\nWater\nM2\n9/19/2022 20 mL\nWater\nM3\n9/19/2022 20 mL\nWater\nC1A\n9/20/2022 20 mL\nWater\nC2A\n9/20/2022 20 mL\nWater\nM1\n9/20/2022 20 mL\nWater\nM2\n9/20/2022 20 mL\nWater\nM3\n9/20/2022 20 mL\nWater\nC1A\n9/21/2022 20 mL\nWater\nC2A\n9/21/2022 20 mL\nWater\nM1\n9/21/2022 20 mL\nWater\nM2\n9/21/2022 20 mL\nWater\nM3\n9/21/2022 20 mL\nWater\nC1A\n9/22/2022 20 mL\nWater\nC2A\n9/22/2022 20 mL\nWater\nM1\n9/22/2022 20 mL\nWater\nM2\n9/22/2022 20 mL\nWater\nM3\n9/22/2022 20 mL\nWater\nC1A\n9/23/2022 20 mL\nWater\nStart max bright / 12 hr day\n23",
+      "char_count": 2187,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Moon observations / water and fert schedule",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Plant",
+            "Date",
+            "Measure Feed",
+            "Feed Type",
+            "Grow light",
+            "Comment"
+          ],
+          [
+            "C1A",
+            "9/10/2022",
+            "20 mL",
+            "Water",
+            "",
+            "Pot set up"
+          ],
+          [
+            "C2A",
+            "9/10/2022",
+            "20 mL",
+            "Water",
+            "",
+            "Pot set up"
+          ],
+          [
+            "M1",
+            "9/10/2022",
+            "20 mL",
+            "Microbrew Water Dilution/GrowBig Water Dilution",
+            "",
+            "Pot set up"
+          ],
+          [
+            "M2",
+            "9/10/2022",
+            "20 mL",
+            "Microbrew Water Dilution/GrowBig Water Dilution",
+            "",
+            "Pot set up"
+          ],
+          [
+            "M3",
+            "9/10/2022",
+            "20 mL",
+            "Microbrew Water Dilution/GrowBig Water Dilution",
+            "",
+            "Pot set up"
+          ],
+          [
+            "C1A",
+            "9/11/2022",
+            "20 mL",
+            "Water",
+            "Start max bright / 8 hr day",
+            ""
+          ],
+          [
+            "C2A",
+            "9/11/2022",
+            "20 mL",
+            "Water",
+            "Start max bright / 8 hr day",
+            ""
+          ],
+          [
+            "M1",
+            "9/11/2022",
+            "20 mL",
+            "Water",
+            "Start max bright / 8 hr day",
+            ""
+          ],
+          [
+            "M2",
+            "9/11/2022",
+            "20 mL",
+            "Water",
+            "Start max bright / 8 hr day",
+            ""
+          ],
+          [
+            "M3",
+            "9/11/2022",
+            "20 mL",
+            "Water",
+            "Start max bright / 8 hr day",
+            ""
+          ],
+          [
+            "C1A",
+            "9/12/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "C2A",
+            "9/12/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M1",
+            "9/12/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M2",
+            "9/12/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M3",
+            "9/12/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "C1A",
+            "9/13/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "C2A",
+            "9/13/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M1",
+            "9/13/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M2",
+            "9/13/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M3",
+            "9/13/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "C1A",
+            "9/14/2022",
+            "20 mL",
+            "Water",
+            "",
+            "No smell"
+          ],
+          [
+            "C2A",
+            "9/14/2022",
+            "20 mL",
+            "Water",
+            "",
+            "Earthy smell"
+          ],
+          [
+            "M1",
+            "9/14/2022",
+            "20 mL",
+            "Water",
+            "",
+            "Earthy smell"
+          ],
+          [
+            "M2",
+            "9/14/2022",
+            "20 mL",
+            "Water",
+            "",
+            "Earthy smell"
+          ],
+          [
+            "M3",
+            "9/14/2022",
+            "20 mL",
+            "Water",
+            "",
+            "Earthy smell"
+          ],
+          [
+            "C1A",
+            "9/15/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "C2A",
+            "9/15/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M1",
+            "9/15/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M2",
+            "9/15/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M3",
+            "9/15/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "C1A",
+            "9/16/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "C2A",
+            "9/16/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M1",
+            "9/16/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M2",
+            "9/16/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M3",
+            "9/16/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "C1A",
+            "9/17/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "C2A",
+            "9/17/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M1",
+            "9/17/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 25,
+      "text": "Moon observations / water and fert schedule\nPlant\nDate\nMeasure Feed\nFeed Type\nGrow light\nComment\nC2A\n9/23/2022 20 mL\nWater\nStart max bright / 12 hr day\nM1\n9/23/2022 20 mL\nWater\nStart max bright / 12 hr day\nM2\n9/23/2022 20 mL\nWater\nStart max bright / 12 hr day\nM3\n9/23/2022 20 mL\nWater\nStart max bright / 12 hr day\nC1A\n9/24/2022 20 mL\nWater\nC2A\n9/24/2022\nbreak on water, is starting to pool below pot\nM1\n9/24/2022 20 mL\nWater\nM2\n9/24/2022 20 mL\nWater\nM3\n9/24/2022 20 mL\nWater\nC1A\n9/25/2022 20 mL\nWater\nsoak seeds\nC2A\n9/25/2022 20 mL\nWater\nsoak seeds\nM1\n9/25/2022 20 mL\nWater\nsoak seeds\nM2\n9/25/2022 20 mL\nWater\nsoak seeds\nM3\n9/25/2022 20 mL\nWater\nsoak seeds\nC1A\n9/26/2022 20 mL\nWater\nPlant seeds; Found 5 dried worms under moon/mars pots\nC2A\n9/26/2022 20 mL\nWater\nPlant seeds; Found 5 dried worms under moon/mars pots\nM1\n9/26/2022 20 mL\nWater\nPlant seeds; Found 5 dried worms under moon/mars pots\nM2\n9/26/2022 20 mL\nWater\nPlant seeds; Found 5 dried worms under moon/mars pots\nM3\n9/26/2022 20 mL\nWater\nPlant seeds; Found 5 dried worms under moon/mars pots\nC1A\n9/27/2022 20 mL\nWater\nC2A\n9/27/2022 20 mL\nWater\nM1\n9/27/2022 20 mL\nWater\nM2\n9/27/2022 20 mL\nWater\nM3\n9/27/2022 20 mL\nWater\nC1A\n9/28/2022 20 mL\nWater\nC2A\n9/28/2022 20 mL\nWater\nM1\n9/28/2022 20 mL\nWater\nM2\n9/28/2022 20 mL\nWater\nM3\n9/28/2022 20 mL\nWater\nC1A\n9/29/2022 20 mL\nWater\nC2A\n9/29/2022 20 mL\nWater\nM1\n9/29/2022 20 mL\nWater\nM2\n9/29/2022 20 mL\nWater\nM3\n9/29/2022 20 mL\nWater\nC1A\n9/30/2022 20 mL\nWater\nC2A\n9/30/2022 20 mL\nWater\nM1\n9/30/2022 20 mL\nWater\nM2\n9/30/2022 20 mL\nWater\nM3\n9/30/2022 20 mL\nWater\nC1A\n10/1/2022 20 mL\nWater\nOnly 1 seed germ'd (bok choi) so far; added more presoaked seeds (3\nbok choi, 3 beet)\nC2A\n10/1/2022 20 mL\nWater\n1 bok choi germ'd so far; 5 beet germ'd so far; thinned out 3 beet (looks\nlike a few extra beet seed made it in on planting)\nM1\n10/1/2022 20 mL\nWater\n2 bok choi germ'd so far; 3 beet germ'd so far; thinned out 1 beet\nM2\n10/1/2022 20 mL\nWater\n2 bok choi germ'd so far; 2 beet germ'd so far\nM3\n10/1/2022 20 mL\nWater\nOnly 1 seed germ'd (bok choi) so far; added more presoaked seeds (3\nbok choi, 3 beet)\nC1A\n10/2/2022 20 mL\nWater\nC2A\n10/2/2022 20 mL\nWater\nM1\n10/2/2022 20 mL\nWater\nM2\n10/2/2022 20 mL\nWater\nM3\n10/2/2022 20 mL\nWater\nC1A\n10/3/2022 20 mL\nWater\nC2A\n10/3/2022 20 mL\nWater\nM1\n10/3/2022 20 mL\nWater\nM2\n10/3/2022 20 mL\nWater\nM3\n10/3/2022 20 mL\nWater\nC1A\n10/4/2022 20 mL\nWater\nC2A\n10/4/2022 20 mL\nWater\nM1\n10/4/2022 20 mL\nWater\nM2\n10/4/2022 20 mL\nWater\nM3\n10/4/2022 20 mL\nWater\nC1A\n10/5/2022 20 mL\nWater\nThinned out 3 bok choy\nC2A\n10/5/2022 20 mL\nWater\nM1\n10/5/2022 20 mL\nWater\nM2\n10/5/2022 20 mL\nWater\nThinned out 2 beet\nM3\n10/5/2022 20 mL\nWater\nC1A\n10/6/2022 20 mL\nWater\nC2A\n10/6/2022 20 mL\nWater\n24",
+      "char_count": 2704,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Moon observations / water and fert schedule",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Plant",
+            "Date",
+            "Measure Feed",
+            "Feed Type",
+            "Grow light",
+            "Comment"
+          ],
+          [
+            "C2A",
+            "9/23/2022",
+            "20 mL",
+            "Water",
+            "Start max bright / 12 hr day",
+            ""
+          ],
+          [
+            "M1",
+            "9/23/2022",
+            "20 mL",
+            "Water",
+            "Start max bright / 12 hr day",
+            ""
+          ],
+          [
+            "M2",
+            "9/23/2022",
+            "20 mL",
+            "Water",
+            "Start max bright / 12 hr day",
+            ""
+          ],
+          [
+            "M3",
+            "9/23/2022",
+            "20 mL",
+            "Water",
+            "Start max bright / 12 hr day",
+            ""
+          ],
+          [
+            "C1A",
+            "9/24/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "C2A",
+            "9/24/2022",
+            "",
+            "",
+            "",
+            "break on water, is starting to pool below pot"
+          ],
+          [
+            "M1",
+            "9/24/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M2",
+            "9/24/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M3",
+            "9/24/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "C1A",
+            "9/25/2022",
+            "20 mL",
+            "Water",
+            "",
+            "soak seeds"
+          ],
+          [
+            "C2A",
+            "9/25/2022",
+            "20 mL",
+            "Water",
+            "",
+            "soak seeds"
+          ],
+          [
+            "M1",
+            "9/25/2022",
+            "20 mL",
+            "Water",
+            "",
+            "soak seeds"
+          ],
+          [
+            "M2",
+            "9/25/2022",
+            "20 mL",
+            "Water",
+            "",
+            "soak seeds"
+          ],
+          [
+            "M3",
+            "9/25/2022",
+            "20 mL",
+            "Water",
+            "",
+            "soak seeds"
+          ],
+          [
+            "C1A",
+            "9/26/2022",
+            "20 mL",
+            "Water",
+            "",
+            "Plant seeds; Found 5 dried worms under moon/mars pots"
+          ],
+          [
+            "C2A",
+            "9/26/2022",
+            "20 mL",
+            "Water",
+            "",
+            "Plant seeds; Found 5 dried worms under moon/mars pots"
+          ],
+          [
+            "M1",
+            "9/26/2022",
+            "20 mL",
+            "Water",
+            "",
+            "Plant seeds; Found 5 dried worms under moon/mars pots"
+          ],
+          [
+            "M2",
+            "9/26/2022",
+            "20 mL",
+            "Water",
+            "",
+            "Plant seeds; Found 5 dried worms under moon/mars pots"
+          ],
+          [
+            "M3",
+            "9/26/2022",
+            "20 mL",
+            "Water",
+            "",
+            "Plant seeds; Found 5 dried worms under moon/mars pots"
+          ],
+          [
+            "C1A",
+            "9/27/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "C2A",
+            "9/27/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M1",
+            "9/27/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M2",
+            "9/27/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M3",
+            "9/27/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "C1A",
+            "9/28/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "C2A",
+            "9/28/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M1",
+            "9/28/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M2",
+            "9/28/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M3",
+            "9/28/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "C1A",
+            "9/29/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "C2A",
+            "9/29/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M1",
+            "9/29/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M2",
+            "9/29/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M3",
+            "9/29/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "C1A",
+            "9/30/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "C2A",
+            "9/30/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M1",
+            "9/30/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M2",
+            "9/30/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 26,
+      "text": "Moon observations / water and fert schedule\nPlant\nDate\nMeasure Feed\nFeed Type\nGrow light\nComment\nM1\n10/6/2022 20 mL\nWater\nM2\n10/6/2022 20 mL\nWater\nM3\n10/6/2022 20 mL\nWater\nC1A\n10/7/2022 0 mL\nC2A\n10/7/2022 0 mL\nM1\n10/7/2022 0 mL\nM2\n10/7/2022 0 mL\nM3\n10/7/2022 0 mL\nC1A\n10/8/2022 20 mL\nWater\nTrimmed so that 1 beet / 1 bok choi remain\nC2A\n10/8/2022 20 mL\nWater\nM1\n10/8/2022 20 mL\nGrowBig Water Dilution\nM2\n10/8/2022 20 mL\nGrowBig Water Dilution\nM3\n10/8/2022 20 mL\nGrowBig Water Dilution\nC1A\n10/9/2022 20 mL\nWater\nC2A\n10/9/2022 20 mL\nWater\nM1\n10/9/2022 20 mL\nWater\nM2\n10/9/2022 20 mL\nWater\nM3\n10/9/2022 20 mL\nWater\nC1A\n10/10/2022 20 mL\nWater\nC2A\n10/10/2022 20 mL\nWater\nThinned out 1 beet; now 1 beet 1 bok choi left\nM1\n10/10/2022 20 mL\nMicrobrew Water Dilution\nThinned out 1 bok choi; 2 beet 1 bok choi left\nM2\n10/10/2022 20 mL\nMicrobrew Water Dilution\nThinned out 1 bok choi and 1 beet; 1 beet 1 bok choi left\nM3\n10/10/2022 20 mL\nMicrobrew Water Dilution\nThinned out 2 bok choi; 2 beet 1 bok choi left\nC1A\n10/11/2022 20 mL\nWater\nC2A\n10/11/2022 20 mL\nWater\nM1\n10/11/2022 20 mL\nWater\nM2\n10/11/2022 20 mL\nWater\nM3\n10/11/2022 20 mL\nWater\nC1A\n10/12/2022 10 mL\nWater\nC2A\n10/12/2022 10 mL\nWater\nM1\n10/12/2022 10 mL\nWater\nM2\n10/12/2022 10 mL\nWater\nM3\n10/12/2022 10 mL\nWater\nC1A\n10/13/2022 20 mL\nWater\nC2A\n10/13/2022 20 mL\nWater\nM1\n10/13/2022 20 mL\nGrowBig Water Dilution\nM2\n10/13/2022 20 mL\nGrowBig Water Dilution\nM3\n10/13/2022 20 mL\nGrowBig Water Dilution\nTrimmed one beet; one bok choi one beet left\nC1A\n10/14/2022 20 mL\nWater\nC2A\n10/14/2022 20 mL\nWater\nM1\n10/14/2022 20 mL\nMicrobrew Water Dilution\nM2\n10/14/2022 20 mL\nMicrobrew Water Dilution\nM3\n10/14/2022 20 mL\nMicrobrew Water Dilution\nC1A\n10/15/2022 10 mL\nWater\nC2A\n10/15/2022 10 mL\nWater\nM1\n10/15/2022 10 mL\nWater\nM2\n10/15/2022 10 mL\nWater\nM3\n10/15/2022 10 mL\nWater\nC1A\n10/16/2022 20 mL\nWater\nC2A\n10/16/2022 20 mL\nWater\nM1\n10/16/2022 20 mL\nGrowBig Water Dilution\nGrowBig Water Dilution increased from 1 tsp / gallon to 2 tsp / gallon\nM2\n10/16/2022 20 mL\nGrowBig Water Dilution\nGrowBig Water Dilution increased from 1 tsp / gallon to 2 tsp / gallon\nM3\n10/16/2022 20 mL\nGrowBig Water Dilution\nGrowBig Water Dilution increased from 1 tsp / gallon to 2 tsp / gallon\nC1A\n10/17/2022 20 mL\nWater\nC2A\n10/17/2022 20 mL\nWater\nSwitched out grow light\nM1\n10/17/2022 20 mL\nWater\nM2\n10/17/2022 20 mL\nWater\nM3\n10/17/2022 20 mL\nWater\nC1A\n10/18/2022 20 mL\nWater\nFound 1 dried worm under moon/mars pots\nC2A\n10/18/2022 20 mL\nWater\nFound 1 dried worm under moon/mars pots\nM1\n10/18/2022 20 mL\nMicrobrew Water Dilution\nFound 1 dried worm under moon/mars pots\nM2\n10/18/2022 20 mL\nMicrobrew Water Dilution\nFound 1 dried worm under moon/mars pots\nM3\n10/18/2022 20 mL\nMicrobrew Water Dilution\nFound 1 dried worm under moon/mars pots\nC1A\n10/19/2022 10 mL\nWater\nC2A\n10/19/2022 10 mL\nWater\nM1\n10/19/2022 10 mL\nWater\nM2\n10/19/2022 10 mL\nWater\nM3\n10/19/2022 10 mL\nWater\n25",
+      "char_count": 2888,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Moon observations / water and fert schedule",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Plant",
+            "Date",
+            "Measure Feed",
+            "Feed Type",
+            "Grow light",
+            "Comment"
+          ],
+          [
+            "M1",
+            "10/6/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M2",
+            "10/6/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M3",
+            "10/6/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "C1A",
+            "10/7/2022",
+            "0 mL",
+            "",
+            "",
+            ""
+          ],
+          [
+            "C2A",
+            "10/7/2022",
+            "0 mL",
+            "",
+            "",
+            ""
+          ],
+          [
+            "M1",
+            "10/7/2022",
+            "0 mL",
+            "",
+            "",
+            ""
+          ],
+          [
+            "M2",
+            "10/7/2022",
+            "0 mL",
+            "",
+            "",
+            ""
+          ],
+          [
+            "M3",
+            "10/7/2022",
+            "0 mL",
+            "",
+            "",
+            ""
+          ],
+          [
+            "C1A",
+            "10/8/2022",
+            "20 mL",
+            "Water",
+            "",
+            "Trimmed so that 1 beet / 1 bok choi remain"
+          ],
+          [
+            "C2A",
+            "10/8/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M1",
+            "10/8/2022",
+            "20 mL",
+            "GrowBig Water Dilution",
+            "",
+            ""
+          ],
+          [
+            "M2",
+            "10/8/2022",
+            "20 mL",
+            "GrowBig Water Dilution",
+            "",
+            ""
+          ],
+          [
+            "M3",
+            "10/8/2022",
+            "20 mL",
+            "GrowBig Water Dilution",
+            "",
+            ""
+          ],
+          [
+            "C1A",
+            "10/9/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "C2A",
+            "10/9/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M1",
+            "10/9/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M2",
+            "10/9/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M3",
+            "10/9/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "C1A",
+            "10/10/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "C2A",
+            "10/10/2022",
+            "20 mL",
+            "Water",
+            "",
+            "Thinned out 1 beet; now 1 beet 1 bok choi left"
+          ],
+          [
+            "M1",
+            "10/10/2022",
+            "20 mL",
+            "Microbrew Water Dilution",
+            "",
+            "Thinned out 1 bok choi; 2 beet 1 bok choi left"
+          ],
+          [
+            "M2",
+            "10/10/2022",
+            "20 mL",
+            "Microbrew Water Dilution",
+            "",
+            "Thinned out 1 bok choi and 1 beet; 1 beet 1 bok choi left"
+          ],
+          [
+            "M3",
+            "10/10/2022",
+            "20 mL",
+            "Microbrew Water Dilution",
+            "",
+            "Thinned out 2 bok choi; 2 beet 1 bok choi left"
+          ],
+          [
+            "C1A",
+            "10/11/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "C2A",
+            "10/11/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M1",
+            "10/11/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M2",
+            "10/11/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M3",
+            "10/11/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "C1A",
+            "10/12/2022",
+            "10 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "C2A",
+            "10/12/2022",
+            "10 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M1",
+            "10/12/2022",
+            "10 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M2",
+            "10/12/2022",
+            "10 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M3",
+            "10/12/2022",
+            "10 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "C1A",
+            "10/13/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "C2A",
+            "10/13/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M1",
+            "10/13/2022",
+            "20 mL",
+            "GrowBig Water Dilution",
+            "",
+            ""
+          ],
+          [
+            "M2",
+            "10/13/2022",
+            "20 mL",
+            "GrowBig Water Dilution",
+            "",
+            ""
+          ],
+          [
+            "M3",
+            "10/13/2022",
+            "20 mL",
+            "GrowBig Water Dilution",
+            "",
+            "Trimmed one beet; one bok choi one beet left"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 27,
+      "text": "Moon observations / water and fert schedule\nPlant\nDate\nMeasure Feed\nFeed Type\nGrow light\nComment\nC1A\n10/20/2022 20 mL\nWater\nC2A\n10/20/2022 20 mL\nWater\nM1\n10/20/2022 20 mL\nGrowBig Water Dilution\nM2\n10/20/2022 20 mL\nGrowBig Water Dilution\nM3\n10/20/2022 20 mL\nGrowBig Water Dilution\nC1A\n10/21/2022 20 mL\nWater\nC2A\n10/21/2022 20 mL\nWater\nM1\n10/21/2022 20 mL\nMicrobrew Water Dilution\nM2\n10/21/2022 20 mL\nMicrobrew Water Dilution\nM3\n10/21/2022 20 mL\nMicrobrew Water Dilution\nC1A\n10/22/2022 20 mL\nWater\nC2A\n10/22/2022 20 mL\nWater\nM1\n10/22/2022 20 mL\nWater\nM2\n10/22/2022 20 mL\nWater\nM3\n10/22/2022 20 mL\nWater\nC1A\n10/23/2022 20 mL\nWater\nC2A\n10/23/2022 30 mL\nWater\nM1\n10/23/2022 20 mL\nWater\nM2\n10/23/2022 20 mL\nWater\nM3\n10/23/2022 20 mL\nWater\nC1A\n10/24/2022 20 mL\nWater\nC2A\n10/24/2022 30 mL\nWater\nM1\n10/24/2022 20 mL\nWater\nM2\n10/24/2022 20 mL\nWater\nM3\n10/24/2022 20 mL\nWater\nC1A\n10/25/2022 20 mL\nWater\nC2A\n10/25/2022 30 mL\nWater\nM1\n10/25/2022 20 mL\nGrowBig Water Dilution\nM2\n10/25/2022 20 mL\nGrowBig Water Dilution\nM3\n10/25/2022 20 mL\nGrowBig Water Dilution\nC1A\n10/26/2022 20 mL\nWater\nC2A\n10/26/2022 30 mL\nWater\nM1\n10/26/2022 20 mL\nWater\nM2\n10/26/2022 20 mL\nWater\nM3\n10/26/2022 20 mL\nWater\nC1A\n10/27/2022 20 mL\nWater\nC2A\n10/27/2022 30 mL\nWater\nTook 'hat' (top section of grow pot) off\nM1\n10/27/2022 20 mL\nGrowBig Water Dilution\nM2\n10/27/2022 20 mL\nGrowBig Water Dilution\nM3\n10/27/2022 20 mL\nGrowBig Water Dilution\nC1A\n10/28/2022 20 mL\nWater\nC2A\n10/28/2022 30 mL\nWater\nM1\n10/28/2022 20 mL\nWater\nM2\n10/28/2022 20 mL\nWater\nM3\n10/28/2022 20 mL\nWater\nC1A\n10/29/2022 20 mL\nWater\nC2A\n10/29/2022 30 mL\nWater\nM1\n10/29/2022 20 mL\nGrowBig Water Dilution\nM2\n10/29/2022 20 mL\nGrowBig Water Dilution\nM3\n10/29/2022 20 mL\nGrowBig Water Dilution\nC1A\n10/30/2022 20 mL\nWater\nC2A\n10/30/2022 20 mL\nWater\nM1\n10/30/2022 20 mL\nMicrobrew Water Dilution\nM2\n10/30/2022 20 mL\nMicrobrew Water Dilution\nM3\n10/30/2022 20 mL\nMicrobrew Water Dilution\nC1A\n10/31/2022 20 mL\nWater\nC2A\n10/31/2022 30 mL\nWater\nM1\n10/31/2022 20 mL\nWater\nM2\n10/31/2022 20 mL\nWater\nM3\n10/31/2022 20 mL\nWater\nC1A\n11/1/2022 20 mL\nWater\nC2A\n11/1/2022 30 mL\nWater\nM1\n11/1/2022 20 mL\nWater\nM2\n11/1/2022 20 mL\nWater\nM3\n11/1/2022 20 mL\nWater\nC1A\n11/2/2022 20 mL\nWater\nC2A\n11/2/2022 30 mL\nWater\nM1\n11/2/2022 20 mL\nGrowBig Water Dilution\n26",
+      "char_count": 2263,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Moon observations / water and fert schedule",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Plant",
+            "Date",
+            "Measure Feed",
+            "Feed Type",
+            "Grow light",
+            "Comment"
+          ],
+          [
+            "C1A",
+            "10/20/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "C2A",
+            "10/20/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M1",
+            "10/20/2022",
+            "20 mL",
+            "GrowBig Water Dilution",
+            "",
+            ""
+          ],
+          [
+            "M2",
+            "10/20/2022",
+            "20 mL",
+            "GrowBig Water Dilution",
+            "",
+            ""
+          ],
+          [
+            "M3",
+            "10/20/2022",
+            "20 mL",
+            "GrowBig Water Dilution",
+            "",
+            ""
+          ],
+          [
+            "C1A",
+            "10/21/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "C2A",
+            "10/21/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M1",
+            "10/21/2022",
+            "20 mL",
+            "Microbrew Water Dilution",
+            "",
+            ""
+          ],
+          [
+            "M2",
+            "10/21/2022",
+            "20 mL",
+            "Microbrew Water Dilution",
+            "",
+            ""
+          ],
+          [
+            "M3",
+            "10/21/2022",
+            "20 mL",
+            "Microbrew Water Dilution",
+            "",
+            ""
+          ],
+          [
+            "C1A",
+            "10/22/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "C2A",
+            "10/22/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M1",
+            "10/22/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M2",
+            "10/22/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M3",
+            "10/22/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "C1A",
+            "10/23/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "C2A",
+            "10/23/2022",
+            "30 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M1",
+            "10/23/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M2",
+            "10/23/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M3",
+            "10/23/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "C1A",
+            "10/24/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "C2A",
+            "10/24/2022",
+            "30 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M1",
+            "10/24/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M2",
+            "10/24/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M3",
+            "10/24/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "C1A",
+            "10/25/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "C2A",
+            "10/25/2022",
+            "30 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M1",
+            "10/25/2022",
+            "20 mL",
+            "GrowBig Water Dilution",
+            "",
+            ""
+          ],
+          [
+            "M2",
+            "10/25/2022",
+            "20 mL",
+            "GrowBig Water Dilution",
+            "",
+            ""
+          ],
+          [
+            "M3",
+            "10/25/2022",
+            "20 mL",
+            "GrowBig Water Dilution",
+            "",
+            ""
+          ],
+          [
+            "C1A",
+            "10/26/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "C2A",
+            "10/26/2022",
+            "30 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M1",
+            "10/26/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M2",
+            "10/26/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M3",
+            "10/26/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "C1A",
+            "10/27/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "C2A",
+            "10/27/2022",
+            "30 mL",
+            "Water",
+            "",
+            "Took 'hat' (top section of grow pot) off"
+          ],
+          [
+            "M1",
+            "10/27/2022",
+            "20 mL",
+            "GrowBig Water Dilution",
+            "",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 28,
+      "text": "Moon observations / water and fert schedule\nPlant\nDate\nMeasure Feed\nFeed Type\nGrow light\nComment\nM2\n11/2/2022 20 mL\nGrowBig Water Dilution\nM3\n11/2/2022 20 mL\nGrowBig Water Dilution\nC1A\n11/3/2022 20 mL\nWater\nC2A\n11/3/2022 40 mL\nWater\nM1\n11/3/2022 20 mL\nMicrobrew Water Dilution\nTook 'hat' (top section of grow pot) off\nM2\n11/3/2022 20 mL\nMicrobrew Water Dilution\nM3\n11/3/2022 20 mL\nMicrobrew Water Dilution\nTook 'hat' (top section of grow pot) off\nC1A\n11/4/2022 20 mL\nWater\nC2A\n11/4/2022 40 mL\nWater\nM1\n11/4/2022 30 mL\nWater\nM2\n11/4/2022 20 mL\nWater\nM3\n11/4/2022 30 mL\nWater\nC1A\n11/5/2022 20 mL\nWater\nC2A\n11/5/2022 45 mL\nWater\nM1\n11/5/2022 30 mL\nWater\nM2\n11/5/2022 20 mL\nWater\nM3\n11/5/2022 30 mL\nWater\nC1A\n11/6/2022 20 mL\nWater\nC2A\n11/6/2022 45 mL\nWater\nM1\n11/6/2022 20 mL\nGrowBig Water Dilution\nM2\n11/6/2022 20 mL\nGrowBig Water Dilution\nM3\n11/6/2022 20 mL\nGrowBig Water Dilution\nC1A\n11/7/2022 20 mL\nWater\nC2A\n11/7/2022 45 mL\nWater\nM1\n11/7/2022 30 mL\nWater\nM2\n11/7/2022 20 mL\nWater\nM3\n11/7/2022 30 mL\nWater\nC1A\n11/8/2022 20 mL\nWater\nC2A\n11/8/2022 45 mL\nWater\nM1\n11/8/2022 30 mL\nWater\nM2\n11/8/2022 20 mL\nWater\nM3\n11/8/2022 30 mL\nWater\nC1A\n11/9/2022 20 mL\nWater\nC2A\n11/9/2022 45 mL\nWater\nM1\n11/9/2022 20 mL\nGrowBig Water Dilution\nM2\n11/9/2022 20 mL\nGrowBig Water Dilution\nTook 'hat' (top section of grow pot) off\nM3\n11/9/2022 20 mL\nGrowBig Water Dilution\nC1A\n11/10/2022 20 mL\nWater\nC2A\n11/10/2022 45 mL\nWater\nM1\n11/10/2022 30 mL\nWater\nM2\n11/10/2022 20 mL\nWater\nM3\n11/10/2022 30 mL\nWater\nC1A\n11/11/2022 20 mL\nWater\nC2A\n11/11/2022 45 mL\nWater\nM1\n11/11/2022 30 mL\nWater\nM2\n11/11/2022 20 mL\nWater\nM3\n11/11/2022 30 mL\nWater\nC1A\n11/12/2022 20 mL\nWater\nC2A\n11/12/2022 45 mL\nWater\nM1\n11/12/2022 20 mL\nGrowBig Water Dilution\nM2\n11/12/2022 20 mL\nGrowBig Water Dilution\nM3\n11/12/2022 20 mL\nGrowBig Water Dilution\nC1A\n11/13/2022 20 mL\nWater\nC2A\n11/13/2022 45 mL\nWater\nM1\n11/13/2022 20 mL\nMicrobrew Water Dilution\nM2\n11/13/2022 20 mL\nMicrobrew Water Dilution\nM3\n11/13/2022 20 mL\nMicrobrew Water Dilution\nC1A\n11/14/2022 20 mL\nWater\nC2A\n11/14/2022 45 mL\nWater\nM1\n11/14/2022 30 mL\nWater\nM2\n11/14/2022 30 mL\nWater\nM3\n11/14/2022 30 mL\nWater\nC1A\n11/15/2022 20 mL\nWater\nC2A\n11/15/2022 45 mL\nWater\nM1\n11/15/2022 35 mL\nWater\nM2\n11/15/2022 35 mL\nWater\nM3\n11/15/2022 35 mL\nWater\nC1A\n11/16/2022 20 mL\nWater\n27",
+      "char_count": 2281,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Moon observations / water and fert schedule",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Plant",
+            "Date",
+            "Measure Feed",
+            "Feed Type",
+            "Grow light",
+            "Comment"
+          ],
+          [
+            "M2",
+            "11/2/2022",
+            "20 mL",
+            "GrowBig Water Dilution",
+            "",
+            ""
+          ],
+          [
+            "M3",
+            "11/2/2022",
+            "20 mL",
+            "GrowBig Water Dilution",
+            "",
+            ""
+          ],
+          [
+            "C1A",
+            "11/3/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "C2A",
+            "11/3/2022",
+            "40 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M1",
+            "11/3/2022",
+            "20 mL",
+            "Microbrew Water Dilution",
+            "",
+            "Took 'hat' (top section of grow pot) off"
+          ],
+          [
+            "M2",
+            "11/3/2022",
+            "20 mL",
+            "Microbrew Water Dilution",
+            "",
+            ""
+          ],
+          [
+            "M3",
+            "11/3/2022",
+            "20 mL",
+            "Microbrew Water Dilution",
+            "",
+            "Took 'hat' (top section of grow pot) off"
+          ],
+          [
+            "C1A",
+            "11/4/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "C2A",
+            "11/4/2022",
+            "40 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M1",
+            "11/4/2022",
+            "30 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M2",
+            "11/4/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M3",
+            "11/4/2022",
+            "30 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "C1A",
+            "11/5/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "C2A",
+            "11/5/2022",
+            "45 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M1",
+            "11/5/2022",
+            "30 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M2",
+            "11/5/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M3",
+            "11/5/2022",
+            "30 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "C1A",
+            "11/6/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "C2A",
+            "11/6/2022",
+            "45 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M1",
+            "11/6/2022",
+            "20 mL",
+            "GrowBig Water Dilution",
+            "",
+            ""
+          ],
+          [
+            "M2",
+            "11/6/2022",
+            "20 mL",
+            "GrowBig Water Dilution",
+            "",
+            ""
+          ],
+          [
+            "M3",
+            "11/6/2022",
+            "20 mL",
+            "GrowBig Water Dilution",
+            "",
+            ""
+          ],
+          [
+            "C1A",
+            "11/7/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "C2A",
+            "11/7/2022",
+            "45 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M1",
+            "11/7/2022",
+            "30 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M2",
+            "11/7/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M3",
+            "11/7/2022",
+            "30 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "C1A",
+            "11/8/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "C2A",
+            "11/8/2022",
+            "45 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M1",
+            "11/8/2022",
+            "30 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M2",
+            "11/8/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M3",
+            "11/8/2022",
+            "30 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "C1A",
+            "11/9/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "C2A",
+            "11/9/2022",
+            "45 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M1",
+            "11/9/2022",
+            "20 mL",
+            "GrowBig Water Dilution",
+            "",
+            ""
+          ],
+          [
+            "M2",
+            "11/9/2022",
+            "20 mL",
+            "GrowBig Water Dilution",
+            "",
+            "Took 'hat' (top section of grow pot) off"
+          ],
+          [
+            "M3",
+            "11/9/2022",
+            "20 mL",
+            "GrowBig Water Dilution",
+            "",
+            ""
+          ],
+          [
+            "C1A",
+            "11/10/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 29,
+      "text": "Moon observations / water and fert schedule\nPlant\nDate\nMeasure Feed\nFeed Type\nGrow light\nComment\nC2A\n11/16/2022 45 mL\nWater\nM1\n11/16/2022 35 mL\nWater\nM2\n11/16/2022 35 mL\nWater\nM3\n11/16/2022 35 mL\nWater\nC1A\n11/17/2022 20 mL\nWater\nC2A\n11/17/2022 45 mL\nWater\nM1\n11/17/2022 35 mL\nWater\nM2\n11/17/2022 35 mL\nWater\nM3\n11/17/2022 35 mL\nWater\nC1A\n11/18/2022 0 mL\nLights off / pot take down\nVery dense soil\nC2A\n11/18/2022 0 mL\nLights off / pot take down\nM1\n11/18/2022 0 mL\nLights off / pot take down\nWatermelon vine still appears to be in soil, from when pot was set up\nM2\n11/18/2022 0 mL\nLights off / pot take down\nWatermelon vine not visible in soil; found 1 worm in soil\nM3\n11/18/2022 0 mL\nLights off / pot take down\nWatermelon vine still appears to be in soil, from when pot was set up\n28",
+      "char_count": 782,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Moon observations / water and fert schedule",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Plant",
+            "Date",
+            "Measure Feed",
+            "Feed Type",
+            "Grow light",
+            "Comment"
+          ],
+          [
+            "C2A",
+            "11/16/2022",
+            "45 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M1",
+            "11/16/2022",
+            "35 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M2",
+            "11/16/2022",
+            "35 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M3",
+            "11/16/2022",
+            "35 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "C1A",
+            "11/17/2022",
+            "20 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "C2A",
+            "11/17/2022",
+            "45 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M1",
+            "11/17/2022",
+            "35 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M2",
+            "11/17/2022",
+            "35 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "M3",
+            "11/17/2022",
+            "35 mL",
+            "Water",
+            "",
+            ""
+          ],
+          [
+            "C1A",
+            "11/18/2022",
+            "0 mL",
+            "",
+            "Lights off / pot take down",
+            "Very dense soil"
+          ],
+          [
+            "C2A",
+            "11/18/2022",
+            "0 mL",
+            "",
+            "Lights off / pot take down",
+            ""
+          ],
+          [
+            "M1",
+            "11/18/2022",
+            "0 mL",
+            "",
+            "Lights off / pot take down",
+            "Watermelon vine still appears to be in soil, from when pot was set up"
+          ],
+          [
+            "M2",
+            "11/18/2022",
+            "0 mL",
+            "",
+            "Lights off / pot take down",
+            "Watermelon vine not visible in soil; found 1 worm in soil"
+          ],
+          [
+            "M3",
+            "11/18/2022",
+            "0 mL",
+            "",
+            "Lights off / pot take down",
+            "Watermelon vine still appears to be in soil, from when pot was set up"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 30,
+      "text": "\u0000\u0001\u0002\u0003\u0005\u0005\u0006\u0003\u0007\u0002\b\u0001 \n\u0005\u000b\u0003\u0005\f\u0005\r\u0001 \u0007\u0002\u0005\u0001\u000b\u000e\u0005\u000f\u0007\u0002 \u0005\u0003\u0010\u0011\u0007\u000e\u0012\u0013\u0007\n\u0014\u0015\u0016\u0017\u0018\n\u0019\u0016\u0018\u001a\n\u001b\u001a\u0016\u001c\u001d\u001e\u001a\u0005 \u001a\u001a! \u001a\u001a!\u0005\"#$\u001a\n%\u001e&'\u0005\u0015()*\u0018\n+&,,\u001a\u0017\u0018\n+-.\n/0110121112\u0005,3\n4\u0016\u0018\u001a\u001e\n\u0014&\u0018\u0005\u001c\u001a\u0018\u0005\u001d$\n+1.\n/0110121112\u0005,3\n4\u0016\u0018\u001a\u001e\n\u0014&\u0018\u0005\u001c\u001a\u0018\u0005\u001d$\n\u001b\u0016-\n/0110121112\u0005,3\n\u001b(5\u001e&6\u001e\u001a'\u00054\u0016\u0018\u001a\u001e\n\u0019(\u0015\u001d\u0018(&\u00170%\u001e&'.()\n4\u0016\u0018\u001a\u001e\u0005\u0019(\u0015\u001d\u0018(&\u0017\n\u0014&\u0018\u0005\u001c\u001a\u0018\u0005\u001d$\n\u001b\u00161\n/0110121112\u0005,3\n\u001b(5\u001e&6\u001e\u001a'\u00054\u0016\u0018\u001a\u001e\n\u0019(\u0015\u001d\u0018(&\u00170%\u001e&'.()\n4\u0016\u0018\u001a\u001e\u0005\u0019(\u0015\u001d\u0018(&\u0017\n\u0014&\u0018\u0005\u001c\u001a\u0018\u0005\u001d$\n\u001b\u00167\n/0110121112\u0005,3\n\u001b(5\u001e&6\u001e\u001a'\u00054\u0016\u0018\u001a\u001e\n\u0019(\u0015\u001d\u0018(&\u00170%\u001e&'.()\n4\u0016\u0018\u001a\u001e\u0005\u0019(\u0015\u001d\u0018(&\u0017\n\u0014&\u0018\u0005\u001c\u001a\u0018\u0005\u001d$\u00050\u0005\u001b\u001678\n\u001c\u0005\u0015\u001a\u00169\u001a\u0005,\u0016\u0018\u0018\u001a\u001e\u0005'\u0016\u001c\u00055&\u0015\u0015\u001a5\u0018\u001a!\u0005&\u0017\u0005/011011\u0005\u0016\u0017!\u0005\u0017&\u0018\u0005\u001a\u0017\u0018(\u001e\u001a\u0015#\u0005!\u001e(\u001a!\n+-.\n/0170121112\u0005,3\n4\u0016\u0018\u001a\u001e\n:\u0018\u0016\u001e\u0018\u0005,\u0016;\u00056\u001e()*\u0018\u00050\u0005-1\u0005*\u001e\u0005!\u0016#\n+1.\n/0170121112\u0005,3\n4\u0016\u0018\u001a\u001e\n:\u0018\u0016\u001e\u0018\u0005,\u0016;\u00056\u001e()*\u0018\u00050\u0005-1\u0005*\u001e\u0005!\u0016#\n\u001b\u0016-\n/0170121112\u0005,3\n4\u0016\u0018\u001a\u001e\n:\u0018\u0016\u001e\u0018\u0005,\u0016;\u00056\u001e()*\u0018\u00050\u0005-1\u0005*\u001e\u0005!\u0016#\n\u001b\u00161\n/0170121112\u0005,3\n4\u0016\u0018\u001a\u001e\n:\u0018\u0016\u001e\u0018\u0005,\u0016;\u00056\u001e()*\u0018\u00050\u0005-1\u0005*\u001e\u0005!\u0016#\n\u001b\u00167\n/0170121112\u0005,3\n4\u0016\u0018\u001a\u001e\n:\u0018\u0016\u001e\u0018\u0005,\u0016;\u00056\u001e()*\u0018\u00050\u0005-1\u0005*\u001e\u0005!\u0016#\n+-.\n/01<0121112\u0005,3\n4\u0016\u0018\u001a\u001e\n+1.\n/01<0121112\u0005,3\n4\u0016\u0018\u001a\u001e\n\u001b\u0016-\n/01<0121112\u0005,3\n4\u0016\u0018\u001a\u001e\n\u001b\u00161\n/01<0121112\u0005,3\n4\u0016\u0018\u001a\u001e\n\u001b\u00167\n/01<0121112\u0005,3\n4\u0016\u0018\u001a\u001e\n+-.\n/01=0121112\u0005,3\n4\u0016\u0018\u001a\u001e\n\u001c&\u0016>\u0005\u001c\u001a\u001a!\u001c\n+1.\n/01=0121112\u0005,3\n4\u0016\u0018\u001a\u001e\n\u001c&\u0016>\u0005\u001c\u001a\u001a!\u001c\n\u001b\u0016-\n/01=0121112\u0005,3\n4\u0016\u0018\u001a\u001e\n\u001c&\u0016>\u0005\u001c\u001a\u001a!\u001c\n\u001b\u00161\n/01=0121112\u0005,3\n4\u0016\u0018\u001a\u001e\n\u001c&\u0016>\u0005\u001c\u001a\u001a!\u001c\n\u001b\u00167\n/01=0121112\u0005,3\n4\u0016\u0018\u001a\u001e\n\u001c&\u0016>\u0005\u001c\u001a\u001a!\u001c\n+-.\n/01?0121112\u0005,3\n4\u0016\u0018\u001a\u001e\n\u0014\u0015\u0016\u0017\u0018\u0005\u001c\u001a\u001a!\u001c@\u0005 &\u001d\u0017!\u0005=\u0005!\u001e(\u001a!\u0005'&\u001e,\u001c\u0005\u001d\u0017!\u001a\u001e\u0005,&&\u00170,\u0016\u001e\u001c\u0005$&\u0018\u001c@\u0005\u0017&\u0018\u0005,\u001d5*\u0005\u001a\u0016\u001e\u0018*#\u0005\u001c,\u001a\u0015\u0015\nA&\u001e\u0005,\u0016\u001e\u001c\u0005$&\u0018\u001c\n+1.\n/01?0121112\u0005,3\n4\u0016\u0018\u001a\u001e\n\u0014\u0015\u0016\u0017\u0018\u0005\u001c\u001a\u001a!\u001c@\u0005 &\u001d\u0017!\u0005=\u0005!\u001e(\u001a!\u0005'&\u001e,\u001c\u0005\u001d\u0017!\u001a\u001e\u0005,&&\u00170,\u0016\u001e\u001c\u0005$&\u0018\u001c@\u0005\u0017&\u0018\u0005,\u001d5*\u0005\u001a\u0016\u001e\u0018*#\u0005\u001c,\u001a\u0015\u0015\nA&\u001e\u0005,\u0016\u001e\u001c\u0005$&\u0018\u001c\n\u001b\u0016-\n/01?0121112\u0005,3\n4\u0016\u0018\u001a\u001e\n\u0014\u0015\u0016\u0017\u0018\u0005\u001c\u001a\u001a!\u001c@\u00056(\u0018\u0005&A\u0005'*(\u0018\u001a\u0005A\u001d\u0017)\u001d\u001c0,&\u0015!\u0005\u001c*&'(\u0017)\u0005&\u0017\u0005\u0018&$\u0005&A\u0005\u001c&(\u0015@\u0005 &\u001d\u0017!\u0005=\u0005!\u001e(\u001a!\u0005'&\u001e,\u001c\n\u001d\u0017!\u001a\u001e\u0005,&&\u00170,\u0016\u001e\u001c\u0005$&\u0018\u001c@\u0005\u0017&\u0018\u0005,\u001d5*\u0005\u001a\u0016\u001e\u0018*#\u0005\u001c,\u001a\u0015\u0015\u0005A&\u001e\u0005,\u0016\u001e\u001c\u0005$&\u0018\u001c\n\u001b\u00161\n/01?0121112\u0005,3\n4\u0016\u0018\u001a\u001e\n\u0014\u0015\u0016\u0017\u0018\u0005\u001c\u001a\u001a!\u001c@\u0005 &\u001d\u0017!\u0005=\u0005!\u001e(\u001a!\u0005'&\u001e,\u001c\u0005\u001d\u0017!\u001a\u001e\u0005,&&\u00170,\u0016\u001e\u001c\u0005$&\u0018\u001c@\u0005\u0017&\u0018\u0005,\u001d5*\u0005\u001a\u0016\u001e\u0018*#\u0005\u001c,\u001a\u0015\u0015\nA&\u001e\u0005,\u0016\u001e\u001c\u0005$&\u0018\u001c\n\u001b\u00167\n/01?0121112\u0005,3\n4\u0016\u0018\u001a\u001e\n\u0014\u0015\u0016\u0017\u0018\u0005\u001c\u001a\u001a!\u001c@\u0005 &\u001d\u0017!\u0005=\u0005!\u001e(\u001a!\u0005'&\u001e,\u001c\u0005\u001d\u0017!\u001a\u001e\u0005,&&\u00170,\u0016\u001e\u001c\u0005$&\u0018\u001c@\u0005\u0017&\u0018\u0005,\u001d5*\u0005\u001a\u0016\u001e\u0018*#\u0005\u001c,\u001a\u0015\u0015\nA&\u001e\u0005,\u0016\u001e\u001c\u0005$&\u0018\u001c\n+-.\n/01B0121112\u0005,3\n4\u0016\u0018\u001a\u001e\n+1.\n/01B0121112\u0005,3\n4\u0016\u0018\u001a\u001e\n\u001b\u0016-\n/01B0121112\u0005,3\n4\u0016\u0018\u001a\u001e\n\u001b\u00161\n/01B0121112\u0005,3\n4\u0016\u0018\u001a\u001e\n\u001b\u00167\n/01B0121112\u0005,3\n4\u0016\u0018\u001a\u001e\n+-.\n/01C0121112\u0005,3\n4\u0016\u0018\u001a\u001e\n+1.\n/01C0121112\u0005,3\n4\u0016\u0018\u001a\u001e\n\u001b\u0016-\n/01C0121112\u0005,3\n4\u0016\u0018\u001a\u001e\n\u001b\u00161\n/01C0121112\u0005,3\n4\u0016\u0018\u001a\u001e\n\u001b\u00167\n/01C0121112\u0005,3\n4\u0016\u0018\u001a\u001e\n+-.\n/01/0121112\u0005,3\n4\u0016\u0018\u001a\u001e\n+1.\n/01/0121112\u0005,3\n4\u0016\u0018\u001a\u001e\n\u001b\u0016-\n/01/0121112\u0005,3\n4\u0016\u0018\u001a\u001e\n\u001b\u00161\n/01/0121112\u0005,3\n4\u0016\u0018\u001a\u001e\n\u001b\u00167\n/01/0121112\u0005,3\n4\u0016\u0018\u001a\u001e\n+-.\n/0720121112\u0005,3\n4\u0016\u0018\u001a\u001e\n+1.\n/0720121112\u0005,3\n4\u0016\u0018\u001a\u001e\n\u001b\u0016-\n/0720121112\u0005,3\n4\u0016\u0018\u001a\u001e\n\u001b\u00161\n/0720121112\u0005,3\n4\u0016\u0018\u001a\u001e\n\u001b\u00167\n/0720121112\u0005,3\n4\u0016\u0018\u001a\u001e\n+-.\n-20-0121112\u0005,3\n4\u0016\u0018\u001a\u001e\n1\u00056&>\u00055*&(\u0005)\u001a\u001e,8\n!\u0005\u001c&\u0005A\u0016\u001e@\u0005<\u00056\u001a\u001a\u0018\u0005)\u001a\u001e,8\n!\u0005\u001c&\u0005A\u0016\u001e@\u0005\u0018*(\u0017\u0017\u001a!\u0005&\u001d\u0018\u00051\u00056\u001a\u001a\u0018\u0005D\u0015&&>\u001c\u0005\u0015(>\u001a\u0005\u0016\u0005A\u001a'\n\u001a;\u0018\u001e\u0016\u00056\u001a\u001a\u0018\u0005\u001c\u001a\u001a!\u0005,\u0016!\u001a\u0005(\u0018\u0005(\u0017\u0005&\u0017\u0005$\u0015\u0016\u0017\u0018(\u0017)E\n+1.\n-20-0121112\u0005,3\n4\u0016\u0018\u001a\u001e\n1\u00056&>\u00055*&(\u0005)\u001a\u001e,8\n!\u0005\u001c&\u0005A\u0016\u001e@\u00051\u00056\u001a\u001a\u0018\u0005)\u001a\u001e,8\n!\u0005\u001c&\u0005A\u0016\u001e\n\u001b\u0016-\n-20-0121112\u0005,3\n4\u0016\u0018\u001a\u001e\n1\u00056&>\u00055*&(\u0005)\u001a\u001e,8\n!\u0005\u001c&\u0005A\u0016\u001e@\u00057\u00056\u001a\u001a\u0018\u0005)\u001a\u001e,8\n!\u0005\u001c&\u0005A\u0016\u001e@\u0005\u0018*(\u0017\u0017\u001a!\u0005&\u001d\u0018\u0005-\u00056\u001a\u001a\u0018F\u0005\u0005.\u001a\u001a\u0018\u0005\u0015\u001a\u00169\u001a\u001c\u0005*\u00169\u001a\n8\n*\u001a\u0016\u0015\u0018*#8\n\u0005\u0015&&>(\u0017)\u0005\u001e\u001a!\n\u001b\u00161\n-20-0121112\u0005,3\n4\u0016\u0018\u001a\u001e\n\u001b\u00167\n-20-0121112\u0005,3\n4\u0016\u0018\u001a\u001e\nG\u0017\u0015#\u0005-\u0005\u001c\u001a\u001a!\u0005)\u001a\u001e,8\n!\u0005D6&>\u00055*&(E\u0005\u001c&\u0005A\u0016\u001e@\u0005\u0016!!\u001a!\u0005,&\u001e\u001a\u0005$\u001e\u001a\u001c&\u0016>\u001a!\u0005\u001c\u001a\u001a!\u001c\u0005D7\u00056&>\u00055*&(H\u00057\n6\u001a\u001a\u0018E\n+-.\n-2010121112\u0005,3\n4\u0016\u0018\u001a\u001e\n+1.\n-2010121112\u0005,3\n4\u0016\u0018\u001a\u001e\n\u001b\u0016-\n-2010121112\u0005,3\n4\u0016\u0018\u001a\u001e\n\u001b\u00161\n-2010121112\u0005,3\n4\u0016\u0018\u001a\u001e\n\u001b\u00167\n-2010121112\u0005,3\n4\u0016\u0018\u001a\u001e\n+-.\n-2070121112\u0005,3\n4\u0016\u0018\u001a\u001e\n+1.\n-2070121112\u0005,3\n4\u0016\u0018\u001a\u001e\n\u001b\u0016-\n-2070121112\u0005,3\n4\u0016\u0018\u001a\u001e\n1\u00056&>\u00055*&(\u0005)\u001a\u001e,8\n!\u0005\u001c&\u0005A\u0016\u001e@\u0005-\u00056\u001a\u001a\u0018\u0005)\u001a\u001e,8\n!\u0005\u001c&\u0005A\u0016\u001eF\u0005\u0005I!!\u001a!\u00057\u0005,&\u001e\u001a\u0005$\u001e\u001a\u001c&\u0016>\u001a!\u00056\u001a\u001a\u0018\u0005\u001c\u001a\u001a!\u001cF\n29",
+      "char_count": 2964,
+      "image_count": 1,
+      "tables": [
+        [
+          [
+            "(cid:0)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:4)(cid:8)(cid:3)(cid:9)(cid:2)(cid:10)(cid:11)(cid:6)(cid:12)(cid:4)(cid:5)(cid:13)(cid:5)(cid:14)(cid:2)(cid:10)(cid:8)(cid:3)(cid:5)(cid:2)(cid:12)(cid:15)(cid:5)(cid:16)(cid:8)(cid:3)(cid:10)(cid:5)(cid:4)(cid:17)(cid:18)(cid:8)(cid:15)(cid:19)(cid:20)(cid:8) (cid:21)(cid:22)(cid:23)(cid:24)(cid:25) (cid:26)(cid:23)(cid:25)(cid:27) (cid:28)(cid:27)(cid:23)(cid:29)(cid:30)(cid:31)(cid:27)(cid:5) (cid:27)(cid:27)! (cid:27)(cid:27)!(cid:5)\"#$(cid:27) %(cid:31)&\u2019(cid:5)(cid:22)()*(cid:25) +&,,(cid:27)(cid:24)(cid:25) +-. /0110121112(cid:5),3 4(cid:23)(cid:25)(cid:27)(cid:31) (cid:21)&(cid:25)(cid:5)(cid:29)(cid:27)(cid:25)(cid:5)(cid:30)$ +1. /0110121112(cid:5),3 4(cid:23)(cid:25)(cid:27)(cid:31) (cid:21)&(cid:25)(cid:5)(cid:29)(cid:27)(cid:25)(cid:5)(cid:30)$ (cid:28)(5(cid:31)&6(cid:31)(cid:27)\u2019(cid:5)4(cid:23)(cid:25)(cid:27)(cid:31) (cid:26)((cid:22)(cid:30)(cid:25)(&(cid:24)0%(cid:31)&\u2019.() (cid:28)(cid:23)- /0110121112(cid:5),3 4(cid:23)(cid:25)(cid:27)(cid:31)(cid:5)(cid:26)((cid:22)(cid:30)(cid:25)(&(cid:24) (cid:21)&(cid:25)(cid:5)(cid:29)(cid:27)(cid:25)(cid:5)(cid:30)$ (cid:28)(5(cid:31)&6(cid:31)(cid:27)\u2019(cid:5)4(cid:23)(cid:25)(cid:27)(cid:31) (cid:26)((cid:22)(cid:30)(cid:25)(&(cid:24)0%(cid:31)&\u2019.() (cid:28)(cid:23)1 /0110121112(cid:5),3 4(cid:23)(cid:25)(cid:27)(cid:31)(cid:5)(cid:26)((cid:22)(cid:30)(cid:25)(&(cid:24) (cid:21)&(cid:25)(cid:5)(cid:29)(cid:27)(cid:25)(cid:5)(cid:30)$ (cid:28)(5(cid:31)&6(cid:31)(cid:27)\u2019(cid:5)4(cid:23)(cid:25)(cid:27)(cid:31) (cid:26)((cid:22)(cid:30)(cid:25)(&(cid:24)0%(cid:31)&\u2019.() (cid:28)(cid:23)7 /0110121112(cid:5),3 4(cid:23)(cid:25)(cid:27)(cid:31)(cid:5)(cid:26)((cid:22)(cid:30)(cid:25)(&(cid:24) (cid:21)&(cid:25)(cid:5)(cid:29)(cid:27)(cid:25)(cid:5)(cid:30)$(cid:5)0(cid:5)(cid:28)(cid:23)78(cid:29)(cid:5)(cid:22)(cid:27)(cid:23)9(cid:27)(cid:5),(cid:23)(cid:25)(cid:25)(cid:27)(cid:31)(cid:5)\u2019(cid:23)(cid:29)(cid:5)5&(cid:22)(cid:22)(cid:27)5(cid:25)(cid:27)!(cid:5)&(cid:24)(cid:5)/011011(cid:5)(cid:23)(cid:24)!(cid:5)(cid:24)&(cid:25)(cid:5)(cid:27)(cid:24)(cid:25)((cid:31)(cid:27)(cid:22)#(cid:5)!(cid:31)((cid:27)! +-. /0170121112(cid:5),3 4(cid:23)(cid:25)(cid:27)(cid:31) :(cid:25)(cid:23)(cid:31)(cid:25)(cid:5),(cid:23);(cid:5)6(cid:31)()*(cid:25)(cid:5)0(cid:5)-1(cid:5)*(cid:31)(cid:5)!(cid:23)# +1. /0170121112(cid:5),3 4(cid:23)(cid:25)(cid:27)(cid:31) :(cid:25)(cid:23)(cid:31)(cid:25)(cid:5),(cid:23);(cid:5)6(cid:31)()*(cid:25)(cid:5)0(cid:5)-1(cid:5)*(cid:31)(cid:5)!(cid:23)# (cid:28)(cid:23)- /0170121112(cid:5),3 4(cid:23)(cid:25)(cid:27)(cid:31) :(cid:25)(cid:23)(cid:31)(cid:25)(cid:5),(cid:23);(cid:5)6(cid:31)()*(cid:25)(cid:5)0(cid:5)-1(cid:5)*(cid:31)(cid:5)!(cid:23)# (cid:28)(cid:23)1 /0170121112(cid:5),3 4(cid:23)(cid:25)(cid:27)(cid:31) :(cid:25)(cid:23)(cid:31)(cid:25)(cid:5),(cid:23);(cid:5)6(cid:31)()*(cid:25)(cid:5)0(cid:5)-1(cid:5)*(cid:31)(cid:5)!(cid:23)# (cid:28)(cid:23)7 /0170121112(cid:5),3 4(cid:23)(cid:25)(cid:27)(cid:31) :(cid:25)(cid:23)(cid:31)(cid:25)(cid:5),(cid:23);(cid:5)6(cid:31)()*(cid:25)(cid:5)0(cid:5)-1(cid:5)*(cid:31)(cid:5)!(cid:23)# +-. /01<0121112(cid:5),3 4(cid:23)(cid:25)(cid:27)(cid:31) +1. /01<0121112(cid:5),3 4(cid:23)(cid:25)(cid:27)(cid:31) (cid:28)(cid:23)- /01<0121112(cid:5),3 4(cid:23)(cid:25)(cid:27)(cid:31) (cid:28)(cid:23)1 /01<0121112(cid:5),3 4(cid:23)(cid:25)(cid:27)(cid:31)"
+          ],
+          [
+            "(cid:28)(cid:23)7 /01<0121112(cid:5),3 4(cid:23)(cid:25)(cid:27)(cid:31) +-. /01=0121112(cid:5),3 4(cid:23)(cid:25)(cid:27)(cid:31) (cid:29)&(cid:23)>(cid:5)(cid:29)(cid:27)(cid:27)!(cid:29) +1. /01=0121112(cid:5),3 4(cid:23)(cid:25)(cid:27)(cid:31) (cid:29)&(cid:23)>(cid:5)(cid:29)(cid:27)(cid:27)!(cid:29) (cid:28)(cid:23)- /01=0121112(cid:5),3 4(cid:23)(cid:25)(cid:27)(cid:31) (cid:29)&(cid:23)>(cid:5)(cid:29)(cid:27)(cid:27)!(cid:29) (cid:28)(cid:23)1 /01=0121112(cid:5),3 4(cid:23)(cid:25)(cid:27)(cid:31) (cid:29)&(cid:23)>(cid:5)(cid:29)(cid:27)(cid:27)!(cid:29) (cid:28)(cid:23)7 /01=0121112(cid:5),3 4(cid:23)(cid:25)(cid:27)(cid:31) (cid:29)&(cid:23)>(cid:5)(cid:29)(cid:27)(cid:27)!(cid:29) (cid:21)(cid:22)(cid:23)(cid:24)(cid:25)(cid:5)(cid:29)(cid:27)(cid:27)!(cid:29)@(cid:5) &(cid:30)(cid:24)!(cid:5)=(cid:5)!(cid:31)((cid:27)!(cid:5)\u2019&(cid:31),(cid:29)(cid:5)(cid:30)(cid:24)!(cid:27)(cid:31)(cid:5),&&(cid:24)0,(cid:23)(cid:31)(cid:29)(cid:5)$&(cid:25)(cid:29)@(cid:5)(cid:24)&(cid:25)(cid:5),(cid:30)5*(cid:5)(cid:27)(cid:23)(cid:31)(cid:25)*#(cid:5)(cid:29),(cid:27)(cid:22)(cid:22) +-. /01?0121112(cid:5),3 4(cid:23)(cid:25)(cid:27)(cid:31) A&(cid:31)(cid:5),(cid:23)(cid:31)(cid:29)(cid:5)$&(cid:25)(cid:29) (cid:21)(cid:22)(cid:23)(cid:24)(cid:25)(cid:5)(cid:29)(cid:27)(cid:27)!(cid:29)@(cid:5) &(cid:30)(cid:24)!(cid:5)=(cid:5)!(cid:31)((cid:27)!(cid:5)\u2019&(cid:31),(cid:29)(cid:5)(cid:30)(cid:24)!(cid:27)(cid:31)(cid:5),&&(cid:24)0,(cid:23)(cid:31)(cid:29)(cid:5)$&(cid:25)(cid:29)@(cid:5)(cid:24)&(cid:25)(cid:5),(cid:30)5*(cid:5)(cid:27)(cid:23)(cid:31)(cid:25)*#(cid:5)(cid:29),(cid:27)(cid:22)(cid:22)"
+          ],
+          [
+            "+1. /01?0121112(cid:5),3 4(cid:23)(cid:25)(cid:27)(cid:31) A&(cid:31)(cid:5),(cid:23)(cid:31)(cid:29)(cid:5)$&(cid:25)(cid:29) (cid:21)(cid:22)(cid:23)(cid:24)(cid:25)(cid:5)(cid:29)(cid:27)(cid:27)!(cid:29)@(cid:5)6((cid:25)(cid:5)&A(cid:5)\u2019*((cid:25)(cid:27)(cid:5)A(cid:30)(cid:24))(cid:30)(cid:29)0,&(cid:22)!(cid:5)(cid:29)*&\u2019((cid:24))(cid:5)&(cid:24)(cid:5)(cid:25)&$(cid:5)&A(cid:5)(cid:29)&((cid:22)@(cid:5) &(cid:30)(cid:24)!(cid:5)=(cid:5)!(cid:31)((cid:27)!(cid:5)\u2019&(cid:31),(cid:29) (cid:28)(cid:23)- /01?0121112(cid:5),3 4(cid:23)(cid:25)(cid:27)(cid:31) (cid:30)(cid:24)!(cid:27)(cid:31)(cid:5),&&(cid:24)0,(cid:23)(cid:31)(cid:29)(cid:5)$&(cid:25)(cid:29)@(cid:5)(cid:24)&(cid:25)(cid:5),(cid:30)5*(cid:5)(cid:27)(cid:23)(cid:31)(cid:25)*#(cid:5)(cid:29),(cid:27)(cid:22)(cid:22)(cid:5)A&(cid:31)(cid:5),(cid:23)(cid:31)(cid:29)(cid:5)$&(cid:25)(cid:29) (cid:21)(cid:22)(cid:23)(cid:24)(cid:25)(cid:5)(cid:29)(cid:27)(cid:27)!(cid:29)@(cid:5) &(cid:30)(cid:24)!(cid:5)=(cid:5)!(cid:31)((cid:27)!(cid:5)\u2019&(cid:31),(cid:29)(cid:5)(cid:30)(cid:24)!(cid:27)(cid:31)(cid:5),&&(cid:24)0,(cid:23)(cid:31)(cid:29)(cid:5)$&(cid:25)(cid:29)@(cid:5)(cid:24)&(cid:25)(cid:5),(cid:30)5*(cid:5)(cid:27)(cid:23)(cid:31)(cid:25)*#(cid:5)(cid:29),(cid:27)(cid:22)(cid:22) (cid:28)(cid:23)1 /01?0121112(cid:5),3 4(cid:23)(cid:25)(cid:27)(cid:31) A&(cid:31)(cid:5),(cid:23)(cid:31)(cid:29)(cid:5)$&(cid:25)(cid:29) (cid:21)(cid:22)(cid:23)(cid:24)(cid:25)(cid:5)(cid:29)(cid:27)(cid:27)!(cid:29)@(cid:5) &(cid:30)(cid:24)!(cid:5)=(cid:5)!(cid:31)((cid:27)!(cid:5)\u2019&(cid:31),(cid:29)(cid:5)(cid:30)(cid:24)!(cid:27)(cid:31)(cid:5),&&(cid:24)0,(cid:23)(cid:31)(cid:29)(cid:5)$&(cid:25)(cid:29)@(cid:5)(cid:24)&(cid:25)(cid:5),(cid:30)5*(cid:5)(cid:27)(cid:23)(cid:31)(cid:25)*#(cid:5)(cid:29),(cid:27)(cid:22)(cid:22) (cid:28)(cid:23)7 /01?0121112(cid:5),3 4(cid:23)(cid:25)(cid:27)(cid:31) A&(cid:31)(cid:5),(cid:23)(cid:31)(cid:29)(cid:5)$&(cid:25)(cid:29) +-. /01B0121112(cid:5),3 4(cid:23)(cid:25)(cid:27)(cid:31) +1. /01B0121112(cid:5),3 4(cid:23)(cid:25)(cid:27)(cid:31) (cid:28)(cid:23)- /01B0121112(cid:5),3 4(cid:23)(cid:25)(cid:27)(cid:31) (cid:28)(cid:23)1 /01B0121112(cid:5),3 4(cid:23)(cid:25)(cid:27)(cid:31) (cid:28)(cid:23)7 /01B0121112(cid:5),3 4(cid:23)(cid:25)(cid:27)(cid:31) +-. /01C0121112(cid:5),3 4(cid:23)(cid:25)(cid:27)(cid:31) +1. /01C0121112(cid:5),3 4(cid:23)(cid:25)(cid:27)(cid:31) (cid:28)(cid:23)- /01C0121112(cid:5),3 4(cid:23)(cid:25)(cid:27)(cid:31) (cid:28)(cid:23)1 /01C0121112(cid:5),3 4(cid:23)(cid:25)(cid:27)(cid:31) (cid:28)(cid:23)7 /01C0121112(cid:5),3 4(cid:23)(cid:25)(cid:27)(cid:31) +-. /01/0121112(cid:5),3 4(cid:23)(cid:25)(cid:27)(cid:31) +1. /01/0121112(cid:5),3 4(cid:23)(cid:25)(cid:27)(cid:31) (cid:28)(cid:23)- /01/0121112(cid:5),3 4(cid:23)(cid:25)(cid:27)(cid:31) (cid:28)(cid:23)1 /01/0121112(cid:5),3 4(cid:23)(cid:25)(cid:27)(cid:31) (cid:28)(cid:23)7 /01/0121112(cid:5),3 4(cid:23)(cid:25)(cid:27)(cid:31) +-. /0720121112(cid:5),3 4(cid:23)(cid:25)(cid:27)(cid:31) +1. /0720121112(cid:5),3 4(cid:23)(cid:25)(cid:27)(cid:31) (cid:28)(cid:23)- /0720121112(cid:5),3 4(cid:23)(cid:25)(cid:27)(cid:31) (cid:28)(cid:23)1 /0720121112(cid:5),3 4(cid:23)(cid:25)(cid:27)(cid:31) (cid:28)(cid:23)7 /0720121112(cid:5),3 4(cid:23)(cid:25)(cid:27)(cid:31) 1(cid:5)6&>(cid:5)5*&((cid:5))(cid:27)(cid:31),8!(cid:5)(cid:29)&(cid:5)A(cid:23)(cid:31)@(cid:5)<(cid:5)6(cid:27)(cid:27)(cid:25)(cid:5))(cid:27)(cid:31),8!(cid:5)(cid:29)&(cid:5)A(cid:23)(cid:31)@(cid:5)(cid:25)*((cid:24)(cid:24)(cid:27)!(cid:5)&(cid:30)(cid:25)(cid:5)1(cid:5)6(cid:27)(cid:27)(cid:25)(cid:5)D(cid:22)&&>(cid:29)(cid:5)(cid:22)(>(cid:27)(cid:5)(cid:23)(cid:5)A(cid:27)\u2019 +-. -20-0121112(cid:5),3 4(cid:23)(cid:25)(cid:27)(cid:31) (cid:27);(cid:25)(cid:31)(cid:23)(cid:5)6(cid:27)(cid:27)(cid:25)(cid:5)(cid:29)(cid:27)(cid:27)!(cid:5),(cid:23)!(cid:27)(cid:5)((cid:25)(cid:5)((cid:24)(cid:5)&(cid:24)(cid:5)$(cid:22)(cid:23)(cid:24)(cid:25)((cid:24))E +1. -20-0121112(cid:5),3 4(cid:23)(cid:25)(cid:27)(cid:31) 1(cid:5)6&>(cid:5)5*&((cid:5))(cid:27)(cid:31),8!(cid:5)(cid:29)&(cid:5)A(cid:23)(cid:31)@(cid:5)1(cid:5)6(cid:27)(cid:27)(cid:25)(cid:5))(cid:27)(cid:31),8!(cid:5)(cid:29)&(cid:5)A(cid:23)(cid:31) 1(cid:5)6&>(cid:5)5*&((cid:5))(cid:27)(cid:31),8!(cid:5)(cid:29)&(cid:5)A(cid:23)(cid:31)@(cid:5)7(cid:5)6(cid:27)(cid:27)(cid:25)(cid:5))(cid:27)(cid:31),8!(cid:5)(cid:29)&(cid:5)A(cid:23)(cid:31)@(cid:5)(cid:25)*((cid:24)(cid:24)(cid:27)!(cid:5)&(cid:30)(cid:25)(cid:5)-(cid:5)6(cid:27)(cid:27)(cid:25)F(cid:5)(cid:5).(cid:27)(cid:27)(cid:25)(cid:5)(cid:22)(cid:27)(cid:23)9(cid:27)(cid:29)(cid:5)*(cid:23)9(cid:27) (cid:28)(cid:23)- -20-0121112(cid:5),3 4(cid:23)(cid:25)(cid:27)(cid:31) 8*(cid:27)(cid:23)(cid:22)(cid:25)*#8(cid:5)(cid:22)&&>((cid:24))(cid:5)(cid:31)(cid:27)! (cid:28)(cid:23)1 -20-0121112(cid:5),3 4(cid:23)(cid:25)(cid:27)(cid:31) 1(cid:5)6&>(cid:5)5*&((cid:5))(cid:27)(cid:31),8!(cid:5)(cid:29)&(cid:5)A(cid:23)(cid:31)@(cid:5)-(cid:5)6(cid:27)(cid:27)(cid:25)(cid:5))(cid:27)(cid:31),8!(cid:5)(cid:29)&(cid:5)A(cid:23)(cid:31)F(cid:5)(cid:5)I!!(cid:27)!(cid:5)7(cid:5),&(cid:31)(cid:27)(cid:5)$(cid:31)(cid:27)(cid:29)&(cid:23)>(cid:27)!(cid:5)6(cid:27)(cid:27)(cid:25)(cid:5)(cid:29)(cid:27)(cid:27)!(cid:29) G(cid:24)(cid:22)#(cid:5)-(cid:5)(cid:29)(cid:27)(cid:27)!(cid:5))(cid:27)(cid:31),8!(cid:5)D6&>(cid:5)5*&(E(cid:5)(cid:29)&(cid:5)A(cid:23)(cid:31)@(cid:5)(cid:23)!!(cid:27)!(cid:5),&(cid:31)(cid:27)(cid:5)$(cid:31)(cid:27)(cid:29)&(cid:23)>(cid:27)!(cid:5)(cid:29)(cid:27)(cid:27)!(cid:29)(cid:5)D7(cid:5)6&>(cid:5)5*&(H(cid:5)7 (cid:28)(cid:23)7 -20-0121112(cid:5),3 4(cid:23)(cid:25)(cid:27)(cid:31) 6(cid:27)(cid:27)(cid:25)E +-. -2010121112(cid:5),3 4(cid:23)(cid:25)(cid:27)(cid:31) +1. -2010121112(cid:5),3 4(cid:23)(cid:25)(cid:27)(cid:31)"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 31,
+      "text": "\u0000\u0001\u0002\u0003\u0005\u0005\u0006\u0003\u0007\u0002\b\u0001 \n\u0005\u000b\u0003\u0005\f\u0005\r\u0001 \u0007\u0002\u0005\u0001\u000b\u000e\u0005\u000f\u0007\u0002 \u0005\u0003\u0010\u0011\u0007\u000e\u0012\u0013\u0007\n\u0014\u0015\u0016\u0017\u0018\n\u0019\u0016\u0018\u001a\n\u001b\u001a\u0016\u001c\u001d\u001e\u001a\u0005 \u001a\u001a! \u001a\u001a!\u0005\"#$\u001a\n%\u001e&'\u0005\u0015()*\u0018\n+&,,\u001a\u0017\u0018\n\u001b\u0016-\n./010-/---/\u0005,2\n3\u0016\u0018\u001a\u001e\n\u001b\u00161\n./010-/---/\u0005,2\n3\u0016\u0018\u001a\u001e\n+.4\n./050-/---/\u0005,2\n3\u0016\u0018\u001a\u001e\n+-4\n./050-/---/\u0005,2\n3\u0016\u0018\u001a\u001e\n\u001b\u0016.\n./050-/---/\u0005,2\n3\u0016\u0018\u001a\u001e\n\u001b\u0016-\n./050-/---/\u0005,2\n3\u0016\u0018\u001a\u001e\n\u001b\u00161\n./050-/---/\u0005,2\n3\u0016\u0018\u001a\u001e\n+.4\n./060-/---/\u0005,2\n3\u0016\u0018\u001a\u001e\n\"*(\u0017\u0017\u001a!\u0005&\u001d\u0018\u0005.\u00057\u001a\u001a\u0018\n+-4\n./060-/---/\u0005,2\n3\u0016\u0018\u001a\u001e\n\"*(\u0017\u0017\u001a!\u0005&\u001d\u0018\u0005.\u00057\u001a\u001a\u0018\n\u001b\u0016.\n./060-/---/\u0005,2\n3\u0016\u0018\u001a\u001e\n\u001b\u0016-\n./060-/---/\u0005,2\n3\u0016\u0018\u001a\u001e\n\"*(\u0017\u0017\u001a!\u0005&\u001d\u0018\u0005.\u00057\u001a\u001a\u0018\n\u001b\u00161\n./060-/---/\u0005,2\n3\u0016\u0018\u001a\u001e\n+.4\n./080-/---/\u0005,2\n3\u0016\u0018\u001a\u001e\n+-4\n./080-/---/\u0005,2\n3\u0016\u0018\u001a\u001e\n\u001b\u0016.\n./080-/---/\u0005,2\n3\u0016\u0018\u001a\u001e\n\u001b\u0016-\n./080-/---/\u0005,2\n3\u0016\u0018\u001a\u001e\n\u001b\u00161\n./080-/---/\u0005,2\n3\u0016\u0018\u001a\u001e\n+.4\n./090-/--/\u0005,2\n\"\u001e(,,\u001a!\u0005.\u00057&:\u0005;*&(<\u0005.\u00057&:\u0005;*&(\u0005\u0015\u001a=\u0018\u0005>(\u0017\u0005\u0016!!(\u0018(&\u0017\u0005\u0018&\u00057\u001a\u001a\u0018\u001c?<\u0005$\u0015\u0016\u0017\u0018\u001c\u0005\u0016\u001e\u001a\u0005!&(\u0017)\u0005'\u001a\u0015\u0015\u0005\u001c&\n=\u0016\u001e\u0005(\u0017\u0005,\u0016\u001e\u001c\u0005\u001e\u001a)&\u0015(\u0018*\u0005'(\u0018*&\u001d\u0018\u0005\u0016,\u001a\u0017!\u001a\u0017\u0018\u001c\n+-4\n./090-/--/\u0005,2\n\"\u001e(,,\u001a!\u0005.\u00057&:\u0005;*&(<\u0005.\u00057&:\u0005;*&(\u0005\u0015\u001a=\u0018\u0005>(\u0017\u0005\u0016!!(\u0018(&\u0017\u0005\u0018&\u00057\u001a\u001a\u0018\u001c?\n\u001b\u0016.\n./090-/--/\u0005,2\n\u001b\u0016-\n./090-/--/\u0005,2\n\u001b\u00161\n./090-/--/\u0005,2\n+.4\n./0@0-/---/\u0005,2\n3\u0016\u0018\u001a\u001e\n+-4\n./0@0-/---/\u0005,2\n3\u0016\u0018\u001a\u001e\n\"\u001e(,,\u001a!\u0005.\u00057\u001a\u001a\u0018A\u0005\u001c&\u0005\u0018*\u0016\u0018\u0005.\u00057\u001a\u001a\u0018\u00050\u0005.\u00057&:\u0005;*&(\u0005\u001e\u001a,\u0016(\u0017\n\u001b\u0016.\n./0@0-/---/\u0005,2\n%\u001e&'4()\u00053\u0016\u0018\u001a\u001e\n\u0019(\u0015\u001d\u0018(&\u0017\n\u001b\u0016-\n./0@0-/---/\u0005,2\n%\u001e&'4()\u00053\u0016\u0018\u001a\u001e\n\u0019(\u0015\u001d\u0018(&\u0017\n\"\u001e(,,\u001a!\u0005,\u001d\u0015\u0018($\u0015\u001a\u00057\u001a\u001a\u0018<\u0005-\u00057\u001a\u001a\u0018\u0005\u0015\u001a=\u0018\u0005>(\u0017\u0005\u0016!!(\u0018(&\u0017\u0005\u0018&\u0005-\u00057&:\u0005;*&(?\n\u001b\u00161\n./0@0-/---/\u0005,2\n%\u001e&'4()\u00053\u0016\u0018\u001a\u001e\n\u0019(\u0015\u001d\u0018(&\u0017\n+.4\n./0B0-/---/\u0005,2\n3\u0016\u0018\u001a\u001e\n+-4\n./0B0-/---/\u0005,2\n3\u0016\u0018\u001a\u001e\n\u001b\u0016.\n./0B0-/---/\u0005,2\n3\u0016\u0018\u001a\u001e\n\u001b\u0016-\n./0B0-/---/\u0005,2\n3\u0016\u0018\u001a\u001e\n\u001b\u00161\n./0B0-/---/\u0005,2\n3\u0016\u0018\u001a\u001e\n+.4\n./0./0-/---/\u0005,2\n3\u0016\u0018\u001a\u001e\n+-4\n./0./0-/---/\u0005,2\n3\u0016\u0018\u001a\u001e\n\u001b\u0016.\n./0./0-/---/\u0005,2\n\u001b(;\u001e&7\u001e\u001a'\u00053\u0016\u0018\u001a\u001e\n\u0019(\u0015\u001d\u0018(&\u0017\n\u001b\u0016-\n./0./0-/---/\u0005,2\n\u001b(;\u001e&7\u001e\u001a'\u00053\u0016\u0018\u001a\u001e\n\u0019(\u0015\u001d\u0018(&\u0017\n\"*(\u0017\u0017\u001a!\u0005&\u001d\u0018\u0005.\u00057&:\u0005;*&(<\u0005-\u00057\u001a\u001a\u0018\u0005.\u00057&:\u0005;*&(\u0005\u0015\u001a=\u0018\n\u001b\u00161\n./0./0-/---/\u0005,2\n\u001b(;\u001e&7\u001e\u001a'\u00053\u0016\u0018\u001a\u001e\n\u0019(\u0015\u001d\u0018(&\u0017\n+.4\n./0..0-/---/\u0005,2\n3\u0016\u0018\u001a\u001e\n+-4\n./0..0-/---/\u0005,2\n3\u0016\u0018\u001a\u001e\n\u001b\u0016.\n./0..0-/---/\u0005,2\n3\u0016\u0018\u001a\u001e\n\u001b\u0016-\n./0..0-/---/\u0005,2\n3\u0016\u0018\u001a\u001e\n\u001b\u00161\n./0..0-/---/\u0005,2\n3\u0016\u0018\u001a\u001e\n+.4\n./0.-0-/--./\u0005,2\n3\u0016\u0018\u001a\u001e\n+-4\n./0.-0-/--./\u0005,2\n3\u0016\u0018\u001a\u001e\n\u001b\u0016.\n./0.-0-/--./\u0005,2\n3\u0016\u0018\u001a\u001e\n\u001b\u0016-\n./0.-0-/--./\u0005,2\n3\u0016\u0018\u001a\u001e\n\u001b\u00161\n./0.-0-/--./\u0005,2\n3\u0016\u0018\u001a\u001e\n+.4\n./0.10-/---/\u0005,2\n3\u0016\u0018\u001a\u001e\n\"\u001e(,,\u001a!\u0005&\u0017\u001a\u00057\u001a\u001a\u0018<\u0005&\u0017\u001a\u00057\u001a\u001a\u0018\u0005&\u0017\u001a\u00057&:\u0005;*&(\u0005\u0015\u001a=\u0018\n+-4\n./0.10-/---/\u0005,2\n3\u0016\u0018\u001a\u001e\n\u001b\u0016.\n./0.10-/---/\u0005,2\n%\u001e&'4()\u00053\u0016\u0018\u001a\u001e\n\u0019(\u0015\u001d\u0018(&\u0017\n\"\u001e(,,\u001a!\u0005&\u0017\u001a\u00057\u001a\u001a\u0018<\u0005&\u0017\u001a\u00057\u001a\u001a\u0018\u0005&\u0017\u001a\u00057&:\u0005;*&(\u0005\u0015\u001a=\u0018\n\u001b\u0016-\n./0.10-/---/\u0005,2\n%\u001e&'4()\u00053\u0016\u0018\u001a\u001e\n\u0019(\u0015\u001d\u0018(&\u0017\n\"\u001e(,,\u001a!\u0005&\u0017\u001a\u00057\u001a\u001a\u0018<\u0005&\u0017\u001a\u00057\u001a\u001a\u0018\u0005&\u0017\u001a\u00057&:\u0005;*&(\u0005\u0015\u001a=\u0018\n\u001b\u00161\n./0.10-/---/\u0005,2\n%\u001e&'4()\u00053\u0016\u0018\u001a\u001e\n\u0019(\u0015\u001d\u0018(&\u0017\n+.4\n./0.50-/---/\u0005,2\n3\u0016\u0018\u001a\u001e\n+-4\n./0.50-/---/\u0005,2\n3\u0016\u0018\u001a\u001e\n\u001b\u0016.\n./0.50-/---/\u0005,2\n\u001b(;\u001e&7\u001e\u001a'\u00053\u0016\u0018\u001a\u001e\n\u0019(\u0015\u001d\u0018(&\u0017\n\u001b\u0016-\n./0.50-/---/\u0005,2\n\u001b(;\u001e&7\u001e\u001a'\u00053\u0016\u0018\u001a\u001e\n\u0019(\u0015\u001d\u0018(&\u0017\n\u001b\u00161\n./0.50-/---/\u0005,2\n\u001b(;\u001e&7\u001e\u001a'\u00053\u0016\u0018\u001a\u001e\n\u0019(\u0015\u001d\u0018(&\u0017\n+.4\n./0.60-/--./\u0005,2\n3\u0016\u0018\u001a\u001e\n+-4\n./0.60-/--./\u0005,2\n3\u0016\u0018\u001a\u001e\n30",
+      "char_count": 2317,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 32,
+      "text": "\u0000\u0001\u0002\u0003\u0005\u0005\u0006\u0003\u0007\u0002\b\u0001 \n\u0005\u000b\u0003\u0005\f\u0005\r\u0001 \u0007\u0002\u0005\u0001\u000b\u000e\u0005\u000f\u0007\u0002 \u0005\u0003\u0010\u0011\u0007\u000e\u0012\u0013\u0007\n\u0014\u0015\u0016\u0017\u0018\n\u0019\u0016\u0018\u001a\n\u001b\u001a\u0016\u001c\u001d\u001e\u001a\u0005 \u001a\u001a! \u001a\u001a!\u0005\"#$\u001a\n%\u001e&'\u0005\u0015()*\u0018\n+&,,\u001a\u0017\u0018\n\u001b\u0016-\n-./-0/1.11-.\u0005,2\n3\u0016\u0018\u001a\u001e\n\u001b\u00161\n-./-0/1.11-.\u0005,2\n3\u0016\u0018\u001a\u001e\n\u001b\u00164\n-./-0/1.11-.\u0005,2\n3\u0016\u0018\u001a\u001e\n+-5\n-./-6/1.111.\u0005,2\n3\u0016\u0018\u001a\u001e\n+15\n-./-6/1.111.\u0005,2\n3\u0016\u0018\u001a\u001e\n\u001b\u0016-\n-./-6/1.111.\u0005,2\n%\u001e&'5()\u00053\u0016\u0018\u001a\u001e\n\u0019(\u0015\u001d\u0018(&\u0017\n%\u001e&'5()\u00053\u0016\u0018\u001a\u001e\u0005\u0019(\u0015\u001d\u0018(&\u0017\u0005(\u00177\u001e\u001a\u0016\u001c\u001a!\u00058\u001e&,\u0005-\u0005\u0018\u001c$\u0005/\u0005)\u0016\u0015\u0015&\u0017\u0005\u0018&\u00051\u0005\u0018\u001c$\u0005/\u0005)\u0016\u0015\u0015&\u0017\n\u001b\u00161\n-./-6/1.111.\u0005,2\n%\u001e&'5()\u00053\u0016\u0018\u001a\u001e\n\u0019(\u0015\u001d\u0018(&\u0017\n%\u001e&'5()\u00053\u0016\u0018\u001a\u001e\u0005\u0019(\u0015\u001d\u0018(&\u0017\u0005(\u00177\u001e\u001a\u0016\u001c\u001a!\u00058\u001e&,\u0005-\u0005\u0018\u001c$\u0005/\u0005)\u0016\u0015\u0015&\u0017\u0005\u0018&\u00051\u0005\u0018\u001c$\u0005/\u0005)\u0016\u0015\u0015&\u0017\n\u001b\u00164\n-./-6/1.111.\u0005,2\n%\u001e&'5()\u00053\u0016\u0018\u001a\u001e\n\u0019(\u0015\u001d\u0018(&\u0017\n%\u001e&'5()\u00053\u0016\u0018\u001a\u001e\u0005\u0019(\u0015\u001d\u0018(&\u0017\u0005(\u00177\u001e\u001a\u0016\u001c\u001a!\u00058\u001e&,\u0005-\u0005\u0018\u001c$\u0005/\u0005)\u0016\u0015\u0015&\u0017\u0005\u0018&\u00051\u0005\u0018\u001c$\u0005/\u0005)\u0016\u0015\u0015&\u0017\n+-5\n-./-9/1.111.\u0005,2\n3\u0016\u0018\u001a\u001e\n+15\n-./-9/1.111.\u0005,2\n3\u0016\u0018\u001a\u001e\n\u001b\u0016-\n-./-9/1.111.\u0005,2\n3\u0016\u0018\u001a\u001e\n\u001b\u00161\n-./-9/1.111.\u0005,2\n3\u0016\u0018\u001a\u001e\n\u001b\u00164\n-./-9/1.111.\u0005,2\n3\u0016\u0018\u001a\u001e\n+-5\n-./-:/1.111.\u0005,2\n3\u0016\u0018\u001a\u001e\n &\u001d\u0017!\u0005-\u0005!\u001e(\u001a!\u0005'&\u001e,\u0005\u001d\u0017!\u001a\u001e\u0005,&&\u0017/,\u0016\u001e\u001c\u0005$&\u0018\u001c\n+15\n-./-:/1.111.\u0005,2\n3\u0016\u0018\u001a\u001e\n &\u001d\u0017!\u0005-\u0005!\u001e(\u001a!\u0005'&\u001e,\u0005\u001d\u0017!\u001a\u001e\u0005,&&\u0017/,\u0016\u001e\u001c\u0005$&\u0018\u001c\n\u001b\u0016-\n-./-:/1.111.\u0005,2\n\u001b(7\u001e&;\u001e\u001a'\u00053\u0016\u0018\u001a\u001e\n\u0019(\u0015\u001d\u0018(&\u0017\n &\u001d\u0017!\u0005-\u0005!\u001e(\u001a!\u0005'&\u001e,\u0005\u001d\u0017!\u001a\u001e\u0005,&&\u0017/,\u0016\u001e\u001c\u0005$&\u0018\u001c\n\u001b\u00161\n-./-:/1.111.\u0005,2\n\u001b(7\u001e&;\u001e\u001a'\u00053\u0016\u0018\u001a\u001e\n\u0019(\u0015\u001d\u0018(&\u0017\n &\u001d\u0017!\u0005-\u0005!\u001e(\u001a!\u0005'&\u001e,\u0005\u001d\u0017!\u001a\u001e\u0005,&&\u0017/,\u0016\u001e\u001c\u0005$&\u0018\u001c\n\u001b\u00164\n-./-:/1.111.\u0005,2\n\u001b(7\u001e&;\u001e\u001a'\u00053\u0016\u0018\u001a\u001e\n\u0019(\u0015\u001d\u0018(&\u0017\n &\u001d\u0017!\u0005-\u0005!\u001e(\u001a!\u0005'&\u001e,\u0005\u001d\u0017!\u001a\u001e\u0005,&&\u0017/,\u0016\u001e\u001c\u0005$&\u0018\u001c\n+-5\n-./-</1.11-.\u0005,2\n3\u0016\u0018\u001a\u001e\n+15\n-./-</1.11-.\u0005,2\n3\u0016\u0018\u001a\u001e\n\u001b\u0016-\n-./-</1.11-.\u0005,2\n3\u0016\u0018\u001a\u001e\n\u001b\u00161\n-./-</1.11-.\u0005,2\n3\u0016\u0018\u001a\u001e\n\u001b\u00164\n-./-</1.11-.\u0005,2\n3\u0016\u0018\u001a\u001e\n+-5\n-./1./1.111.\u0005,2\n3\u0016\u0018\u001a\u001e\n+15\n-./1./1.111.\u0005,2\n3\u0016\u0018\u001a\u001e\n\u001b\u0016-\n-./1./1.111.\u0005,2\n%\u001e&'5()\u00053\u0016\u0018\u001a\u001e\n\u0019(\u0015\u001d\u0018(&\u0017\n\u001b\u00161\n-./1./1.111.\u0005,2\n%\u001e&'5()\u00053\u0016\u0018\u001a\u001e\n\u0019(\u0015\u001d\u0018(&\u0017\n\u001b\u00164\n-./1./1.111.\u0005,2\n%\u001e&'5()\u00053\u0016\u0018\u001a\u001e\n\u0019(\u0015\u001d\u0018(&\u0017\n+-5\n-./1-/1.111.\u0005,2\n3\u0016\u0018\u001a\u001e\n+15\n-./1-/1.111.\u0005,2\n3\u0016\u0018\u001a\u001e\n\u001b\u0016-\n-./1-/1.111.\u0005,2\n\u001b(7\u001e&;\u001e\u001a'\u00053\u0016\u0018\u001a\u001e\n\u0019(\u0015\u001d\u0018(&\u0017\n\u001b\u00161\n-./1-/1.111.\u0005,2\n\u001b(7\u001e&;\u001e\u001a'\u00053\u0016\u0018\u001a\u001e\n\u0019(\u0015\u001d\u0018(&\u0017\n\u001b\u00164\n-./1-/1.111.\u0005,2\n\u001b(7\u001e&;\u001e\u001a'\u00053\u0016\u0018\u001a\u001e\n\u0019(\u0015\u001d\u0018(&\u0017\n+-5\n-./11/1.111.\u0005,2\n3\u0016\u0018\u001a\u001e\n+15\n-./11/1.111.\u0005,2\n3\u0016\u0018\u001a\u001e\n\u001b\u0016-\n-./11/1.111.\u0005,2\n3\u0016\u0018\u001a\u001e\n\u001b\u00161\n-./11/1.111.\u0005,2\n3\u0016\u0018\u001a\u001e\n\u001b\u00164\n-./11/1.111.\u0005,2\n3\u0016\u0018\u001a\u001e\n+-5\n-./14/1.111.\u0005,2\n3\u0016\u0018\u001a\u001e\n+15\n-./14/1.114.\u0005,2\n3\u0016\u0018\u001a\u001e\n\u001b\u0016-\n-./14/1.111.\u0005,2\n3\u0016\u0018\u001a\u001e\n\u001b\u00161\n-./14/1.111.\u0005,2\n3\u0016\u0018\u001a\u001e\n\u001b\u00164\n-./14/1.111.\u0005,2\n3\u0016\u0018\u001a\u001e\n+-5\n-./1=/1.111.\u0005,2\n3\u0016\u0018\u001a\u001e\n+15\n-./1=/1.114.\u0005,2\n3\u0016\u0018\u001a\u001e\n\u001b\u0016-\n-./1=/1.111.\u0005,2\n3\u0016\u0018\u001a\u001e\n\u001b\u00161\n-./1=/1.111.\u0005,2\n3\u0016\u0018\u001a\u001e\n\u001b\u00164\n-./1=/1.111.\u0005,2\n3\u0016\u0018\u001a\u001e\n+-5\n-./10/1.111.\u0005,2\n3\u0016\u0018\u001a\u001e\n+15\n-./10/1.114.\u0005,2\n3\u0016\u0018\u001a\u001e\n\"&&>\u0005?\n*\u0016\u0018?\n\u0005@\u0018&$\u0005\u001c\u001a7\u0018(&\u0017\u0005&8\u0005)\u001e&'\u0005$&\u0018A\u0005&88\n\u001b\u0016-\n-./10/1.111.\u0005,2\n%\u001e&'5()\u00053\u0016\u0018\u001a\u001e\n\u0019(\u0015\u001d\u0018(&\u0017\n\u001b\u00161\n-./10/1.111.\u0005,2\n%\u001e&'5()\u00053\u0016\u0018\u001a\u001e\n\u0019(\u0015\u001d\u0018(&\u0017\n\u001b\u00164\n-./10/1.111.\u0005,2\n%\u001e&'5()\u00053\u0016\u0018\u001a\u001e\n\u0019(\u0015\u001d\u0018(&\u0017\n+-5\n-./16/1.111.\u0005,2\n3\u0016\u0018\u001a\u001e\n+15\n-./16/1.114.\u0005,2\n3\u0016\u0018\u001a\u001e\n\u001b\u0016-\n-./16/1.111.\u0005,2\n3\u0016\u0018\u001a\u001e\n\u001b\u00161\n-./16/1.111.\u0005,2\n3\u0016\u0018\u001a\u001e\n31",
+      "char_count": 2303,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 33,
+      "text": "\u0000\u0001\u0002\u0003\u0005\u0005\u0006\u0003\u0007\u0002\b\u0001 \n\u0005\u000b\u0003\u0005\f\u0005\r\u0001 \u0007\u0002\u0005\u0001\u000b\u000e\u0005\u000f\u0007\u0002 \u0005\u0003\u0010\u0011\u0007\u000e\u0012\u0013\u0007\n\u0014\u0015\u0016\u0017\u0018\n\u0019\u0016\u0018\u001a\n\u001b\u001a\u0016\u001c\u001d\u001e\u001a\u0005 \u001a\u001a! \u001a\u001a!\u0005\"#$\u001a\n%\u001e&'\u0005\u0015()*\u0018\n+&,,\u001a\u0017\u0018\n\u001b\u0016-\n./01201/111/\u0005,3\n4\u0016\u0018\u001a\u001e\n+.5\n./01601/111/\u0005,3\n4\u0016\u0018\u001a\u001e\n+15\n./01601/11-/\u0005,3\n4\u0016\u0018\u001a\u001e\n\u001b\u0016.\n./01601/111/\u0005,3\n%\u001e&'5()\u00054\u0016\u0018\u001a\u001e\n\u0019(\u0015\u001d\u0018(&\u0017\n\u001b\u00161\n./01601/111/\u0005,3\n%\u001e&'5()\u00054\u0016\u0018\u001a\u001e\n\u0019(\u0015\u001d\u0018(&\u0017\n\u001b\u0016-\n./01601/111/\u0005,3\n%\u001e&'5()\u00054\u0016\u0018\u001a\u001e\n\u0019(\u0015\u001d\u0018(&\u0017\n+.5\n./01701/111/\u0005,3\n4\u0016\u0018\u001a\u001e\n+15\n./01701/11-/\u0005,3\n4\u0016\u0018\u001a\u001e\n\u001b\u0016.\n./01701/111/\u0005,3\n4\u0016\u0018\u001a\u001e\n\u001b\u00161\n./01701/111/\u0005,3\n4\u0016\u0018\u001a\u001e\n\u001b\u0016-\n./01701/111/\u0005,3\n4\u0016\u0018\u001a\u001e\n+.5\n./01801/111/\u0005,3\n4\u0016\u0018\u001a\u001e\n+15\n./01801/11-/\u0005,3\n4\u0016\u0018\u001a\u001e\n\u001b\u0016.\n./01801/111/\u0005,3\n%\u001e&'5()\u00054\u0016\u0018\u001a\u001e\n\u0019(\u0015\u001d\u0018(&\u0017\n\u001b\u00161\n./01801/111/\u0005,3\n%\u001e&'5()\u00054\u0016\u0018\u001a\u001e\n\u0019(\u0015\u001d\u0018(&\u0017\n\u001b\u0016-\n./01801/111/\u0005,3\n%\u001e&'5()\u00054\u0016\u0018\u001a\u001e\n\u0019(\u0015\u001d\u0018(&\u0017\n+.5\n./0-/01/111/\u0005,3\n4\u0016\u0018\u001a\u001e\n+15\n./0-/01/111/\u0005,3\n4\u0016\u0018\u001a\u001e\n\u001b\u0016.\n./0-/01/111/\u0005,3\n\u001b(9\u001e&:\u001e\u001a'\u00054\u0016\u0018\u001a\u001e\n\u0019(\u0015\u001d\u0018(&\u0017\n\u001b\u00161\n./0-/01/111/\u0005,3\n\u001b(9\u001e&:\u001e\u001a'\u00054\u0016\u0018\u001a\u001e\n\u0019(\u0015\u001d\u0018(&\u0017\n\u001b\u0016-\n./0-/01/111/\u0005,3\n\u001b(9\u001e&:\u001e\u001a'\u00054\u0016\u0018\u001a\u001e\n\u0019(\u0015\u001d\u0018(&\u0017\n+.5\n./0-.01/111/\u0005,3\n4\u0016\u0018\u001a\u001e\n+15\n./0-.01/11-/\u0005,3\n4\u0016\u0018\u001a\u001e\n\u001b\u0016.\n./0-.01/111/\u0005,3\n4\u0016\u0018\u001a\u001e\n\u001b\u00161\n./0-.01/111/\u0005,3\n4\u0016\u0018\u001a\u001e\n\u001b\u0016-\n./0-.01/111/\u0005,3\n4\u0016\u0018\u001a\u001e\n+.5\n..0.01/111/\u0005,3\n4\u0016\u0018\u001a\u001e\n+15\n..0.01/11-/\u0005,3\n4\u0016\u0018\u001a\u001e\n\u001b\u0016.\n..0.01/111/\u0005,3\n4\u0016\u0018\u001a\u001e\n\u001b\u00161\n..0.01/111/\u0005,3\n4\u0016\u0018\u001a\u001e\n\u001b\u0016-\n..0.01/111/\u0005,3\n4\u0016\u0018\u001a\u001e\n+.5\n..0101/111/\u0005,3\n4\u0016\u0018\u001a\u001e\n+15\n..0101/11-/\u0005,3\n4\u0016\u0018\u001a\u001e\n\u001b\u0016.\n..0101/111/\u0005,3\n%\u001e&'5()\u00054\u0016\u0018\u001a\u001e\n\u0019(\u0015\u001d\u0018(&\u0017\n\u001b\u00161\n..0101/111/\u0005,3\n%\u001e&'5()\u00054\u0016\u0018\u001a\u001e\n\u0019(\u0015\u001d\u0018(&\u0017\n\u001b\u0016-\n..0101/111/\u0005,3\n%\u001e&'5()\u00054\u0016\u0018\u001a\u001e\n\u0019(\u0015\u001d\u0018(&\u0017\n+.5\n..0-01/111/\u0005,3\n4\u0016\u0018\u001a\u001e\n+15\n..0-01/11;/\u0005,3\n4\u0016\u0018\u001a\u001e\n\u001b\u0016.\n..0-01/111/\u0005,3\n\u001b(9\u001e&:\u001e\u001a'\u00054\u0016\u0018\u001a\u001e\n\u0019(\u0015\u001d\u0018(&\u0017\n\"&&<\u0005=\n*\u0016\u0018=\n\u0005>\u0018&$\u0005\u001c\u001a9\u0018(&\u0017\u0005&?\u0005)\u001e&'\u0005$&\u0018@\u0005&??\n\u001b\u00161\n..0-01/111/\u0005,3\n\u001b(9\u001e&:\u001e\u001a'\u00054\u0016\u0018\u001a\u001e\n\u0019(\u0015\u001d\u0018(&\u0017\n\u001b\u0016-\n..0-01/111/\u0005,3\n\u001b(9\u001e&:\u001e\u001a'\u00054\u0016\u0018\u001a\u001e\n\u0019(\u0015\u001d\u0018(&\u0017\n+.5\n..0;01/111/\u0005,3\n4\u0016\u0018\u001a\u001e\n+15\n..0;01/11;/\u0005,3\n4\u0016\u0018\u001a\u001e\n\u001b\u0016.\n..0;01/11-/\u0005,3\n4\u0016\u0018\u001a\u001e\n\u001b\u00161\n..0;01/111/\u0005,3\n4\u0016\u0018\u001a\u001e\n\u001b\u0016-\n..0;01/111/\u0005,3\n4\u0016\u0018\u001a\u001e\n+.5\n..0A01/111/\u0005,3\n4\u0016\u0018\u001a\u001e\n+15\n..0A01/11;A\u0005,3\n4\u0016\u0018\u001a\u001e\n\u001b\u0016.\n..0A01/11-/\u0005,3\n4\u0016\u0018\u001a\u001e\n\u001b\u00161\n..0A01/111/\u0005,3\n4\u0016\u0018\u001a\u001e\n\u001b\u0016-\n..0A01/111/\u0005,3\n4\u0016\u0018\u001a\u001e\n+.5\n..0201/111/\u0005,3\n4\u0016\u0018\u001a\u001e\n+15\n..0201/11;A\u0005,3\n4\u0016\u0018\u001a\u001e\n\u001b\u0016.\n..0201/111/\u0005,3\n%\u001e&'5()\u00054\u0016\u0018\u001a\u001e\n\u0019(\u0015\u001d\u0018(&\u0017\n\u001b\u00161\n..0201/111/\u0005,3\n%\u001e&'5()\u00054\u0016\u0018\u001a\u001e\n\u0019(\u0015\u001d\u0018(&\u0017\n32",
+      "char_count": 1843,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 34,
+      "text": "\u0000\u0001\u0002\u0003\u0005\u0005\u0006\u0003\u0007\u0002\b\u0001 \n\u0005\u000b\u0003\u0005\f\u0005\r\u0001 \u0007\u0002\u0005\u0001\u000b\u000e\u0005\u000f\u0007\u0002 \u0005\u0003\u0010\u0011\u0007\u000e\u0012\u0013\u0007\n\u0014\u0015\u0016\u0017\u0018\n\u0019\u0016\u0018\u001a\n\u001b\u001a\u0016\u001c\u001d\u001e\u001a\u0005 \u001a\u001a! \u001a\u001a!\u0005\"#$\u001a\n%\u001e&'\u0005\u0015()*\u0018\n+&,,\u001a\u0017\u0018\n\u001b\u0016-\n../0/121112\u0005,3\n%\u001e&'4()\u00055\u0016\u0018\u001a\u001e\n\u0019(\u0015\u001d\u0018(&\u0017\n+.4\n../6/121112\u0005,3\n5\u0016\u0018\u001a\u001e\n+14\n../6/121178\u0005,3\n5\u0016\u0018\u001a\u001e\n\u001b\u0016.\n../6/1211-2\u0005,3\n5\u0016\u0018\u001a\u001e\n\u001b\u00161\n../6/121112\u0005,3\n5\u0016\u0018\u001a\u001e\n\u001b\u0016-\n../6/121112\u0005,3\n5\u0016\u0018\u001a\u001e\n+.4\n../9/121112\u0005,3\n5\u0016\u0018\u001a\u001e\n+14\n../9/121178\u0005,3\n5\u0016\u0018\u001a\u001e\n\u001b\u0016.\n../9/1211-2\u0005,3\n5\u0016\u0018\u001a\u001e\n\u001b\u00161\n../9/121112\u0005,3\n5\u0016\u0018\u001a\u001e\n\u001b\u0016-\n../9/121112\u0005,3\n5\u0016\u0018\u001a\u001e\n+.4\n../:/121112\u0005,3\n5\u0016\u0018\u001a\u001e\n+14\n../:/121178\u0005,3\n5\u0016\u0018\u001a\u001e\n\u001b\u0016.\n../:/121112\u0005,3\n%\u001e&'4()\u00055\u0016\u0018\u001a\u001e\n\u0019(\u0015\u001d\u0018(&\u0017\n\u001b\u00161\n../:/121112\u0005,3\n%\u001e&'4()\u00055\u0016\u0018\u001a\u001e\n\u0019(\u0015\u001d\u0018(&\u0017\n\u001b\u0016-\n../:/121112\u0005,3\n%\u001e&'4()\u00055\u0016\u0018\u001a\u001e\n\u0019(\u0015\u001d\u0018(&\u0017\n+.4\n../.2/121112\u0005,3\n5\u0016\u0018\u001a\u001e\n+14\n../.2/121178\u0005,3\n5\u0016\u0018\u001a\u001e\n\u001b\u0016.\n../.2/1211-2\u0005,3\n5\u0016\u0018\u001a\u001e\n\u001b\u00161\n../.2/121112\u0005,3\n5\u0016\u0018\u001a\u001e\n\u001b\u0016-\n../.2/121112\u0005,3\n5\u0016\u0018\u001a\u001e\n\"*(\u0017\u0017\u001a!\u0005&\u001d\u0018\u0005-\u0005;\u001a\u001a\u0018\u001c<\u0005.\u0005;\u001a\u001a\u0018\u0005\u0016\u0017!\u0005.\u0005$&=\u0005>*&(\u0005\u001e\u001a,\u0016(\u0017\n+.4\n../../121112\u0005,3\n5\u0016\u0018\u001a\u001e\n+14\n../../121178\u0005,3\n5\u0016\u0018\u001a\u001e\n\u001b\u0016.\n../../1211-2\u0005,3\n5\u0016\u0018\u001a\u001e\n\u001b\u00161\n../../121112\u0005,3\n5\u0016\u0018\u001a\u001e\n\u001b\u0016-\n../../121112\u0005,3\n5\u0016\u0018\u001a\u001e\n\"&&=\u0005?\n*\u0016\u0018?\n\u0005@\u0018&$\u0005\u001c\u001a>\u0018(&\u0017\u0005&A\u0005)\u001e&'\u0005$&\u0018B\u0005&AA\n+.4\n../.1/121112\u0005,3\n5\u0016\u0018\u001a\u001e\n+14\n../.1/121178\u0005,3\n5\u0016\u0018\u001a\u001e\n\u001b\u0016.\n../.1/121112\u0005,3\n%\u001e&'4()\u00055\u0016\u0018\u001a\u001e\n\u0019(\u0015\u001d\u0018(&\u0017\n\u001b\u00161\n../.1/121112\u0005,3\n%\u001e&'4()\u00055\u0016\u0018\u001a\u001e\n\u0019(\u0015\u001d\u0018(&\u0017\n\"&&=\u0005?\n*\u0016\u0018?\n\u0005@\u0018&$\u0005\u001c\u001a>\u0018(&\u0017\u0005&A\u0005)\u001e&'\u0005$&\u0018B\u0005&AA\n\u001b\u0016-\n../.1/121112\u0005,3\n%\u001e&'4()\u00055\u0016\u0018\u001a\u001e\n\u0019(\u0015\u001d\u0018(&\u0017\n+.4\n../.-/121112\u0005,3\n5\u0016\u0018\u001a\u001e\n+14\n../.-/121178\u0005,3\n5\u0016\u0018\u001a\u001e\n\u001b\u0016.\n../.-/121112\u0005,3\n\u001b(>\u001e&;\u001e\u001a'\u00055\u0016\u0018\u001a\u001e\n\u0019(\u0015\u001d\u0018(&\u0017\n\u001b\u00161\n../.-/121112\u0005,3\n\u001b(>\u001e&;\u001e\u001a'\u00055\u0016\u0018\u001a\u001e\n\u0019(\u0015\u001d\u0018(&\u0017\n\u001b\u0016-\n../.-/121112\u0005,3\n\u001b(>\u001e&;\u001e\u001a'\u00055\u0016\u0018\u001a\u001e\n\u0019(\u0015\u001d\u0018(&\u0017\n+.4\n../.7/121112\u0005,3\n5\u0016\u0018\u001a\u001e\n+14\n../.7/121178\u0005,3\n5\u0016\u0018\u001a\u001e\n\u001b\u0016.\n../.7/1211-2\u0005,3\n5\u0016\u0018\u001a\u001e\n\u001b\u00161\n../.7/1211-2\u0005,3\n5\u0016\u0018\u001a\u001e\n\u001b\u0016-\n../.7/1211-2\u0005,3\n5\u0016\u0018\u001a\u001e\n+.4\n../.8/121112\u0005,3\n5\u0016\u0018\u001a\u001e\n+14\n../.8/121178\u0005,3\n5\u0016\u0018\u001a\u001e\n\u001b\u0016.\n../.8/1211-8\u0005,3\n5\u0016\u0018\u001a\u001e\n\u001b\u00161\n../.8/1211-8\u0005,3\n5\u0016\u0018\u001a\u001e\n\u001b\u0016-\n../.8/1211-8\u0005,3\n5\u0016\u0018\u001a\u001e\n+.4\n../.0/121112\u0005,3\n5\u0016\u0018\u001a\u001e\n+14\n../.0/121178\u0005,3\n5\u0016\u0018\u001a\u001e\n\u001b\u0016.\n../.0/1211-8\u0005,3\n5\u0016\u0018\u001a\u001e\n\u001b\u00161\n../.0/1211-8\u0005,3\n5\u0016\u0018\u001a\u001e\n\u001b\u0016-\n../.0/1211-8\u0005,3\n5\u0016\u0018\u001a\u001e\n+.4\n../.6/121112\u0005,3\n5\u0016\u0018\u001a\u001e\n+14\n../.6/121178\u0005,3\n5\u0016\u0018\u001a\u001e\n\u001b\u0016.\n../.6/1211-8\u0005,3\n5\u0016\u0018\u001a\u001e\n\u001b\u00161\n../.6/1211-8\u0005,3\n5\u0016\u0018\u001a\u001e\n\u001b\u0016-\n../.6/1211-8\u0005,3\n5\u0016\u0018\u001a\u001e\n+.4\n../.9/12112\u0005,3\n3()*\u0018\u001c\u0005&AA\u0005/\u0005$&\u0018\u0005\u0018\u0016=\u001a\u0005!&'\u0017\nC\u001a\u001e#\u0005!\u001a\u0017\u001c\u001a\u0005,\u001d!\u0005\u0015(=\u001a\u0005\u001c&(\u0015\n+14\n../.9/12112\u0005,3\n3()*\u0018\u001c\u0005&AA\u0005/\u0005$&\u0018\u0005\u0018\u0016=\u001a\u0005!&'\u0017\n\u001b\u0016.\n../.9/12112\u0005,3\n3()*\u0018\u001c\u0005&AA\u0005/\u0005$&\u0018\u0005\u0018\u0016=\u001a\u0005!&'\u0017\n5\u0016\u0018\u001a\u001e,\u001a\u0015&\u0017\u0005D(\u0017\u001a\u0005\u0017&\u0018\u0005D(\u001c(;\u0015\u001a\u0005(\u0017\u0005\u001c&(\u0015<\u0005A&\u001d\u0017!\u0005.\u0005'&\u001e,\u0005(\u0017\u0005\u001c&(\u0015\n\u001b\u00161\n../.9/12112\u0005,3\n3()*\u0018\u001c\u0005&AA\u0005/\u0005$&\u0018\u0005\u0018\u0016=\u001a\u0005!&'\u0017\n5\u0016\u0018\u001a\u001e,\u001a\u0015&\u0017\u0005D(\u0017\u001a\u0005\u0017&\u0018\u0005D(\u001c(;\u0015\u001a\u0005(\u0017\u0005\u001c&(\u0015<\u0005A&\u001d\u0017!\u00051\u0005'&\u001e,\u001c\u0005(\u0017\u0005\u001c&(\u0015\u0005&\u0017\u0005../.9\u0005\u0016\u0017!\u0005\u0016\u0017\u0005\u0016!!(\u0018(&\u0017\u0016\u0015\n'&\u001e,\u0005(\u0017\u0005\u0018*\u001a\u0005$&\u0018\u0005&\u0017\u0005../11\n33",
+      "char_count": 2228,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 35,
+      "text": "\u0000\u0001\u0002\u0003\u0005\u0005\u0006\u0003\u0007\u0002\b\u0001 \n\u0005\u000b\u0003\u0005\f\u0005\r\u0001 \u0007\u0002\u0005\u0001\u000b\u000e\u0005\u000f\u0007\u0002 \u0005\u0003\u0010\u0011\u0007\u000e\u0012\u0013\u0007\n\u0014\u0015\u0016\u0017\u0018\n\u0019\u0016\u0018\u001a\n\u001b\u001a\u0016\u001c\u001d\u001e\u001a\u0005 \u001a\u001a! \u001a\u001a!\u0005\"#$\u001a\n%\u001e&'\u0005\u0015()*\u0018\n+&,,\u001a\u0017\u0018\n\u001b\u0016-\n../.0/12112\u0005,3\n3()*\u0018\u001c\u0005&44\u0005/\u0005$&\u0018\u0005\u0018\u00165\u001a\u0005!&'\u0017\n6\u0016\u0018\u001a\u001e,\u001a\u0015&\u0017\u00057(\u0017\u001a\u0005\u0017&\u0018\u00057(\u001c(8\u0015\u001a\u0005(\u0017\u0005\u001c&(\u0015\n34",
+      "char_count": 180,
+      "image_count": 2,
+      "tables": []
+    }
+  ]
+}

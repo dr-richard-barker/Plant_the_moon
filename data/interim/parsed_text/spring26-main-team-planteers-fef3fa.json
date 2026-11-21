@@ -1,0 +1,314 @@
+{
+  "report_id": "spring26-main-team-planteers-fef3fa",
+  "sha256": "0ae787c4ac1d49f5ef9394ff3524074e299bf375b0e771509ea392f8effcf796",
+  "page_count": 24,
+  "total_chars": 27918,
+  "avg_chars_per_page": 1163.2,
+  "total_images": 27,
+  "table_count": 5,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "The Effects of the Wavelength of Light on the Growth of Lettuce (Lactuca sativa) \nCultivated in Martian Regolith \n \n \nTeam Members: Nicolas Smith, Jessica Pierre Toussaint, Jason Mendoza, Suemy \nValenzuela \nCoach: Davia Hudson-Holness \n \nTeam ID: 24577 \nPlant the Moon Challenge: Spring 2026",
+      "char_count": 291,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "text": "2\nIntroduction \nTo understand the potential of life beyond Earth, there is a strong call for continued space \nexploration. According to the National Aeronautics and Space Administration (NASA), \nthey are returning to the moon for scientific discovery, economic benefits, and inspiration \nfor a new generation of explorers: the Artemis Generation (NASA, 2024). The scientific \ndiscoveries from the moon can then be used to gather more information about Mars and \nthe solar system. Mars, however, is the ultimate goal for human exploration because it is \none of the only other places known where life may have existed in the solar system (NASA, \n2023). \nNASA will be exploring Mars and more of the solar system; however, those expeditions \ncan be very long and challenging. This means that there will be a need for methods that \nwill allow explorers to grow sustainable crops while they complete their mission. \nAccording to the Plant the Moon Challenge (2024), individuals from various education \nlevels are coming together and developing experiments that modify lunar or Martian \nregolith to grow the best nutrient rich crops (2024). The goal of these experiments is to \nmaximize the crop yield while limiting the amount of mass that is needed from Earth. \nAccording to Shaw and Soma (2022), space missions are becoming longer so the quality \nand nutrition of food need to be improved, as the astronauts\u2019 health and wellbeing (both \nphysical and mental) are highly dependent on diet (Shaw and Soma, 2022). It is incredibly \nimportant that the astronauts remain healthy so that they can continue their mission \nproviding information that advances scientific discoveries. \nThe goal of this project is to investigate how different wavelengths of light impact the \ngrowth of Butterhead lettuce (Lactua sativa) in Martian regolith. The hypothesis is that the \ngrowth and physiological development of Butterhead lettuce grown in Martian regolith will \nvary depending on the wavelength of light provided, with plants exposed to combined red \nand blue wavelengths producing greater biomass and chlorophyll content than those grown \nunder red, blue, or full-spectrum light alone. \n \nKey terms: Lactuca sativa, Martian regolith simulant, wavelength of light, biomass, \nchlorophyll content",
+      "char_count": 2278,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "text": "3\nTheory \nMartian regolith has been studied for years, and most researchers agree that it does not act \nlike Earth soil. Martian regolith is composed of basaltic sand, dust, and crushed volcanic \nrock with almost no organic matter (Let\u2019s Talk Science, 2025). Because it has no \nmicroorganisms or decomposed plant material, it cannot cycle nutrients the way Earth soil \ndoes. This also means the regolith has a naturally alkaline pH, usually between 8.5 and 9.5, \nwhich is far outside the preferred range for crops like lettuce. The alkalinity of Martian \nregolith interferes with the availability of phosphorus, iron, and zinc thus preventing plants \nfrom absorbing the nutrients they need to survive (Temming, 2020). \nA second major limitation is the presence of perchlorates which are toxic chlorine-based \nsalts found across the Martian surface. Perchlorates not only harm plant growth but also \nmakes it unsafe for humans if they accumulate in edible leaves (Temming, 2020). Water \nbehavior in Martian regolith is also a major challenge. Cartier (2023) reports that regolith \nsimulants dry out rapidly and compact into dense layers that restrict root penetration. The \nsoil particles are so fine that they either drain water too quickly or trap it in pockets without \nproper aeration. Mathewson (2016) found that lettuce grown in simulants required small, \nfrequent waterings to prevent soil hardening and moisture stress. This matches patterns \nseen across multiple Mars-growing studies, which show that soil moisture must be \ncontrolled carefully to avoid both drought and oversaturation. \nNutrient deficiencies add another layer of difficulty. Although regolith contains minerals \nsuch as iron, magnesium, and calcium, it lacks essential macronutrients like nitrogen and \nphosphorus. Because of this, many Earth-based experiments combine Martian simulants \nwith soil amendments. Duri et al. (2022) found that mixtures of simulants and organic \nmaterial significantly improved water retention, chlorophyll levels, and overall biomass in \nlettuce. Amendments such as worm castings, compost, manure, and perlite help improve \nsoil structure and nutrient availability. \nSince researchers do not have access to Martian soil, they rely on regolith simulants like \nMMS-1which reproduces the chemical and physical properties of Martian basalt, allowing \ncontrolled experiments on crop growth under Mars like conditions (Kasiviswanathan et al., \n2025). Studies using MMS-1 consistently show that lettuce can grow, but only when the",
+      "char_count": 2529,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "text": "4\nregolith is amended, watered properly, and adjusted chemically to reduce alkalinity. \nUnderstanding these limitations is important for this project because it explains why the \nregolith must be modified before testing how different wavelengths of light influence \nlettuce growth. \nScientists and astronauts recognize the constant need for food and nutrition, particularly \nfrom a sustainable and efficient source. Through trial and error, lettuce (Lactuca sativa) is \none of the best crop options for many reasons, such as short growth cycle, nutritional value, \nand performance in controlled environments. In a 2019 study by El-Nakhel et al., where \ntwo varieties of lettuce were compared in terms of performance, both grew quickly, where \none even managed to outgrow the other, implying a shorter harvest schedule to attain the \ntarget weight and maturity stage requirement. This fast growth emphasized the efficient \nharvest that can come from lettuce, and even leading to less consumption of water and \nminerals for reaching target produce (El-Nakhel et al., 2019). \nLettuce\u2019s ability to grow quickly hits one of the goals of an exceptional crop model because \nastronauts\u2019 access to food is always limited. In a 2020 article by Burgess et al., researchers \npresented a theoretical plan to biofortify lettuce crops to increase nutrients that are already \nfound in them. In the article, they concluded that lettuce \u201cpresents a model starting point \nfor the generation of new space farming systems and biofortified crops to meet human \nnutritional requirements\u201d (Burgess et al., 2020). This further strengthens the fact that \nlettuce is a model crop because it offers a meaningful foundation of vitamins, antioxidants, \nand minerals important to an astronaut\u2019s diet. \nCombined with all lettuce\u2019s efficiency, it was also found to be a resilient crop in harsh \nenvironments. In a 2011 study by Wheeler et al., where many crops were grown in \ncontrolled environments, the scientists found that lettuce could withstand decompression \ndown to ~1.5-2.0 kPa for up to 30 min with no apparent damage. This resilience is also \nclear when it comes to different wavelengths of light. In a 2010 study by Hogewoning et \nal., different wavelengths of light were tested, such as white light, blue light, and red light. \nFrom this study, it was found that the total biomass under only the red-light spectrums was \ngreatly reduced, and that growth and development had been inhibited, which leads to \ndecreased chlorophyll content. In the same study, when both red and blue were combined,",
+      "char_count": 2573,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "text": "5\nthe physiological disorders associated with leaf development under red light alone were \neliminated by adding only a small amount of blue light, further supporting the fact that red \nand blue light are needed to promote growth and development of lettuce crops \n(Hogewoning et al., 2010). Different wavelengths of light affect plant growth because \nplants absorb certain parts of the spectrum better than others; photosynthetic pigments \nexhibit maximal absorption in the red and blue regions of the spectrum (Hogewoning et al. \n2010, p. 111). This is why most research focuses on red and blue light emission diodes \n(LEDs) when studying how plants develop in controlled environments. \nRed light, which is usually around 660 nanometers, strongly supports photosynthesis and \nincreases plant growth. Hern\u00e1ndez and Kubota (2016) found that red wavelengths near 660 \nnm significantly enhance biomass accumulation and leaf expansion in leafy vegetables (p. \n45). This wavelength encourages bigger leaves, faster growth, and more total biomass. At \nthe same time, too much red light in small or enclosed spaces can create stress. Johkan et \nal. (2012) reported that overexposure to red LEDs increased leaf temperature and caused \ntip burn under enclosed conditions (p. 7), showing that red light must be used with control \nand proper distance. On the other hand, blue light, usually around 450 nanometers, plays a \ndifferent role. It influences chlorophyll formation, the strength of the leaf, and the shape of \nthe plant. Stutte (2009) noted that blue light is essential for normal photomorphogenesis \nand chlorophyll development (p. 115). Blue wavelengths increase pigment levels, create \nthicker and darker leaves, and keep plants compact. Pennisi et al. (2019) showed that higher \namounts of blue light can increase pigments but reduce fresh weight, which confirms that \nred and blue need to be balanced for healthy growth. Full-spectrum light on the other hand, \nprovides a wide range of wavelengths similar to natural sunlight. Snowden et al. (2016) \nsays that broad-spectrum white LEDs produce morphology similar to sunlight-grown \nplants and serve as an effective control condition in controlled-environment studies (p. 66). \nFull-spectrum lighting creates a natural baseline that helps compare how plants react when \nonly red or blue wavelengths are used. \nResearch on lettuce and other leafy greens shows the same pattern across different studies. \nA mix of red and blue light produces the strongest and healthiest growth, proving to be the \nbest option. Red-dominant conditions increase leaf size, while blue-dominant conditions",
+      "char_count": 2635,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "text": "6\nbuild stronger leaves with deeper color. Full-spectrum light creates natural-looking plants \nbut is less efficient because plants do not use all wavelengths equally as supported by \nNASA\u2019s findings. Hummerick et al. (2020) reported that lettuce grown under red and blue \nLEDs showed robust growth and acceptable morphology for spaceflight crop production \n(p. 4), which matches the results seen in other controlled-environment research. Red light \nincreases photosynthesis and leaf expansion, blue light strengthens chlorophyll and \nstructure, and full-spectrum light provides a natural point of comparison. These studies \nsupport the idea that the best approach is a combination of full-spectrum lighting and \ntargeted red and blue wavelengths when studying how plants grow in controlled \nenvironments. \nOverall, lettuce is one of the best crops to cultivate in harsh and nutrient deficient \nconditions, as it can withstand them to a certain extent. In addition, it is full of nutrients \nand is an efficient grower because its rapid growth limits water consumption and the wait \nfrom seed to harvest. Lettuce has been found to grow best in the combination of blue and \nred light as opposed to being used separately, which supports the project\u2019s hypothesis. \nMeasurement Methods \nTable 1: Materials and Descriptions \nCategory \nDescription \nCrop \nButterhead lettuce (Lactuca sativa var. \ncapitata) \nSoil Composition \n50% Martian regolith simulant, 40% \ntopsoil, 10% perlite \nFertilizer/Amendment \nWorm castings \nLight Sources \n1. Full-spectrum LED \n2. Red LED (~660 nm) \n3. Blue LED (~450 nm) \n4. Combined red/blue LED \nWater Source \nDistilled water \nContainers \n3-inch pots",
+      "char_count": 1675,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Category",
+            "Description"
+          ],
+          [
+            "Crop",
+            "Butterhead lettuce (Lactuca sativa var. capitata)"
+          ],
+          [
+            "Soil Composition",
+            "50% Martian regolith simulant, 40% topsoil, 10% perlite"
+          ],
+          [
+            "Fertilizer/Amendment",
+            "Worm castings"
+          ],
+          [
+            "Light Sources",
+            "1. Full-spectrum LED 2. Red LED (~660 nm) 3. Blue LED (~450 nm) 4. Combined red/blue LED"
+          ],
+          [
+            "Water Source",
+            "Distilled water"
+          ],
+          [
+            "Containers",
+            "3-inch pots"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 7,
+      "text": "7\nInstruments \npH meter, Electrical Conductivity (EC) \nmeter, chlorophyll meter (SPAD), ruler, \nanalytical balance, drying oven, \nthermometer, hygrometer \nGrowth Environment \nIndoor chemistry lab with controlled \nhumidity and temperature \nTable 2: Experimental Design \nVariable Type \nDescription \nIndependent Variable \nWavelength of light source \nDependent Variables \nPlant height, chlorophyll content, fresh \nand dry biomass, soil pH, soil EC \nControlled Variables \nSoil mix, pot size, water volume, light \nexposure time (12-hour light / 12-hour \ndark), plant type (butterhead lettuce), \ndistance from light (20\u201325 cm), \ntemperature and humidity \n \nTable 3: Experimental Setup \nLight Sources \nFull Spectrum/Red light/Blue light/Red & Blue Light \nSample ID \n1A \n1B \n2A \n2B \n3A \n3B \nSoil Composition \n100% \nMartian \nSimulant \n100% \nMartian \nSimulant \n100% Top \nSoil \n100% Top \nSoil \n50% Martian \nSimulant, \n40% Top \nSoil, 10% \nPerlite \n50% Martian \nSimulant, \n40% Top Soil, \n10% Perlite \nVolume of regolith \n(mL) \n100 \n100 \n0 \n0 \n50 \n50 \nVolume of Topsoil \n(mL) \n0 \n0 \n100 \n100 \n40 \n40 \nVolume of Perlite \n(mL) \n0 \n0 \n0 \n0 \n10 \n10 \nAmendment \n(fertilizer) \nNone \nNone \nNone \nNone \n1 TBSP \nWorm \nCastings \n(~7.5g) \n1 TBSP Worm \nCastings \n(~7.5g)",
+      "char_count": 1243,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Instruments",
+            "pH meter, Electrical Conductivity (EC) meter, chlorophyll meter (SPAD), ruler, analytical balance, drying oven, thermometer, hygrometer"
+          ],
+          [
+            "Growth Environment",
+            "Indoor chemistry lab with controlled humidity and temperature"
+          ]
+        ],
+        [
+          [
+            "Variable Type",
+            "Description"
+          ],
+          [
+            "Independent Variable",
+            "Wavelength of light source"
+          ],
+          [
+            "Dependent Variables",
+            "Plant height, chlorophyll content, fresh and dry biomass, soil pH, soil EC"
+          ],
+          [
+            "Controlled Variables",
+            "Soil mix, pot size, water volume, light exposure time (12-hour light / 12-hour dark), plant type (butterhead lettuce), distance from light (20\u201325 cm), temperature and humidity"
+          ]
+        ],
+        [
+          [
+            "Light Sources",
+            "Full Spectrum/Red light/Blue light/Red & Blue Light",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Sample ID",
+            "1A",
+            "1B",
+            "2A",
+            "2B",
+            "3A",
+            "3B"
+          ],
+          [
+            "Soil Composition",
+            "100% Martian Simulant",
+            "100% Martian Simulant",
+            "100% Top Soil",
+            "100% Top Soil",
+            "50% Martian Simulant, 40% Top Soil, 10% Perlite",
+            "50% Martian Simulant, 40% Top Soil, 10% Perlite"
+          ],
+          [
+            "Volume of regolith (mL)",
+            "100",
+            "100",
+            "0",
+            "0",
+            "50",
+            "50"
+          ],
+          [
+            "Volume of Topsoil (mL)",
+            "0",
+            "0",
+            "100",
+            "100",
+            "40",
+            "40"
+          ],
+          [
+            "Volume of Perlite (mL)",
+            "0",
+            "0",
+            "0",
+            "0",
+            "10",
+            "10"
+          ],
+          [
+            "Amendment (fertilizer)",
+            "None",
+            "None",
+            "None",
+            "None",
+            "1 TBSP Worm Castings (~7.5g)",
+            "1 TBSP Worm Castings (~7.5g)"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 8,
+      "text": "8\nProcedure \n1. Soil Preparation: Each pot was filled with ~100 ml of the soil mixture (50% regolith, \n40% topsoil, 10% perlite and 7.5 grams of worm castings). This will be referred to as \nsoil mixture throughout the article. Soil pH and EC were measured on the day of \nplanting. \n2. Growth Conditions: Plants were grown indoors under controlled temperature and \nhumidity. Light sources were positioned 20\u201325 cm above the lettuce plants. Plants \nwere grown in 3-gallon aquariums that were covered with aluminum foil ensuring \nthat plants were only exposed to the appropriate light sources and wavelengths. \n3. Watering Schedule: Each pot received 10 - 15 mL of distilled water depending on the \nmoisture level of the plants. Plants were initially watered twice per week, but the \nschedule was modified to once per over the growth period to prevent overwatering of \nthe plants. Watering volume and frequency was consistent for all samples. \n4. Monitoring and Measurements: Weekly measurements included plant height, number \nof leaves, number of plants, and chlorophyll content (SPAD \u2013 soil and plant analysis \ndevelopment). Harvest measurements included fresh and dry weight (after drying at \n60 \u00b0C for 48 h), and final soil pH. Room conditions were recorded weekly. \n5. Data Analysis: Data was recorded in an excel spreadsheet and shared using the \ncollege\u2019s one drive system (Microsoft). Collected data was compared across \ntreatments to determine the effect of light wavelength on lettuce growth. Statistical \nanalyses such as mean values and standard deviations were calculated to test \nsignificance.",
+      "char_count": 1604,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "text": "9\nAnalysis & Results \n \n \nFigure 1: Average pH of Soil Samples \n \n \nFigure 2: Average Electrical Conductivity of Soil Samples",
+      "char_count": 125,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "text": "10\n \nFigure 3: Average Plant Height for Plants under all the Light Conditions \n \n \nFigure 4: Average Chlorophyll content of the Soil Mixture Plants",
+      "char_count": 147,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "text": "11\n \n \nFigure 5: Week 7 Fresh Biomass for all Plants under all Light Conditions \n \n \n \n \nFigure 6: Week 7 Dry Biomass for Soil Mixture Plants under all Light Conditions",
+      "char_count": 168,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 12,
+      "text": "12\n \nFigure 7: Comparison between Measured Values under all the Light Conditions",
+      "char_count": 80,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 13,
+      "text": "13\nDiscussion & Conclusions \nThe growth period spanned seven weeks, as the eighth week coincided with the college\u2019s \nspring break. Throughout this time, plant growth was observed in all soil samples, \nincluding the 100% Martian regolith, the 100% topsoil, and the soil mixture composed of \n50% Martian regolith, 40% topsoil, 10% perlite, and worm castings as fertilizer. Each soil \ntype displayed distinct physical characteristics. The Martian regolith was highly granular, \nallowing water to pass through quickly, while the topsoil was less absorbent, causing water \nto pool on the surface before gradually being absorbed. In contrast, the soil mixture showed \na balanced combination of drainage and absorption, allowing it to retain moisture more \neffectively. These differences in soil texture presented challenges in maintaining a \nconsistent watering schedule, as each sample required varying amounts of water (10 \u2013 15 \nmL). As a result, both the watering schedule and volume had to be adjusted throughout the \ngrowth period. \n \nAn additional observation was the presence of condensation within the aquariums exposed \nto the red/blue light combination and the full-spectrum light source, suggesting differences \nin moisture retention under these lighting setups. The average temperature and humidity \ninside the lab were 72 \u00b0F and 70%, respectively. However, the temperature and humidity \nwithin the aquariums varied slightly depending on the light source used. The average \ntemperatures in the aquariums exposed to individual red and blue light sources were 76 \u00b0F \nand 75 \u00b0F, respectively. In comparison, the aquariums with full-spectrum lighting and the \nred/blue light combination had average temperatures of 77 \u00b0F and 82 \u00b0F, respectively. \nAlthough the average temperature in the full-spectrum setup appeared similar to that of the \nindividual light treatments, the daytime temperatures in this aquarium reached as high as \n80 \u00b0F. These elevated temperatures may have contributed to the condensation observed in \nthese aquariums; however, this effect was not reflected in the recorded humidity values. A \nlikely explanation is that the humidity measurements were taken after harvesting, when the \nplants were no longer present to contribute to moisture levels, potentially resulting in less \naccurate humidity readings.",
+      "char_count": 2328,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 14,
+      "text": "14\nWeekly analysis of soil pH and electrical conductivity indicated that the soil composition, \nrather than the light source, was the primary factor influencing these properties (Figures 1 \nand 2). The pH of all soil samples was slightly acidic, ranging from 6.6 to 6.8, which falls \nwithin the optimal range for most plant growth. Electrical conductivity measurements were \nhighest in the 100% topsoil samples, indicating a greater ion concentration compared to \nthe 100% Martian regolith and the soil mixture samples. The lettuce seeds successfully \ngerminated in all soil types, with visible sprouting occurring within five days of planting. \nHowever, the growth rates varied across the samples; plants grown in the soil mixture \nexhibited the greatest increase in height, outperforming those grown in both 100% Martian \nregolith and 100% topsoil. These findings suggest that the soil mixture composed of \nMartian regolith, topsoil, perlite, and worm castings provides a more favorable \nenvironment for plant growth, lessening some of the limitations associated with growth in \n100% Martian regolith. \n \nThe superior growth observed in the soil mixture was consistent across all light treatments \n(Figure 3). Within this soil condition, plants grown under red light achieved the greatest \nheight, with an average of 10.24 cm over the growth period and a relative growth rate of \n0.28 cm/week. These findings align with previous research indicating that red light can \nenhance plant growth. However, despite their greater height, plants grown under red light \nappeared thin and less robust compared to those grown under the full-spectrum and \ncombined red/blue light sources. The plants exposed to full-spectrum and red/blue lighting \nexhibited fuller, healthier morphology, suggesting that while red light promotes elongation, \na broader light spectrum supports a more balanced plant development. \n \nChlorophyll content was measured beginning in week four of the growth period, when the \nleaves had reached sufficient size for accurate measurements using a chlorophyll meter. \nMeasurements were conducted only on the lettuce plants grown in the soil mixture, as \nleaves from the other soil conditions were too small for reliable measurements. Plants \ngrown under the red/blue light combination possessed the highest chlorophyll content, \nfollowed by those grown under the full-spectrum light source. The average chlorophyll \ncontent for plants under the red/blue light was 13.44 Soil Plant Analysis Development",
+      "char_count": 2513,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 15,
+      "text": "15\n(SPAD) units, compared to 9.66 SPAD units for plants grown under red light alone (Figure \n4). These results suggest that the combined red/blue light treatment is more effective in \npromoting chlorophyll accumulation than red light alone. \n \nWhile chlorophyll content is a useful indicator of plant health, biomass provides a more \ndirect measure of the effectiveness of the photosynthesis process and therefore the overall \nplant productivity so both fresh and dry biomass were measured at the end of the growth \nperiod. Fresh biomass was recorded for all plant samples, and the results showed that plants \ngrown in the soil mixture produced the highest fresh biomass compared to those grown in \n100% Martian regolith and 100% topsoil (Figure 5). Among the light treatments, plants \ngrown under full-spectrum lighting exhibited slightly higher fresh biomass than those \ngrown under the red/blue light combination, with average values of 6.94 grams and 6.02 \ngrams, respectively. \n \nBecause fresh biomass includes retained water, dry biomass was also measured to provide \na more accurate assessment of plant growth. Dry biomass measurements were conducted \nonly on the soil mixture samples, as these exhibited the most robust and healthy growth. \nThe samples were dried overnight in an oven set to 60 \u00b0C prior to measurement. Results \nindicated that plants grown under full-spectrum and combined red/blue light produced \ngreater dry biomass than those grown under individual red or blue light treatments. Among \nthese, the full-spectrum condition yielded slightly higher dry biomass than the red/blue \ncombination, with a minimal difference of 0.08 grams units between the two (Figure 6). \n \nThe results obtained are consistent with previous research indicating that while individual \nred and blue light sources can support plant growth, a combination of both is necessary to \npromote strong, healthy development (Figure 7). Although plants grown under single-\nwavelength light sources exhibited greater height, those exposed to combined red/blue and \nfull-spectrum lighting demonstrated superior overall health. This was shown by higher \nchlorophyll content and greater biomass, supporting the hypothesis that plants exposed to \ncombined red and blue wavelengths produce greater biomass and chlorophyll levels than \nthose grown under red or blue light alone.",
+      "char_count": 2361,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 16,
+      "text": "16\nThese results indicate that the soil mixture, when combined with either red/blue or full-\nspectrum lighting, supports the growth of robust and healthy plants. Future research could \nfocus on evaluating the nutritional viability and overall quality of these plants. \nMeasurements such as photosynthesis efficiency and nutritional composition would \nprovide deeper insight into not just plant growth but also their suitability as a nutritious \nfood source.",
+      "char_count": 457,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 17,
+      "text": "17\nReferences \nBurgess, A. J., Pranggono, R., Escrib\u00e0-Gelonch, M., & Hessel, V. (2024). Biofortification \nfor space farming: Maximising nutrients using lettuce as a model plant. Future Foods, 9, \n100317. https://doi.org/10.1016/j.fufo.2024.100317 \nCartier, K. M. S. (2023). Tests indicate which edible plants could thrive on Mars. Eos. \nhttps://eos.org/articles/tests-indicate-which-edible-plants-could-thrive-on-mars \nCowing, K. (2022). Growing food on Mars: Alfalfa can fertilize soil and cyanobacteria \ncan desalinate salt water. Astrobiology. https://astrobiology.com/2022/08/growing-food-\non-mars-alfalfa-can-fertilize-soil-and-cyanobacteria-can-desalinate-salt-water.html \nDuri, L. G., et al. (2022). Bioactive Compounds and Antioxidant Activity of Lettuce \nGrown in Different Mixtures of Monogastric-Based Manure With Lunar and Martian \nSoils. Front. Nutr. 9:890786. doi: 10.3389/fnut.2022.890786 \nEl-Nakhel, C., Giordano, M., Pannico, A., Carillo, P., Fusco, G. M., De Pascale, S., & \nRouphael, Y. (2019). Cultivar-specific performance and qualitative descriptors for \nbutterhead Salanova lettuce produced in closed soilless cultivation as a candidate salad \ncrop for human life support in space. Life, 9(3), 61. https://doi.org/10.3390/life9030061 \nHern\u00e1ndez, R., & Kubota, C. (2016). Physiological responses of leafy vegetables to light \nquality inside controlled environments. HortScience, 51(7), 98\u2013109. \nHogewoning, S. W., Trouwborst, G., Maljaars, H., Poorter, H., van Ieperen, W., & \nHarbinson, J. (2010). Blue light dose\u2013responses of leaf photosynthesis, morphology, and \nchemical composition of Cucumis sativus grown under different combinations of red and \nblue light. Journal of Experimental Botany, 61(11), 3107\u20133117. \nhttps://doi.org/10.1093/jxb/erq132 \nHummerick, M. E., Spencer, L. E., Anderson, G., Massa, G. D., & Wheeler, R. M. \n(2020). Development of protocols for lettuce production under red and blue LED lighting \nfor spaceflight. Frontiers in Plant Science, 11, 924. \nhttps://doi.org/10.3389/fpls.2020.00924 \nJohkan, M., Shoji, K., Goto, F., Hashida, S., & Yoshihara, T. (2012). Blue and red light \npromote different growth and photosynthetic characteristics in lettuce. Environmental \nControl in Biology, 50(1), 7\u201314. \nKasiviswanathan, P., et al. (2025). Farming on Mars: Treatment of basaltic regolith soil \nand briny water simulants sustains plant growth. PLOS ONE. \nhttps://doi.org/10.1371/journal.pone.0272209",
+      "char_count": 2445,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Grown in Different Mixtures of Monogastric-Based Manure With Lunar and Martian"
+          ],
+          [
+            "Soils. Front. Nutr. 9:890786. doi: 10.3389/fnut.2022.890786"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 18,
+      "text": "18\nKhodadad, C. L. M., Hummerick, M. E., Spencer, L. E., Dixit, A. R., Richards, J. T., \nRomeyn, M. W., Smith, T. M., Wheeler, R. M., & Massa, G. D. (2020). Microbiological \nand nutritional analysis of lettuce crops grown on the International Space Station. \nFrontiers in Plant Science, 11, 199. https://doi.org/10.3389/fpls.2020.00199 \nLet\u2019s Talk Science. (2025). Soil on Mars. https://letstalkscience.ca \nNASA. (2023, September 26). Humans to Mars. https://www.nasa.gov/humans-in-\nspace/humans-to-mars/ \nNASA. (2024). Artemis. https://www.nasa.gov/feature/artemis/ \nOliveira, B. H. (2025). Cultivating food on Mars: Challenges and prospects. Open \nScience Research XVIII, 250\u2013264. https://doi.org/10.37885/241218542 \nPennisi, G., Orsini, F., Prins, C., & Gianquinto, G. (2019). LED spectral composition \ninfluences growth and nutritional quality of lettuce. Scientific Reports, 9(1), 1\u201312. \nPlant the Moon Challenge. (2024). Home. https://plantthemoon.com/home/ \nShaw, R., & Soma, T. (2022). To the farm, Mars, and beyond: Technologies for growing \nfood in space, the future of long-duration space missions, and earth implications in \nEnglish news media coverage. Frontiers in Communication, 7. \nhttps://doi.org/10.3389/fcomm.2022.1007567 \nSnowden, M. C., Cope, K. R., & Bugbee, B. (2016). Sensitivity of seven diverse species \nto blue and green light: Interactions with photoperiod. Frontiers in Plant Science, 7, 196. \nStutte, G. W. (2009). Light-emitting diodes for manipulating the phytochemical content \nof crops for spaceflight. Acta Horticulturae, 907, 113\u2013122. \nTemming, M. (2020). Farming on Mars will be a lot harder than \u201cThe Martian\u201d made it \nseem. Science News. https://www.sciencenews.org/article/mars-farming-harder-martian-\nregolith-soil \nWheeler, R. (2017). Agriculture for space: People and places paving the way. Open \nAgriculture, 2(1), 14\u201332. https://doi.org/10.1515/opag-2017-0002",
+      "char_count": 1904,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 19,
+      "text": "19\nAppendices: Raw Data \nTable 1: Week 1 Data \n \nTable 2: Week 2 Data \n \nTable 3: Week 3 Data",
+      "char_count": 93,
+      "image_count": 3,
+      "tables": []
+    },
+    {
+      "page_number": 20,
+      "text": "20\nTable 4: Week 4 Data \n \nTable 5: Week 5 Data \n \nTable 6: Week 6 Data",
+      "char_count": 71,
+      "image_count": 3,
+      "tables": []
+    },
+    {
+      "page_number": 21,
+      "text": "21\n \nTable 7: Week 7 Data (last week of data collection because of spring break) \n \n \nPhotos \n \nFigure 1: Pots being prepped for planting",
+      "char_count": 137,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 22,
+      "text": "22\n \n \n \n \n \n \n \n \n \n \n \n \n \n \nFigure 2: Week 3 (L-R: Blue, Red, Red/Blue and Full Spectrum",
+      "char_count": 91,
+      "image_count": 4,
+      "tables": []
+    },
+    {
+      "page_number": 23,
+      "text": "23\n \n \n \n \n \n \n \n \nFigure 3: Week 5 (L-R: Blue, Red, Red/Blue and Full Spectrum)",
+      "char_count": 80,
+      "image_count": 4,
+      "tables": []
+    },
+    {
+      "page_number": 24,
+      "text": "24\n \n \n \n \n \n \n \n \n \n \n \n \n \nFigure 4: Week 7 (L-R: Blue, Red, Red/Blue and Full Spectrum)",
+      "char_count": 90,
+      "image_count": 4,
+      "tables": []
+    }
+  ]
+}

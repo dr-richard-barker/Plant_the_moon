@@ -1,0 +1,96 @@
+{
+  "n_total_arms": 128,
+  "n_unique_reports": 87,
+  "n_train_arms": 104,
+  "n_test_arms": 24,
+  "positive_rate": 0.828,
+  "best_model": "Random Forest",
+  "models": [
+    {
+      "model": "Dummy (Majority)",
+      "cv_roc_auc": 0.5,
+      "cv_roc_auc_ci": [
+        0.5,
+        0.5
+      ],
+      "cv_pr_auc": 0.817,
+      "cv_pr_auc_ci": [
+        0.74,
+        0.894
+      ],
+      "cv_f1": 0.899,
+      "test_roc_auc": 0.5,
+      "test_f1": 0.933
+    },
+    {
+      "model": "Logistic Regression",
+      "cv_roc_auc": 0.494,
+      "cv_roc_auc_ci": [
+        0.348,
+        0.651
+      ],
+      "cv_pr_auc": 0.836,
+      "cv_pr_auc_ci": [
+        0.753,
+        0.917
+      ],
+      "cv_f1": 0.902,
+      "test_roc_auc": 0.571,
+      "test_f1": 0.909
+    },
+    {
+      "model": "Random Forest",
+      "cv_roc_auc": 0.689,
+      "cv_roc_auc_ci": [
+        0.576,
+        0.802
+      ],
+      "cv_pr_auc": 0.915,
+      "cv_pr_auc_ci": [
+        0.863,
+        0.961
+      ],
+      "cv_f1": 0.897,
+      "test_roc_auc": 0.476,
+      "test_f1": 0.93
+    },
+    {
+      "model": "HistGradientBoosting",
+      "cv_roc_auc": 0.61,
+      "cv_roc_auc_ci": [
+        0.473,
+        0.748
+      ],
+      "cv_pr_auc": 0.873,
+      "cv_pr_auc_ci": [
+        0.801,
+        0.944
+      ],
+      "cv_f1": 0.891,
+      "test_roc_auc": 0.595,
+      "test_f1": 0.909
+    }
+  ],
+  "test_slices": {
+    "celestial_body=lunar": {
+      "n_arms": 12,
+      "positive_rate": 0.917,
+      "accuracy": 0.917
+    },
+    "celestial_body=martian": {
+      "n_arms": 10,
+      "positive_rate": 0.8,
+      "accuracy": 0.8
+    },
+    "track=junior": {
+      "n_arms": 4,
+      "positive_rate": 1.0,
+      "accuracy": 1.0
+    },
+    "track=main": {
+      "n_arms": 20,
+      "positive_rate": 0.85,
+      "accuracy": 0.85
+    }
+  }
+}

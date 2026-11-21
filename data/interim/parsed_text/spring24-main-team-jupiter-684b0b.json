@@ -1,0 +1,491 @@
+{
+  "report_id": "spring24-main-team-jupiter-684b0b",
+  "sha256": "0c0cf691ec1c2f36063589bbcf389c0150054460fe07952b2eec1af9eb4856a1",
+  "page_count": 20,
+  "total_chars": 29367,
+  "avg_chars_per_page": 1468.3,
+  "total_images": 33,
+  "table_count": 11,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Dorado Academy \nHigh School Science Department \nPlant The Moon Challenge 2023-2024 \nAdvisor: Mrs. Ver\u00f3nica Ortiz Berr\u00edos \nTeam Name: Space Monkeys \nTeam ID Number: 17126 \n \nTeam Information: Dorado Academy. Dorado, Puerto Rico \nStudents: Ram\u00f3n Arroyo, Antonio Valent\u00edn, Antonio Tav\u00e1rez, Daniel Irrizary, Edwin Almodovar, Emil \nRodr\u00edguez, Fabi\u00e1n G\u00f3mez, Fabi\u00e1n Santiago, Ginarelle Berm\u00fadez \nTeacher: Mrs. Ver\u00f3nica Ortiz Berr\u00edos \n \nPTMC: Optimizing Water Retention by using Kokedama method. \n \nBackground information \nNumerous studies confirm the positive influence of green spaces on people's well-being, not only as urban \nlungs, but particularly in hospitals, workplaces, and educational centers and, of course, in space stations. \nFrom all the ideas we considered for this experiment we chose how to optimize plant water retention by \nchanging the traditional planting method and replacing it with a kokedama. We believe this would have a \ngreat impact as it could reduce the amount of water needed to growth a plant in space. \nThe Kokedama originate from Japan; they are derived from the bonsai. Plants are grown in moss-covered, \nspherical balls made of soil and secured under the handmade \"fabric\" of rope. This natural covering, moss, \nand rope, acts as a pot and allows oxygenation of the roots. \nThe moss in a kokedama is not only its container, nor its decoration. The moss is capable of retaining \nseveral times its weight in water; moisture is released little by little, nourishing the inside of the ball as the \nroots of the plant demand water. In addition, the moss prevents the substrate from being washed away \nduring watering. \nHowever, in our experiment we also used coconut fibers. Coir, also known as coconut fiber, is becoming \npopular as an environmentally responsible and sustainable plant growth medium. This natural material, \nwhich comes from the husk of coconuts, is used in gardening due to its versatile uses and beneficial \npurposes. Because coconut fiber holds water so well, it's a great material for plants that need constant \nmoisture. The root system won't over dry out thanks to its moisture retention, which lessens the need for \nfrequent watering. Furthermore, it fosters more robust root development by preserving a constant \nmoisture content. Coconut fiber not only helps plants retain water, but it also gives their roots efficient air",
+      "char_count": 2374,
+      "image_count": 1,
+      "tables": [
+        [
+          [
+            "Rodr\u00edguez, Fabi\u00e1n G\u00f3mez, Fabi\u00e1n Santiago, Ginarelle Berm\u00fadez"
+          ],
+          [
+            "Teacher: Mrs. Ver\u00f3nica Ortiz Berr\u00edos"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "circulation. It maintains a balance between air circulation and moisture retention, which is essential for \nkeeping roots supplied with oxygen and avoiding root rot. Since coconut fiber has no pH of its own, mixing \nit with soil or growing it in a medium won't cause it to change the pH of the mixture much. \nIn the following experiment we will be utilizing a mixture of a nutrient deficient substance known as lunar \nregolith as a growing medium for our plants. Regolith, more commonly known as sediment, is the result \nof the weathering of bedrock. Since there is no wind or running water on the moon for weathering to take \nplace, lunar regolith is formed by meteorite collisions and solar wind. The grains of regolith vary in size \ndepending on their maturity. The maturity is dependent on the length of time it has been exposed to the \nsolar wind and meteorite environment. If lunar regolith was to be compared to soil it would be the most \nlike sand, due to its porous nature and fine particles. To alleviate the deficiency in water retention and \nnutrients we decided to mix the substance with garden soil. \nGarden soil is a combination of topsoil and organic matter. The reason garden soil was chosen over potting \nsoil was mainly because of garden soil\u2019s innate ability to improve soil texture. According to our research it \nmay prove counterproductive to use potting soil because of its high drainage. Garden soil on the other \nhand, has been proven to have the capacity to retain a significant amount of water and nutrients. Since \nthe goal of our experiment is the test for water retention, we wanted to maximize the amount of water \nthat is being retained by the plants. \nThe seed we grew was the Black seeded Simpson. This seed falls under the category of Garden Lettuce \n(Lactuca Sativa). It was chosen for qualities such as its bolting resistance. Although, it was primarily chosen \nbecause it germinates quickly and has been shown to grow in previous regolith experiments. The plant \nalso does not need too much water, so it is easier to manage for people that have not grown plants before. \nAgain, we are trying to optimize the water retention method, so we need to have a plant that we already \nknow could grow in regolith. \nHypothesis \nBy using the kokedama planting method, we expect that the water retention will increase due to the \nmoss and coconut fibers shell absorption properties, which will lead to the plant needing less water to \ngrow. \nVariables \nDependent \nIndependent \nPlant growth \nHumidity \nKokedama \nWater \n \nConstant \n\u2022 \nTemperature \n\u2022 \nLight \n\u2022 \nSeed Depth \n\u2022 \nType of Seed \n\u2022 \nSoil Composition",
+      "char_count": 2633,
+      "image_count": 1,
+      "tables": [
+        [
+          [
+            "Dependent",
+            "",
+            "Independent",
+            ""
+          ],
+          [
+            "Plant growth",
+            "Humidity",
+            "Kokedama",
+            "Water"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "Design \nControl A \nRegular Pot \nControl B \nRegular Pot \nExperiment A \n Kokedama \nExperiment B \nKokedama \n \n100% Garden Soil \n151g of soil \n \n \n \n \n \n \n50% Regolith \n50% Garden Soil \n151g of soil \n \n \n50% Regolith (75.5g) \n50% Garden Soil (75.5g) \nCoconut fiber exterior \n50% Regolith (75.5g) \n50% Garden Soil (75.5g) \nMoss exterior \n \n \n \n \nMaterials-Lamps, pots, garden soil, coconut fiber, moss fiber, regolith, fishing string, measuring \ncup, electronica balance, graduated cylinder, spray bottle, soil master, skewer, ruler, seeds. \nProcedure \n1. Label the corresponding posts. \n2. Prepare the soil mixture of 50% regolith, 50% garden soil. (75.5 g soil + 75.5g regolith =151g \ntotal) \n3. Weigh 151 grams of the soil mixture to prepare the kokedamas. \n4. Make a ball with the soil mixture. \n5. Cover the exterior of the soil mixture kokedamas with coconut fiber. (Experimental A) \n6. Cover the exterior of the soil mixture kokedamas with moss fiber. (Experimental B) \n7. Wrap the kokedamas with fishing string to adjust them to the desired size. \n8. Add the corresponding soil mixture (151 grams) to the label pots. \n9. Plant the seeds in the pots and the kokedamas. \n10. Place the pots and the kokedamas in the growing area and set the light period for 12th hours of \nlighting in a 24-hour period. \n11. Proceed to make daily observations and measurements. (Fill your data tables: amount of water, \nhumidity, and growth) \n12. After the 8 weeks are done, analyze data, draw conclusions, and prepare the report.",
+      "char_count": 1513,
+      "image_count": 1,
+      "tables": [
+        [
+          [
+            "Control A Regular Pot",
+            "Control B Regular Pot",
+            "Experiment A Kokedama",
+            "Experiment B Kokedama"
+          ],
+          [
+            "100% Garden Soil 151g of soil",
+            "50% Regolith 50% Garden Soil 151g of soil",
+            "50% Regolith (75.5g) 50% Garden Soil (75.5g) Coconut fiber exterior",
+            "50% Regolith (75.5g) 50% Garden Soil (75.5g) Moss exterior"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "Data \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n1- Mon\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\n2 - Tue\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\n3 - Wed\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\n4 - Thu\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\n5 - Fri\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\n6 - Sat\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\n7 - Sun\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nTotal\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nAverage\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\n1- Mon\n0\n0\n150\n150\n0\n0\n0\n0\n150\n150\n0\n0\n0\n0\n150\n150\n0\n0\n0\n0\n150\n150\n0\n0\n2 - Tue\n4\n3\n0\n0\n0\n0\n4.5\n6\n0\n0\n0\n0\n8\n8\n0\n0\n0\n0\n8.5\n9.5\n0\n0\n0\n0\n3 - Wed\n3\n3\n0\n0\n0\n0\n4\n3.5\n0\n0\n0\n0\n7\n6.5\n0\n0\n0\n0\n6\n6\n0\n0\n0\n0\n4 - Thu\n7\n8\n0\n0\n0\n0\n6.5\n8\n0\n0\n0\n0\n8\n6\n0\n0\n0\n0\n4\n8\n0\n0\n0\n0\n5 - Fri\n4\n5\n50\n50\n0\n0\n4\n4\n50\n50\n0\n0\n5\n4\n50\n50\n0\n0\n5\n7.5\n50\n50\n0\n0\n6 - Sat\nN/A\nN/A\n50\n50\n0\n0 N/A\nN/A\n50\n50\n0\n0 N/A\nN/A\n50\n50\n0\n0 N/A\nN/A\n50\n50\n0\n0\n7 - Sun\nN/A\nN/A\n0\n0\n0\n0 N/A\nN/A\n0\n0\n0\n0 N/A\nN/A\n0\n0\n0\n0 N/A\nN/A\n0\n0\n0\n0\nTotal\n18\n19\n250\n250\n0\n0\n19\n21.5\n250\n250\n0\n0\n28\n24.5\n250\n250\n0\n0\n23.5\n31\n250\n250\n0\n0\nAverage\n3.6\n3.8\n35.71429\n35.71429\n0\n0\n3.8\n4.3\n35.71429\n35.71429\n0\n0\n5.6\n4.9\n35.71429\n35.71429\n0\n0\n4.7\n6.2\n35.71429\n35.71429\n0\n0\n1- Mon\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\n2 - Tue\n8\n8\n50\n50\n0\n0\n6\n6\n50\n50\n0\n0\n10\n10\n50\n50\n0\n0\n10\n10\n50\n50\n0\n0\n3 - Wed\n6\n5.5\n0\n0\n0\n0\n4\n4\n0\n0\n0\n0\n9.5\n10\n0\n0\n0\n0\n10\n10\n0\n0\n0\n0\n4 - Thu\n2\n2\n50\n50\n0\n0\n3\n3\n50\n50\n0\n0\n8.5\n9\n0\n0\n0\n0\n9\n8.5\n0\n0\n0\n0\n5 - Fri\n4\n8\n0\n0\n0\n0\n4\n3\n0\n50\n0\n0\n7.5\n6\n0\n0\n0\n0\n6\n7\n0\n0\n0\n0\n6 - Sat\n3\n5\n50\n0\n0\n0\n2.5\n4\n50\n0\n0\n0\n5\n4.5\n0\n0\n0\n0\n3.5\n4.5\n50\n0\n0\n0\n7 - Sun\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nTotal\n23\n28.5\n150\n100\n0\n0\n19.5\n20\n150\n150\n0\n0\n40.5\n39.5\n50\n50\n0\n0\n38.5\n40\n100\n50\n0\n0\nAverage\n4.6\n5.7\n30\n20\n0\n0\n3.9\n4\n30\n30\n0\n0\n8.1\n7.9\n10\n10\n0\n0\n7.7\n8\n20\n10\n0\n0\n1- Mon\n3\n3\n50\n50\n1.5\n0\n3\n1\n50\n50\n1.5\n1.5\n2\n1.5\n50\n50\n0\n0\n3\n2\n50\n50\n0\n0\n2 - Tue\n6.5\n5\n0\n0\n2.5 \n4\n5\n0\n0\n3\n3\n4\n4\n0\n0\n0\n0\n8\n1\n0\n50\n0\n0\n3 - Wed\n4\n4\n0\n0\n3\n1\n2.5\n3.5\n50\n50\n4\n4.5\n1\n1\n50\n50\n0\n0\n4\n6\n0\n0\n0\n0\n4 - Thu\n3.5\n4\n50\n0\n4\n1.5\n3.5\n5\n50\n0\n5\n5\n5\n5\n0\n0\n0\n0\n3.5\n5\n50\n0\n0\n0\n5 - Fri\n5\n4\n0\n0\n4\n1.5\n4\n4\n0\n0\n5.5\n5.5\n4\n4\n0\n0\n0.5\n0.2\n4\n4\n0\n0\n1\n0\n6 - Sat\n5\n4\n0\n0\n4.3\n1.5\n4\n4\n0\n0\n5.5\n5.5\n2\n2\n50\n50\n1.6\n0.3\n3\n3.5\n50\n50\n2\n0.5\n7 - Sun\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nTotal\nN/A\nN/A\n100\n50\n19.3\n5.5 N/A\nN/A\n150\n100\n24.5\n25 N/A\nN/A\n150\n150\n2.1\n0.5 N/A\nN/A\n150\n150\n3\n0.5\nAverage\n4.5\n4\n16.66667\n8.333333 N/A\nN/A\n3.5\n3.75\n25\n16.66667 N/A\nN/A\n3\n2.916667\n25\n25 N/A\nN/A\n4.25\n3.583333\n25\n25 N/A\nN/A\n1- Mon\n2\n2\n50\n50\n4.3\n1.7\n1\n2\n50\n50\n5.7\n5.5\n2\n2\n50\n50\n3.3\n1.3\n3.5\n3.5\n50\n50\n3.5\n3.5\n2 - Tue\n4\n4\n0\n0\n4.3\n1.7\n3\n3\n50\n50\n6\n5.7\n4\n2\n0\n50\n4.1\n2.9\n5\n6\n0\n0\n3.9\n3.5\n3 - Wed\n2.5\n3\n50\n50\n4.5\n1.9\n2.5\n3\n50\n50\n6.5\n5.8\n3.5\n2.5\n50\n50\n4.5\n3.7\n3\n4\n50\n0\n4.3\n4.2\n4 - Thu\n4\n3.5\n0\n50\n4.5\n1.9\n4\n4\n0\n0\n6.5\n5.8\n6\n4\n0\n0\n4.9\n3.9\n4\n3.5\n0\n50\n4.5\n4.2\n5 - Fri\n1\n3\n50\n50\n4.6\n2\n1\n2\n50\n50\n6.5\n60\n1\n1\n50\n50\n5\n4.1\n1\n1\n50\n50\n4.5\n4.8\n6 - Sat\n6\n6\n0\n0\n4.6\n2\n5\n5\n0\n0\n6.4\n6\n6\n6\n0\n0\n5\n4.1\n6\n6\n0\n0\n4.5\n4.8\n7 - Sun\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nTotal\n19.5\n21.5\n150\n200\n26.8\n11.2\n16.5\n19\n200\n200\n37.6\n88.8\n22.5\n17.5\n150\n200\n26.8\n20\n22.5\n24\n150\n150\n25.2\n25\nAverage\n3.25\n3.583333\n25\n33.33333\n4.466667\n1.866667\n2.75\n3.166667\n33.33333\n33.33333\n6.266667\n14.8\n3.75\n2.916667\n25\n33.33333\n4.466667\n3.333333\n3.75\n4\n25\n25\n4.2\n4.166667\n1- Mon\n2\n4\n50\n0\n5.4\n2\n3.5\n3.5\n50\n50\n6.6\n6.1\n3.5\n2\n50\n50\n6.5\n5.5\n3.5\n3.5\n50\n50\n5\n5\n2 - Tue\n4\n4\n0\n0\n5.4\n2\n4\n3.5\n0\n0\n6.6\n6.1\n4.5\n4.5\n0\n0\n6.5\n5.5\n4\n4\n0\n0\n5\n5\n3 - Wed\n3.5\n2\n50\n50\n5.5\n2\n2\n2.5\n50\n50\n6.7\n6.1\n3.5\n3.5\n50\n50\n6.6\n5.5\n2\n3\n50\n50\n5.3\n5.3\n4 - Thu\n2\n4\n50\n0\n5.6\n2\n2\n3\n50\n50\n6.7\n6.3\n4\n4\n0\n0\n7.1\n6.5\n5\n3\n0\n50\n6.5\n6.1\n5 - Fri\n4\n4\n0\n0\n5.8 dead\n2.5\n4\n50\n0\n6.9\n6.5\n4\n2\n0\n50\n8.3\n7.2\n4\n4\n0\n0\n7.1\n6.1\n6 - Sat\n3.5\n4\n50\n50\n6\n0\n3.5\n3\n50\n50\n7.2\n6.6\n3.5\n4\n50\n50\n8.5\n7.3\n3\n3\n50\n50\n7.3\n6.1\n7 - Sun\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nTotal\n19\n22\n200\n100\n33.7\n8\n17.5\n19.5\n250\n200\n40.7\n37.7\n23\n20\n150\n200\n43.5\n37.5\n21.5\n20.5\n150\n200\n36.2\n33.6\nAverage\n3.166667\n3.666667\n33.33333\n16.66667\n5.616667\n1.6\n2.916667\n3.25\n41.66667\n33.33333\n6.783333\n6.283333\n3.833333\n3.333333\n25\n33.33333\n7.25\n6.25\n3.583333\n3.416667\n25\n33.33333\n6.033333\n5.6\n1- Mon\n8\n9\n0\n0\n6.4\n0\n7\n7\n0\n0\n9\n7\n6\n6\n0\n0\n9\n8\n7\n7\n0\n0\n7.5\n7\n2 - Tue\n5\n7\n0\n0\n6.5\n0\n5\n3\n0\n50\n9.1\n7.2\n6\n6\n0\n0\n9.1\n8.2\n4\n7\n0\n0\n7.8\n7.1\n3 - Wed\n4\n6\n0\n0\n6.7\n0\n3.5\n3.5\n50\n50\n9.1\n7.2\n4\n5\n0\n0\n9.2\n8.6\n2\n4\n50\n0\n8.2\n7.2\n4 - Thu\n3.5\n4\n50\n0\n7.1\n0\n2.5\n2\n50\n50\n9.2\n7.2\n2\n3\n50\n50\n9.2\n8.6\n4\n3\n0\n50\n8.5\n7.2\n5 - Fri\n3.5\n3\n50\n50\n8\n0\n3.5\n2.5\n50\n50\n9.6\n7.9\n4\n2.5\n0\n50\n9.5\n9\n3.5\n4\n50\n0\n9\n7.5\n6 - Sat\n6\n7\n0\n0\n8\n0\n5\n5\n0\n0\n9.6\n7.9\n4\n5\n0\n0\n9.5\n9\n7\n6\n0\n0\n9\n7.5\n7 - Sun\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nTotal\n30\n36\n100\n50\n42.7\n0\n26.5\n23\n150\n200\n55.6\n44.4\n26\n27.5\n50\n100\n55.5\n51.4\n27.5\n31\n100\n50\n50\n43.5\nAverage\n5\n6\n16.66667\n8.333333\n7.116667\n0\n4.416667\n3.833333\n25\n33.33333\n9.266667\n7.4\n4.333333\n4.583333\n8.333333\n16.66667\n9.25\n8.566667\n4.583333\n5.166667\n16.66667\n8.333333\n8.333333\n7.25\n1- Mon\n2\n4\n50\n0\n9.2\n0\n3\n2\n50\n50\n10\n7.9\n3\n3.5\n50\n50\n10\n9\n5\n4\n0\n0\n9.7\n7.6\n2 - Tue\n3\n4\n50\n0\n9.2\n0\n3\n2\n50\n50\n10.3\n7.9\n5\n5\n0\n0\n10.7\n9.5\n2\n3\n50\n50\n9.8\n8.2\n3 - Wed\n4\n4\n0\n0\n9.8\n0\n4\n4\n0\n0\n10.7\n7.9\n4.5\n4\n0\n0\n10.8\n10.3\n4\n3.5\n0\n50\n9.8\n8.3\n4 - Thu\n3\n4\n50\n0\n10.3\n0\n3.5\n2.5\n50\n50\n10.9\n8\n4\n3\n0\n50\n11\n10.5\n2.5\n3.5\n50\n50\n10.4\n8.3\n5 - Fri\n3\n3.5\n50\n50\n10.5\n0\n3.5\n3.5\n50\n50\n11.5\n8\n3.5\n4\n50\n0\n11\n10.8\n3.5\n4\n50\n0\n10.4\n8.6\n6 - Sat\n3.5\n5\n50\n0\n10.8\n0\n4\n4\n0\n0\n12.1\n8\n7\n4\n0\n0\n11\n11.6\n4\n4\n0\n0\n11\n8.8\n7 - Sun\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nN/A\nTotal\n18.5\n24.5\n250\n50\n59.8\n0\n21\n18\n200\n200\n65.5\n47.7\n27\n23.5\n100\n100\n64.5\n61.7\n21\n22\n150\n150\n61.1\n49.8\nAverage\n3.083333\n4.083333\n41.66667\n8.333333\n9.966667\n0\n3.5\n3\n33.33333\n33.33333\n10.91667\n7.95\n4.5\n3.916667\n16.66667\n16.66667\n10.75\n10.28333\n3.5\n3.666667\n25\n25\n10.18333\n8.3\nTotal Final\n128\n151.5\n1200\n800\n182.3\n24.7\n120\n121\n1350\n1300\n223.9\n243.6\n167\n152.5\n900\n1050\n192.4\n171.1\n154.5\n168.5\n1050\n1000\n175.5\n152.4\nTotal Average\n3.885714\n4.404762\n28.43537\n18.67347\n4.527778\n0.577778\n3.540476\n3.614286\n32.0068\n30.81633\n5.538889\n6.072222\n4.730952\n4.352381\n20.81633\n24.38776\n5.286111\n4.738889\n4.580952\n4.861905\n24.62585\n23.19728\n4.791667\n4.219444\nGrowth\nWeek #8\nControl A 100% Garden Soil Pot\nControl B 50% Reoligth Pot\nExperimental A 50% Regolith + 50% Soil Coco Fiber Kokedama\nExperimental A 50% Regolith + 50% Soil Moss Kokedama\nHumidity\nWater\nGrowth\nHumidity\nWater\nGrowth\nHumidity\nWater\nGrowth\nHumidity\nWater\nGrowth\nWeek #7\nControl A 100% Garden Soil Pot\nControl B 50% Reoligth Pot\nExperimental A 50% Regolith + 50% Soil Coco Fiber Kokedama\nExperimental A 50% Regolith + 50% Soil Moss Kokedama\nHumidity\nWater\nGrowth\nHumidity\nWater\nGrowth\nHumidity\nWater\nGrowth\nHumidity\nWater\nGrowth\nWeek #6\nControl A 100% Garden Soil Pot\nControl B 50% Reoligth Pot\nExperimental A 50% Regolith + 50% Soil Coco Fiber Kokedama\nExperimental A 50% Regolith + 50% Soil Moss Kokedama\nHumidity\nWater\nGrowth\nHumidity\nWater\nGrowth\nHumidity\nWater\nGrowth\nHumidity\nWater\nGrowth\nWeek #5\nControl A 100% Garden Soil Pot\nControl B 50% Reoligth Pot\nExperimental A 50% Regolith + 50% Soil Coco Fiber Kokedama\nExperimental A 50% Regolith + 50% Soil Moss Kokedama\nHumidity\nWater\nGrowth\nHumidity\nWater\nGrowth\nHumidity\nWater\nGrowth\nHumidity\nWater\nGrowth\nWeek #4\nControl A 100% Garden Soil Pot\nControl B 50% Reoligth Pot\nExperimental A 50% Regolith + 50% Soil Coco Fiber Kokedama\nExperimental A 50% Regolith + 50% Soil Moss Kokedama\nHumidity\nWater\nGrowth\nHumidity\nWater\nGrowth\nHumidity\nWater\nGrowth\nHumidity\nWater\nGrowth\nWeek #3\nControl A 100% Garden Soil Pot\nControl B 50% Reoligth Pot\nExperimental A 50% Regolith + 50% Soil Coco Fiber Kokedama\nExperimental A 50% Regolith + 50% Soil Moss Kokedama\nHumidity\nWater\nGrowth\nHumidity\nWater\nGrowth\nHumidity\nWater\nGrowth\nHumidity\nWater\nData\nControl A 100% Garden Soil Pot\nHumidity\nWater\nGrowth\nControl B 50% Reoligth Pot\nHumidity\nWater\nExperimental A 50% Regolith + 50% Soil Moss Kokedama\nGrowth\nHumidity\nWater\nGrowth\nExperimental A 50% Regolith + 50% Soil Coco Fiber Kokedama\nHumidity\nWater\nGrowth\nWeek #2\nControl A 100% Garden Soil Pot\nControl B 50% Reoligth Pot\nExperimental A 50% Regolith + 50% Soil Coco Fiber Kokedama\nExperimental A 50% Regolith + 50% Soil Moss Kokedama\nHumidity\nWater\nGrowth\nHumidity\nWater\nGrowth\nHumidity\nWater\nGrowth\nWater\nGrowth\nHumidity\nWeek #1 N/A",
+      "char_count": 8976,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Water",
+            "Growth Humidity",
+            "Water",
+            "Growth Humidity",
+            "Water",
+            "Growth Humidity"
+          ]
+        ],
+        [
+          [
+            "0 150",
+            "150 0",
+            "0 0",
+            "0 150",
+            "150 0",
+            "0 0",
+            "0 150",
+            "150 0",
+            "0 0",
+            "0 150",
+            "150 0"
+          ],
+          [
+            "3 0",
+            "0 0",
+            "0 4.5",
+            "6 0",
+            "0 0",
+            "0 8",
+            "8 0",
+            "0 0",
+            "0 8.5",
+            "9.5 0",
+            "0 0"
+          ],
+          [
+            "3 0",
+            "0 0",
+            "0 4",
+            "3.5 0",
+            "0 0",
+            "0 7",
+            "6.5 0",
+            "0 0",
+            "0 6",
+            "6 0",
+            "0 0"
+          ],
+          [
+            "8 0",
+            "0 0",
+            "0 6.5",
+            "8 0",
+            "0 0",
+            "0 8",
+            "6 0",
+            "0 0",
+            "0 4",
+            "8 0",
+            "0 0"
+          ],
+          [
+            "5 50",
+            "50 0",
+            "0 4",
+            "4 50",
+            "50 0",
+            "0 5",
+            "4 50",
+            "50 0",
+            "0 5",
+            "7.5 50",
+            "50 0"
+          ],
+          [
+            "N/A 50",
+            "50 0",
+            "0N/A",
+            "N/A 50",
+            "50 0",
+            "0N/A",
+            "N/A 50",
+            "50 0",
+            "0N/A",
+            "N/A 50",
+            "50 0"
+          ],
+          [
+            "N/A 0",
+            "0 0",
+            "0N/A",
+            "N/A 0",
+            "0 0",
+            "0N/A",
+            "N/A 0",
+            "0 0",
+            "0N/A",
+            "N/A 0",
+            "0 0"
+          ]
+        ],
+        [
+          [
+            "Water",
+            "Growth Humidity",
+            "Water",
+            "Growth Humidity",
+            "Water",
+            "Growth Humidity"
+          ]
+        ],
+        [
+          [
+            "8 50",
+            "50 0",
+            "0 6",
+            "6 50",
+            "50 0",
+            "0 10",
+            "10 50",
+            "",
+            "50 0",
+            "0 10",
+            "10 50",
+            "50 0",
+            ""
+          ],
+          [
+            "5.5 0",
+            "0 0",
+            "0 4",
+            "4 0",
+            "0 0",
+            "0 9.5",
+            "10 0",
+            "",
+            "0 0",
+            "0 10",
+            "10 0",
+            "0 0",
+            ""
+          ],
+          [
+            "2 50",
+            "50 0",
+            "0 3",
+            "3 50",
+            "50 0",
+            "0 8.5",
+            "9 0",
+            "",
+            "0 0",
+            "0 9",
+            "8.5 0",
+            "0 0",
+            ""
+          ],
+          [
+            "8 0",
+            "0 0",
+            "0 4",
+            "3 0",
+            "50 0",
+            "0 7.5",
+            "6 0",
+            "",
+            "0 0",
+            "0 6",
+            "7 0",
+            "0 0",
+            ""
+          ],
+          [
+            "5 50",
+            "0 0",
+            "0 2.5",
+            "4 50",
+            "0 0",
+            "0 5",
+            "4.5 0",
+            "",
+            "0 0",
+            "0 3.5",
+            "4.5 50",
+            "0 0",
+            ""
+          ],
+          [
+            "N/A N/A",
+            "N/A N/A",
+            "N/A N/A",
+            "N/A N/A",
+            "N/A N/A",
+            "N/A N/A",
+            "N/A",
+            "N/A",
+            "N/A N/A",
+            "N/A N/A",
+            "N/A N/A",
+            "N/A N/A",
+            "N/A"
+          ]
+        ],
+        [
+          [
+            "Water",
+            "Growth Humidity",
+            "Water",
+            "Growth Humidity",
+            "Water",
+            "Growth Humidity"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 5,
+      "text": "Pot vs. Kokedama Correlation (8 Week Average) \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nSample \nHumidity \n \nWater \n (mL) \nGrowth \n(cm) \nControl A 100% Garden Soil Pot \n4.15 \n23.6 \n2.55 \nControl B 50% Regolith Pot \n3.58 \n31.41 \n5.81 \nExperimental A 50% Regolith + 50% Soil Coco Fiber \nKokedama \n4.54 \n22.6 \n5.01 \nExperimental A 50% Regolith + 50% Soil Moss \nKokedama \n4.72 \n23.91 \n4.51 \n0\n5\n10\n15\n20\n25\n30\n35\nControl A 100% Garden Soil\nPot\nControl B 50% Regoligth Pot Experimental A 50% Regolith +\n50% Soil Coco Fiber Kokedama\nExperimental A 50% Regolith +\n50% Soil Moss Kokedama\nPot vs. Kokedama Correlation \nHumidity\nWater\nGrowth",
+      "char_count": 629,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Sample",
+            "Humidity",
+            "Water (mL)",
+            "Growth (cm)"
+          ],
+          [
+            "Control A 100% Garden Soil Pot",
+            "4.15",
+            "23.6",
+            "2.55"
+          ],
+          [
+            "Control B 50% Regolith Pot",
+            "3.58",
+            "31.41",
+            "5.81"
+          ],
+          [
+            "Experimental A 50% Regolith + 50% Soil Coco Fiber Kokedama",
+            "4.54",
+            "22.6",
+            "5.01"
+          ],
+          [
+            "Experimental A 50% Regolith + 50% Soil Moss Kokedama",
+            "4.72",
+            "23.91",
+            "4.51"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 6,
+      "text": "Number of leaves- 8 Week average per sample \n \nSample \nAverage Number of \nleaves \nControl A 100% Garden Soil Pot \n6 \nControl B 50% Regolith Pot \n4.5 \nExperimental A 50% Regolith + 50% Soil Coco Fiber Kokedama \n14 \nExperimental A 50% Regolith + 50% Soil Moss Kokedama \n17.5 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n0\n2\n4\n6\n8\n10\n12\n14\n16\n18\n20\nControl A 100% Garden Soil\nPot\nControl B 50% Regoligth Pot Experimental A 50% Regolith\n+ 50% Soil Coco Fiber\nKokedama\nExperimental A 50% Regolith\n+ 50% Soil Moss Kokedama\nNumber of Leaves - Average per sample",
+      "char_count": 548,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Sample",
+            "Average Number of leaves"
+          ],
+          [
+            "Control A 100% Garden Soil Pot",
+            "6"
+          ],
+          [
+            "Control B 50% Regolith Pot",
+            "4.5"
+          ],
+          [
+            "Experimental A 50% Regolith + 50% Soil Coco Fiber Kokedama",
+            "14"
+          ],
+          [
+            "Experimental A 50% Regolith + 50% Soil Moss Kokedama",
+            "17.5"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 7,
+      "text": "Final Leaves Measurement \n \nSample \nLength Average \n(cm) \nWidth \nAverage (cm) \nControl A 100% Garden Soil Pot \n2 \n1 \nControl B 50% Regolith Pot \n1.5 \n0.75 \nExperimental A 50% Regolith + 50% Soil Coco Fiber Kokedama \n2.5 \n1.25 \nExperimental A 50% Regolith + 50% Soil Moss Kokedama \n2.75 \n1.5 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n0\n0.5\n1\n1.5\n2\n2.5\n3\nControl A 100% Garden Soil\nPot\nControl B 50% Reoligth Pot\nExperimental A 50%\nRegolith + 50% Soil Coco\nFiber Kokedama\nExperimental A 50%\nRegolith + 50% Soil Moss\nKokedama\nFinal Leaves Measurement \nLength Average\nWidth Average",
+      "char_count": 574,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Sample",
+            "Length Average (cm)",
+            "Width Average (cm)"
+          ],
+          [
+            "Control A 100% Garden Soil Pot",
+            "2",
+            "1"
+          ],
+          [
+            "Control B 50% Regolith Pot",
+            "1.5",
+            "0.75"
+          ],
+          [
+            "Experimental A 50% Regolith + 50% Soil Coco Fiber Kokedama",
+            "2.5",
+            "1.25"
+          ],
+          [
+            "Experimental A 50% Regolith + 50% Soil Moss Kokedama",
+            "2.75",
+            "1.5"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 8,
+      "text": "Plant Growth Final Comparison (8 Weeks) \n \n \n \n \n \n \n \n \n \n \n \n \nHumidity Levels Final Comparison (8 Weeks)",
+      "char_count": 107,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "text": "Results \nFor this experiment we chose how to optimize plant water retention by changing the traditional planting \nmethod (pot) and replacing it with a kokedama. We have two control groups and two experimental \ngroups. In control group A, we utilized a 100% soil mix, and in control group B we used a 50% regolith 50% \nsoil mix. On the other hand, our experimental groups are the kokedamas using a 50-50 soil and regolith \nblend, the main difference between the two being the material used for the exterior: experimental group \nA utilizes Coco Fiber while experimental group B utilizes Moss. \nIn our first week we encountered problems making the kokedamas correctly, therefore we started \nplanting during Week #2. Both Control groups received a total of 250mL of water per plant, with the \naverage humidity marking around the 3.6-4.3 range. No growth was present in any control group during \nWeek #2. At the same time, the experimental groups were also provided with 250mL of water per plant \nand managed to retain higher levels of water than the control groups. Their average humidity levels \nranged from 4.7 to 6.2, indicating elevated retention of water which is a good indicator for our hypothesis. \nNonetheless, there was no growth present in any individual case. \nOn Week # 3 we decide to start a new set of kokedamas and change the seeds to Black Simpson Lettuce, \nas the previous Roman Lettuce seeds were not growing, dissenting from previous experiments. \nIn Week #4, we finally began to see growth. In Control Group A, Unit 1 is now 4.3cm tall, and Unit 2 is now \n1.5cm tall. Control Group B\u2019s Unit 1 and Unit 2 grew to be 5.5 cm tall. This is a sudden spark in growth, as \nlast week there was no verifiable growth. In comparison to the control groups, Week #4 growth in the \nexperimental group was slacking. Experimental Group A\u2019s plants grew to be 1.6 and 0.3cm in length, while \nExperimental Group B\u2019s plants grew to be 2 and 0.5cm respectively. As for water distribution, for all \ngroups, it remained around 50-150mL. \nWeek 5\u2019s Control group levels of humidity were a tad below that of the Experimental Groups. What jumps \nat you from Week 5\u2019s results are the sheer growth of the Experimental Groups. In week #4 the tallest plant \nin the Experimental Groups was 2cm, and now that plant has more than doubled in length, reaching \n4.5cm. The rest of the Experimental Group\u2019s plants reach 5cm and 4.1cm in Group A, and in Group B we \nsee 4.5 and 4.8cm respectively. Control Group A\u2019s plants remain relatively the same in terms of growth, \nbut Control Group B\u2019s plants shot up to 6.4 and 6cm respectively. For the first time, the water provided at \ntimes exceeds 150mL and reaches 200mL in all groups except for Experimental B. \nWhat stands out from the chart of Week #6 is the death of Unit 2 in Control group A. The Unit did not see \nany growth beginning from Friday the week before, culminating with its death exactly a week later. The \nwater level in this Unit has been reduced to 100mL for this week alone. If you analyze the growth of this \nunit throughout its entire lifespan, compared to Unit 1 and the other Control Group, this one was always \nfalling behind. This may have been an issue that cannot be expressed through the data we have \ndocumented, such as genetics. Apart from this, the rest of the Control Group\u2019s Units remain growing at a \nconstant pace, and on average, the Experimental Groups have, for this week, seen more growth than the \nControl Groups. Both plants in Experimental A surpass all others, marking them as the tallest for now. \nDuring Week #7, Control Group B catches up with the growth of the kokedamas. Control Group B\u2019s Unit 1 \nreaches 9.6cm, the tallest of all plants for now. Control Group A, with its sole survivor, grows up to 8cm.",
+      "char_count": 3780,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "text": "3 of 4 Experimental units bypass the 9cm threshold, with only Unit 2 of Experimental Group B remaining \nat 7.5. This plant has experienced delayed growth since week #6. Interestingly, Control Group A\u2019s water \nretention reigns supreme in week 7, despite Control Group B receiving the most water out of all groups \nduring week 7. \nIn our final week, we can see that each Unit in the Control Groups has nearly 2cm in difference. Control \nGroup A\u2019s Unit 1 is 10.8 cm tall, while Control Group B\u2019s Unit 1 is 12.1cm, with Unit 2 being 8cm tall. For \nthe Experimental Groups, all units present a similar final growth, with both Unit 1s being 11cm, and Group \nA\u2019s Unit 2 being 11.6cm. Unit 2 of Experimental Group B remained stagnant at 8.8cm, as it has been for 3 \nweeks at this point. \nWith the humidity totals, we can determine that kokedamas were more effective at retaining water than \nnormal pots. The final total averages of humidity indicate this, with all but one Unit in the Experimental \nGroups having a greater margin of humidity than the Control Groups. As for the growth, the Experimental \nGroups showed a more consistent growth overall than the Control Groups, as in the Experimental Group \nthese numbers remained at around 4.7-5.2cm, but they were comparatively more sporadic in the Control \nGroups. It is also important to accentuate that both Experimental Groups received significantly less water \nthan the Control Groups, as it was believed that with less water we would obtain the same results. \n \nConclusions \n \nAt the beginning of the experiment, we were worried about the kokedama\u2019s seeds germinating, since \nkokedama are meant for transplantation, not sowing. Our worries grew further when we saw that the pots \nhad germinated before the kokedamas. We felt relieved when we saw the kokedamas germinate the next \nweek. We speculate that this late germination was due to the compactness of the kokedama. We saw how \nsome of our earlier mud ball prototypes became rock solid when left without water for a while. We have \nconcluded that the compactness was most probably due to the use of garden soil in the mixture since it is \ncompact in nature. When it comes to water retention, our hypothesis was proven correct because, on \naverage, the kokedamas retained more moisture than the pots. We were also pleasantly surprised when \nthey grew to be around the same size, even though they germinated a week later and with less water. \nWhether which kokedama (moss or coco fiber) is better at retaining water, we are not sure. The reason we \nare not sure is because the moss has a higher average humidity but also a higher water consumption. The \ndifference between the two is also so minimal that it makes it difficult to identify which was more efficient. \nSome of us theorize that the discrepancy has to do with the fact that at the end the moss has bigger plants \nwhich require more water consumption. Others think that the data is being skewed by the fact that we do \nnot have a way to measure the moss\u2019s or the coco fiber\u2019s moisture (we measure the soil inside). But we all \nagree that our hypothesis was correct and the kokedamas had better water retention and subsequently \nthe plant grew stronger, healthier, and bigger. We believe the kokedamas are great topic for space research \nbecause of their accessible and cost-effective materials, perfect shape for storage (they can be hanging or \njust anchored to the floor), and they are versatile.",
+      "char_count": 3459,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "text": "https://www.domestika.org/en/blog/8650-10-inspiring-examples-of-kokedama-discover-the-art-of-making-\nmoss-balls \n \n \nFuture investigations \nIf we were able to make follow up experiments, we would first find out whether the coconut fiber or the \nmoss is better at retaining water, repeating the experiment, but this time weighing the same amount of \nboth the moss and the coco fiber, increasing the number of samples, and finding a way to measure the \nmoisture of the moss or the coco fiber. Next experiment would be to find out what is the most effective \nratio of regolith to garden soil is for plants to germinate and grow, to try to offset the compactness that \nthe garden soil brings to the table. Finally, using the information from the previous experiments, we would \nlike to investigate how well transplantation would work and if it is worth it to go through the effort to \ntransplant. Of course, this would have to be a long-term project for accurate results.",
+      "char_count": 967,
+      "image_count": 3,
+      "tables": []
+    },
+    {
+      "page_number": 12,
+      "text": "References \nCoco Fibre Kokedama Care | Entwined Kokedama. (n.d.). Entwined Kokedama. \nhttps://www.entwinedkokedama.co.uk/coco-fibre-kokedama-care \nCurry, C., Bennett, R. H., Hulbert, M. H., Curry, K. J., & Faas, R. W. (2004). Comparative study of sand \nporosity and a technique for determining porosity of undisturbed marine sediment. Marine Georesources \n& Geotechnology, 22(4), 231\u2013252. https://doi.org/10.1080/10641190490900844 \n \nDIY Making a Kokedama | Moss Ball, Plant, Gardening | Blooming Secrets. (n.d.). Blooming Secrets. \nhttps://www.bloomingsecrets.com/featured/diy-learn-how-to-make-a-kokedama \nDuri, L. G., Caporale, A. G., Rouphael, Y., Vingiani, S., Palladino, M. T., De Pascale, S., & Adamo, P. (2022). \nThe Potential for lunar and Martian regolith simulants to Sustain plant Growth: A Multidisciplinary \nOverview. Frontiers in Astronomy and Space Sciences, 8. https://doi.org/10.3389/fspas.2021.747821 \n \nFlom, A. J., Kramer, G. Y., & Combe, J. P. (n.d.). Water retention in mature and immature lunar regolith. \nNASA/ADS. https://ui.adsabs.harvard.edu/abs/2017AGUFM.P51B2589F/abstract \n \nFurfaro, E. (2023, November 17). Is There Weather on the Moon? We Asked a NASA Scientist: Episode \n34 - NASA. NASA. https://www.nasa.gov/general/is-there-weather-on-the-moon-we-asked-a-nasa-\nscientist-episode \n \nHistory of Kokedamas - Kokedama India. (2020, October 30). Kokedama India. \nhttps://www.kokedamaindia.com/history-of-kokedamas/ \nHyder, N., Sims, J. & Wegulo, S.N, (2009). In vitro suspension of soilborne plant pathogens by coir. Hort \nTechnology. 19(1) 96-100. Retrieved Feb 1, 2024, from \nhttps://journals.ashs.org/horttech/view/journals/horttech/19/1/article-p96.xml \nKopeatexport. (2023, October 27). Coconut Fiber for plants - Kopeatexport - medium. Medium. \nhttps://medium.com/@kopeatexport/coconut-fiber-for-plants-ae31fd144c95 \n \nLettuce- bolting resistance. (n.d.). https://agsci.colostate.edu/specialtycrops/lettuce-bolting-resistance/ \n \nLibretexts. \n(2021, \nDecember \n26). \n2.7: \nRegolith. \nGeosciences \nLibreTexts. \nhttps://geo.libretexts.org/Bookshelves/Geography_(Physical)/The_Environment_of_the_Earth%27s_Sur\nface_(Southard)/02%3A_Introduction_and_Geology/2.07%3A_Regolith \n \nMcKay, D. S., & Ming, D. W. (1990). Properties of lunar regolith. In Developments in psychiatry (pp. 449\u2013\n462). https://doi.org/10.1016/s0166-2481(08)70360-x \n \nNolan, T. (2023, December 5). Garden soil vs potting soil: What\u2019s the difference and why does it matter? \nSavvy Gardening. https://savvygardening.com/garden-soil-vs-potting-soil/",
+      "char_count": 2550,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 13,
+      "text": "Rafferty, J. P. (2011, March 1). Regolith | Soil formation, Weathering & Erosion. Encyclopedia Britannica. \nhttps://www.britannica.com/science/regolith \n \n \nSearching \nSand: \nAbout \nsand. \n(n.d.). \nhttps://ucmp.berkeley.edu/education/calandscape/session3/aboutsand.html \n \nThe Art of Kokedama: Origin & care Tips. (n.d.). Merchant and Green. \nhttps://merchantandgreen.com.au/blog/the-art-of-kokedama-origin-care-\ntips/#:~:text=Originating%20in%2017th%20century%20Japan,transience%20and%20imperfections%20o\nf%20nature. \n \nWolfe, M., & Odle, T. (2022, June 10). What\u2019s the Difference? Garden Soil vs. Potting Soil. Bob Vila. \nhttps://www.bobvila.com/articles/garden-soil-vs-potting-\nsoil/#:~:text=Garden%20soil%20is%20an%20amendment,damage%20and%20inhibit%20plant%20growt\nh.",
+      "char_count": 772,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 14,
+      "text": "Making Coconut Fiber Kokedama. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nExperimental setup prototype.",
+      "char_count": 95,
+      "image_count": 5,
+      "tables": []
+    },
+    {
+      "page_number": 15,
+      "text": "Creating holes for the seeds \n \n \nGermination of the first prototype \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nExperimental setup",
+      "char_count": 128,
+      "image_count": 3,
+      "tables": []
+    },
+    {
+      "page_number": 16,
+      "text": "Coconut & Moss Kokedama Germination",
+      "char_count": 35,
+      "image_count": 3,
+      "tables": []
+    },
+    {
+      "page_number": 17,
+      "text": "Kokedama growth",
+      "char_count": 15,
+      "image_count": 3,
+      "tables": []
+    },
+    {
+      "page_number": 18,
+      "text": "Leaf growth measurement",
+      "char_count": 23,
+      "image_count": 6,
+      "tables": []
+    },
+    {
+      "page_number": 19,
+      "text": "Control Pots vs Experimental Kokedamas",
+      "char_count": 38,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 20,
+      "text": "Dorado Academy, Puerto Rico \nTEAMS \nMiddle School: 3,2,1 Plant Launchers \nHigh School: Space Monkeys \nAdvisor: Mrs. Ver\u00f3nica Ortiz & Mrs. Ingrid Ocasio",
+      "char_count": 151,
+      "image_count": 3,
+      "tables": []
+    }
+  ]
+}

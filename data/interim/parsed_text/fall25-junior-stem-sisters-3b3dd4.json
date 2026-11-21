@@ -1,0 +1,312 @@
+{
+  "report_id": "fall25-junior-stem-sisters-3b3dd4",
+  "sha256": "71e71d13a9f399b11d0e1860c9f56dcd21276592d77eb4ee4527afb0d5f2d42f",
+  "page_count": 11,
+  "total_chars": 14789,
+  "avg_chars_per_page": 1344.5,
+  "total_images": 21,
+  "table_count": 5,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "The Effect of Different Soil Additives and \nArbuscular Mycorrhizal Fungi on the Growth \nof Bush Beans (Phaseolus vulgaris) and Dry \nBeans (Phaseolus vulgaris) in Mars Regolith \n \n \n \n \n \n \n \n \nPlant Mars challenge | Fall 2025 | Middle School Division \n Stem Sisters Team \nCassidy M., Annaliese A., Merrill R., Quinn Q. \n \n \n+\u201d_?",
+      "char_count": 328,
+      "image_count": 5,
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "text": "Introduction \nOur mission was to help astronauts maximize growth of edible plants on Mars. We \nstarted by researching the properties of Mars regolith. Compared to Earth soil, Mars \nregolith is very dense in mineral matter, highly toxic, high in pH, and the temperatures \nare extremely cold1. The biggest difference between Earth soil and Mars soil is that \nMars regolith contains no organic matter, something we know plants need to grow and \nthrive. \n \nWe knew that it would be quite hard to grow plants in Mars regolith because of the lack \nof organic material, so we decided to improve the soil with fungi and several different \nsoil additives. Arbuscular Mycorrhizal Fungi (AMF) (Rhizophagus Irregularis) is a fungus \nthat has been used in agriculture and acts as a root stimulator. This fungus forms a \nbeneficial relationship with plants. The fungus captures water and nutrients from the soil \nand transfers to the plant. In exchange, the plant provides food for the fungus. This \npartnership enhances the plant's stress tolerance, improves nutrient and water uptake, \nand can even contribute to better soil structure2. Fruits and vegetables grown for their \nlarge size, like those that have been noted in The Guinness Book of World Records \nhave been rumored to use this fungi in the potting soil3. We live in Colorado which has \nbeen devastated by forest fires. We know that fire-loving fungi are often the first \norganisms to grow post-fire and fungi can help soil recover from fire by decomposing \nburnt matter4. This is another reason our team wanted to add AMF to the soil to see if it \nwould help with Mars regolith recover quickly and allow for plant growth. \n \nBased on our research, we identified a number of soil additives that can boost AMF \ngrowth in soil. We tested: Biochar, Coffee Grounds, Coconut oil, and Oats. The control \nwas simply adding AMF potting soil with Mars regolith and no soil additive. Other \nprojects have focused on the use of AMF and Bone Meal, but our team would like to \nsee if AMF performed differently with different soil additives. \n \nTable 1: Soil Additives and their Importance to the Experiment \nSoil Additive \nWhy? \nImportance in Mars \nBiochar \nBiochar and AMF have been shown to \npromote plant growth, improve soil \nproperties, and maintain microbial \nactivity5. \n \nAstronauts generate waste in space \nand converting waste to Biochar would \nallow astronauts to grow better food \nand put their waste to good use. \n \nThe University of South Florida is \ncollaborating with NASA to develop the \nOrganic Processor Assembly (OPA), a",
+      "char_count": 2576,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Soil Additive",
+            "Why?",
+            "Importance in Mars"
+          ],
+          [
+            "Biochar",
+            "Biochar and AMF have been shown to promote plant growth, improve soil properties, and maintain microbial activity5.",
+            "Astronauts generate waste in space and converting waste to Biochar would allow astronauts to grow better food and put their waste to good use. The University of South Florida is collaborating with NASA to develop the Organic Processor Assembly (OPA), a"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "system designed to process human \nwaste into fertilizer and water for \ngrowing vegetables in space, \nsupporting long-term missions and \nplanetary bases6. \nCoffee Grounds \nImprove soil structure and provide \nnutrients by adding organic matter. \nAstronauts might drink coffee in Mars \nand coffee grounds could be \nrepurposed in growing food as a \ncompost material. \nPine Needles \nMars regolith is considered to be high \npH. Pine needles are acidic and also \nimprove soil structure and provide \nnutrients by adding organic matter7. \nPine needles are lightweight and might \nbe more easily transported to space \nthan some heavier compost materials. \nOats \nFlavonoids (found in oats) are plant \nchemicals important to the relationship \nbetween plants and mycorrhizal fungi. \nFlavonoids stimulate fungal spore \ngermination, root growth, and improve \nplant stress tolerance8. \nAstronauts might eat oats as part of \ntheir diet on Mars. Growing oats could \nbe a food source but also a source of \nvaluable organic matter for the soil. \nCoconut Oil \nExogenous lipids (fats) promote AMF \ngrowth and colonization. These lipids are \nenergy sources and signaling molecules. \nMyristic acid is an example of this lipid \nand it is found in coconut oil9. \nSome websites suggest coconut oil can \nbe added to soil as a soil conditioner. \nAstronauts might also have coconut oil \non Mars for cooking or as a moisturizer. \n \nFor seed selection, we picked bean varieties based on the proven relationship between \nbeans and AMF. Bush beans were selected because they have a shorter time to \nmaturation and would produce vegetables for the astronauts in 60 days. In addition to \nbush beans, we added a dry bean to our design. The superior nutritional value of the \ndry bean to the bush bean would allow astronauts a richer diet in space. See Table 2. \n \nTable 2: Nutritional Comparison Chart (per 1/2 cup cooked/prepared) \nNutrient \nDry Beans (e.g., kidney, pinto) \nBush/Snap Beans (green beans) \nCalories \n110-120 kcal \n15-20 kcal \nProtein \n7-8g \n1g \nFat \n0.2-0.5g \n0.1g \nTotal \nCarbohydrate \n20-22g \n3-4g \nDietary Fiber \n7-8g \n1.5-2.0g",
+      "char_count": 2109,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "",
+            "",
+            "system designed to process human waste into fertilizer and water for growing vegetables in space, supporting long-term missions and planetary bases6."
+          ],
+          [
+            "Coffee Grounds",
+            "Improve soil structure and provide nutrients by adding organic matter.",
+            "Astronauts might drink coffee in Mars and coffee grounds could be repurposed in growing food as a compost material."
+          ],
+          [
+            "Pine Needles",
+            "Mars regolith is considered to be high pH. Pine needles are acidic and also improve soil structure and provide nutrients by adding organic matter7.",
+            "Pine needles are lightweight and might be more easily transported to space than some heavier compost materials."
+          ],
+          [
+            "Oats",
+            "Flavonoids (found in oats) are plant chemicals important to the relationship between plants and mycorrhizal fungi. Flavonoids stimulate fungal spore germination, root growth, and improve plant stress tolerance8.",
+            "Astronauts might eat oats as part of their diet on Mars. Growing oats could be a food source but also a source of valuable organic matter for the soil."
+          ],
+          [
+            "Coconut Oil",
+            "Exogenous lipids (fats) promote AMF growth and colonization. These lipids are energy sources and signaling molecules. Myristic acid is an example of this lipid and it is found in coconut oil9.",
+            "Some websites suggest coconut oil can be added to soil as a soil conditioner. Astronauts might also have coconut oil on Mars for cooking or as a moisturizer."
+          ]
+        ],
+        [
+          [
+            "Nutrient",
+            "Dry Beans (e.g., kidney, pinto)",
+            "Bush/Snap Beans (green beans)"
+          ],
+          [
+            "Calories",
+            "110-120 kcal",
+            "15-20 kcal"
+          ],
+          [
+            "Protein",
+            "7-8g",
+            "1g"
+          ],
+          [
+            "Fat",
+            "0.2-0.5g",
+            "0.1g"
+          ],
+          [
+            "Total Carbohydrate",
+            "20-22g",
+            "3-4g"
+          ],
+          [
+            "Dietary Fiber",
+            "7-8g",
+            "1.5-2.0g"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "Procedure \nSupplies: \n\u25cf\u200b Mars Regolith \n\u25cf\u200b Protective Gear (masks, gloves) \n\u25cf\u200b Grow Light \n\u25cf\u200b Pots for planting \n\u25cf\u200b Potting soil \n\u25cf\u200b AMF (Trifecta Myco Supreme Plant Root Stimulator for Tree, Rose, and \nFlower Care, Mycorrhizal Fungi) \n\u25cf\u200b PH test strips \n\u25cf\u200b Ruler \n\u25cf\u200b Distilled water \n\u25cf\u200b Bloom City Organic Worm tea Concentrate and compost and Bokashi \nBooster \n\u25cf\u200b Biochar (Plantonix char bliss premium quality BioChar) \n\u25cf\u200b Oats (Coaches Oats Organic Oatmeal - ground into a powder) \n\u25cf\u200b Pine needles (Gathered from the outdoors, ground into a powder) \n\u25cf\u200b Coffee (Brewed Coffee grounds) \n\u25cf\u200b Coconut Oil (365 by Whole Foods Market Organic Refined Coconut oil) \n\u25cf\u200b Bushsnap Beans (Phaseolus vulgaris) \n\u25cf\u200b Dry Bean (Phaseolus vulgaris) \n \nWorking outdoors on planting day (Figure 1), the potting soil was mixed with AMF. The \npotting soil/AMF mixture and soil additives were added to pots based on the following \nratio: Mars Regolith (50%), Potting Soil/AMF (40%), Soil Additive (10%). For the control, \nwe added 10% extra plain potting soil in place of Soil Additive. The soil additives that \nwere used were Biochar, Pine Needles, Coconut oil, Coffee Grounds, and Oats. There \nwere two pots of each additive and bean so for each additive, there were four pots. See \nFigure 2.",
+      "char_count": 1272,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "text": "Figure 1: Planting Day \n \n \n \nFigure 2: Experimental design demonstrating soil composition and seed selection \n \nThroughout this experiment, the plants were all kept under a constant grow light. The \nplants were watered every other day with a combination of distilled water and worm tea. \nWorm tea was used to add additional organic matter to the growing conditions. Distilled \nwater was used because tap water contains chlorine and this could be harmful to AMF. \n \nOur initial planting resulted in only 2 seeds germinating. Most of the soil pots had a solid \ncrust which probably inhibited growth as it would be hard for water and oxygen to break \nthrough this layer. After 14 days, we realized that many of the seeds probably weren\u2019t \ngoing to germinate so we received authorization to replant. This time, instead of \ngerminating the seeds in the soil mixture, we germinated the seeds in a dark \nenvironment between moist paper towels. When the germinated seeds grew roots and",
+      "char_count": 978,
+      "image_count": 6,
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "text": "their first leaves, we transplanted them into the original soil pots. Before the replanting, \nwe tilled the soils in the pots hoping to aerate and eliminate that crust that had \ndeveloped. We did not see seeds when we tilled. Based on availability at the local \nhardware store, we used different beans in the replanting. We were still able to replant \nusing a dry bean and a bush bean. \n \nOnce a week, the pH of the soil was measured. The height (cm) of the plant was also \nmeasured from the top of the soil to the tallest part of the stretched out plant. Because \nof the replanting, we had six weeks of growth time. The team made observations and \ndrawings of the seedling progress. See Figure 3. \n \n Figure 3: Data Collection (pH, Measurement, Moisture Meter, Watering, Observations)",
+      "char_count": 785,
+      "image_count": 5,
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "text": "Results \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nFigure 4: Seedling Growth Pictures (Initial replanting, midway and final)",
+      "char_count": 112,
+      "image_count": 3,
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "text": "Table 3: Average Dry Bean Height (cm) by additive per week \nFigure 5: Average Dry Bean Height (cm) by additive per week \n \nTable 3 shows the average Dry Bean height over 6 weeks. Over those six weeks, all of \nthe Dry Beans grew at a pretty steady pace. Some plants grew better than others. \nSeedlings grown with the Coffee additive grew to be the tallest (23.4 cm) and the \nsmallest was seedlings grown with the Pine additive (13.75). All of the bean plants on \naverage grew at least to be 13 cm tall. \n \nFigure 5 shows a line graph of average Dry bean height over a six week growth period. \nSeedlings grown with Coffee, Biochar, Control (potting soil), and Oats were the better \nperforming additives. Unfortunately we didn\u2019t run descriptive statistics on the data so we \ndon't know for sure but with the line graph we can infer that they would be the highest \nperforming additives. \nAverage Dry Bean Height (cm) by Additive \n \nBiochar \nCoffee \nPine \nOats \nCoconut \nControl \nWeek 1 \n4 \n2.2 \n4.95 \n1.15 \n3 \n3.75 \nWeek 2 \n11.65 \n8.15 \n6.8 \n5.55 \n5.3 \n12.75 \nWeek 3 \n15.5 \n9.85 \n9.65 \n8.15 \n8.4 \n16.6 \nWeek 4 \n20.95 \n11.4 \n9.9 \n13.1 \n11.2 \n20.8 \nWeek 5 \n19.55 \n19.15 \n11.7 \n17.75 \n12.8 \n21 \nWeek 6 \n22.6 \n23.4 \n13.75 \n20.3 \n15.6 \n22.45",
+      "char_count": 1232,
+      "image_count": 1,
+      "tables": [
+        [
+          [
+            "Average Dry Bean Height (cm) by Additive",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "Biochar",
+            "Coffee",
+            "Pine",
+            "Oats",
+            "Coconut",
+            "Control"
+          ],
+          [
+            "Week 1",
+            "4",
+            "2.2",
+            "4.95",
+            "1.15",
+            "3",
+            "3.75"
+          ],
+          [
+            "Week 2",
+            "11.65",
+            "8.15",
+            "6.8",
+            "5.55",
+            "5.3",
+            "12.75"
+          ],
+          [
+            "Week 3",
+            "15.5",
+            "9.85",
+            "9.65",
+            "8.15",
+            "8.4",
+            "16.6"
+          ],
+          [
+            "Week 4",
+            "20.95",
+            "11.4",
+            "9.9",
+            "13.1",
+            "11.2",
+            "20.8"
+          ],
+          [
+            "Week 5",
+            "19.55",
+            "19.15",
+            "11.7",
+            "17.75",
+            "12.8",
+            "21"
+          ],
+          [
+            "Week 6",
+            "22.6",
+            "23.4",
+            "13.75",
+            "20.3",
+            "15.6",
+            "22.45"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 9,
+      "text": "Table 4: Average Bush Bean Height (cm) by additive per week \nAverage Bush Bean Height (cm) by Additive \n \nBiochar \nCoffee \nPine \nOats \nCoconut \nControl \nWeek 1 \n2.1 \n0.7 \n1 \n1.75 \n2.7 \n3.2 \nWeek 2 \n8 \n8.75 \n8.05 \n6.75 \n2.95 \n11.5 \nWeek 3 \n12.15 \n14.35 \n9.95 \n10.1 \n0 \n15 \nWeek 4 \n15.45 \n18.75 \n14.9 \n10.8 \n0 \n31.9 \nWeek 5 \n16 \n23.5 \n16.5 \n39.05 \n0 \n29.45 \nWeek 6 \n16.15 \n24.6 \n16.15 \n45.3 \n0 \n38.6 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nFigure 6: Average Bush Bean height (cm) by additive per week \n \nTable 4 shows the average Bush Bean height by additive over a six week growing \nperiod. All seedlings showed growth except for the seedlings grown in Coconut additive \nwhich died on week 3. The seedlings grown with Oats additive appear to have the \nlargest growth (45.3 cm) while the seedlings grown in Coconut additive appear to have \nthe smallest growth (0 cm) followed by the Pine (16.15cm) and Biochar (16.15cm). \n \nFigure 6 shows the Average Bush Bean height over a six week growing period. \nSeedlings grown in Oats and Control (potting soil) additives appear to have the best \ngrowth, although because statistics weren\u2019t used to analyze the data, it isn\u2019t possible to \nback up that assumption with specific p-value.",
+      "char_count": 1224,
+      "image_count": 1,
+      "tables": [
+        [
+          [
+            "Average Bush Bean Height (cm) by Additive",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "Biochar",
+            "Coffee",
+            "Pine",
+            "Oats",
+            "Coconut",
+            "Control"
+          ],
+          [
+            "Week 1",
+            "2.1",
+            "0.7",
+            "1",
+            "1.75",
+            "2.7",
+            "3.2"
+          ],
+          [
+            "Week 2",
+            "8",
+            "8.75",
+            "8.05",
+            "6.75",
+            "2.95",
+            "11.5"
+          ],
+          [
+            "Week 3",
+            "12.15",
+            "14.35",
+            "9.95",
+            "10.1",
+            "0",
+            "15"
+          ],
+          [
+            "Week 4",
+            "15.45",
+            "18.75",
+            "14.9",
+            "10.8",
+            "0",
+            "31.9"
+          ],
+          [
+            "Week 5",
+            "16",
+            "23.5",
+            "16.5",
+            "39.05",
+            "0",
+            "29.45"
+          ],
+          [
+            "Week 6",
+            "16.15",
+            "24.6",
+            "16.15",
+            "45.3",
+            "0",
+            "38.6"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 10,
+      "text": "Conclusion \nOur main goal in this experiment was to help astronauts maximize growth of edible \nplants on Mars. While we expected there to be a major difference in seedling growth \nbetween the soil additives, the addition of any organic matter and AMF to Mars regolith \nappeared to aid in plant growth. Overall, we found that all the plants grew equally \naround the same height except for coconut. Because many forms of organic matter aid \nin plant growth, finding a source of organic matter that doesn\u2019t need to be transported to \nMars would be the most effective. If astronauts converted their bodily and other waste \ninto Biochar on Mars, and used this Biochar in addition to AMF it would be the best \npossible solution to make healthy, food producing plants. \n \nMeasuring the seedlings was a bit of a challenge as this differed from person to person \neven though we tried to standardize the process. This might account for some of the \nheight measurements from week to week decreasing when in fact most plants grew \nover that same time. In future experiments, we might assign one person to make all of \nthe height measurements to be more consistent. We also could standardize watering. At \nfirst, we may have over-watered plants as the run-off produced a rotten, stinky \nenvironment. Eventually, we settled on a smaller amount of water (just enough to \nsaturate but not run out of the pot) and a more frequent watering schedule. \n \nSeedlings in the Coconut additive were particularly hard to grow. Two of the second \nplantings died fairly soon after replanting and subsequently three died out of four. We \nthink the oily conditions were not suitable for plant growth. \n \nSample size of the experiment made running statistics on data challenging. When even \none plant died (Biochar) it was hard to make assumptions but when three died for \nCoconut we basically had to end the trial. \n \nIf we were to do this experiment again, we would grow 20 biochar plants to find a \ntrendline or run statistics to see if there was a difference between a soil additive like \nBiochar and regular potting soil. We would also select plant pots that were all the same \ncolor so that if the light reflected off of them the plants would be under the same light \nconditions. If we were to do this experiment again we would use coconut oil spray \ninstead of the solid oil so it would only coat a little bit of the soil instead of causing the \nsoil to be too greasy. We would also control the amount of water we are giving the \nplants so that they are all getting an equal share of the water. We could have used all \nthe same color of popsicle sticks or undyed popsicle sticks so that the dye wouldn't \naffect the growth of the plant.",
+      "char_count": 2712,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "text": "Works Cited \n \n1.\u200b Backgrounders: Soil on Mars, Let's Talk Science, September 23, 2021, \nhttps://letstalkscience.ca/educational-resources/backgrounders/soil-on-mars. \n2.\u200b https://en.wikipedia.org/wiki/Mycorrhiza. \n3.\u200b Wallace WOW, Wallace, Ron, https://wallacewow.com/pages/testimonials \n4.\u200b Fox, Sam, et al, Mycologia, Volume 114, 2022 - Issue 2, 28 Mar 2022, \u201cFire as a \ndriver of fungal diversity \u2014 A synthesis of current knowledge\u201d. \n5.\u200b Biochar and Arbuscular mycorrhizal fungi mediated enhanced drought tolerance \nin Okra (Abelmoschus esculentus) plant growth, root morphological traits and \nphysiological properties, Jabborova D, Annapurna K, et al, Saudi J Biol Sci. 2021 \nOct;28(10):5490-5499. doi: 10.1016/j.sjbs.2021.08.016. Epub 2021 Aug 11. \n6.\u200b NASA testing USF technology for possible use on the moon \nAugust 10, 2020, \nhttps://www.usf.edu/news/2020/nasa-testing-usf-technology-for-possible-use-on-t\nhe-moon.aspx. \n7.\u200b Do pine trees and pine needles make soil more acidic?, October 16, 2019, \nUniversity of New Hampshire, \nhttps://extension.unh.edu/blog/2019/10/do-pine-trees-pine-needles-make-soil-mo\nre-acidic. \n8.\u200b Flavonoids promote Rhizophagus irregularis spore germination and tomato root \ncolonization: A target for sustainable agriculture., Lidoy J, et al, Front Plant Sci. \n2023 Jan 5;13. \n9.\u200b Exogenous myristate promotes the colonization of arbuscular mycorrhizal fungi in \ntomato., Liu X, Feng Z,et al, Front Plant Sci. 2023 Nov 2;14.",
+      "char_count": 1461,
+      "image_count": 0,
+      "tables": []
+    }
+  ]
+}

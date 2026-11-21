@@ -1,0 +1,22 @@
+# Python & virtual environments
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
+# Environment & secrets
+.env
+.env.*
+
+# Build artifacts (deployed via GitHub Actions or built locally)
+book/_build/
+
+# Large binary PDFs (re-fetchable deterministically from data/raw/manifest.csv)
+data/raw/pdfs/
+data/raw/pages/
+
+# OS files
+.DS_Store

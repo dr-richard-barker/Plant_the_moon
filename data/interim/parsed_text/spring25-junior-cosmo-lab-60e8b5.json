@@ -1,0 +1,145 @@
+{
+  "report_id": "spring25-junior-cosmo-lab-60e8b5",
+  "sha256": "48e36fccab3f5d2e3485484ba318e02a9c5a535f519b32e1f583cdd43c3a0912",
+  "page_count": 19,
+  "total_chars": 22419,
+  "avg_chars_per_page": 1179.9,
+  "total_images": 23,
+  "table_count": 0,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Plant the Moon - Final Report \nBy CosmoLab \nEddie Yang & Annie Yang \n \n1.\u200b Background \nIn the Spring 2025 Plant the Moon Challenge, we investigated the effect of different soil types on the growth \nperformance of four plant species: spinach, tomato, bell pepper, and lettuce. These plants were selected to \nrepresent a range of growth patterns, including leafy vegetables and fruit-bearing crops, each with different \nnutrient and environmental requirements for survival. \n2. Project Hypothesis \nWe hypothesized that plants grown in Garden soil would perform significantly better\u2014in terms of height, \nsurvival rate, and overall growth trend\u2014than those grown in lunar simulant soil, due to the Garden soil\u2019s \nhigher nutrient content, better water retention, and more favorable physical properties. \nWe also expected that plants grown in the 50/50 Earth-lunar soil mix would demonstrate intermediate \ngrowth, with better results than pure lunar simulant but poorer performance than Garden soil alone. \nFurthermore, we hypothesized that different plant species would respond differently to soil conditions, \nwith fast-growing leafy vegetables like spinach and lettuce being more resilient in low-nutrient substrates \ncompared to fruit-bearing crops like tomatoes and bell peppers. \n3. Experimental Variables \n\u25cf\u200b Independent Variable: The type of soil used for growing the plants\u2014Garden soil (Miracle-Gro), a 1:1 \nEarth-lunar mix, and pure lunar simulant. \n\u25cf\u200b Dependent Variables: Plant height (cm), survival rate, growth trend and peak timing, standard \ndeviation of height. \n\u25cf\u200b Control Variables: Planting date (Feb 12, 2025), pot size, watering volume and frequency, lighting \nduration and intensity, environmental temperature and humidity, seed source, and measurement \nmethods.",
+      "char_count": 1778,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "text": "4. Controls \nThe Garden soil group served as the control condition, using 100% Miracle-Gro Garden Soil All Purpose. No \nadded fertilizers or soil supplements were used in any group. All groups were watered with the same volume and \nfrequency using bottled distilled water. The lighting schedule was fixed at 12 hours per day using consistent \nartificial grow lights. Temperature was maintained between 22\u201325\u00b0C in a stable indoor environment. \nEach plant species (spinach, tomato, bell pepper, lettuce) was planted using identical 4-inch plastic pots in three \nsoil types. Seeds were planted on the same day, and measured with the same ruler every 5 days. Pots were \narranged uniformly to ensure equal exposure to light and air. \n5. Experimental Design and Procedures \nThis experiment was designed to evaluate the growth of four edible plant species under three distinct soil \nconditions. The study included a total of 48 pots\u20144 plant species \u00d7 3 soil types \u00d7 4 pots per group. All seeds \nwere planted on February 12, 2025 (Day 0), and the experiment continued for 60 days, ending on April 12, \n2025. \nEach pot was filled with one of the three soil treatments: \n\u25cf\u200b Garden Soil: 100% Miracle-Gro Garden Soil All Purpose. \n\u25cf\u200b Mix Soil: 50% Garden soil and 50% NASA lunar simulant by volume. \n\u25cf\u200b Lunar Soil: 100% NASA-provided lunar simulant. \nFor each plant-soil combination, four pots were used, labeled, and tracked separately. Spinach and lettuce were \nplanted with 2\u20134 seeds per pot; tomato and bell pepper were planted with 1\u20132 seeds due to their larger growth \nform. After germination, seedlings were thinned to 1\u20132 per pot, depending on the plant's strength and \nuniformity. \nContainers and Setup: All plants were grown in uniform 4-inch plastic pots placed in trays to control water \ndrainage. Each pot was labeled clearly by plant species, soil type, and replicate number (e.g., SP-E1 for \nSpinach-Earth-Pot 1). Pots were arranged in a randomized block pattern under a full-spectrum LED grow light \nsystem providing 12 hours of light per day. \nEnvironmental Controls: Temperature was monitored daily and maintained between 22\u201325\u00b0C. Humidity was \nnot artificially controlled but kept stable through room insulation. Plants were watered twice per week \n(Mondays and Thursdays) using bottled distilled water, and measured using graduated cylinders to ensure equal \nvolume. Each pot received approximately 25\u201330 mL of water per session.",
+      "char_count": 2438,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "text": "Moisture Management: To reduce evaporation during germination, pots were loosely covered with plastic \nwrap until sprouts reached the surface. The soil was not fertilized or supplemented in any group. To prevent \ncompaction in the lunar and mixed soil pots, a wooden skewer was used to gently aerate the soil once per week. \nMeasurement Procedures: Plant height was measured every five days using a clear plastic ruler, from soil level \nto the tallest visible part of the plant. Measurements were taken at the same time of day by the same person to \nmaintain consistency. Plant health indicators\u2014such as leaf color, stem strength, and signs of wilting or \ndeath\u2014were recorded alongside numerical data. \nIn the event of early death or halted growth, the final measurement for the plant was marked and used in survival \nanalysis. All data were compiled into spreadsheets and used to calculate average height and standard deviation \nacross each group. \nThis experimental setup allowed for the isolated evaluation of soil type on plant growth, with a standardized, \nrepeatable procedure across all species. \n6. Results and Analysis \n6.1 Spinach \nSpinach demonstrated varied growth and survival trends across the three soil types over the 60-day experiment. \nThe chart illustrates average plant height with standard deviation error bars, while the germination rate chart \ncaptures initial seed performance. \nSpinach planted in mixed soil (50% lunar simulant + 50% garden soil) showed the fastest initial growth \nand the highest germination rate (100%). These plants reached their peak height of approximately 8.0\u20138.1 \ncm between Day 25\u201330, outperforming both the lunar and garden soil groups during this phase. However, \nbeginning on Day 35, their growth plateaued and started to decline. By Day 50, all plants in the mixed soil \ngroup had died. This suggests that although the nutrient blend or initial structure of the mix supported rapid \ngermination and early development, it could not sustain long-term spinach growth\u2014possibly due to root \nlimitations, soil compaction, or nutrient imbalance over time. \nSpinach grown in lunar soil (100% simulant) had the second-highest germination rate (over 90%) and a similar \nearly growth trend to the mixed group, peaking around 7.2 cm at Day 25\u201330. However, these plants started \nshowing stress signs earlier, with a visible decline beginning around Day 35, and complete die-off by Day 45. \nThe lower height plateau and shorter survival period suggest that lunar simulant, while not immediately toxic to \nspinach, lacks the structure or nutrients needed for continued development. \nIn contrast, spinach planted in pure garden soil had the lowest germination rate (under 50%), possibly due \nto soil compaction or high moisture retention. However, for the plants that germinated, growth was steady and \nsustained. The average height reached 9 cm by Day 45, the highest overall, and remained relatively stable",
+      "char_count": 2946,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "text": "through Day 60, even as other groups declined. This indicates that while fewer plants germinated in the garden \nsoil, those that did had the best long-term growth and survival. (See Table 1, Figure 1.1 and 1.2) \nIn summary, spinach grew tallest and lived longest in garden soil, showed strong early performance in mixed \nsoil but declined sharply after Day 35, and experienced early die-off in lunar soil. This suggests that lunar \nsimulant\u2014even when mixed with Garden soil\u2014may provide an initial growth boost but cannot maintain \nspinach health long-term. Garden soil, though slower to start, remains the most reliable medium for sustained \nspinach cultivation. \n6.2 Tomato \nTomato growth results demonstrated clear differences among the three soil conditions. As expected, plants \ngrown in 100% garden soil exhibited the most robust and consistent growth pattern, reaching an \naverage height of over 10 cm by Day 60. This group showed steady upward growth throughout the \nexperiment, with a relatively high germination rate (over 60%). The increasing standard deviation toward the \nend of the 60 days suggests some individual variation in plant height as tomatoes matured and possibly \ncompeted for nutrients and light. \nIn contrast, plants grown in 50/50 lunar and garden mixed soil performed significantly worse, \nplateauing early around Day 30 at an average height of approximately 5.3 cm, and showing little to no \nfurther growth thereafter. Surprisingly, their germination rate was the second highest (around 30%), \nindicating that while seeds could sprout in the mixed soil, continued growth was likely hindered by poor soil \nstructure or nutrient imbalance. The relatively flat growth curve and low variation indicate uniform but \nstunted development. \nTomato plants in pure lunar simulant soil initially showed slow growth and a lower germination rate \n(around 20%), but those that germinated displayed gradual and steady growth, surpassing the mixed soil \ngroup after Day 35 and reaching an average height of over 8 cm by Day 60. This suggests that, despite the low \ninitial success rate, tomatoes that did manage to establish roots in lunar simulant soil adapted reasonably well \nover time. Notably, none of the plants in this group showed die-off, and the standard deviation bars \nremained moderate throughout the experiment. (See Table 2, Figure 2.1 and 2.2) \nThese findings emphasize species-specific adaptation: tomatoes appear to be relatively resilient, and with \nproper water and light management, they can tolerate low-nutrient conditions better than expected. However, \nthe garden soil remains the most supportive environment for optimal tomato development in both \ngermination and long-term growth. \n6.3 Bell Pepper \nBell pepper plants showed the most dramatic differences in growth and germination performance across the \nthree soil types.",
+      "char_count": 2862,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "text": "As hypothesized, garden soil provided the most supportive environment for bell pepper growth. Plants in this \ngroup exhibited continuous and steady vertical development throughout the 60 days, reaching an average height \nof approximately 9.4 cm by Day 60. The growth pattern was smooth and consistent, and variability in plant \nheight remained moderate, as indicated by the relatively uniform standard deviation bars. This suggests that \ngarden soil offered stable nutrient availability and moisture retention, allowing for sustained growth over time. \nIn contrast, plants grown in the 50/50 mixed soil showed limited and early growth, peaking at around 3.3 \ncm between Day 30 and Day 35. After this peak, growth stagnated and began to decline steadily, with most \nplants dying off by Day 60. Interestingly, while the germination rate in the mixed soil was slightly better than in \nlunar soil, the plants failed to maintain viability long-term. This could be attributed to potential issues in the \nstructural integrity or nutrient balance of the mixed soil, such as compaction or poor aeration. \nBell peppers grown in lunar simulant soil showed the lowest overall performance. Although some seedlings \ngerminated (about 12.5% germination rate), their growth was slow and shallow. Peak height only reached 2.8 \ncm around Day 25, and a clear downward trend started soon after. All lunar group bell pepper plants died by \naround Day 50. The early decline suggests that the lunar simulant lacked key nutrients or retained insufficient \nmoisture to support the bell peppers\u2019 development. (See Table 3, Figure 3.1 and 3.2) \nOverall, these results reinforce that bell peppers are particularly sensitive to suboptimal growing conditions. \nUnlike spinach and tomatoes, which exhibited at least partial adaptation to lunar or mixed media, bell peppers \nonly thrived in Garden soil, making them a poor candidate for lunar agriculture without significant soil \nenhancement strategies. \n6.4 Lettuce \nLettuce showed notable differences in growth patterns and survival depending on soil type. As hypothesized, \nlettuce grown in Garden soil produced the most consistent and prolonged growth. Plants in this group steadily \nincreased in height, reaching a peak average of approximately 6.4 cm around Day 50, and maintaining healthy \nfoliage until the end of the 60 days. This group had the lowest overall plant loss and maintained strong \nperformance throughout the study, indicating that Garden soil provides a stable, nutrient-rich, and \nmoisture-retaining environment ideal for lettuce cultivation. \nUnexpectedly, lettuce grown in mixed soil (50% Garden soil + 50% lunar simulant) outperformed both Earth \nand lunar soils during the first 20 days. The plants reached their peak average height of ~4.7 cm by Day 20, \nindicating an early surge of growth, possibly due to initial nutrient availability or favorable physical conditions in \nthe mixed medium. However, after Day 25, growth began to decline steadily. By Day 45, all lettuce plants in \nmixed soil had died, suggesting that the soil mixture may have failed to retain moisture or lacked consistent \nnutrients to support sustained growth. \nLunar soil lettuce growth was limited and short-lived. Though some plants germinated and reached moderate \nheight (~4 cm by Day 25), growth was generally slower and peaked earlier than the other two groups. After Day",
+      "char_count": 3398,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "text": "30, a continuous decline began, with a complete die-off by Day 50. The plants in this group showed higher \nvariability, as reflected in the large standard deviation bars, likely due to uneven conditions in the simulant \nmedium. This supports the notion that lunar regolith alone is insufficient for sustained lettuce growth without \nsupplementation. \nIn terms of germination rates, lettuce in Garden soil showed the highest rate (~42%), followed by lunar soil \n(~22%), with mixed soil (~17%) performing the worst. This outcome suggests that while the lunar simulant \nhas a limited capacity to support germination and early development, the mixed soil group might have \nintroduced adverse conditions\u2014perhaps structural compaction or chemical imbalance\u2014that negatively \nimpacted both germination and survival. (See Table 4, Figure 4.1 and 4.2) \nOverall, these results reinforce the hypothesis that Garden soil is the most suitable growing medium for \nlettuce. While mixed soil may offer a short-term growth advantage, it is not viable for full growth cycles. Lettuce \ngrown in lunar simulant alone had poor performance both in growth and germination, highlighting the \nimportance of soil composition for long-term plant development. \n7. Conclusion \nOur hypothesis was that garden soil would provide the most favorable conditions for all four plants due to its \nhigher organic content, nutrients, and better water retention compared to mixed or lunar simulant soils. This \nhypothesis was largely supported, though with several interesting variations among plant types. \nFor spinach, we observed that the mixed soil group had the highest germination rate and fastest early \ngrowth, peaking earlier than all other groups. However, these plants experienced a sharp decline and complete \ndie-off around Day 45, suggesting that while the mixed soil supported early growth, it could not sustain the \nplants long-term. Garden soil, in contrast, supported slower but more steady growth, reaching the highest \naverage height (~9 cm) and lasting through Day 60. Lunar soil allowed germination but showed significantly \nstunted growth and early death by Day 45. These results suggest that spinach can be initially stimulated by \nmixed soil, but only garden soil supports healthy, sustained growth. \nLettuce plants showed a different pattern. While mixed soil again led to early height gains (peaking around Day \n20\u201325), plants began to decline soon afterward, with complete die-off by Day 45. In contrast, garden soil \nsupported gradual and continuous growth, peaking near Day 50\u201355 around 6.7 cm, and remained viable \nuntil Day 60. Lunar soil had limited germination success and very poor growth, with most plants dying by Day \n40. These results indicate that lettuce is more tolerant of gradual nutrient release, and garden soil provides \nthe best overall environment. \nFor tomatoes, garden soil was the most successful, with strong germination and continuous upward growth \nthroughout the experiment, surpassing 10 cm by Day 60. Surprisingly, lunar soil supported slow but steady \ngrowth, outperforming mixed soil by the end of the experiment. Mixed soil resulted in early stagnation and",
+      "char_count": 3176,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "text": "limited development, plateauing under 6 cm. This suggests that tomatoes are particularly sensitive to \ninconsistencies in soil structure or nutrient delivery, which may be present in the 50/50 mixed medium. \nBell pepper plants showed the lowest performance overall, with poor germination across all soil types, \nespecially in lunar simulant. However, for the few that did germinate, garden soil once again enabled \ncontinuous growth, reaching around 9.4 cm by Day 60. Both mixed and lunar soils led to early plateauing \n(around Day 30\u201335) and complete die-off before the end of the experiment. Bell peppers appear to be \nparticularly sensitive to nutrient-poor or poorly structured soils and only thrive in more enriched \nenvironments like garden soil. \nAcross all four species, we observed that mixed soil often provided a short-term boost in growth but failed \nto sustain plants long-term. Garden soil consistently provided the best balance of germination success, \ngrowth rate, and long-term survival. Lunar soil, while capable of supporting limited growth in tomatoes and \nspinach early on, generally resulted in poor plant health and high mortality. \n8. Discussion and Future Recommendations \nThis experiment highlights the critical role of soil composition in plant germination, growth trajectory, and \nsurvival. While our initial assumption that garden soil would be the most effective growing medium was mostly \nvalidated, the dynamic responses across plant species underscore that soil performance is not one-size-fits-all. \nOne notable finding is that mixed soil (50% garden soil + 50% lunar simulant) appeared to promote early \ngermination and accelerated growth in spinach and lettuce, yet failed to sustain those plants beyond Day 45. \nThis suggests a possible initial nutrient burst or looser soil texture that encourages early development but lacks \nthe nutrient stability or structure needed for long-term health. Future studies could explore optimizing the ratio \nof soil to lunar simulant or incorporating slow-release organic fertilizers to extend viability in this medium. \nTomatoes performed better than expected in pure lunar soil, showing steady upward growth despite poor \ngermination. This indicates that tomato plants may be more adaptable to challenging environments, particularly \nif conditions such as moisture and light are well maintained. However, the low germination rate still poses a \nbarrier. A potential strategy would be to start tomato seedlings in nutrient-rich soil, then transplant them to \nlunar substrate once established. \nBell peppers, while generally underperforming across all soil types, clearly require more nutrient-dense and \nstable environments to thrive. Their poor performance in mixed and lunar soils, even at the germination stage, \nsuggests that they are less resilient and not well-suited for harsh growing mediums. Future trials might \nexperiment with pre-soaking seeds, using seed starters, or supplementing with micronutrients known to aid in \ngermination and root development. \nAn additional insight came from observing plant decline trends after peak growth. Both spinach and lettuce \ngrown in mixed or lunar soils often showed rapid senescence post-Day 30\u201335, while garden soil plants generally",
+      "char_count": 3259,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "text": "plateaued or declined gradually. This points to soil longevity and nutrient retention as key factors in sustaining \nlife cycles and emphasizes the importance of re-fertilization schedules or soil amendment strategies in long-term \nlunar agriculture planning. \nFor future experiments, we recommend the following: \n\u25cf\u200b Conduct more granular soil analysis, particularly of the mixed and lunar simulant, to identify which \nnutrients may be missing or imbalanced.\u200b\n \n\u25cf\u200b Test staggered fertilizer additions, such as a second dose of nitrogen or phosphorus at the 3-week mark, \nto sustain growth beyond the initial surge.\u200b\n \n\u25cf\u200b Try other soil additives (e.g., compost, vermiculite, or kelp meal) to improve soil structure and water \nretention in lunar simulants.\u200b\n \n\u25cf\u200b Use pre-germinated or nursery-grown seedlings for more sensitive species like bell peppers to improve \nestablishment success.\u200b\n \nThis experiment serves as a strong baseline for understanding how various plants react to lunar simulant soils \nand suggests that tailored soil management will be essential for future space-based agriculture. While spinach \nand lettuce may be useful as quick-growth leafy crops, tomatoes may serve as reliable long-term producers, and \nbell peppers might require significant adaptation support before being considered viable candidates for \nextraterrestrial farming. \n9. References \n1.\u200b NASA. (2022). Lunar Regolith Simulant Specifications for Research Use. Retrieved from \nhttps://www.nasa.gov \n2.\u200b Fortis, M., & Johnson, B. (2021). Plant Growth in Lunar and Martian Regolith Simulants: \nA Review of Nutrient Limitations. Astrobiology Journal, 21(6), 445\u2013456. \n3.\u200b Smith, C. R., et al. (2020). Nutrient Uptake and Germination Response of Lettuce in \nSimulated Extraterrestrial Soils. Planetary and Space Science, 181, 104791. \n4.\u200b Plant the Moon Challenge. (2024). Participant Guide and Research Rubric. Institute of \nCompetition Sciences. Retrieved from https://plantthemoon.com",
+      "char_count": 1970,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "text": "Table 1",
+      "char_count": 7,
+      "image_count": 3,
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "text": "Figure 1.1 \n \nFigure 1.2",
+      "char_count": 24,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "text": "Table 2",
+      "char_count": 7,
+      "image_count": 3,
+      "tables": []
+    },
+    {
+      "page_number": 12,
+      "text": "Figure 2.1 \n \n \nFigure 2.2",
+      "char_count": 26,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 13,
+      "text": "Table 3",
+      "char_count": 7,
+      "image_count": 3,
+      "tables": []
+    },
+    {
+      "page_number": 14,
+      "text": "Figure 3.1 \n \nFigure 3.2",
+      "char_count": 24,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 15,
+      "text": "Table 4",
+      "char_count": 7,
+      "image_count": 3,
+      "tables": []
+    },
+    {
+      "page_number": 16,
+      "text": "Figure 4.1 \n \nFigure 4.2",
+      "char_count": 24,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 17,
+      "text": "Experiment Setup \n \nInitial Setup \nPlanting Table Setup \n\u25cf\u200b Planter Boxes with UV lights and Heating Mat \n\u25cf\u200b Plant Seeds + Soil \n\u25cf\u200b PH Detector + Garden Tools \n3 Types of Soil setup \n\u25cf\u200b Garden Soil \n\u25cf\u200b Mixed Soil (50% Garden Soil + 50% Lunar Soil) \n\u25cf\u200b Lunar Soil",
+      "char_count": 262,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 18,
+      "text": "Planting Box Setup \n\u25cf\u200b Each Box was planted with 1 type of seed \n\u25cf\u200b Each column of the box was designed for 1 type of soil \n\u25cf\u200b Each column had 4 slots \n\u25cf\u200b Each slot had 4 seeds planted",
+      "char_count": 184,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 19,
+      "text": "Plants Growth Photos",
+      "char_count": 20,
+      "image_count": 1,
+      "tables": []
+    }
+  ]
+}

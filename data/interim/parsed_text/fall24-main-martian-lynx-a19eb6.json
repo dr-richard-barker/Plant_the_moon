@@ -1,0 +1,1445 @@
+{
+  "report_id": "fall24-main-martian-lynx-a19eb6",
+  "sha256": "c91c4e5fa0ba3f7423e68767790c2d0a9658481c760076490d4e6dd5b8917e79",
+  "page_count": 41,
+  "total_chars": 42166,
+  "avg_chars_per_page": 1028.4,
+  "total_images": 46,
+  "table_count": 23,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Plant the Moon Challenge | Fall 2024 | Professional/Undergraduate \nDivision \n \n \n \n \n \nTeam Name: Martian Lynx \nTeam ID #: 19247 \n \n \n \nCoach Name: Mauricio \nErazo-Barradas \nChallenge Division: Professional \nIntegrantes: \nArmando Figueroa-Martinez \nCoral Martinez-Nolasco \nKarla Mendoza-Ramos \nRa\u00fal Antonio Mu\u00f1oz-Guti\u00e9rrez",
+      "char_count": 322,
+      "image_count": 2,
+      "tables": [
+        [
+          [
+            "Team Name: Martian Lynx",
+            "Team ID #: 19247"
+          ],
+          [
+            "Coach Name: Mauricio Erazo-Barradas",
+            "Challenge Division: Professional"
+          ],
+          [
+            "Integrantes:",
+            ""
+          ],
+          [
+            "Armando Figueroa-Martinez Coral Martinez-Nolasco Karla Mendoza-Ramos Ra\u00fal Antonio Mu\u00f1oz-Guti\u00e9rrez",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "Effect of nutrient solution and Martian regolith simulant on the growth and \ndevelopment of lettuce (Lactuca sativa) Rhodenas RZ (45-113) \nCoral Martinez-Nolasco1, Armando Figueroa-Martinez1, Karla Mendoza-Ramos1, Raul A. Munoz-Gutierrez1, \nMauricio Erazo-Barradas2 \n1 Tecnologico Nacional de Mexico-Celaya \n2 Tarleton State University, Texas, USA \n \nKeywords / Martian regolith, Nutrient solution, Organic amendments, Lettuce, Organic matter, IoT \n1. Introduction \nFarming on Mars in the current environment provides challenge opportunities \nbecause these activities would have to occur in habitats that could provide an adequate \ntemperature, radiation and water (Yamashita, et al., 2009). Such habitats would need to be \ntransparent to let in sunlight for plants to grow or would have to come equipped with lights \nto sustain plant growth (Poulet et al., 2014). Data returned from various missions to Mars \nindicate that the Martian \u201csoil\u201d has some essential nutrients, but is often rocky, coarse, and \ndeficient in organic matter and other important nutrients such as nitrogen, phosphorous, and \nsulfur (Chinnannan et al., 2024). Even so, previous studies have reported the use of simulant \nsoils for Mars showing that plants can germinate and grow, albeit not as vigorously as on \nEarth. Earlier studies have established the capacity of specific regolith simulants to support \nthe growth of a variety of plants in the short term (Wamelink et al., 2014). However, the \nmineralogical and physical accuracy of these simulants as proxies for the sites on Mars is \ndebatable, and any conclusion drawn from studies with these simulants must be considered \nwith some degree of caution. Therefore, plant growth could be facilitated by addition of \nfertilizers, soil amendments and nutrient solutions (Duri et al., 2022). Based on the \naforementioned, the hypothesis proposed in this study was that the application of nutrient \nsolution at different concentrations to a variety of lettuce established in different physical soil \nmixtures had an effect on the time required to reach the different phenological stages of the \ncrop which will affect biomass production and yield. \nThe objective of this study was to quantify the combined effect of a nutrient solution \napplied at different concentrations to the physical mixture of Martian simulant (regolith) and \nsoil amendments (coconut fiber, vermiculite, perlite and peat moss) on the growth stages and \nyield of lettuce.The objective of this study was to quantify the combined effect of a nutrient \nsolution applied at different concentrations to the physical mixture of Martian simulant \n(regolith) and soil amendments (coconut fiber, vermiculite, perlite and peat moss) on the \ngrowth stages and yield of lettuce. \n \n2. Literature Review \nAccording to NASA, it is believed that the first continually inhabited Martian colony will be \nestablished by 2050. Assuming that the challenges associated with the Martian environment, \nits distance from Earth, and how to sustain life in Mars are addressed properly, the success \nwill depend on identifying and resolving these issues prior to the start of such a mission \n(Neukart, 2024). From the standpoint of human beings\u2019 ability to survive and thrive in such \nas harsh conditions of Mars, an emerging and critical theme in environmental system",
+      "char_count": 3339,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "text": "management in agriculture is sustainability, or the ability to maintain existing production \nfrom an ecological system, while ensuring its ability and availability at a future date (Gaffney \net al., 2019). Besides being crucial to the success in the long term on Earth at maintaining \nfood security and ecosystem viability, sustainable systems of agriculture production on Mars \nmust be able to provide all the elements necessary for future missions in the quest for \ncolonizing this planet. \nAnother crucial aspect of off-world sustainability effort is a dependency on in-situ Resource \nUtilization (ISRU), or the use of existing materials at the site whenever possible. ISRU will \nallow colonists to introduce new materials into their closed-loop ecosystem without relying \nsolely on resupply missions. On Mars, examples of in situ resources will include water, light, \nregolith, and perchlorates for oxygen as well as harnessing the CO2 in the atmosphere to \nintroduce new biomass for food production. Plant growth systems utilizing Martian regolith, \ncould influence the advances of sustainable agriculture systems to limit fertilizer use, \nimprove disease resistance, and build viable nutrient cycling systems that augment existing \nlife support systems. Indeed, food security alone will demand the presence of multiple \nsources of food production, including a traditional agriculture approach alongside \nhydroponics, aquaponics, and others ((Wheeler, 2010). \nRecent studies have mentioned that there is a need for developing regolith-based plant growth \nsystems for Mars and its importance depends upon on the quality of the Martian regolith \nsimulant (MRS) used (Peters et al., 2008). As a result, the process of understanding the \nlimitations of this materials should be iterative, with new simulants being developed as our \nknowledge of the Martian surface improves. Finally, the presence of organic matter is not \nrequired to support plant growth, but typically improves the texture, cation exchange capacity \n(CEC), water holding capacity (WHC), and other properties of a soil which may provide an \nadditional pool for nutrients providing a more fertile growth medium. Organic matter is \nextremely low in Martian regolith and bedrock and this may decrease its potential as a fertile \nmedium. \n \n3. Materials and Methods \n3.1 Growth chamber experiment. \nThe experiment began on September 30, 2024 and ended with the harvest on November \n23, 2024. It took place in a growth chamber equipped within the National Technology of \nMexico in Celaya, campus 2. The stages of the methodology were: Design of experiments, \nconditioning of growth chamber, preparation of pots and planting, crop monitoring and \nharvest.",
+      "char_count": 2718,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "text": "Figura 1. Graphic summary of the methodology developed \n \n3.1.1 Temperature \nThe temperature inside the room was provided by a Minisplit Mirage Magnum 22 Hot/Cold \nInverter 1.5ton air conditioner, which seeks to have temperatures between 25 to 27 \u00b0C. \n \n3.1.2 Relative humidity \nThe relative humidity was set between 60% to 80%, to help achieve the desired range of \nhumidity inside the room an automatic humidifier was installed. \n \n3.1.3 Lightning \nArtificial lighting was supplied by Barrina LED grow lights that provided light infinitely \nclose to the natural light spectrum. From day two to day four after sowing, the lighting was \nkept constant at 100 \u00b5mol*m-2*s-1, from day 5 until the day of harvest the lightning was at \n200 \u00b5mol*m-2*s-1; this light setting provided a daily photoperiod of 16 hours. \n3.1.4 Crop structure \nA cultivation structure measuring 1.2 x 0.8 meters x 1.75 meters high was built, with 5 lines \nof LED lamps on the top, the purpose of the structure was to place the pots. On November 7, \n38 days after sowing, a second floor was built in the structure since the lettuces no longer \nhad enough space for their development. \n3.2 Nutrient solution \nA Universal Steiner nutrient solution (Steiner, 1961) will be used to prepare the levels of the \nnutrient factor. The nutrient solution is composed of essential inorganic macronutrients and",
+      "char_count": 1367,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "text": "micronutrients to maintain overal health and performance of the lettuce. The nutrient \ncomposition of the solution is: N, P, K, Ca, Mg, S, Fe-EDTA, Cu, Zn-EDTA, Mn-EDTA, B, \nMo, and Fe-EDTA. The commercial Steiner-type nutrient solutions A and B, both solutions \nare prepared separately and mixed at the final concentration. The nutrient solution was \nprepared using water with a pH between the range 5.5 to 6.5. To reduce the pH of the drinking \nwater in our location, which generally ranges from 8, 2 ml of nitric acid is added per liter of \nwater. Initially, stock solutions A and B are prepared to later dilute the experiment \nconcentrations. The 100% nutrient solution concentration contains 5 ml of solution A and 5 \nml of solution B, the other concentrations are prepared proportionally, that is, 75% contains \n3.75 ml A and 3.75 ml B and 50% contains 2.5 ml A and 2.5 ml B, respectively. The nutrient \nsolution was monitored with an All Dissolved Solids meter, the measurements for each \nconcentration were: for 100% the pH is 6, the electrical conductivity (EC) = 1970 \u00b5S/cm and \nTDS = 985 ppm, for 75 % the pH is 5.83, the EC = 1621 \u00b5S/cm and TDS = 810, for 50% the \npH is 5.93, electrical conductivity (EC) = 1272 \u00b5S/cm and TDS = 636 ppm. \n3.3 Sowing \nSeeds of Rhodenas RZ (45-113), a round-shaped iceberg lettuce variety, adapted to temperate \nareas of outdoor production, were buried into the soil mixture approximately 0.5 cm Deep. \nThe seeds were covered with vermiculite and watered at field capacity with water at pH 6. \nThe top portion of the pot was covered with aluminum foil to ensure darkness for the seed, \nand it was placed inside the growth chamber at 25 \u00b0C. After 24 hours, the presence of the \nfirst sprung was checked in each pot/treatment in order to determine the germination of the \nseed and if the seed has already sprung so, the temperature was increased to 27 \u00b0C, the pot \nwas uncovered and it was switched to an artificial lighting system at 100 \u00b5mol*m-2. *s-1, \nthe appearance of cotyledons is expected around 72 hours after sowing, at which time the \nartificial lighting was increased to 200 \u00b5mol*m-2*s-1, the other variables remained the same. \nOnce the first true leaf appeared, the administration of the Steiner-type nutrient solution, \nprepared with pH 6, begins (Figure 2).",
+      "char_count": 2315,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "text": "Figure 2. Germination process of lettuce seeds established in a soil mixture (regolith+soil \namendments) in 2024. \nVariable \nSeed \nEmergence \nCotyledon \nFirst true-leaf \n \nTime \nSowing (0 hours) \n24 hours \n72 hours \n7 - 9 days \nTemperature \n25 \u00b0C \n27 \u00b0C \n27 \u00b0C \n27 \u00b0C \nLightning \nDarkness and \ncovered \n100 \u00b5mol*m-2*s-1 \n200 \u00b5mol*m-2*s-1 \n200 \u00b5mol*m-2*s-1 \nIrrigation \nWater pH 6 \nWater pH 6 \nWater pH 6 \nNutrient solution \napplied according \nto the experiment \nlevel \n \n3.4 Monitoring of variables through the Internet of Things (IoT) \nThe design and implementation of an IoT system for the growth chamber has made it possible \nto guarantee optimal control of critical environmental variables: temperature, relative \nhumidity, lighting and carbon dioxide (CO2). This system was developed with the aim of \nautomating and monitoring the internal conditions of the camera by using sensors, actuators \nand reliable communication protocols, managed by an Arduino Mega in conjunction with an \nESP-32 board for connection to the cloud. \n \nFirst, temperature and humidity, critical for the development of organisms in the \nchamber, were controlled by a combined temperature and humidity sensor that continuously \nmeasured internal conditions. The system used an air conditioner as an actuator for \ntemperature regulation, while a humidifier was responsible for maintaining humidity within \noptimal ranges. Both functions were managed by the Arduino Mega, which analyzes the \nsensor readings and activates the corresponding actuators in real time, ensuring a stable and \nsuitable environment for the lettuce. \n \nThe monitoring and control of carbon dioxide (CO2) was also an essential component of \nthe system, since this gas is essential for plant photosynthesis. A specialized sensor measured \nthe CO2 concentration in parts per million (ppm) inside the chamber. \n \nRegarding lighting, the system was calibrated with a photosynthetic active radiation \n(PAR) sensor to measure the light intensity in the environment and ensure that the radiation \nwas at optimal value for the different stages of lettuce growth. \nTo ensure efficient communication between system components, the RS-485 protocol \nwas used, which connected the sensors to the Arduino Mega. This protocol was selected for \nits robustness, reliability, and ability to handle interference in controlled environments.",
+      "char_count": 2370,
+      "image_count": 4,
+      "tables": [
+        [
+          [
+            "Variable",
+            "Seed",
+            "Emergence",
+            "Cotyledon",
+            "First true-leaf"
+          ],
+          [
+            "Time",
+            "Sowing (0 hours)",
+            "24 hours",
+            "72 hours",
+            "7 - 9 days"
+          ],
+          [
+            "Temperature",
+            "25 \u00b0C",
+            "27 \u00b0C",
+            "27 \u00b0C",
+            "27 \u00b0C"
+          ],
+          [
+            "Lightning",
+            "Darkness and covered",
+            "100 \u00b5mol*m-2*s-1",
+            "200 \u00b5mol*m-2*s-1",
+            "200 \u00b5mol*m-2*s-1"
+          ],
+          [
+            "Irrigation",
+            "Water pH 6",
+            "Water pH 6",
+            "Water pH 6",
+            "Nutrient solution applied according to the experiment level"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 7,
+      "text": "Subsequently, the data processed by the Arduino Mega was sent to an ESP-32 board via serial \ncommunication. The ESP-32 acts as an intermediary, sending the collected information to \nthe cloud through the HTTP protocol. \n \nFinally, once in the cloud, the data was stored and managed on the ThingSpeak platform, \nwhich organized it into interactive graphs and panels accessible from any mobile device. \nUsers could view real-time temperature, humidity, CO2 and lighting readings, allowing for \nconstant remote monitoring of the growth chamber status. \n \n \n \nFigura 3. Resumen gr\u00e1fico de la metodolog\u00eda desarrollada \n \n3.5.1 Temperature and Relative humidity \n \nTemperature and relative humidity are artificially manipulated and priority variables for \noptimal crop development. Both variables are monitored by sensors. JXBS-3001-TH-RS is \nthe sensor used for both variables. The data collected from the sensors is continuous, \nhowever, the data collected is sent to the cloud with a sampling period of 5 minutes. The \nresults of minimum, maximum temperature and relative humidity during the 54 days of \ncultivation are shown in Figure 4.",
+      "char_count": 1135,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "text": "Figure 4. Temperature and relative humidity during the cultivation experiment. \n \n \n3.5.2 Lightning and CO2 \n \nThe Flux of Photosynthetically Active Photons was monitored with the SEM228P sensor and \nthe values are recorded by the IoT monitoring system. CO2 particles are recorded with the \nJXBS-3001-CO2-RS sensor, the measurement unit is parts per million ppm. The data was \nuploaded to the cloud every 5 minutes. The monitoring results are shown in Figure 5. \n \n \n \n \nFigure 5. CO2 particles and flow of photosynthetically active photons throughout IoT.",
+      "char_count": 556,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "text": "3.5 Experimental Design \nThe experiment consisted of 9 treatments (Figure 1) arranged in a Factorial Completely \nRandomized Design (FCRD) with 4 replications. The treatments were formed by a \ncombination of the three levels of soil mixture (M: M1 (50% regolith + 50% Soil \namendments), M2 (75% regolith + 25% Soil amendments, M3 (100% regolith + 0 % Soil \namendments) and three levels of Steiner-type (Steiner, 1984) nutrient solution (N: N1 \n(100%), N2 (75%), N3 (50%)) (Table 2). The factorial treatment structure of this experiment \nis useful for examining the effects of these two factors on a response variable (Y), whether \nor not interaction exists. The linear statistical model for a FCRD is the following: \n\ud835\udc4c\ud835\udc56\ud835\udc57\ud835\udc58= \ud835\udf07+ \ud835\udc40\ud835\udc56+ \ud835\udc41\ud835\udc57+ (\ud835\udc40\ud835\udc41)\ud835\udc56\ud835\udc57+ \ud835\udf00\ud835\udc56\ud835\udc57\ud835\udc58 \n\ud835\udc4c\ud835\udc56\ud835\udc57\ud835\udc58 = The response from the \ud835\udc58\ud835\udc61\u210e experimental unit receiving the \ud835\udc56\ud835\udc61\u210e level of soil \nmixture (\ud835\udc40) and the \ud835\udc57\ud835\udc61\u210e level of nutrient solution (\ud835\udc41) \n\ud835\udf07 = Overall mean \n\ud835\udc40\ud835\udc56 = An effect due to the \ud835\udc56\ud835\udc61\u210e level of soil mixture (\ud835\udc40) \n\ud835\udc41\ud835\udc57 = An effect due to the \ud835\udc57\ud835\udc61\u210e level of nutrient solution (\ud835\udc41) \n(\ud835\udc40\ud835\udc41)\ud835\udc56\ud835\udc57 = An interaction effect of the \ud835\udc56\ud835\udc61\u210e level of soil mixture (\ud835\udc40) with the \ud835\udc57\ud835\udc61\u210e level of \nnutrient solution (\ud835\udc41) \n\ud835\udf00\ud835\udc56\ud835\udc57\ud835\udc58 = A random error that have a normal distribution (0, \ud835\udf0e2 ) \n \nTable 1. Treatment combinations of soil mixture (M) and nutrient \n solution (N) \nM1 (50% regolith + 50% Soil amendments) + N1 (100%) \nM1 (50% regolith + 50% Soil amendments) + N2 (75%) \nM1 (50% regolith + 50% Soil amendments) + N3 (50%) \nM2 (75% regolith + 25% Soil amendments) + N1 (100%) \nM2 (75% regolith + 25% Soil amendments) + N2 (75%) \nM2 (75% regolith + 25% Soil amendments) + N3 (50%) \nM3 (100% regolith + 0% Soil amendments) + N1 (100%) \nM3 (100% regolith + 0% Soil amendments) + N2 (75%) \nM3 (100% regolith + 0% Soil amendments) + N3 (50%)",
+      "char_count": 1754,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "text": "Figure 6. Factors and levels of the factorial randomized complete design \n \n3.6 Variables \n3.6.1 Germination \nIt was recorded as the number of days from sowing until the cotyledons were raised above \nthe soil surface. This occurs when the hypocotyl, the region between the cotyledon and \nradicle, elongates rapidly and arches upward, pulling the cotyledon above the soil. \n3.6.2 Seedling \nThe seedling stage was recorded as the number of the days from the appearance of the first \ntrue leaf until the plant developed a distinct circular cluster of leaves known as rosette. \n3.6.3 Rosette \nFor this variable, the rosette formation was recorded as the number of days when at least six \ntrue-leaves were present forming a circular cluster. \n3.6.4 Plant height \nThe plant height was measured in centimeters (cm) from the base of the stem (at the soil \nsurface) to the top of the canopy, or the highest part of the plant (for many plants, this was \nthe tip of the apical bud). This activity was performed twenty-one times evenly spaced \nthroughout the duration of the experiment. Data from the average and final plant height were \nused to perform analyses of variance. \n3.6.5 Leaf area \nThe leaf area was calculated in cm2, using digital image processing that was captured from \nthe top view of the plant. During the duration of the experiment, 13 capture sessions were \ntaken on each treatment/plant, distributed evenly during the 54 days that the research lasted. \nThe image processing was carried out using Python language and libraries such as OpenCV. \nData from the average and final leaf area were used to perform analyses of variance.",
+      "char_count": 1636,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "text": "3.6.6 Number of leaves \nThe number of leaves in each plant was manually collected twenty-one times evenly spaced \nthroughout the duration of the experiment. Data from the average and final number of leaves \nwere used to perform analyses of variance. \n3.6.7 Chlorophyll content \nThe Chlorophyll content was measured manually with an Apogee MC-100 chlorophyll \nconcentration meter (SPAD). Data collection was performed three times at 24, 37, and 54 \ndays after sowing on the same leaf of the treatment plants during the duration of the \nexperiment. Chlorophyll content from the three dates and average were used to perform \nanalyses of variance. \n3.6.8 Fresh weight \nFresh weight also known as wet weight of lettuce was recorded in grams as the weight of \nlettuce measured immediately after harvest (54 days), this variable included the water content \nof the lettuce. Fresh weight is a common way to measure crop growth and is often used to \nevaluate yield results before selling produce. \n3.6.9 Dry weight \nThe dry weight of lettuce is the weight of the lettuce after all of its water content has been \nremoved through drying. The dry weight of lettuce was obtained by dehydrating the lettuce \nafter being removed from the growth chamber. On harvest day the leaves were placed in \nindividually labeled kraft bags. Subsequently, they were placed in a drying oven at a \ntemperature of 71.8 \u00b0C for 72 hours. Immediately after being removed from the oven, the dry \nweight was manually recorded in grams. \n \n3.6.10 pH \nSoil pH was measured every week starting from week 2, after the application of the nutrient \nsolution began, the measurement was done with pH measuring strips, at the end a soil pH \nmeasuring instrument was purchased. Data was collected on all 32 plants by placing the test \nstrip in the drops of nutrient solution draining from the pot after watering. \n \n3.7 Statistical analysis \nAnalysis of variance (ANOVA) was used to analyze the collected data for the variables \ndescribed. The linear statistical model for a Factorial Completely Randomized Design \n(FCRD) (Steel and Torrie, 1996) was used to analyze the data in this research. \n \n4. Results \n3.8 Phenological Variables \nData of the physiological and morphometric parameters were analyzed using the Shapiro\u2013\nWilk test with a value \u03b1 = 0.05, and the normal distribution of the data was corroborated with \nminimum and maximum p-values obtained of 0.023 and 0.84, respectively. \n \nStatistical tests of differences in morphometric and physiological parameters of the \ndifferent treatments were performed using two-way ANOVA. These analyzes were",
+      "char_count": 2609,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 12,
+      "text": "performed with the R software (R Core Team, 2024) and the results were considered \nsignificantly different if p \u2264 0.05. The results showed that there were only significant \ndifferences for the variables fresh mass, final chlorophyll content and the average leaf area \n(Tables 2, 3, and 4). \n \nTable 2. Analysis of variance for the variable fresh weight collected in Celaya, Mexico 2024. \n \n \nFresh weight (g) \nSource of variation \nDf \nSS \nMS \nF value \nPr(>F) \nSoil Mixtures (M) \n 2 \n3426 \n1713 \n3.201 \n0.05655 \nNutrient Solution (N) \n 2 \n8571 \n4286 \n8.009 \n0.00186 ** \nM*N \n 4 \n2911 \n 728 \n1.360 \n0.273 \nResiduals \n27 \n14448 \n 535 \n \n \nDf: Degrees of freedom, SS: Sum of Squares, MS: Mean Squares \nSignificance levels: *** 0.001, ** 0.01, * 0.05 \n \nTable 3. Analysis of variance for the variable chlorophyll 3 collected in Celaya, Mexico \n2024. \n \n \nChlorophyll 3 \nSource of variation \nDf \nSS \nMS \nF value \nPr(>F) \nSoil Mixtures (M) \n 2 \n1102 \n551.0 \n3.717 \n0.0375 * \nNutrient Solution (N) \n 2 \n 26 \n 12.9 \n0.087 \n0.9167 \nM*N \n 4 \n1395 \n 348.7 \n2.352 \n0.0793 \nResiduals \n27 \n4003 \n 148.3 \n \n \nDf: Degrees of freedom, SS: Sum of Squares, MS: Mean Squares \nSignificance levels: *** 0.001, ** 0.01, * 0.05 \n \nTable 4. Analysis of variance for the variable average foliar area collected in Celaya, \nMexico 2024. \n \n \nAverage foliar area ( ) \nSource of variation \nDf \nSS \nMS \nF value \nPr(>F) \nSoil Mixtures (M) \n 2 \n 24201 \n 12100 \n4.926 \n0.01500 * \nNutrient Solution (N) \n 2 \n 29890 \n 14945 \n6.084 \n0.00659 ** \nM*N \n 4 \n 9479 \n 2370 \n0.965 \n0.44281 \nResiduals \n27 \n66323 \n 2456 \n \n \nDf: Degrees of freedom, SS: Sum of Squares, MS: Mean Squares \nSignificance levels: *** 0.001, ** 0.01, * 0.05 \n \nFor the variable germination, figure 7 shows the germination percentage that corresponded \nto each soil mixture in combination with the concentrations of the nutrient solution. Six \ncombinations had 100% germination, 2 had 75% and the lowest was 50%, which corresponds \nto the mixture of 100% regolith soil with 50% nutrient solution.",
+      "char_count": 2026,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 13,
+      "text": "Figure 7. Germination percentage per soil mix \n \nThe total percentage of gemination for the experimental design was 88.9% corresponding to \n32 treatments, while the percentage of non-germination was 11.1%, which is equivalent to 4 \ntreatments (Figure 8). \n \n \n \nFigure 8. Total germination percentage",
+      "char_count": 300,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 14,
+      "text": "4.2 Watering \nIn the present investigation, the irrigation variable was one of the most important, from the \nbeginning, the irrigation was carried out manually with the use of a graduated pipette and at \nfield soil capacity, initially the pots required 6.5 ml, from day 40 to 44 the plants required \n120 ml and after day 45 the requirement was 60 ml daily. The same amount of nutrient \nsolution was applied to the pots of the 3 concentrations. Figure 9 shows the demand for \nnutrient solution by phenological stage. \n \n \n \nFigure 9. Germination percentage per soil mix",
+      "char_count": 568,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 15,
+      "text": "4.3 pH Measuring \nFigure 10 shows the pH of each treatment, as a consequence of the reaction of the soil \nmixture and the different concentrations of the nutrient solution. \n \nFigure 10. Average soil pH per treatment \n4.4 Phenological Stages of Lettuce \nFigure 11 shows the growth stages of a lettuce plant from sowing to harvest, detailing the \ndays after sowing (DAS) in which each of these phases occur. In this research, all treatment \ncombinations evaluated, the lettuce plants developed the stages shown in the Figure 11. \n.",
+      "char_count": 530,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 16,
+      "text": "Figure 11. Phenological stages for lettuce cultivation with different treatments \n \n4.5 Morphometric parameters \nThe morphometric parameters of a lettuce plant are quantitative measurements used to \ndescribe its morphology or shape, size and structure. These parameters provide information \nabout the growth, development and performance of the plant (Figure 12). The use of digital \nimages has the advantage of being a non-destructive test that allows the crop to be monitored \ncontinuously.",
+      "char_count": 491,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 17,
+      "text": "Figure 12. Growing of a lettuce plant on different dates in one of the pots containing a \ntreatment combination of soil mix and nutrient solution. \n \nThe graph in Figure 13 shows the average area (cm\u00b2) of the plants throughout the days after \nsowing (DAS), according to different treatments. The average area of the first day was 0.88 \ncm2 and the average of session 13 was 417.39 cm2. Growth is slower at the beginning (0-10 \nDAS), followed by an accelerated increase starting at 20 DAS. Between 30 and 45 DAS, leaf \nareas tend to stabilize. M75N100 and M50N100 reach the largest average area, \napproximately 480 cm\u00b2 at the end of the period (45 DAS). This indicates that combinations \nwith high levels of N (100) and intermediate levels of M (50-75) favor leaf development. \n \n \n \n \n \nFigure 13. Average lettuce growing area under different treatments.",
+      "char_count": 854,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 18,
+      "text": "The graph (Fig 14) shows the average plant height (cm) as a function of days after sowing \n(DAS) for different treatments. Plant height increases gradually over time (from 10 to 40 \nDAS), showing an initial exponential growth trend followed by a plateau phase. From day \n40 DAS, most treatments reach their maximum height and growth stabilizes. The M75N100 \ntreatment presents the greatest growth throughout the entire period, reaching approximately \n14 cm. In contrast, the M50N50 treatment shows the lowest growth, stabilizing near 12 cm. \n \n \nFigure 14. Average lettuce crop height under different treatments. \n \n5. Discussion & Conclusions \nIn the development of this experiment, the germination stage has a crucial role; it is \nhighlighted that the differences in the percentage of seed germination are a function of the \ncombination of soil mixtures and nutrient solution concentrations. The results clearly show \nthat the most optimal conditions were achieved in 6 combinations, where 100% germination \nwas obtained. This suggests that these mixtures managed to meet the basic needs of the seeds \nin terms of nutrients and physical characteristics of the substrate. \n \nOn the other hand, 2 combinations only reached 75% germination, which indicates that \ncertain factors, such as the quantity of nutrients or the quality of the substrate, could have \nbeen limiting. Finally, the lowest percentage of germination (50%) occurred in the mixture \nof 100% Regolith soil with 50% nutrient solution. This reflects that a soil composed solely \nof regolith, combined with a low concentration of nutrients, is insufficient to support optimal \ninitial seed development. \n \nAccording to the values obtained for leaf area, the combination that presents the lowest \ngrowth is M100N50 and the one that presents the highest growth is M75N100. In the plant",
+      "char_count": 1846,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 19,
+      "text": "height analysis, the lowest combinations are at M100N50 and M50N50. Both parameters \nindicate that high concentrations of regolith with lower concentrations of nutrients do not \nfavor crop growth. \n \nThe results show that, although it is possible to achieve germination in simulated regolith \nsoils, the combination of the substrate with an adequate nutrient solution is crucial. This \nhighlights the need to enrich the Martian regolith through fertilizers or other strategies if it is \nto be used as a culture medium in future space missions. \n \nREFERENCES \nYamashita, M., Hashimoto, H., Wada, H. (2009). On-Site Resources Availability for Space \nAgriculture \non \nMars. \nIn: \nBadescu, \nV. \n(eds) \nMars. \nSpringer, \nBerlin, \nHeidelberg. \nhttps://doi.org/10.1007/978-3-642-03629-3_18 \nPoulet, L., Massa, G., Wheeler, R., Gill, T., Steele, C., Morrow, R. C., Swarmer, T. M., Binsted, K., \n& Hunter, J. (2014). Demonstration test of electrical lighting systems for plant growth in HI-SEAS \nanalog Mars habitat. 65th International Astronautical Congress. \nChinnannan, K., Somagattu, P., Yammanuru, H., Nimmakayala, P., Chakrabarti, M., & Reddy, U. K. \n(2024). Effects of Mars Global Simulant (MGS-1) on growth and physiology of sweet potato: A space \nmodel plant. Plants, 13(1), 55. https://doi.org/10.3390/plants13010055 \nWamelink GWW, Frissel JY, Krijnen WHJ, Verwoert MR, Goedhart PW (2014) Can Plants Grow \non Mars and the Moon: A Growth Experiment on Mars and Moon Soil Simulants. PLoS ONE 9(8): \ne103138. https://doi.org/10.1371/journal.pone.0103138 \nDuri, L. G., Caporale, A. G., Rouphael, Y., Vingiani, S., Palladino, M., De Pascale, S., & Adamo, P. \n(2022). The potential for lunar and Martian regolith simulants to sustain plant growth: A \nmultidisciplinary overview. Frontiers in Astronomy and Space Sciences, 8, Article 747821. \nhttps://doi.org/10.3389/fspas.2021.747821 \nNeukart, F. (2024). Towards sustainable horizons: A comprehensive blueprint for Mars colonization. \nHeliyon, 10(4), e26180. https://doi.org/10.1016/j.heliyon.2024.e26180Wamelink, G. W. W., et al. \n(2014). Can plants grow on Mars and the Moon? A growth experiment on Mars and Moon soil \nsimulants. PLOS ONE, 9(10), e103138. https://doi.org/10.1371/journal.pone.0103138 \nR Core Team. 2024. R: A language and environment for statistical computing. R Foundation for \nStatistical Computing, Vienna, Austria. URL http://www.Rproject. org/. \nSteel, R.G. and J.H. Torrie. 1996. Principles and procedures of statistics: A biometrical \napproach. McGraw-Hill Book Company, New York. Third sub edition. 672 pp. \nGaffney, J. Bing, P.F. Byrne, K.G. Cassman, I. Ciampitti, D. Delmer. Science-based intensive \nagriculture: sustainability, food security, and the role of technology. Glob. Food Sec. (2019), \n10.1016/j.gfs.2019.08.003 \nSteiner, A. A. (1961). A universal method for preparing nutrient solutions of a certain desired \ncomposition. Plant and Soil, 15(2), 134-154. https://edepot.wur.nl/309364",
+      "char_count": 2968,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 20,
+      "text": "Peters, G.H., W. Abbey , G.H. Bearman, G. S. Mungas, J.A. Smith, R.C. Anderson, S. Douglas, \nL.W. Beegle. Mojave Mars simulant\u2014Characterization of a new geologic Mars analog. Icarus. \nVol. 197, Issue 2, October 2008, Pages 470-479",
+      "char_count": 230,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 21,
+      "text": "Appendix A: Raw Data \nGermination rate averages \nNutrient \nsolution \n100 % Regolith \n+ 0 % Soil \namendments \n75 % Regolith + \n25 % Soil \namendments \n50 % Regolith + \n50 % Soil \namendments \nN \nM3 \nM2 \nM1 \n50 \n50% \n100% \n100% \n75 \n75% \n100% \n100% \n100 \n100% \n100% \n100% \nAverage \n75% \n100% \n100% \n \nControl [M3 (100 % Regolith + 0 % Soil amendments)] \nNutrient solution \nWeekly averages of plant leaf counts \nN \n2 \n3 \n4 \n5 \n6 \n7 \n8 \n50 \n2 \n4 \n7 \n11 \n12 \n14 \n19 \n75 \n1 \n3 \n6 \n9 \n10 \n12 \n16 \n100 \n2 \n4 \n8 \n12 \n15 \n16 \n21 \nM2 (75 % Regolith + 25 % Soil amendments) \nNutrient solution \nWeekly averages of plant leaf counts \nN \n2 \n3 \n4 \n5 \n6 \n7 \n8 \n50 \n2 \n4 \n7 \n11 \n13 \n14 \n20 \n75 \n2 \n4 \n8 \n12 \n14 \n15 \n20 \n100 \n2 \n5 \n9 \n12 \n15 \n17 \n22 \nM1 (50 % Regolith + 50 % Soil amendments) \nNutrient solution \nWeekly averages of plant leaf counts \nN \n2 \n3 \n4 \n5 \n6 \n7 \n8 \n50 \n2 \n4 \n8 \n11 \n14 \n15 \n20 \n75 \n2 \n5 \n9 \n13 \n15 \n16 \n20 \n100 \n3 \n5 \n10 \n13 \n16 \n17 \n22 \n \n \n \n \n \n \n \nControl [M3 (100 % Regolith + 0 % Soil amendments)] \nNutrient solution \nWeekly plant height averages [cm]",
+      "char_count": 1062,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Germination rate averages",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Nutrient solution N",
+            "",
+            "",
+            "100 % Regolith + 0 % Soil amendments M3",
+            "",
+            "75 % Regolith + 25 % Soil amendments M2",
+            "",
+            "50 % Regolith + 50 % Soil amendments M1",
+            ""
+          ],
+          [
+            "50",
+            "",
+            "",
+            "50%",
+            "",
+            "100%",
+            "",
+            "100%",
+            ""
+          ],
+          [
+            "75",
+            "",
+            "",
+            "75%",
+            "",
+            "100%",
+            "",
+            "100%",
+            ""
+          ],
+          [
+            "100",
+            "",
+            "",
+            "100%",
+            "",
+            "100%",
+            "",
+            "100%",
+            ""
+          ],
+          [
+            "",
+            "Average",
+            "",
+            "",
+            "75%",
+            "",
+            "100%",
+            "",
+            "100%"
+          ]
+        ],
+        [
+          [
+            "Control [M3 (100 % Regolith + 0 % Soil amendments)]",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Nutrient solution N",
+            "Weekly averages of plant leaf counts",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8"
+          ],
+          [
+            "50",
+            "2",
+            "4",
+            "7",
+            "11",
+            "12",
+            "14",
+            "19"
+          ],
+          [
+            "75",
+            "1",
+            "3",
+            "6",
+            "9",
+            "10",
+            "12",
+            "16"
+          ],
+          [
+            "100",
+            "2",
+            "4",
+            "8",
+            "12",
+            "15",
+            "16",
+            "21"
+          ]
+        ],
+        [
+          [
+            "M2 (75 % Regolith + 25 % Soil amendments)",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Nutrient solution N",
+            "Weekly averages of plant leaf counts",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8"
+          ],
+          [
+            "50",
+            "2",
+            "4",
+            "7",
+            "11",
+            "13",
+            "14",
+            "20"
+          ],
+          [
+            "75",
+            "2",
+            "4",
+            "8",
+            "12",
+            "14",
+            "15",
+            "20"
+          ],
+          [
+            "100",
+            "2",
+            "5",
+            "9",
+            "12",
+            "15",
+            "17",
+            "22"
+          ]
+        ],
+        [
+          [
+            "M1 (50 % Regolith + 50 % Soil amendments)",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Nutrient solution N",
+            "Weekly averages of plant leaf counts",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8"
+          ],
+          [
+            "50",
+            "2",
+            "4",
+            "8",
+            "11",
+            "14",
+            "15",
+            "20"
+          ],
+          [
+            "75",
+            "2",
+            "5",
+            "9",
+            "13",
+            "15",
+            "16",
+            "20"
+          ],
+          [
+            "100",
+            "3",
+            "5",
+            "10",
+            "13",
+            "16",
+            "17",
+            "22"
+          ]
+        ],
+        [
+          [
+            "Control [M3 (100 % Regolith + 0 % Soil amendments)]",
+            ""
+          ],
+          [
+            "",
+            "Weekly plant height averages [cm]"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 22,
+      "text": "N \n2 \n3 \n4 \n5 \n6 \n7 \n8 \n50 \n1.4 \n4.1 \n6.3 \n8.3 \n10.6 \n12.3 \n13.2 \n75 \n1 \n3.2 \n5.6 \n6.9 \n8 \n9 \n9.4 \n100 \n1.8 \n4.6 \n8.3 \n9.6 \n10.8 \n12.2 \n12.9 \nM2 (75 % Regolith + 25 % Soil amendments) \nNutrient solution \nWeekly plant height averages [cm] \nN \n2 \n3 \n4 \n5 \n6 \n7 \n8 \n50 \n1.1 \n4.1 \n6.7 \n8.6 \n10.7 \n12 \n12.3 \n75 \n1.3 \n4.3 \n7.7 \n9.9 \n11.4 \n12.9 \n13.1 \n100 \n1.7 \n5.7 \n8.8 \n10.4 \n12.3 \n13.8 \n14 \nM1 (50 % Regolith + 50 % Soil amendments) \nNutrient solution \nWeekly plant height averages [cm] \nN \n2 \n3 \n4 \n5 \n6 \n7 \n8 \n50 \n1.3 \n4.3 \n6.7 \n9.4 \n10.5 \n11.5 \n11.7 \n75 \n1.9 \n5.7 \n8.5 \n10.2 \n11.8 \n12.7 \n13.2 \n100 \n1.9 \n5.6 \n8.6 \n10.4 \n11.9 \n12.9 \n13.1 \n \nControl [M3 (100 % Regolith + 0 % Soil amendments)] \nNutrient solution \nWeekly averages of the Leaf Surface Area (LSA) \nN \n2 \n3 \n4 \n5 \n6 \n7 \n8 \n50 \n0.94 \n4.99 \n40.22 \n94.37 \n183.46 243.48 311.34 \n75 \n0.84 \n4.42 \n50.93 \n120.38 210.43 283.36 376.65 \n100 \n1.49 \n8.85 \n71.75 \n158.7 \n284.61 369.28 406.67 \nM2 (75 % Regolith + 25 % Soil amendments) \nNutrient solution \nWeekly averages of the Leaf Surface Area (LSA) \nN \n2 \n3 \n4 \n5 \n6 \n7 \n8 \n50 \n0.98 \n4.34 \n46.19 \n111.38 193.98 280.93 329.95 \n75 \n1.28 \n6.86 \n69 \n146.07 258.39 \n355 \n401.48 \n100 \n1.74 \n12.4 \n102.79 192.95 \n325 \n437.49 476.38 \nM1 (50 % Regolith + 50 % Soil amendments) \nNutrient solution \nWeekly averages of the Leaf Surface Area (LSA) \nN \n2 \n3 \n4 \n5 \n6 \n7 \n8 \n50 \n1.37 \n6.78 \n51.13 \n123.56 \n213.3 \n287.14 340.21 \n75 \n1.95 12.78 \n94.36 \n185.89 316.18 390.26 452.15 \n100 \n2.51 19.68 116.34 210.08 \n311.8 \n403.61 444.34 \n \nControl [M3 (100 % Regolith + 0 % Soil amendments)] \nNutrient solution \nAverage Chlorophyll Content on Days 24, 37, and 54 \nAfter Sowing \nN \n24 \n37 \n54 \nAverage \n50 \n43.6 \n39.5 \n36.1 \n39.7",
+      "char_count": 1708,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "50",
+            "1.4",
+            "4.1",
+            "6.3",
+            "8.3",
+            "10.6",
+            "12.3",
+            "13.2"
+          ],
+          [
+            "75",
+            "1",
+            "3.2",
+            "5.6",
+            "6.9",
+            "8",
+            "9",
+            "9.4"
+          ],
+          [
+            "100",
+            "1.8",
+            "4.6",
+            "8.3",
+            "9.6",
+            "10.8",
+            "12.2",
+            "12.9"
+          ]
+        ],
+        [
+          [
+            "M2 (75 % Regolith + 25 % Soil amendments)",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Nutrient solution N",
+            "Weekly plant height averages [cm]",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8"
+          ],
+          [
+            "50",
+            "1.1",
+            "4.1",
+            "6.7",
+            "8.6",
+            "10.7",
+            "12",
+            "12.3"
+          ],
+          [
+            "75",
+            "1.3",
+            "4.3",
+            "7.7",
+            "9.9",
+            "11.4",
+            "12.9",
+            "13.1"
+          ],
+          [
+            "100",
+            "1.7",
+            "5.7",
+            "8.8",
+            "10.4",
+            "12.3",
+            "13.8",
+            "14"
+          ]
+        ],
+        [
+          [
+            "M1 (50 % Regolith + 50 % Soil amendments)",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Nutrient solution N",
+            "Weekly plant height averages [cm]",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8"
+          ],
+          [
+            "50",
+            "1.3",
+            "4.3",
+            "6.7",
+            "9.4",
+            "10.5",
+            "11.5",
+            "11.7"
+          ],
+          [
+            "75",
+            "1.9",
+            "5.7",
+            "8.5",
+            "10.2",
+            "11.8",
+            "12.7",
+            "13.2"
+          ],
+          [
+            "100",
+            "1.9",
+            "5.6",
+            "8.6",
+            "10.4",
+            "11.9",
+            "12.9",
+            "13.1"
+          ]
+        ],
+        [
+          [
+            "Control [M3 (100 % Regolith + 0 % Soil amendments)]",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Nutrient solution N",
+            "Weekly averages of the Leaf Surface Area (LSA)",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8"
+          ],
+          [
+            "50",
+            "0.94",
+            "4.99",
+            "40.22",
+            "94.37",
+            "183.46",
+            "243.48",
+            "311.34"
+          ],
+          [
+            "75",
+            "0.84",
+            "4.42",
+            "50.93",
+            "120.38",
+            "210.43",
+            "283.36",
+            "376.65"
+          ],
+          [
+            "100",
+            "1.49",
+            "8.85",
+            "71.75",
+            "158.7",
+            "284.61",
+            "369.28",
+            "406.67"
+          ]
+        ],
+        [
+          [
+            "M2 (75 % Regolith + 25 % Soil amendments)",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Nutrient solution N",
+            "Weekly averages of the Leaf Surface Area (LSA)",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8"
+          ],
+          [
+            "50",
+            "0.98",
+            "4.34",
+            "46.19",
+            "111.38",
+            "193.98",
+            "280.93",
+            "329.95"
+          ],
+          [
+            "75",
+            "1.28",
+            "6.86",
+            "69",
+            "146.07",
+            "258.39",
+            "355",
+            "401.48"
+          ],
+          [
+            "100",
+            "1.74",
+            "12.4",
+            "102.79",
+            "192.95",
+            "325",
+            "437.49",
+            "476.38"
+          ]
+        ],
+        [
+          [
+            "M1 (50 % Regolith + 50 % Soil amendments)",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Nutrient solution N",
+            "Weekly averages of the Leaf Surface Area (LSA)",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8"
+          ],
+          [
+            "50",
+            "1.37",
+            "6.78",
+            "51.13",
+            "123.56",
+            "213.3",
+            "287.14",
+            "340.21"
+          ],
+          [
+            "75",
+            "1.95",
+            "12.78",
+            "94.36",
+            "185.89",
+            "316.18",
+            "390.26",
+            "452.15"
+          ],
+          [
+            "100",
+            "2.51",
+            "19.68",
+            "116.34",
+            "210.08",
+            "311.8",
+            "403.61",
+            "444.34"
+          ]
+        ],
+        [
+          [
+            "Control [M3 (100 % Regolith + 0 % Soil amendments)]",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Nutrient solution N",
+            "Average Chlorophyll Content on Days 24, 37, and 54 After Sowing",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "24",
+            "37",
+            "54",
+            "",
+            "Average",
+            ""
+          ],
+          [
+            "50",
+            "43.6",
+            "39.5",
+            "36.1",
+            "39.7",
+            "",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 23,
+      "text": "75 \n38.9 \n44.6 \n38.4 \n40.6 \n100 \n44.1 \n42 \n39.8 \n42 \nM2 (75 % Regolith + 25 % Soil amendments) \nNutrient solution \nAverage Chlorophyll Content on Days 24, 37, and 54 \nAfter Sowing \nN \n24 \n37 \n54 \nAverage \n50 \n41.2 \n43.5 \n39.3 \n41.3 \n75 \n37.4 \n42.1 \n38.5 \n39.3 \n100 \n45.6 \n51.1 \n35.6 \n44.1 \nM1 (50 % Regolith + 50 % Soil amendments) \nNutrient solution \nAverage Chlorophyll Content on Days 24, 37, and 54 \nAfter Sowing \nN \n24 \n37 \n54 \nAverage \n50 \n42.7 \n40.1 \n45 \n42.6 \n75 \n43.9 \n43 \n40.4 \n42.4 \n100 \n47.9 \n47 \n40.8 \n45.2 \n \n \n \nControl [M3 (100 % Regolith + 0 % Soil amendments)] \nNutrient solution \nWeekly pH averages days after sowing \nN \n2 \n3 \n4 \n5 \n6 \n7 \n8 \n50 \n8.1 \n8.1 \n7.9 \n7.7 \n7.4 \n6.9 \n6.4 \n75 \n7.7 \n8.7 \n8 \n8 \n7.7 \n7 \n6.3 \n100 \n7.3 \n7.3 \n7.4 \n7.1 \n6.6 \n6.4 \n6 \nM2 (75 % Regolith + 25 % Soil amendments) \nNutrient solution \nWeekly pH averages days after sowing \nN \n2 \n3 \n4 \n5 \n6 \n7 \n8 \n50 \n7.5 \n7.4 \n7.1 \n6.8 \n6.4 \n6.1 \n5.8 \n75 \n7.4 \n7.4 \n7.5 \n7.2 \n6.7 \n6.5 \n6.1 \n100 \n7.1 \n7 \n6.9 \n6.8 \n6.6 \n6.4 \n6.1 \nM1 (50 % Regolith + 50 % Soil amendments) \nNutrient solution \nWeekly pH averages days after sowing \nN \n2 \n3 \n4 \n5 \n6 \n7 \n8 \n50 \n7.4 \n7.4 \n7.5 \n7.2 \n6.8 \n6.5 \n6",
+      "char_count": 1170,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "100",
+            "44.1",
+            "42",
+            "39.8",
+            "42"
+          ]
+        ],
+        [
+          [
+            "M2 (75 % Regolith + 25 % Soil amendments)",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Nutrient solution N",
+            "Average Chlorophyll Content on Days 24, 37, and 54 After Sowing",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "24",
+            "37",
+            "54",
+            "",
+            "Average",
+            ""
+          ],
+          [
+            "50",
+            "41.2",
+            "43.5",
+            "39.3",
+            "41.3",
+            "",
+            ""
+          ],
+          [
+            "75",
+            "37.4",
+            "42.1",
+            "38.5",
+            "39.3",
+            "",
+            ""
+          ],
+          [
+            "100",
+            "45.6",
+            "51.1",
+            "35.6",
+            "44.1",
+            "",
+            ""
+          ]
+        ],
+        [
+          [
+            "M1 (50 % Regolith + 50 % Soil amendments)",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Nutrient solution N",
+            "Average Chlorophyll Content on Days 24, 37, and 54 After Sowing",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "24",
+            "37",
+            "54",
+            "",
+            "Average",
+            ""
+          ],
+          [
+            "50",
+            "42.7",
+            "40.1",
+            "45",
+            "42.6",
+            "",
+            ""
+          ],
+          [
+            "75",
+            "43.9",
+            "43",
+            "40.4",
+            "42.4",
+            "",
+            ""
+          ],
+          [
+            "100",
+            "47.9",
+            "47",
+            "40.8",
+            "45.2",
+            "",
+            ""
+          ]
+        ],
+        [
+          [
+            "Control [M3 (100 % Regolith + 0 % Soil amendments)]",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Nutrient solution N",
+            "Weekly pH averages days after sowing",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8"
+          ],
+          [
+            "50",
+            "8.1",
+            "8.1",
+            "7.9",
+            "7.7",
+            "7.4",
+            "6.9",
+            "6.4"
+          ],
+          [
+            "75",
+            "7.7",
+            "8.7",
+            "8",
+            "8",
+            "7.7",
+            "7",
+            "6.3"
+          ],
+          [
+            "100",
+            "7.3",
+            "7.3",
+            "7.4",
+            "7.1",
+            "6.6",
+            "6.4",
+            "6"
+          ]
+        ],
+        [
+          [
+            "M2 (75 % Regolith + 25 % Soil amendments)",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Nutrient solution N",
+            "Weekly pH averages days after sowing",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8"
+          ],
+          [
+            "50",
+            "7.5",
+            "7.4",
+            "7.1",
+            "6.8",
+            "6.4",
+            "6.1",
+            "5.8"
+          ],
+          [
+            "75",
+            "7.4",
+            "7.4",
+            "7.5",
+            "7.2",
+            "6.7",
+            "6.5",
+            "6.1"
+          ],
+          [
+            "100",
+            "7.1",
+            "7",
+            "6.9",
+            "6.8",
+            "6.6",
+            "6.4",
+            "6.1"
+          ]
+        ],
+        [
+          [
+            "M1 (50 % Regolith + 50 % Soil amendments)",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Nutrient solution N",
+            "Weekly pH averages days after sowing",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8"
+          ],
+          [
+            "50",
+            "7.4",
+            "7.4",
+            "7.5",
+            "7.2",
+            "6.8",
+            "6.5",
+            "6"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 24,
+      "text": "75 \n7.4 \n7.4 \n7.5 \n7.1 \n6.8 \n6.5 \n6.1 \n100 \n7.3 \n7.3 \n7.4 \n7.1 \n6.7 \n6.5 \n6.1 \n \nAverage fresh weight across observations [g] \nNutrient solution \n100 % Regolith + \n0 % Soil \namendments \n75 % Regolith + \n25 % Soil \namendments \n50 % Regolith + \n50 % Soil \namendments \nN \nM3 \nM2 \nM1 \n50 \n48.5 \n55.4 \n61 \n75 \n70 \n81.6 \n85.2 \n100 \n87.5 \n93.5 \n87.4 \nAverage \n68.7 \n76.8 \n77.9 \n \nAverage dry weight across observations [g] \nNutrient solution \n100 % Regolith + \n0 % Soil \namendments \n75 % Regolith + \n25 % Soil \namendments \n50 % Regolith + \n50 % Soil \namendments \nN \nM3 \nM2 \nM1 \n50 \n15.2 \n16 \n12.9 \n75 \n16.1 \n20.2 \n20.4 \n100 \n19 \n23.3 \n18.3 \nAverage \n16.8 \n19.8 \n17.2",
+      "char_count": 659,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "100",
+            "7.3",
+            "7.3",
+            "7.4",
+            "7.1",
+            "6.7",
+            "6.5",
+            "6.1"
+          ]
+        ],
+        [
+          [
+            "Average fresh weight across observations [g]",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Nutrient solution N",
+            "",
+            "",
+            "100 % Regolith + 0 % Soil amendments M3",
+            "75 % Regolith + 25 % Soil amendments M2",
+            "",
+            "50 % Regolith + 50 % Soil amendments M1",
+            "",
+            ""
+          ],
+          [
+            "50",
+            "",
+            "",
+            "48.5",
+            "55.4",
+            "",
+            "61",
+            "",
+            ""
+          ],
+          [
+            "75",
+            "",
+            "",
+            "70",
+            "81.6",
+            "",
+            "85.2",
+            "",
+            ""
+          ],
+          [
+            "100",
+            "",
+            "",
+            "87.5",
+            "93.5",
+            "",
+            "87.4",
+            "",
+            ""
+          ],
+          [
+            "",
+            "Average",
+            "",
+            "68.7",
+            "76.8",
+            "",
+            "",
+            "77.9",
+            ""
+          ]
+        ],
+        [
+          [
+            "Average dry weight across observations [g]",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Nutrient solution N",
+            "",
+            "",
+            "100 % Regolith + 0 % Soil amendments M3",
+            "",
+            "75 % Regolith + 25 % Soil amendments M2",
+            "",
+            "50 % Regolith + 50 % Soil amendments M1",
+            "",
+            ""
+          ],
+          [
+            "50",
+            "",
+            "",
+            "15.2",
+            "",
+            "16",
+            "",
+            "12.9",
+            "",
+            ""
+          ],
+          [
+            "75",
+            "",
+            "",
+            "16.1",
+            "",
+            "20.2",
+            "",
+            "20.4",
+            "",
+            ""
+          ],
+          [
+            "100",
+            "",
+            "",
+            "19",
+            "",
+            "23.3",
+            "",
+            "18.3",
+            "",
+            ""
+          ],
+          [
+            "",
+            "Average",
+            "",
+            "",
+            "16.8",
+            "19.8",
+            "",
+            "",
+            "17.2",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 25,
+      "text": "Appendix B: Data Processing \nTable A1. Analysis of variance for the variable dry weight collected in Celaya, Mexico 2024. \n \n \nDry weight (g) \nSource of variation \nDf \nSS \nMS \nF value \nPr(>F) \nSoil Mixtures (M) \n 2 \n216.9 \n108.43 \n2.207 \n0.1295 \nNutrient Solution (N) \n 2 \n258.0 \n129.01 \n2.626 \n0.0907 \nM*N \n 4 \n147.6 \n 36.89 \n0.751 \n0.5661 \nResiduals \n27 \n1326.4 \n 49.13 \n \n \nDf: Degrees of freedom, SS: Sum of Squares, MS: Mean Squares \nSignificance levels: *** 0.001, ** 0.01, * 0.05 \n \nTable A2. Analysis of variance for the variable chlorophyll 1 collected in Celaya, Mexico 2024. \n \n \nChlorophyll 1 \nSource of variation \nDf \nSS \nMS \nF value \nPr(>F) \nSoil Mixtures (M) \n 2 \n1035 \n517.6 \n2.784 \n0.0796 \nNutrient Solution (N) \n 2 \n 294 \n147.2 \n0.792 \n0.4632 \nM*N \n 4 \n 955 \n 238.8 \n1.284 \n0.3007 \nResiduals \n27 \n5020 \n 185.9 \n \n \nDf: Degrees of freedom, SS: Sum of Squares, MS: Mean Squares \nSignificance levels: *** 0.001, ** 0.01, * 0.05 \n \nTable A3. Analysis of variance for the variable chlorophyll 2 collected in Celaya, Mexico 2024. \n \n \nChlorophyll 2 \nSource of variation \nDf \nSS \nMS \nF value \nPr(>F) \nSoil Mixtures (M) \n 2 \n 925 \n462.7 \n2.283 \n0.121 \nNutrient Solution (N) \n 2 \n 428 \n214.0 \n1.056 \n0.362 \nM*N \n 4 \n 768 \n 192.0 \n0.947 \n0.452 \nResiduals \n27 \n5472 \n 202.7 \n \n \nDf: Degrees of freedom, SS: Sum of Squares, MS: Mean Squares \nSignificance levels: *** 0.001, ** 0.01, * 0.05 \n \nTable A4. Analysis of variance for the variable average chlorophyll collected in Celaya, Mexico \n2024. \n \n \nChlorophyll 3 \nSource of variation \nDf \nSS \nMS \nF value \nPr(>F) \nSoil Mixtures (M) \n 2 \n 981 \n490.6 \n2.998 \n0.0667 \nNutrient Solution (N) \n 2 \n 192 \n 95.8 \n0.585 \n0.5363 \nM*N \n 4 \n 989 \n 247.4 \n1.512 \n0.2268 \nResiduals \n27 \n4418 \n 163.6 \n \n \nDf: Degrees of freedom, SS: Sum of Squares, MS: Mean Squares \nSignificance levels: *** 0.001, ** 0.01, * 0.05",
+      "char_count": 1858,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 26,
+      "text": "Table A5. Analysis of variance for the variable initial pH collected in Celaya, Mexico 2024. \n \n \npH \nSource of variation \nDf \nSS \nMS \nF value \nPr(>F) \nSoil Mixtures (M) \n 2 \n 19.06 \n 9.528 \n1.398 \n0.264 \nNutrient Solution (N) \n 2 \n 2.39 \n 1.194 \n0.175 \n0.840 \nM*N \n 4 \n 30.44 \n 7.611 \n1.117 \n0.369 \nResiduals \n27 \n184.00 \n 6.815 \n \n \nDf: Degrees of freedom, SS: Sum of Squares, MS: Mean Squares \nSignificance levels: *** 0.001, ** 0.01, * 0.05 \n \nTable A6. Analysis of variance for the variable final pH collected in Celaya, Mexico 2024. \n \n \npH \nSource of variation \nDf \nSS \nMS \nF value \nPr(>F) \nSoil Mixtures (M) \n 2 \n 20.39 \n 10.194 \n2.634 \n0.0902 \nNutrient Solution (N) \n 2 \n 2.06 \n 1.028 \n0.266 \n0.7688 \nM*N \n 4 \n 30.28 \n 7.569 \n1.956 \n0.1300 \nResiduals \n27 \n104.50 \n 3.870 \n \n \nDf: Degrees of freedom, SS: Sum of Squares, MS: Mean Squares \nSignificance levels: *** 0.001, ** 0.01, * 0.05 \n \n \nTable A7. Analysis of variance for the variable average pH collected in Celaya, Mexico 2024. \n \n \npH \nSource of variation \nDf \nSS \nMS \nF value \nPr(>F) \nSoil Mixtures (M) \n 2 \n 15.17 \n 7.583 \n1.412 \n0.261 \nNutrient Solution (N) \n 2 \n 2.17 \n 1.083 \n0.202 \n0.819 \nM*N \n 4 \n 34.67 \n 8.667 \n1.614 \n0.200 \nResiduals \n27 \n145.00 \n 5.370 \n \n \nDf: Degrees of freedom, SS: Sum of Squares, MS: Mean Squares \nSignificance levels: *** 0.001, ** 0.01, * 0.05 \n \nTable A8. Analysis of variance for the variable final foliar area collected in Celaya, Mexico 2024. \n \n \nFinal foliar area ( ) \nSource of variation \nDf \nSS \nMS \nF value \nPr(>F) \nSoil Mixtures (M) \n 2 \n 115595 \n57797 \n3.305 \n0.0520 \nNutrient Solution (N) \n 2 \n 116045 \n58022 \n3.318 \n0.0515 \nM*N \n 4 \n 70150 \n17537 \n1.003 \n0.4233 \nResiduals \n27 \n472152 \n17487 \n \n \nDf: Degrees of freedom, SS: Sum of Squares, MS: Mean Squares \nSignificance levels: *** 0.001, ** 0.01, * 0.05",
+      "char_count": 1820,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 27,
+      "text": "Table A9. Analysis of variance for the variable average number of leaves collected in Celaya, \nMexico 2024. \n \n \nAverage number of leaves \nSource of variation \nDf \nSS \nMS \nF value \nPr(>F) \nSoil Mixtures (M) \n 2 \n 74.4 \n37.19 \n2.894 \n0.0726 \nNutrient Solution (N) \n 2 \n 36.7 \n18.36 \n1.429 \n0.2572 \nM*N \n 4 \n 80.4 \n20.11 \n1.565 \n0.2122 \nResiduals \n27 \n347.0 \n12.85 \n \n \nDf: Degrees of freedom, SS: Sum of Squares, MS: Mean Squares \nSignificance levels: *** 0.001, ** 0.01, * 0.05 \n \n \n \nTable A10. Analysis of variance for the variable number of leaves collected in Celaya, Mexico 2024. \n \n \nAverage number of leaves \nSource of variation \nDf \nSS \nMS \nF value \nPr(>F) \nSoil Mixtures (M) \n 2 \n 188.7 \n 94.36 \n0.938 \n0.404 \nNutrient Solution (N) \n 2 \n 205.7 \n102.86 \n1.022 \n0.373 \nM*N \n 4 \n 606.1 \n151.53 \n1.506 \n0.228 \nResiduals \n27 \n2717.0 \n100.63 \n \n \nDf: Degrees of freedom, SS: Sum of Squares, MS: Mean Squares \nSignificance levels: *** 0.001, ** 0.01, * 0.05 \n \nTable A11. Analysis of variance for the variable average plant height collected in Celaya, Mexico \n2024. \n \n \nAverage plant height (cm) \nSource of variation \nDf \nSS \nMS \nF value \nPr(>F) \nSoil Mixtures (M) \n 2 \n 43.91 \n21.955 \n2.721 \n0.0838 \nNutrient Solution (N) \n 2 \n 21.02 \n10.512 \n1.303 \n0.2883 \nM*N \n 4 \n 35.73 \n 8.933 \n1.107 \n0.3735 \nResiduals \n27 \n217.85 \n 8.069 \n \n \nDf: Degrees of freedom, SS: Sum of Squares, MS: Mean Squares \nSignificance levels: *** 0.001, ** 0.01, * 0.05 \n \nTable A12. Analysis of variance for the variable final plant height collected in Celaya, Mexico 2024. \n \n \nPlant height (cm) \nSource of variation \nDf \nSS \nMS \nF value \nPr(>F) \nSoil Mixtures (M) \n 2 \n 67.1 \n33.57 \n1.877 \n0.172 \nNutrient Solution (N) \n 2 \n 20.9 \n10.45 \n0.585 \n0.564 \nM*N \n 4 \n 76.7 \n19.19 \n1.073 \n0.389",
+      "char_count": 1767,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 28,
+      "text": "Residuals \n27 \n482.8 \n17.88 \n \n \nDf: Degrees of freedom, SS: Sum of Squares, MS: Mean Squares \nSignificance levels: *** 0.001, ** 0.01, * 0.05 \n \n \nTable A13. Analysis of variance for the variable germination collected in Celaya, Mexico 2024. \n \n \nGermination (days) \nSource of variation \nDf \nSS \nMS \nF value \nPr(>F) \nSoil Mixtures (M) \n 2 \n 5.17 \n2.583 \n0.848 \n0.439 \nNutrient Solution (N) \n 2 \n 1.17 \n0.583 \n0.191 \n0.827 \nM*N \n 4 \n14.17 \n3.542 \n1.163 \n0.349 \nResiduals \n27 \n82.25 \n3.046 \n \n \nDf: Degrees of freedom, SS: Sum of Squares, MS: Mean Squares \nSignificance levels: *** 0.001, ** 0.01, * 0.05 \n \n \n \nTable A14. Analysis of variance for the variable first true-leaf collected in Celaya, Mexico 2024. \n \n \nFirst-true leaf (days) \nSource of variation \nDf \nSS \nMS \nF value \nPr(>F) \nSoil Mixtures (M) \n 2 \n 12.06 \n 6.028 \n0.699 \n0.506 \nNutrient Solution (N) \n 2 \n 4.39 \n 2.194 \n0.255 \n0.777 \nM*N \n 4 \n 48.44 \n12.111 \n1.405 \n0.259 \nResiduals \n27 \n232.75 \n 8.620 \n \n \nDf: Degrees of freedom, SS: Sum of Squares, MS: Mean Squares \nSignificance levels: *** 0.001, ** 0.01, * 0.05 \n \nTable A15. Analysis of variance for the variable sixth-leave appearance collected in Celaya, Mexico \n2024. \n \n \nSixth-leave appearance (days) \nSource of variation \nDf \nSS \nMS \nF value \nPr(>F) \nSoil Mixtures (M) \n 2 \n 130.4 \n65.19 \n1.760 \n0.191 \nNutrient Solution (N) \n 2 \n 7.1 \n 3.53 \n0.095 \n0.909 \nM*N \n 4 \n 298.6 \n74.65 \n2.015 \n0.121 \nResiduals \n27 \n1000.2 \n37.05 \n \n \nDf: Degrees of freedom, SS: Sum of Squares, MS: Mean Squares \nSignificance levels: *** 0.001, ** 0.01, * 0.05",
+      "char_count": 1565,
+      "image_count": 0,
+      "tables": []
+    },
+    {
+      "page_number": 29,
+      "text": "Appendix C: Experiment Photos \nA. Crop growth",
+      "char_count": 45,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 30,
+      "text": "",
+      "char_count": 0,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 31,
+      "text": "",
+      "char_count": 0,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 32,
+      "text": "",
+      "char_count": 0,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 33,
+      "text": "B. Monitoring of variables in crops \n \n \nMeasurement of regolith and mixture quantities by volume \n \nRegolith and soil amendments incorporation",
+      "char_count": 143,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 34,
+      "text": "Sowing stage \n \n Dark germination Stage",
+      "char_count": 39,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 35,
+      "text": "Preparation of nutrient solution \n \nArtificially induced photoperiod",
+      "char_count": 68,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 36,
+      "text": "Irrigation method \n \nRandomization of pots \n \nIllustrative comparison of lettuce treatments",
+      "char_count": 91,
+      "image_count": 3,
+      "tables": []
+    },
+    {
+      "page_number": 37,
+      "text": "Height measurement \n \nFinal height measurement",
+      "char_count": 46,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 38,
+      "text": "Fresh Weight \n \nFinal chlorophyll measurement",
+      "char_count": 45,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 39,
+      "text": "Initial pH measurements \n \nFinal pH measurements \n \n \nLeaf Surface Area (LSA) measurements",
+      "char_count": 90,
+      "image_count": 3,
+      "tables": []
+    },
+    {
+      "page_number": 40,
+      "text": "Final leaf area measurements \n \nDrying process",
+      "char_count": 46,
+      "image_count": 2,
+      "tables": []
+    },
+    {
+      "page_number": 41,
+      "text": "Dry weight",
+      "char_count": 10,
+      "image_count": 1,
+      "tables": []
+    }
+  ]
+}

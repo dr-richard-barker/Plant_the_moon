@@ -1,0 +1,162 @@
+{
+  "report_id": "spring23-junior-science-sisters-e6cd66",
+  "sha256": "5d79bac3d838aa91cd15194d1e22a5a3b13a0de6a5d97e8fe81cbc53b972c2cf",
+  "page_count": 6,
+  "total_chars": 4544,
+  "avg_chars_per_page": 757.3,
+  "total_images": 12,
+  "table_count": 3,
+  "parse_quality": "digital_text",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "How Different Types of Soil with Moon Regolith \nAffect the Growth of Beans \n \n \nTeam Name: Science Sisters Team #: 12869 Challenge Division: Elementary \n \nExperimental Parameters \n \n \n \nFor our experiment we planted beans because beans pull nitrogen from the air. Our \nindependent variables are two pots of 50% moon regolith and 50% seed starter; two pots of 50% \nmoon regolith and 50% garden soil; and two pots of 50% moon regolith and 50% worm compost with \nlive worms. We chose seed starter and garden soil because they are healthy for plants, and we chose \nworm compost with live worms because it is also healthy, and the worms could break up the moon \nregolith. Our dependent variable is how high the bean plants grow. Our controls are two pots of 100% \nmoon regolith and two pots of 100% garden soil. We have controlled for moisture level, the same \ngrow lights, the same pots, and the same plant (beans). \n \n \nProject Hypothesis \n \n \nOur hypothesis is that the pots 9 and 10 with 50% moon regolith and 50% worm compost with \nworms will grow the tallest; the pots 5 and 6 with 50% moon regolith and 50% seed starter will grow \nthe second tallest; the control pots 3 and 4 with 100% garden soil will grow the third tallest; pots 7 and \n8 with 50% moon regolith and 50% garden soil will grow the fourth tallest and the control pots 1 and 2 \nwith 100% moon regolith will grow the shortest.",
+      "char_count": 1392,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "text": "Experimental Design and Procedures \n \n \nWe planted the beans in three-inch pots which are placed on a heating mat until they sprout. \nWhen they sprout, we move them to a grow light. The pots have holes in the bottom, so we put the \npots in cups to collect the water, which will be reused. The pots have caps to stop the water from \nevaporating which will be removed when the plants start to hit the cap. Every day we check the height \nand the moisture level of the beans. We made a graph to show the results. \n \n \nResults \n \n \nThe first part of our hypothesis was correct; pots 9 and 10 which had 50% worm compost with \nworms and 50% moon regolith grew the tallest with a height of 13.5 and 11cm. We think this is \nbecause the worms added nutrients to the soil and broke up the soil making it easier for the roots to \npush through. Our hypothesis about pots 7 and 8 which had 50% garden soil and 50% moon regolith \nwas incorrect; they grew the second tallest at heights of 10.5 and 9cm. Our hypothesis about pots 6 \nand 7 which had 50% seed starter and 50% moon regolith was incorrect; they grew the third tallest at \nheights of 7.5 and 9cm. Control pot 1 with 100% moon regolith sprouted but got stuck at 1 cm. We \nthink that it got stuck because the moon regolith hardened, and the cotyledon could not break through \nthe compacted regolith. Control pot 2 with 100% moon regolith sprouted and reached a height of 9cm. \nWe think the seed in pot 2 was planted closer to the surface so it had a chance to break through before \nthe regolith hardened. Our hypothesis about control pots 3 and 4 which had 100% garden soil did not \nsprout. We replanted them at week 4 but the new seeds still did not sprout. We do not why especially \nsince 50% garden soil and 50% moon regolith did sprout. Our guess is that at least one seed was a dud, \nand the garden soil was too dense to push through. Perhaps the moon regolith helped the plants grow \nby making the soil less dense.",
+      "char_count": 1963,
+      "image_count": 1,
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "text": "Week 2 Photos",
+      "char_count": 13,
+      "image_count": 6,
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "text": "",
+      "char_count": 0,
+      "image_count": 4,
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "text": "Grow Pot Setup \n \nPot \n1 \nControl \n2 \nControl \n3 \nControl \n4 \nControl \n5 \n6 \n7 \n8 \n9 \n10 \nSoil & \nAmendments \n100% \nMoon \nRegolith \n100% \nMoon \nRegolith \n100% \nGarden \nSoil \n100% \nGarden \nSoil \n50% \nMoon \nRegolith \n& 50% \nSeed \nStarter \n50% \nMoon \nRegolith \n& 50% \nSeed \nStarter \n50% \nMoon \nRegolith \n& 50% \nGarden \nSoil \n50% \nMoon \nRegolith \n& 50% \nGarden \nSoil \n50% Moon \nRegolith & \n50% Worm \nCompost \nw/ Worms \n50% Moon \nRegolith & \n50% Worm \nCompost \nw/ Worms \nCrop \nBean \nBean \nBean \nBean \nBean \nBean \nBean \nBean \nBean \nBean \n0\n2\n4\n6\n8\n10\n12\n14\n16\nWeek 1\nWeek 2\nWeek 3\nWeek 4\nWeek 5\nWeek 6\nWeek 7\nWeek 8\nPlant Height in cm \nPot 1\nPot 2\nPot 3\nPot 4\nPot 5\nPot 6\nPot 7\nPot 8\nPot 9\nPot 10",
+      "char_count": 690,
+      "image_count": 0,
+      "tables": [
+        [
+          [
+            "Plant Height in cm"
+          ]
+        ],
+        [
+          [
+            "Pot",
+            "",
+            "",
+            "",
+            "1",
+            "",
+            "",
+            "2",
+            "",
+            "",
+            "3",
+            "",
+            "",
+            "4",
+            "",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "Control",
+            "",
+            "",
+            "Control",
+            "",
+            "",
+            "Control",
+            "",
+            "",
+            "Control",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Soil & Amendments",
+            "",
+            "",
+            "100% Moon Regolith",
+            "",
+            "",
+            "100% Moon Regolith",
+            "",
+            "",
+            "100% Garden Soil",
+            "",
+            "",
+            "100% Garden Soil",
+            "",
+            "",
+            "50% Moon Regolith & 50% Seed Starter",
+            "50% Moon Regolith & 50% Seed Starter",
+            "50% Moon Regolith & 50% Garden Soil",
+            "50% Moon Regolith & 50% Garden Soil",
+            "50% Moon Regolith & 50% Worm Compost w/ Worms",
+            "50% Moon Regolith & 50% Worm Compost w/ Worms"
+          ],
+          [
+            "",
+            "Crop",
+            "",
+            "Bean",
+            "",
+            "",
+            "Bean",
+            "",
+            "",
+            "Bean",
+            "",
+            "",
+            "Bean",
+            "",
+            "",
+            "Bean",
+            "Bean",
+            "Bean",
+            "Bean",
+            "Bean",
+            "Bean"
+          ]
+        ],
+        [
+          [
+            "Soil &"
+          ],
+          [
+            "Amendments"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 6,
+      "text": "Chart of Plant Growth in Centimeters \n \n \nPot 1 \nPot 2 \nPot 3 \nPot 4 \nPot 5 \nPot 6 \nPot 7 \nPot 8 \nPot 9 \nPot \n10 \nWeek 1 \n0 \n0 \n0 \n0 \n0 \n0 \n0 \n0 \n0 \n0 \nWeek 2 \n0.5 \n1 \n0.1 \n0 \n5 \n2.25 \n8 \n8.1 \n7.5 \n0 \nWeek 3 \n1 \n7 \n0.1 \n0 \n8.75 \n8 \n9 \n9 \n8.5 \n7 \nWeek 4 \n1 \n7.5 \n0.1 \n0 \n10 \n9 \n9.5 \n10 \n10 \n9.5 \nWeek 5 \n1 \n8 \n0.1 \n0 \n9 \n9 \n10 \n10.5 \n11 \n10.5 \nWeek 6 \n1 \n8 \n0.1 \n0 \n7 \n9 \n10 \n9.5 \n12.5 \n10.5 \nWeek 7 \n1 \n9 \n0.1 \n0 \n7 \n9 \n10.5 \n9 \n13.5 \n11 \nWeek 8 \n1 \n9 \n0.1 \n0 \n7.5 \n9 \n10.5 \n9 \n13.5 \n11",
+      "char_count": 486,
+      "image_count": 0,
+      "tables": []
+    }
+  ]
+}
