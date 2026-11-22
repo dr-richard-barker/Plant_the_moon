@@ -4,6 +4,7 @@ All derived datasets, JSON Schemas, ontology crosswalks, and manuscript artifact
 
 ## Direct Downloads
 - [Synthesized Manuscript PDF (`Plant_the_Moon_Meta_Analysis.pdf`)](_static/manuscript/Plant_the_Moon_Meta_Analysis.pdf)
+- [Multi-Stakeholder 16:9 Presentation PDF (`Plant_the_Moon_Stakeholder_Presentation.pdf`)](_static/manuscript/Plant_the_Moon_Stakeholder_Presentation.pdf)
 - [Manuscript BibTeX Bibliography (`references.bib`)](_static/manuscript/references.bib)
 - [Normalized Reports Table (`reports.csv`)](_static/data/reports.csv)
 - [Normalized Trial Arms Table (`trial_arms.csv`)](_static/data/trial_arms.csv)

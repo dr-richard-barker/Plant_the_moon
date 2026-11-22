@@ -70,10 +70,16 @@
           "@id": "manuscript/ptm_manuscript.typ"
         },
         {
+          "@id": "manuscript/ptm_presentation.typ"
+        },
+        {
           "@id": "manuscript/references.bib"
         },
         {
           "@id": "book/_static/manuscript/Plant_the_Moon_Meta_Analysis.pdf"
+        },
+        {
+          "@id": "book/_static/manuscript/Plant_the_Moon_Stakeholder_Presentation.pdf"
         },
         {
           "@id": "book/notebooks/01_corpus_eda.ipynb"
@@ -223,6 +229,14 @@
       "sha256": "d657a054b1f837e0ef702e20cc3df03152092b00dfcf2e0757fea748811ab771"
     },
     {
+      "@id": "manuscript/ptm_presentation.typ",
+      "@type": "TextFile",
+      "name": "ptm_presentation.typ",
+      "description": "Typst 16:9 source for multi-stakeholder presentation deck",
+      "contentSize": 35583,
+      "sha256": "65c0b30562f4a83581c914fa4b6aa04da510773027934620541e0fea5216d8a4"
+    },
+    {
       "@id": "manuscript/references.bib",
       "@type": "TextFile",
       "name": "references.bib",
@@ -236,7 +250,15 @@
       "name": "Plant_the_Moon_Meta_Analysis.pdf",
       "description": "Compiled CoSE synthesis manuscript PDF",
       "contentSize": 1381141,
-      "sha256": "92b2ceae943ed6b25b0c7664007bc3d548dc9054d36ab8287114715fb32ff488"
+      "sha256": "b7034a56e3fd41daa9937f0ca72023850c865320b7bff3cac9fc6e90336aea8e"
+    },
+    {
+      "@id": "book/_static/manuscript/Plant_the_Moon_Stakeholder_Presentation.pdf",
+      "@type": "File",
+      "name": "Plant_the_Moon_Stakeholder_Presentation.pdf",
+      "description": "Compiled 16:9 multi-stakeholder presentation PDF",
+      "contentSize": 1271014,
+      "sha256": "2b9202eeffb47d171101bdf48025738636a3d03f46d03913dca4d6e01ffdd1df"
     },
     {
       "@id": "book/notebooks/01_corpus_eda.ipynb",

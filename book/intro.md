@@ -11,6 +11,7 @@
   </p>
   <div class="cose-btn-row">
     <a class="cose-btn primary" href="manuscript.html">Read Synthesis Manuscript (PDF Viewer) →</a>
+    <a class="cose-btn" href="presentation.html">Multi-Stakeholder Presentation (15 Slides)</a>
     <a class="cose-btn" href="explorer.html">Explore All 187 Reports &amp; 581 Arms</a>
     <a class="cose-btn" href="notebooks/03_meta_analysis_ml.html">ML Meta-Analysis</a>
     <a class="cose-btn" href="fair_data.html">FAIR Datasets &amp; RO-Crate</a>
@@ -41,8 +42,13 @@
 <div class="cose-door-grid">
   <a class="cose-card" href="manuscript.html">
     <h3>📄 Synthesis Manuscript (PDF Viewer)</h3>
-    <p>Read the Typst-compiled CoSE synthesis preprint inline with page navigation, zoom controls, and direct PDF download.</p>
+    <p>Read the 12-page Typst-compiled CoSE synthesis manuscript inline with page navigation, zoom controls, and direct PDF download.</p>
     <span class="go">Open PDF Viewer →</span>
+  </a>
+  <a class="cose-card" href="presentation.html">
+    <h3>🎯 Multi-Stakeholder Presentation</h3>
+    <p>Interactive 15-slide briefing + 16:9 Typst PDF slide deck tailored across 4 stages: Leadership/Sponsors, Educators/Students, Lunar LEAF Scientists, and AI/ML Engineers.</p>
+    <span class="go">Launch Slide Deck →</span>
   </a>
   <a class="cose-card" href="explorer.html">
     <h3>🔬 187-Report &amp; Trial Explorer</h3>

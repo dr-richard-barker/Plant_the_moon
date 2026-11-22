@@ -174,7 +174,7 @@ def prepare_manuscript_data(repo_root: Path) -> dict[str, Any]:
 
 
 def compile_manuscript_pdf(repo_root: Path) -> Path:
-    """Compile manuscript/ptm_manuscript.typ via Typst into static PDF targets."""
+    """Compile manuscript/ptm_manuscript.typ and ptm_presentation.typ via Typst into static PDF targets."""
     prepare_manuscript_data(repo_root)
     typ_src = repo_root / "manuscript/ptm_manuscript.typ"
     if not typ_src.exists():
@@ -190,6 +190,26 @@ def compile_manuscript_pdf(repo_root: Path) -> Path:
         check=True,
     )
     shutil.copy2(out_manuscript, out_static)
+
+    # Compile 16:9 multi-stakeholder presentation deck if present
+    pres_src = repo_root / "manuscript/ptm_presentation.typ"
+    if pres_src.exists():
+        out_pres = repo_root / "manuscript/Plant_the_Moon_Stakeholder_Presentation.pdf"
+        out_pres_static = out_static.parent / "Plant_the_Moon_Stakeholder_Presentation.pdf"
+        subprocess.run(
+            [typst_bin, "compile", "--root", str(repo_root), str(pres_src), str(out_pres)],
+            check=True,
+        )
+        shutil.copy2(out_pres, out_pres_static)
+
+    # Copy figures into book/_static/manuscript/figures for web slide deck rendering
+    fig_dir = repo_root / "manuscript/figures"
+    if fig_dir.exists():
+        static_fig_dir = out_static.parent / "figures"
+        static_fig_dir.mkdir(parents=True, exist_ok=True)
+        for png in fig_dir.glob("*.png"):
+            shutil.copy2(png, static_fig_dir / png.name)
+
     bib_src = repo_root / "manuscript/references.bib"
     if bib_src.exists():
         shutil.copy2(bib_src, out_static.parent / "references.bib")

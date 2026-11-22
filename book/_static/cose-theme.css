@@ -444,3 +444,90 @@ dialog.cose-dialog::backdrop {
   gap: 0.75rem;
   font-size: 0.85rem;
 }
+
+/* ---------- Multi-Stakeholder Interactive Presentation Deck ---------- */
+.cose-deck-shell {
+  border: 1px solid var(--cose-rule);
+  border-radius: 12px;
+  overflow: hidden;
+  background: var(--cose-surface);
+  box-shadow: var(--cose-shadow);
+  margin: 1rem 0 1.75rem;
+}
+.cose-stage-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  padding: 0.7rem 0.9rem;
+  background: var(--cose-bg);
+  border-bottom: 1px solid var(--cose-rule);
+}
+.cose-stage-tab {
+  font-family: var(--cose-mono);
+  font-size: 0.78rem;
+  padding: 0.35rem 0.75rem;
+  border-radius: 999px;
+  border: 1px solid var(--cose-rule);
+  background: var(--cose-surface);
+  color: var(--cose-ink-soft);
+  cursor: pointer;
+}
+.cose-stage-tab:hover {
+  border-color: var(--cose-accent);
+  color: var(--cose-accent);
+}
+.cose-stage-tab[aria-pressed="true"] {
+  background: var(--cose-primary);
+  border-color: var(--cose-primary);
+  color: var(--cose-primary-ink);
+  font-weight: 600;
+}
+.cose-deck-progress {
+  height: 4px;
+  background: var(--cose-rule);
+  width: 100%;
+}
+#deck-progress-fill {
+  height: 100%;
+  width: 6.6%;
+  background: var(--cose-accent);
+  transition: width 0.2s ease;
+}
+.cose-slide {
+  padding: 1.5rem 1.75rem;
+  min-height: 440px;
+  display: flex;
+  flex-direction: column;
+}
+.cose-slide[hidden] {
+  display: none !important;
+}
+.cose-slide-badge {
+  font-family: var(--cose-mono);
+  font-size: 0.76rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--cose-accent);
+  margin-bottom: 0.3rem;
+}
+.cose-slide h2 {
+  margin-top: 0;
+  margin-bottom: 0.25rem;
+  font-size: 1.45rem;
+}
+.cose-slide-sub {
+  color: var(--cose-ink-soft);
+  font-size: 0.95rem;
+  margin-bottom: 1rem;
+}
+.cose-speaker-notes {
+  margin-top: auto;
+  padding: 0.75rem 1rem;
+  border-left: 4px solid var(--cose-accent);
+  background: var(--cose-surface-2);
+  border-radius: 0 8px 8px 0;
+  font-size: 0.88rem;
+  color: var(--cose-ink);
+}
+
